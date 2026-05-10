@@ -1,0 +1,78 @@
+{
+  "missions": [
+    {
+      "mission": "Register 5 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×2",
+      "secret": false
+    },
+    {
+      "mission": "Register 50 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×3",
+      "secret": false
+    },
+    {
+      "mission": "Register 60 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×6",
+      "secret": false
+    },
+    {
+      "mission": "Register 70 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×7",
+      "secret": false
+    },
+    {
+      "mission": "Register 80 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×8",
+      "secret": false
+    },
+    {
+      "mission": "Register 90 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×9",
+      "secret": false
+    },
+    {
+      "mission": "Register 100 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×10",
+      "secret": false
+    },
+    {
+      "mission": "Register 120 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×12",
+      "secret": false
+    },
+    {
+      "mission": "Register 140 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×14",
+      "secret": false
+    },
+    {
+      "mission": "Register 160 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×16",
+      "secret": false
+    },
+    {
+      "mission": "Register 180 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×18",
+      "secret": false
+    },
+    {
+      "mission": "Register 200 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×20",
+      "secret": false
+    },
+    {
+      "mission": "Register 220 cards in the card dex",
+      "reward": "Emblem Ticket (Genetic Apex) ×25",
+      "secret": false
+    },
+    {
+      "mission": "Register 226 cards in the card dex",
+      "reward": [
+        "Genetic Apex: Mewtwo (profile icon)",
+        "Genetic Apex: Charizard (profile icon)",
+        "Genetic Apex: Pikachu (profile icon)"
+      ],
+      "secret": true
+    }
+  ]
+}

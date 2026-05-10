@@ -1,0 +1,60 @@
+{
+  "missions": [
+    {
+      "mission": "Register 5 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 10 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 15 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 20 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 25 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 30 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 35 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 40 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 50 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 60 cards in the Card Dex",
+      "reward": "Emblem Ticket (Triumphant Light) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 75 cards in the Card Dex",
+      "mission_note": "requires all 75 main set cards; secret cards do not count",
+      "reward": "Arceus (profile icon)",
+      "secret": true
+    }
+  ]
+}

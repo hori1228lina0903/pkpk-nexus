@@ -1,0 +1,226 @@
+{
+  "collections": [
+    {
+      "name": "The Golden Sky, where Ho-Oh Soars",
+      "required_cards": ["Jumpluff (#015)", "Ho-Oh ex (#034, #187, #210, #240)", "Swanna (#063)", "Togetic (#079)", "Gligar (#094, #176)", "Skarmory ex (#124, #194, #209)", "Fearow (#130)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 19}],
+      "secret": false
+    },
+    {
+      "name": "The Silvery Ocean, where Lugia Dwells",
+      "required_cards": ["Kingdra ex (#043, #188, #203)", "Qwilfish (#053, #168)", "Octillery (#056, #169)", "Mantine (#058)", "Chinchou (#064)", "Barbaracle (#106)", "Lugia ex (#149, #195, #211, #241)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 20}],
+      "secret": false
+    },
+    {
+      "name": "Pokémon that can Use Attacks Immediately",
+      "required_cards": ["Magby (#032, #166)", "Pichu (#066, #171)", "Elekid (#070)", "Smoochum (#075)", "Cleffa (#077)", "Tyrogue (#101)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 12}],
+      "secret": false
+    },
+    {
+      "name": "Shapes that Resemble Ancient Writing",
+      "required_cards": ["Unown (#084)", "Unown (#085)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 6}],
+      "secret": false
+    },
+    {
+      "name": "Staying Still...",
+      "required_cards": ["Pineco (#020)", "Xatu (#082, #174)", "Sudowoodo (#093)", "Forretress (#121)", "Spinarak (#110, #177)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "The Man in the Mysterious Mask",
+      "required_cards": ["Will (#156, #196)", "Jynx (#076)", "Xatu (#082, #174)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 2}],
+      "secret": false
+    },
+    {
+      "name": "The Steel-Clad-Defense Girl",
+      "required_cards": ["Jasmine (#160, #200)", "Skarmory ex (#124, #194, #209)", "Steelix (#122)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 8}],
+      "secret": false
+    },
+    {
+      "name": "Lake of Rage",
+      "required_cards": ["Magikarp (#044) ×4", "Gyarados (#215)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 5}],
+      "secret": false
+    },
+    {
+      "name": "A Mass Outbreak of Pokémon",
+      "required_cards": ["Yanma (#018) ×2", "Marill (#049) ×2", "Qwilfish (#053, #168) ×2", "Remoraid (#055) ×2", "Snubbull (#088) ×2", "Dunsparce (#144) ×2"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Pokémon you Meet at the National Park",
+      "required_cards": ["Ledyba (#011)", "Sunkern (#016)", "Pineco (#020)", "Spinarak (#110, #177)", "Hoothoot (#140, #182)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Journeying with a Partner and an Egg",
+      "required_cards": ["Togepi (#078, #173)", "Lyra (#157, #197)", "1 of the following: Chikorita (#008, #162), Cyndaquil (#027, #165), Totodile (#046, #167)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "A Delivery of Presents for Everyone",
+      "required_cards": ["Hoppip (#013)", "Slugma (#030)", "Corsola (#054)", "Delibird (#170)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 6}],
+      "secret": false
+    },
+    {
+      "name": "Vibrant Petals",
+      "required_cards": ["Bellossom (#003, #163)", "Meganium (#010)", "Skiploom (#014)", "Sunflora (#017)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 4}],
+      "secret": false
+    },
+    {
+      "name": "They have Two Faces?",
+      "required_cards": ["Slowking (#074)", "Wobbuffet (#086)", "Girafarig (#087)", "Spinarak (#110)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Hard, Body-Protecting Shells",
+      "required_cards": ["Pineco (#020)", "Pupitar (#104)", "Forretress (#121)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Large Horns Brimming with Charm",
+      "required_cards": ["Houndoom (#118)", "Heracross (#022, #164)", "Stantler (#147, #183)"],
+      "reward": [{"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "Remoraid, Clinging to a Fin",
+      "required_cards": ["Remoraid (#055)", "Mantine (#058)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Hiking: Discovery and Exploration",
+      "required_cards": ["Onix (#092)", "Swinub (#096)", "Phanpy (#099)", "Larvitar (#103)", "Pupitar (#104)", "Teddiursa (#145)", "Ursaring (#146)", "Hiker (#161, #201)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Fishing for a Big Catch",
+      "required_cards": ["Horsea (#041)", "Seadra (#042)", "Magikarp (#044)", "Qwilfish (#053, #168)", "Corsola (#054)", "Remoraid (#055)", "Corphish (#060)", "Fisher (#159, #199)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Wisdom of Sea and Sky)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Meganium cards",
+      "required_cards": ["Meganium (#010) ×5"],
+      "reward": [{"item": "Meganium (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Typhlosion cards",
+      "required_cards": ["Typhlosion (#029) ×5"],
+      "reward": [{"item": "Typhlosion (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Feraligatr cards",
+      "required_cards": ["Feraligatr (#048) ×5"],
+      "reward": [{"item": "Feraligatr (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Illustrated Pokémon Handscrolls",
+      "required_cards": ["Qwilfish (#168)", "Stantler (#183)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Wisdom of Sea and Sky Museum 1",
+      "required_cards": ["Heracross (#164)", "Magby (#166)", "Totodile (#167)", "Delibird (#170)", "Togepi (#173)", "Gligar (#176)", "Spinarak (#177)", "Tyranitar (#179)", "Sentret (#181)", "Hoothoot (#182)", "Stantler (#183)", "Blissey (#185)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Wisdom of Sea and Sky Museum 2",
+      "required_cards": ["Chikorita (#162)", "Bellossom (#163)", "Cyndaquil (#165)", "Qwilfish (#168)", "Octillery (#169)", "Pichu (#171)", "Ampharos (#172)", "Xatu (#174)", "Wobbuffet (#175)", "Murkrow (#178)", "Scizor (#180)", "Smeargle (#184)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Wisdom of Sea and Sky Museum 3",
+      "required_cards": ["Donphan ex (#206)", "Crobat ex (#207)", "Umbreon ex (#208)", "Skarmory ex (#209)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Wisdom of Sea and Sky Museum 4",
+      "required_cards": ["Shuckle ex (#202)", "Kingdra ex (#203)", "Lanturn ex (#204)", "Espeon ex (#205)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Smeargle's Colorful Collection",
+      "required_cards": "Chikorita (#162), Bellossom (#163), Heracross (#164), or Shuckle ex (#202); Cyndaquil (#165) or Magby (#166); Totodile (#167), Qwilfish (#168), Octillery (#169), Delibird (#170), or Kingdra ex (#203); Pichu (#171), Ampharos (#172), or Lanturn ex (#204); Togepi (#173), Xatu (#174), Wobbuffet (#175), or Espeon ex (#205); Gligar (#176) or Donphan ex (#206); Spinarak (#177), Murkrow (#178), Tyranitar (#179), Crobat ex (#207), or Umbreon ex (#208); Scizor (#180) or Skarmory ex (#209); Sentret (#181), Hoothoot (#182), Stantler (#183), or Blissey (#185); Smeargle (#184)",
+      "reward": [{"item": "Smeargle (emblem)", "quantity": 1}],
+      "secret": true
+    }
+  ]
+}
