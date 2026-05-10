@@ -1,0 +1,209 @@
+{
+  "new": [
+    {
+      "name": "Mega Lucario ex",
+      "image": "/images/deck_images/Mega Lucario ex.webp",
+      "link": "/decks/Mega_Lucario_ex_deck.html"
+    },
+    {
+      "name": "Magnezone ex",
+      "image": "/images/deck_images/Magnezone ex.webp",
+      "link": "/decks/Magnezone_ex_deck.html"
+    },
+    {
+      "name": "Zoroark ex",
+      "image": "/images/deck_images/Zoroark ex.webp",
+      "link": "/decks/Zoroark_ex_deck.html"
+    },
+    {
+      "name": "Mega Sceptile ex",
+      "image": "/images/deck_images/Mega Sceptile ex.webp",
+      "link": "/decks/Mega_Sceptile_ex_deck.html"
+    },
+    {
+      "name": "Vaporeon ex",
+      "image": "/images/deck_images/Vaporeon ex.webp",
+      "link": "/decks/Vaporeon_ex_deck.html"
+    },
+    {
+      "name": "Inteleon",
+      "image": "/images/deck_images/Inteleon.webp",
+      "link": "/decks/Inteleon_deck.html"
+    },
+    {
+      "name": "Flygon ex",
+      "image": "/images/deck_images/Flygon ex.webp",
+      "link": "/decks/Flygon_ex_deck.html"
+    }
+  ],
+  "S": [
+    {
+      "name": "Suicune ex",
+      "image": "/images/deck_images/Suicune ex.webp",
+      "link": "/decks/Suicune_ex_deck.html"
+    },
+    {
+      "name": "Mega Absol ex",
+      "image": "/images/deck_images/Mega Absol ex.webp",
+      "link": "/decks/Mega_Absol_ex_deck.html"
+    },
+    {
+      "name": "Mega Manectric ex",
+      "image": "/images/deck_images/Mega Manectric ex.webp",
+      "link": "/decks/Mega_Manectric_ex_deck.html"
+    }
+  ],
+  "A": [
+    {
+      "name": "Mega Altaria ex",
+      "image": "/images/deck_images/Mega Altaria ex.webp",
+      "link": "/decks/Mega_Altaria_ex_deck.html"
+    },
+    {
+      "name": "Hydreigon",
+      "image": "/images/deck_images/Hydreigon.webp",
+      "link": "/decks/Hydreigon_deck.html"
+    },
+    {
+      "name": "Magnezone (Crimson)",
+      "image": "/images/deck_images/Magnezone (Crimson).webp",
+      "link": "/decks/Magnezone_(Crimson)_deck.html"
+    },
+    {
+      "name": "Mega Scizor ex",
+      "image": "/images/deck_images/Mega Scizor ex.webp",
+      "link": "/decks/Mega_Scizor_ex_deck.html"
+    }
+  ],
+  "B": [
+    {
+      "name": "Greninja",
+      "image": "/images/deck_images/Greninja.webp",
+      "link": "/decks/Greninja_deck.html"
+    },
+    {
+      "name": "Mega Steelix ex",
+      "image": "/images/deck_images/Mega Steelix ex.webp",
+      "link": "/decks/Mega_Steelix_ex_deck.html"
+    },
+    {
+      "name": "Mega Charizard Y ex",
+      "image": "/images/deck_images/Mega Charizard Y ex.webp",
+      "link": "/decks/Mega_Charizard_Y_ex_deck.html"
+    },
+    {
+      "name": "Meowscarada ex",
+      "image": "/images/deck_images/Meowscarada ex.webp",
+      "link": "/decks/Meowscarada_ex_deck.html"
+    },
+    {
+      "name": "Giratina ex",
+      "image": "/images/deck_images/Giratina ex.webp",
+      "link": "/decks/Giratina_ex_deck.html"
+    },
+    {
+      "name": "Guzzlord ex",
+      "image": "/images/deck_images/Guzzlord ex.webp",
+      "link": "/decks/Guzzlord_ex_deck.html"
+    },
+    {
+      "name": "Bellibolt ex",
+      "image": "/images/deck_images/Bellibolt ex.webp",
+      "link": "/decks/Bellibolt_ex_deck.html"
+    },
+    {
+      "name": "Chandelure (Phantasm)",
+      "image": "/images/deck_images/Chandelure (Phantasm).webp",
+      "link": "/decks/Chandelure_(Phantasm)_deck.html"
+    }
+  ],
+  "C": [
+    {
+      "name": "Mega Lopunny ex",
+      "image": "/images/deck_images/Mega Lopunny ex.webp",
+      "link": "/decks/Mega Lopunny ex.html"
+    },
+    {
+      "name": "Leafeon ex",
+      "image": "/images/deck_images/Leafeon ex.webp",
+      "link": "/decks/Leafeon_ex_deck.html"
+    },
+    {
+      "name": "Mega Venusaur ex",
+      "image": "/images/deck_images/Mega Venusaur ex.webp",
+      "link": "/decks/Mega_Venusaur_ex_deck.html"
+    },
+    {
+      "name": "Mega Blaziken ex",
+      "image": "/images/deck_images/Mega Blaziken ex.webp",
+      "link": "/decks/Mega_Blaziken_ex_deck.html"
+    },
+    {
+      "name": "Gholdengo ex",
+      "image": "/images/deck_images/Gholdengo ex.webp",
+      "link": "/decks/Gholdengo_ex_deck.html"
+    },
+    {
+      "name": "Jolteon ex",
+      "image": "/images/deck_images/Jolteon ex.webp",
+      "link": "/decks/Jolteon_ex_deck.html"
+    },
+    {
+      "name": "Arceus ex",
+      "image": "/images/deck_images/Arceus ex.webp",
+      "link": "/decks/Arceus_ex_deck.html"
+    }
+  ],
+  "D": [
+    {
+      "name": "Hakadog",
+      "image": "/images/deck_images/Hakadog.webp",
+      "link": "/decks/Hakadog_deck.html"
+    },
+    {
+      "name": "Mega Medicham ex",
+      "image": "/images/deck_images/Mega Medicham ex.webp",
+      "link": "/decks/Mega_Medicham_ex_deck.html"
+    },
+    {
+      "name": "Mega Gardevoir ex",
+      "image": "/images/deck_images/Mega Gardevoir ex.webp",
+      "link": "/decks/Mega_Gardevoir_ex_deck.html"
+    },
+    {
+      "name": "Kairyu",
+      "image": "/images/deck_images/Kairyu.webp",
+      "link": "/decks/Kairyu_deck.html"
+    },
+    {
+      "name": "Alolan Ninetales ex",
+      "image": "/images/deck_images/Alolan Ninetales ex.webp",
+      "link": "/decks/Alolan_Ninetales_ex_deck.html"
+    },
+    {
+      "name": "Haxorus",
+      "image": "/images/deck_images/Haxorus.webp",
+      "link": "/decks/Haxorus_deck.html"
+    },
+    {
+      "name": "Mega Venusaur ex",
+      "image": "/images/deck_images/Mega Venusaur ex.webp",
+      "link": "/decks/Mega_Venusaur_ex_deck.html"
+    },
+    {
+      "name": "Rampardos",
+      "image": "/images/deck_images/Rampardos.webp",
+      "link": "/decks/Rampardos_deck.html"
+    },
+    {
+      "name": "Infernape ex",
+      "image": "/images/deck_images/Infernape ex.webp",
+      "link": "/decks/Infernape_ex_deck.html"
+    },
+    {
+      "name": "Melmetal ex",
+      "image": "/images/deck_images/Melmetal ex.webp",
+      "link": "/decks/Melmetal_ex_deck.html"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "missions": [
+    {
+      "mission": "Register 5 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 10 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 15 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 20 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 25 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 30 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 35 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 40 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 50 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 60 cards in the card dex",
+      "reward": "Emblem Ticket (Mythical Island) ×5",
+      "secret": false
+    },
+    {
+      "mission": "Register 68 cards in the card dex",
+      "mission_note": "requires all 68 main set cards; secret cards do not count",
+      "reward": "Mythical Island: Mew (profile icon)",
+      "secret": true
+    }
+  ]
+}

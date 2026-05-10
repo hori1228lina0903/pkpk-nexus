@@ -1,0 +1,157 @@
+{
+  "collections": [
+    {
+      "name": "Untouched Forest",
+      "required_cards": "5 in any combination of: Exeggutor (#002 or #069), Shiinotic (#008), Raichu (#026), Joltik (#028), Mankey (#041), Liepard (#052), Venipede (#053), Chatot (#062)",
+      "reward": [
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 5},
+        {"item": "Untouched Forest (cover)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Tranquil Lake",
+      "required_cards": "7 in any combination of: Rapidash (#011), Magikarp (#017), Gyarados ex (#018 or #076), Drednaw (#023), Cramorant (#024)",
+      "reward": [
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 13},
+        {"item": "Tranquil Lake (cover)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Scorching Wilderness",
+      "required_cards": "10 in any combination of: Magmar (#012), Volcarona (#014), Salandit (#015 or #071), Geodude (#043), Weezing (#050)",
+      "reward": [
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 7},
+        {"item": "Scorching Wilderness (cover)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Forgotten Ruins",
+      "required_cards": "Mythical Slab (#065) and 9 in any combination of: Serperior (#006 or #070), Beheeyem (#035), Stonjourner (#048)",
+      "reward": [
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 15},
+        {"item": "Forgotten Ruins (cover)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Catching Bugs",
+      "required_cards": ["Larvesta (#013)", "Joltik (#028)", "Venipede (#053)", "Whirlipede (#054)", "Volcarona (#014), Galvantula (#029), or Scolipede (#055)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Pokémon That Fly",
+      "required_cards": ["Volcarona (#014) or Floette (#037)", "Gyarados ex (#018) or Chatot (#062)", "Cramorant (#024) or Aerodactyl ex (#046)", "Sigilyph (#033) or Flabébé (#036)", "Pidgey (#057), Pidgeotto (#058), or Pidgeot ex (#059)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Attacks with 20 Damage",
+      "required_cards": ["Morelull (#007) or Finneon (#020)", "Mew (#031) or Elgyem (#034)", "Mew ex (#032) or Swirlix (#039)", "Purrloin (#051) or Venipede (#053)", "Whirlipede (#054) or Pidgey (#057)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Small Pokémon",
+      "required_cards": ["Morelull (#007) or Pidgey (#057)", "Chewtle (#022)", "Flabébé (#036) or Floette (#037)", "Joltik (#028) or Dedenne (#030)", "Eevee (#061) or Chatot (#062)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Tree of Repose",
+      "required_cards": ["Chewtle (#022)", "Dedenne (#030)", "Primeape (#042)", "Pidgeotto (#058)"],
+      "reward": [{"item": "Tree of Repose (cover)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Flower Travelers",
+      "required_cards": ["Flabébé (#036)", "Floette (#037)", "Florges (#038)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mythical Island)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Use pack stamina to open 60 Mythical Island booster packs",
+      "required_cards": "—",
+      "reward": [
+        {"item": "Mythical Island Mew (playmat)", "quantity": 1},
+        {"item": "Mythical Island Mew (card sleeve)", "quantity": 1},
+        {"item": "Mew (Pokémon coin)", "quantity": 1},
+        {"item": "Mythical Island Mew (cover)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Mew cards",
+      "required_cards": ["Mew (#031) ×3"],
+      "reward": [{"item": "Mew (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Blue cards",
+      "required_cards": ["Blue (#067 or #081) ×3"],
+      "reward": [{"item": "Blue (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Mythical Island Museum 1",
+      "required_cards": ["Exeggutor (#069)", "Serperior (#070)", "Salandit (#071)", "Vaporeon (#072)", "Dedenne (#073)", "Marshadow (#074)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mythical Island Museum 2",
+      "required_cards": ["Mew ex (#083)", "Aerodactyl ex (#084)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mew ex Museum",
+      "required_cards": ["Mew ex (#032)", "Mew ex (#083)", "Mew ex (#077)", "Mew ex (#086)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mythical Island Tale of Adventure",
+      "required_cards": ["Budding Expeditioner (#066)", "Mythical Slab (#065)", "Mew ex (#083)", "Celebi ex (#085)"],
+      "reward": [{"item": "Celebi (emblem)", "quantity": 1}],
+      "secret": true
+    }
+  ]
+}

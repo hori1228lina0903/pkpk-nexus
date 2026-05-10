@@ -1,0 +1,141 @@
+{
+  "collections": [
+    {
+      "name": "Use pack stamina to open 4 Triumphant Light booster packs",
+      "sets": "a2a",
+      "required_cards": "—",
+      "reward": [{"item": "Arceus (#070)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Pokémon with Abilities that \"Link\" with Arceus",
+      "required_cards": ["Carnivine (#009)", "Heatran (#013)", "Abomasnow (#021)", "Raichu (#026)", "Rotom (#035)", "Tyranitar (#041)", "Crobat (#050)", "Magnezone (#055)", "Arceus (#070) or Arceus ex (#071, #086, #095, #096)"],
+      "reward": [{"item": "Emblem Ticket (Triumphant Light)", "quantity": 25}],
+      "secret": false
+    },
+    {
+      "name": "Magnezone of Fuego Ironworks",
+      "required_cards": ["Magnezone (#055)", "and 4 in any combination of: Magnemite (#053 or #080), Magneton (#054)"],
+      "reward": [{"item": "Emblem Ticket (Triumphant Light)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "Rotom of the Old Chateau",
+      "required_cards": ["Rotom (#035)", "Gastly (#031) ×4"],
+      "reward": [{"item": "Emblem Ticket (Triumphant Light)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "Carnivine of the Pastoria Great Marsh",
+      "required_cards": ["Carnivine (#009)", "Marill (#014 or #077)", "Whiscash (#017)", "Toxicroak (#052)"],
+      "reward": [{"item": "Emblem Ticket (Triumphant Light)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "Abomasnow of Mt. Coronet",
+      "required_cards": ["Abomasnow (#021)", "Clefairy (#029)", "Medicham (#044)", "Noctowl (#065)"],
+      "reward": [{"item": "Emblem Ticket (Triumphant Light)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "Pokémon Tempted by Sweet Honey",
+      "required_cards": ["Heracross (#001)", "Burmy (#002)", "Cherubi (#006)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Triumphant Light)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Pokémon with 60 HP",
+      "required_cards": "4 in any combination of: Houndour (#011), Marill (#014 or #077), Barboach (#016), Snorunt (#018), Phione (#024), Pikachu (#025), Electrike (#027), Clefairy (#029), Unown (#034 or #078), Phanpy (#037), Larvitar (#039), Meditite (#043), Gible (#045), Croagunk (#051), Magnemite (#053 or #080), Bronzor (#058), Eevee (#062), Hoothoot (#064), Starly (#066)",
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Triumphant Light)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Barry, the Rival",
+      "required_cards": ["Heracross (#001)", "Snorlax (#063)", "Staraptor (#068)", "Barry (#074)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Triumphant Light)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Water-type Pokémon",
+      "required_cards": "5 in any combination of: Marill (#014 or #077), Azumarill (#015), Barboach (#016), Whiscash (#017), Snorunt (#018), Froslass (#019), Snover (#020), Glaceon ex (#022), Origin Forme Palkia (#023)",
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Triumphant Light)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "The Two Forms of Cherrim",
+      "required_cards": ["Cherubi (#006)", "Cherrim (#007)", "Cherrim (#008)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Triumphant Light)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Hard-Bodied Pokémon",
+      "required_cards": "4 in any combination of: Donphan (#038), Nosepass (#042), Magnemite (#065 or #080), Magnezone (#055), Probopass ex (#057, #085, #094)",
+      "reward": [{"item": "Emblem Ticket (Triumphant Light)", "quantity": 8}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Marill cards",
+      "required_cards": ["Marill (#014 or #077) ×3"],
+      "reward": [{"item": "Marill (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Triumphant Light Museum 1",
+      "required_cards": ["Houndoom (#076)", "Marill (#077)", "Unown (#078)", "Sudowoodo (#079)", "Magnemite (#080)", "Shaymin (#081)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Triumphant Light Museum 2",
+      "required_cards": ["Leafeon ex (#091)", "Glaceon ex (#092)", "Garchomp ex (#093)", "Probopass ex (#094)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Triumphant Light Museum 3",
+      "required_cards": ["Arceus (#070)", "Arceus ex (#071)", "Arceus ex (#086)", "Arceus ex (#095)", "Arceus ex (#096)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Pokémon from Ancient Records",
+      "required_cards": ["Heatran (#013)", "Origin Forme Palkia (#023)", "Origin Forme Dialga (#060)", "Giratina (#061)", "Arceus ex (#071)", "Shaymin (#081)", "Celestic Town Elder (#088)"],
+      "reward": [{"item": "Shaymin (emblem)", "quantity": 1}],
+      "secret": true
+    }
+  ]
+}

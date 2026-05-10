@@ -1,0 +1,208 @@
+{
+  "collections": [
+    {
+      "name": "First Choice",
+      "required_cards": ["Bulbasaur (#001 or #227)", "Charmander (#033 or #230)", "Squirtle (#053 or #232)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Genetic Apex)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Electabuzz and Magmar",
+      "required_cards": ["Magmar (#044)", "Electabuzz (#101)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Genetic Apex)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Viridian Forest",
+      "required_cards": ["Caterpie (#005)", "Metapod (#006)", "Weedle (#008)", "Kakuna (#009)", "Pikachu (#094) or Pikachu ex (#096, #259, #281, #285)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Genetic Apex)", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Pidgey Squad",
+      "required_cards": ["Pidgey (#186)", "Pidgeotto (#187)", "Pidgeot (#188 or #245)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 7}],
+      "secret": false
+    },
+    {
+      "name": "A Day with Family",
+      "required_cards": ["Nidoran♀ (#166)", "Nidorina (#167)", "Nidoqueen (#168 or #240)", "Nidoran♂ (#169)", "Nidorino (#170)", "Nidoking (#171 or #241)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 14}],
+      "secret": false
+    },
+    {
+      "name": "Pokémon of Ancient Times",
+      "required_cards": ["Omanyte (#081)", "Omastar (#082)", "Kabuto (#158)", "Kabutops (#159)", "Aerodactyl (#210)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 20}],
+      "secret": false
+    },
+    {
+      "name": "The Legendary Flight",
+      "required_cards": ["Moltres (#046) or Moltres ex (#047, #255, #274)", "Articuno (#083) or Articuno ex (#084, #258, #275)", "Zapdos (#103) or Zapdos ex (#104, #260, #276)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 17}],
+      "secret": false
+    },
+    {
+      "name": "Triple Power",
+      "required_cards": ["Exeggutor (#022) or Exeggutor ex (#023 or #252)", "Magneton (#098)", "Dugtrio (#140)", "Dodrio (#200)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 12}],
+      "secret": false
+    },
+    {
+      "name": "A Big Snorlax Nuisance",
+      "required_cards": ["Oddish (#011)", "Venonat (#016)", "Bellsprout (#018)", "Snorlax (#250)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 14}],
+      "secret": false
+    },
+    {
+      "name": "Touring the Kanto Region",
+      "required_cards": ["Tentacool (#062)", "Haunter (#121)", "Jynx (#127)", "Grimer (#174)", "Rattata (#189)", "Spearow (#191)", "Doduo (#199)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 24},
+        {"item": "Shop Ticket", "quantity": 5},
+        {"item": "Emblem Ticket (Genetic Apex)", "quantity": 4}
+      ],
+      "secret": false
+    },
+    {
+      "name": "The Gym Leaders of the Kanto Region",
+      "required_cards": ["Erika (#219 or #266)", "Misty (#220 or #267)", "Blaine (#221 or #268)", "Koga (#222 or #269)", "Giovanni (#223 or #270)", "Brock (#224 or #271)", "Sabrina (#225 or #272)", "Lt. Surge (#226 or #273)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 24},
+        {"item": "Shop Ticket", "quantity": 5},
+        {"item": "Emblem Ticket (Genetic Apex)", "quantity": 8}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Different Journeys, Different Growth",
+      "required_cards": ["Bulbasaur (#001 or #227)", "Ivysaur (#002)", "Venusaur (#003) or Venusaur ex (#004 or #251)", "Charmander (#033 or #230)", "Charmeleon (#034)", "Charizard (#035) or Charizard ex (#036, #253, #280, #284)", "Squirtle (#053 or #232)", "Wartortle (#054)", "Blastoise (#055) or Blastoise ex (#056 or #256)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 22}],
+      "secret": false
+    },
+    {
+      "name": "Safari Zone",
+      "required_cards": ["Exeggcute (#021)", "Scyther (#025)", "Pinsir (#026 or #229)", "Slowpoke (#118 or #237)", "Rhyhorn (#156)", "Dratini (#183)", "Dragonair (#184)", "Doduo (#199)", "Chansey (#202)", "Kangaskhan (#203)", "Tauros (#204)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 12}],
+      "secret": false
+    },
+    {
+      "name": "Category: Mouse Pokémon",
+      "required_cards": ["Pikachu (#094) or Pikachu ex (#096, #259, #281, #285)", "Raichu (#095)", "Sandshrew (#137)", "Sandslash (#138)", "Rattata (#189)", "Raticate (#190)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "Pokémon Super Express",
+      "required_cards": ["Arcanine (#040) or Arcanine ex (#041 or #254)", "Rapidash (#043 or #231)", "Zebstrika (#106)", "Dragonite (#185 or #244)"],
+      "reward": [{"item": "Emblem Ticket (Genetic Apex)", "quantity": 13}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Electrode cards",
+      "required_cards": ["Electrode (#100 or #235) ×3"],
+      "reward": [{"item": "Electrode (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Gardevoir cards",
+      "required_cards": ["Gardevoir (#132) ×5"],
+      "reward": [{"item": "Gardevoir (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Charizard cards",
+      "required_cards": ["Charizard (#035) ×5"],
+      "reward": [{"item": "Charizard (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Mewtwo cards",
+      "required_cards": ["Mewtwo (#128) ×5"],
+      "reward": [{"item": "Mewtwo (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Complete the Kanto Pokédex!",
+      "sets": "a1",
+      "required_cards": "Collect 1 card of every Generation I Pokémon from Bulbasaur to Mewtwo",
+      "mission_note": "only cards from Genetic Apex count towards this goal",
+      "reward": [{"item": "Mew (#283)", "quantity": 1}],
+      "secret": true
+    },
+    {
+      "name": "Genetic Apex Museum 1 (Mewtwo)",
+      "required_cards": ["Bulbasaur (#227)", "Cubone (#239)", "Golbat (#242)", "Weezing (#243)", "Dragonite (#244)", "Pidgeot (#245)", "Ditto (#247)", "Porygon (#249)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Shop Ticket", "quantity": 20}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Genetic Apex Museum 2 (Charizard)",
+      "required_cards": ["Gloom (#228)", "Pinsir (#229)", "Charmander (#230)", "Rapidash (#231)", "Lapras (#234)", "Alakazam (#236)", "Slowpoke (#237)", "Meowth (#246)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Shop Ticket", "quantity": 20}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Genetic Apex Museum 3 (Pikachu)",
+      "required_cards": ["Squirtle (#232)", "Gyarados (#233)", "Electrode (#235)", "Diglett (#238)", "Nidoqueen (#240)", "Nidoking (#241)", "Eevee (#248)", "Snorlax (#250)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Shop Ticket", "quantity": 20}
+      ],
+      "secret": true
+    },
+    {
+      "name": "The Gym Leaders of the Kanto Region 2",
+      "required_cards": ["Erika (#266)", "Misty (#267)", "Blaine (#268)", "Koga (#269)", "Giovanni (#270)", "Brock (#271)", "Sabrina (#272)", "Lt. Surge (#273)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 48},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "The Legendary Flight Continues",
+      "required_cards": ["Moltres ex (#274)", "Articuno ex (#275)", "Zapdos ex (#276)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Moltres, Zapdos, and Articuno (emblem)", "quantity": 1}
+      ],
+      "secret": true
+    },
+    {
+      "name": "The Immersive 4",
+      "required_cards": ["Charizard ex (#280)", "Pikachu ex (#281)", "Mewtwo ex (#282)", "Mew (#283)"],
+      "reward": [
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Wonder Hourglass", "quantity": 48},
+        {"item": "Shop Ticket", "quantity": 20}
+      ],
+      "secret": true
+    }
+  ]
+}
