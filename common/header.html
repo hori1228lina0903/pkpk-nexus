@@ -1,0 +1,71 @@
+<header>
+    <div class=".header-container">
+      <!-- ロゴとタイトル部分 -->
+      <div class="logo-item1">
+        <img src="/images/icon/pkpkicon.webp" alt="Poképoké Icon" class="logo-icon">
+         <!-- 検索ボックス -->
+        <div id="search"></div>
+        <script>
+          window.addEventListener('DOMContentLoaded', function () {
+          if (window.PagefindUI) {
+            new PagefindUI({
+              element: "#search",
+              showSubResults: true,
+              translations: {
+                search_placeholder: "検索ワードを入力...",
+                   clear_search: "クリア",
+                  load_more: "もっと見る",
+                  no_results: "一致する結果はありませんでした。",
+                  search_results: "検索結果"
+              }
+            });
+          } else {
+              document.getElementById("search").innerHTML =
+                  "<p>検索機能は後日有効になります。</p>";
+            }
+            });
+        </script>
+        <!-- ハンバーガーバー -->
+        <button id="menu-button" class="menu-icon" aria-expanded="false" aria-controls="menu">☰</button>
+        
+        <nav id="menu" class="menu hidden">
+          <ul>
+            <li><a href="/">Top</a></li>
+            <li><a href="/decks.html">Decks</a></li>
+            <li><a href="/cards.html">Cards</a></li>
+            <li><a href="/ranking/">Ranking</a></li>
+            <li><a href="/faq/">FAQ</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </nav>
+
+        <script src="/js/hamburger-menu.js"></script>
+          
+      </div>
+      
+      
+      <div class="logo-item2">
+        <div class="logo-box">
+          <img src="/images/icon/pkpk-nexus-logo.webp" alt="Poképoké Icon" class="hp-title-logo">
+          
+          <div class="brand-container">
+            <h1 class="brand-title">PKPK Nexus - Pokémon TCG Pocket Strategy Site</h1>
+            <small class="text-micro">This is an unofficial, fan-run project.</small>
+          </div>
+          
+        </div>
+      </div>
+  
+      <!-- グリッドメニュー部分 -->
+      <nav class="grid-nav">
+        <ul class="nav-grid">
+          <li><a href="/index.html">Top</a></li>
+          <li><a href="/decks.html">Decks</a></li>
+          <li><a href="/events.html">Events</a></li>
+          <li><a href="/sets.html">Sets & Packs</a></li>
+          <li><a href="/cards.html">Cards</a></li>
+          <li><a href="/accessories.html">Accessories</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
