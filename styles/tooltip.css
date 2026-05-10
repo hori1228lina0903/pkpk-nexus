@@ -1,0 +1,67 @@
+.tooltip {
+  position: relative;
+  display: inline-block;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+}
+
+/* ツールチップ本体 */
+.tooltip .tooltiptext {
+  --offset: 0px; /* JSで動的に変更されるズレ量 */
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  
+  /* 縦位置：画像に近づける */
+  bottom: 105%; 
+  left: 50%;
+  
+  /* 本体を左右にスライドさせる（中央揃え + ズレ量） */
+  transform: translateX(calc(-50% + var(--offset)));
+  
+  width: max-content;
+  max-width: 85vw; /* 画面幅の85%を上限 */
+  background-color: #1a1a2e;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 2px solid #ffd700;
+  font-size: 14px;
+  z-index: 1000;
+  transition: opacity 0.2s ease;
+  pointer-events: none;
+}
+
+/* 矢印：本体がズレても、常に親（画像）の中央を指す */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  /* 本体がスライドした分を逆方向に計算して打ち消す */
+  left: calc(50% - var(--offset));
+  transform: translateX(-50%);
+  
+  border-width: 8px;
+  border-style: solid;
+  border-color: #ffd700 transparent transparent transparent;
+}
+
+/* --- 特殊状態 --- */
+
+/* 表示時 */
+.tooltip.is-active .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* 上にスペースがない場合（JSで判定） */
+.tooltip.is-bottom .tooltiptext {
+  bottom: auto;
+  top: 105%; /* 画像の下側に表示 */
+}
+
+.tooltip.is-bottom .tooltiptext::after {
+  top: auto;
+  bottom: 100%;
+  border-color: transparent transparent #ffd700 transparent; /* 上向き矢印 */
+}

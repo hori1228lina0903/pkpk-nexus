@@ -1,0 +1,74 @@
+.accessory-grid {
+  width: 93%;
+  display: grid;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+/* アイコンとコインは3列 */
+#icon-grid,
+#coin-grid {
+  width: 93%;
+  margin: 0 auto;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* その他のカテゴリは2列 */
+#playmat-grid,
+#cardsleeve-grid,
+#cover-grid,
+#backdrop-grid {
+  width: 93%;
+  margin: 0 auto;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.accessory-item {
+  text-align: center;
+  background: #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  transition: transform 0.2s;
+}
+.accessory-item:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+.accessory-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+.accessory-name {
+  margin-top: 8px;
+  font-size: 12px;
+  word-break: break-word;
+  color: #000000;
+}
+.loading {
+  text-align: center;
+  padding: 20px;
+  font-size: 16px;
+  color: #666;
+}
+.error {
+  color: #ff4444;
+  text-align: center;
+  padding: 20px;
+}
+
+.toc-container {
+  color: #333;
+  padding: 0 15px 0 40px;
+  line-height: 1.4;
+}
+
+.toc-container li::marker {
+  color: #007bff;
+  font-size: 1.5em;
+}
+
+.toc-container a {
+  text-decoration: none;
+  color: #333;
+}

@@ -1,0 +1,172 @@
+.new-deck-grid {
+  width: 93%;
+  margin: 15px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.new-deck-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tier-decks-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", sans-serif;
+  padding: 0;
+  border-radius: 8px;
+}
+
+.deck-intro {
+  width: 93%;
+  margin: 20px auto;
+  text-align: left;
+  line-height: 1.3;
+  color: #333;
+}
+
+.deck-intro strong {
+  font-weight: bold;
+}
+
+.tier-decks-table td {
+  background-color: #e8eafc;
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 10px 0;
+  border-right: 4px solid rgba(255, 255, 255, 0.3);
+}
+
+/* グリッド設定 */
+.tier-s-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-a-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-b-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-c-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-d-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+/* 画像の設定 */
+.tier-decks-table img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ティアの左列 */
+.tier-s {
+  background-color: #FF0000;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-a {
+  background-color: #FF8C00;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-b {
+  background-color: #FFCB05;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-c {
+  background-color: #78C850;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-d {
+  background-color: #6890F0;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+/* デッキカード枠 */
+.deck-container {
+  position: relative;
+  border: 3px solid #3B4CCA;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+/* オーバーレイテキスト */
+.overlay-text {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 9px;
+  padding: 2px 0;
+  text-align: center;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+}
+
+.content ul {
+  color: #333;
+  width: 93%;
+  margin: 0 auto;
+}
+
+.content li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+.content li strong {
+  flex-shrink: 0;
+  white-space: nowrap;  /* 太字＋コロンを改行させない */
+  width: auto;
+  margin-right: 10px;
+  padding: 0; 
+}
+
+.content li span {
+  flex: 1;
+  word-break: break-word;
+}

@@ -1,0 +1,536 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    overflow-x: hidden !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    position: relative !important;
+}
+
+/* ページ全体のフェードイン効果を追加 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+    animation: pageFadeIn 0.8s ease-in-out forwards;
+    background-color: #2f3739 !important;
+}
+
+@keyframes pageFadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.breadcrumbs {
+    width: 93%;
+    margin: 0 auto;
+    padding: 5px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 14px;
+}
+
+.breadcrumbs a {
+    color: #007bff;
+    text-decoration: none;
+    position: relative;
+}
+
+.breadcrumbs a:not(:last-of-type)::after {
+    padding: 0 8px;
+    content: ">";
+    color: #999;
+    font-weight: bold;
+}
+
+.breadcrumbs .current {
+    color: #666;
+}
+
+.card-page-main {
+    width: 93%;
+    background-color: #f5f5f5;
+    padding: 0 0 10px 0; /* 上 右 下 左 */
+    margin: 0 auto;
+    border: 3px solid #FFCB05; /* 電気タイプ枠色 */
+    border-radius: 3px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    max-width: 100%;
+    overflow-x: hidden; /* 横スクロール禁止 */
+    box-sizing: border-box;
+    
+}
+
+/* タイトル（ポケモンカード風） */
+.card-page-main h1 {
+  color: #000; /* 黒文字をベース */
+  font-weight: bold;
+  text-shadow:
+    2px 0   0 #FFCB05,
+   -2px 0   0 #FFCB05,
+    0   2px 0 #FFCB05,
+    0  -2px 0 #FFCB05,
+    2px 2px 0 #FFCB05,
+   -2px 2px 0 #FFCB05,
+    2px -2px 0 #FFCB05,
+   -2px -2px 0 #FFCB05;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.card-page-main .section {
+  border: 2px solid #3B4CCA;
+  border-radius: 8px;
+  padding: 10px 0;
+  margin: 0 auto 15px auto;
+  width: 97%;
+}
+
+.set-subheading {
+  padding: 6px 8px;
+  display: block;
+  margin: -10px 0 10px 0;
+  background: #3B4CCA;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 4px 4px 0 0; /* 上だけ丸く */
+}
+
+.card-number-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.card-number-row {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);  /* 常に2列 */
+    gap: 0.125rem;
+}
+
+.card-number-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 0.25rem 0.5rem;
+    background-color: #f9f9f9;  /* 元の背景色 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+    min-width: 0;
+    box-sizing: border-box;
+}
+
+/* 空のアイテムを非表示 */
+.card-number-item.empty {
+    visibility: hidden;
+}
+.card-set-code {
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  margin-right: 4px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  min-width: 60px;
+  display: inline-block;
+  text-align: center;
+}
+
+/* テーブル情報（カードのステータス風） */
+.card-info-table {
+  width: calc(100% - 110px); /* thが110pxなので残り */
+  width: 97%;
+  background-color: #f5f5f5;
+  border-collapse: separate;
+  border-spacing: 0 5px;
+  margin: 5px auto;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.card-info-table th {
+  background-color: #2c3e50;
+  color: white;
+  text-align: left;
+  white-space: nowrap;
+  width: 110px;
+  font-weight: bold;
+  padding: 6px 0px 6px 8px;
+}
+
+/* 左側の角丸（thの左側） */
+.card-info-table th:first-child {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+/* 右側の角丸（tdの右側） */
+.card-info-table td:last-child {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+/* Setsコンテナの制限 */
+.sets-wrapper {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto; /* 内部のみ横スクロール */
+    overflow-y: hidden;
+    box-sizing: border-box;
+    
+    /* 強制的に幅を制限 */
+    max-width: calc(100vw - 40px); /* ビューポートから余白を引く */
+}
+
+/* さらに強力な制限 */
+.card-info-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.card-info-table td {
+    max-width: 100vw; /* ビューポート幅を超えない */
+    overflow: visible;
+    background-color: #e8eafc;
+    padding: 6px 8px;
+}
+
+/* シンプルでわかりやすいバージョン */
+.sets-wrapper::-webkit-scrollbar {
+    height: 10px;
+}
+
+.sets-wrapper::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 5px;
+}
+
+.sets-wrapper::-webkit-scrollbar-thumb {
+    background: #4a90e2;
+    border-radius: 5px;
+    border: 2px solid #f0f0f0;
+}
+
+/* スクロールコンテンツ */
+.sets-inner-scroll {
+    display: inline-flex;
+    gap: 0.25rem;
+}
+
+.sets-grid {
+    display: flex;
+    flex-wrap: warp;
+    gap: 0.25rem;
+    width: 100%;
+}
+
+.set-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 0.75rem;
+    display: flex;
+    flex: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    background-color: #f9f9f9;
+    box-sizing: content-box;
+    overflow: hidden;
+    width: 19vw;
+}
+
+.pack-image {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 2px;
+}
+
+.set-name {
+    width: 100%;
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow: hidden;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    font-size: 0.9rem;
+}
+
+/* カード画像 */
+.card-image {
+  display: block;
+  margin: 15px auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  max-width: 90%;
+}
+
+.rarity-icon {
+  width: 20px;
+  height: auto;
+  vertical-align: middle;
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.3));
+}
+
+.energy-icon {
+  width: 17px;
+  margin-right: 5px;
+  height: auto;
+  vertical-align: middle;
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.3));
+}
+
+.description-text {
+    padding: 8px 0 0 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    text-align: justify;
+}
+
+.rules-text {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    text-align: justify;
+    margin: 0 0 10px 0;
+}
+
+.how_to_get {
+    padding-left: 10px;
+    margin: 0;
+}
+
+/* 同一カードの画像 */
+.alternate_art-image {
+  width: 80px;
+  height: auto;
+  vertical-align: middle;
+}
+
+/* 同性能の絵柄違い */
+.alternate_art {
+  display: flex;         /* 横並び */
+  list-style: none;      /* ・を消す */
+  padding: 10px 8px 0 8px;
+  margin: 0 5px;
+  align-items: center;
+  gap: 8px;
+  background-color: #e8eafc;
+  border-radius: 8px;
+}
+
+.alternate_art li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.card-number-alternate_art {
+  display: flex;
+  gap: 0; /* a1 と 251 の間隔を調整 */
+  justify-content: center; /* 中央揃え */
+  align-items: center;     /* 縦位置揃え */
+}
+
+.attack-table {
+  display: table;
+  width: 100%;
+  table-layout: fixed; /* 均等割り当て */
+  list-style: none;
+}
+
+.attack {
+  list-style: none;
+  padding: 9px;
+}
+
+.attack-cell {
+  display: table-cell;
+  width: 33.3%;        /* 3分割 */
+  vertical-align: middle;
+}
+
+.attack-cell.cost {
+  text-align: left;
+}
+
+.attack-cell.name {
+  text-align: center;
+  font-weight: bold;
+}
+
+.attack-cell.damage {
+  text-align: right;
+  font-weight: bold;
+}
+
+.attack-effect {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 4px;
+  margin-left: 4px;
+  text-align: left;
+  white-space: normal;
+}
+
+/* Flairs */
+.card-page-main .flair {
+  display: inline-block;
+  background-color: #FF0000;
+  color: #FFF;
+  padding: 6px 10px;
+  border-radius: 3px;
+  margin: 6px 4px;
+  font-weight: bold;
+}
+
+/* ボタン */
+.card-page-main button {
+  background-color: #3B4CCA; /* ポケモンブルー */
+  color: #FFF;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.attack {
+  background: linear-gradient(to right, transparent, #aaa 50%, transparent) bottom
+              repeat-x;
+  background-size: 100% 1px;
+}
+.attack:last-child {
+  background: none;
+}
+
+.attack-divider {
+  border: none;
+  border-top: 2px dashed #aaa;
+  margin: 6px 0;
+}
+
+/* カードエフェクト */
+.flairs {
+  display: flex;
+  list-style: none;
+  padding: 10px 8px 0 8px;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.flairs li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flairs-image {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.arrow-row {
+  background-color: transparent !important;
+  text-align: center;
+  vertical-align: middle;         /* 縦方向中央 */
+  height: 10px;                   /* 高さを確保 */
+  padding: 0 auto;
+}
+
+.arrow-row img {
+  display: inline-block;
+  max-width: 20px;
+  height: auto;
+  margin: 0;
+}
+
+.evolution-line-table {
+  width: 97%;
+  background-color: #FFF;
+  border-collapse: collapse;  /* 行間スペースを完全になくす */
+  margin: 2px auto;
+  border-radius: 8px;
+  overflow: hidden;
+  border-spacing: 0;          /* 念のため */
+}
+
+.evolution-line-table th,
+.evolution-line-table td {
+  background-color: #e8eafc;
+  padding: 0;                /* 行間をなくす */
+  margin: 0;
+  line-height: 1;            /* 行の高さも最小に */
+}
+
+.evolution-line-table th {
+  background-color: #3B4CCA;
+  color: #FFFFFF;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+/* 左側の角丸（thの左側） */
+.evolution-line-table th:first-child {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+/* 右側の角丸（tdの右側） */
+.evolution-line-table td:last-child {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.set-border {
+  border: none;
+  height: 2px;
+  background-color: #3B4CCA;
+  width: 95%;
+  margin: 20px auto;
+}
+
+.suffix-rule-text {
+    font-weight: bold;
+    color: #ffd700;
+    text-shadow: 
+        1px 1px 0 #000,
+       -1px 1px 0 #000,
+        1px -1px 0 #000,
+       -1px -1px 0 #000;
+}
+
+
+
+@media (min-width: 768px) {
+  .flairs {
+    justify-content: flex-start; /* 左揃えに変更 */
+    padding-left: 10px;
+  }
+  
+  .flairs-image {
+  width: 70px;
+  height: auto;
+  }
+}
