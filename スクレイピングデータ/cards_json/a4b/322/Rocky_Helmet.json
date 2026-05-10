@@ -1,0 +1,43 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a2#148",
+    "a4b#322"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Rocky Helmet",
+  "イラストレーター": "Ayaka Yoshida",
+  "収録セット": [
+    "Space-Time Smackdown",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Palkia Pack",
+    "ミッション: Get 18 points in solo battles - Elite Deck Gift Missions",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Tool",
+  "カードの効果": {
+    "発動効果": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent’s Pokémon, do 20 damage to the Attacking Pokémon.",
+    "追加ルール": "N/A"
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#323"
+    }
+  ],
+  "進化先": {}
+}

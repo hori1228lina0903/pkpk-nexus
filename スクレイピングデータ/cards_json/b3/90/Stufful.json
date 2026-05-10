@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#90"
+  ],
+  "名前": "Stufful",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "fighting",
+  "弱点": "Psychic",
+  "にげる": 2,
+  "説明文": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.",
+  "イラストレーター": "Shigenori Negishi",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Tackle",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Bewear"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#18"
+  ],
+  "名前": "Slowking",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 3,
+  "説明文": "When its head was bitten, toxins entered Slowpoke’s head and unlocked an extraordinary power.",
+  "イラストレーター": "Aya Kusube",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "イベント: Bonus Pick - Water-Type Pokémon Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Litter",
+      "ダメージ": "50x",
+      "効果": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Slowpoke"
+      ]
+    ]
+  }
+}

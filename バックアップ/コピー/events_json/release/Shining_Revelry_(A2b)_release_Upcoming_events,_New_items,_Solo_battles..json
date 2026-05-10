@@ -1,0 +1,797 @@
+{
+  "url": "https://www.pokemon-zone.com/events/shining-revelry-release/",
+  "title": "Shining Revelry (A2b) release: Upcoming events, New items, Solo battles.",
+  "period": {
+    "text": "Mar 27",
+    "start_date": "2025-03-27"
+  },
+  "packs": [
+    {
+      "title": "Shining Revelry pack",
+      "link": "/sets/a2b/Shining Revelry pack.html",
+      "key_visual": "/images/packs/Shining Revelry pack.webp"
+    }
+  ],
+  "game_updates": [
+    "New solo step-up Battles (see below)",
+    "Cards from Triumphant Light (A2a) become available for trading.",
+    "The number of decks in the builder has been increased from 15 to 20.",
+    "Minor qualify of life updates (bigger font on some cards, improvements on effects...)"
+  ],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Shining Revelry (A2b) Release - Shining Revelry",
+      "period": "Mar 27 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Giratina (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A2b",
+          "currency_image": "Emblem Ticket (Shining Revelry).webp"
+        }
+      ]
+    },
+    {
+      "title": "Shining Revelry (A2b) Release - Accessories",
+      "period": "Mar 27 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Shining Revelry: Shiny Pokémon (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    },
+    {
+      "title": "Shining Revelry Shop Update - Accessories",
+      "period": "Mar 27 - Apr 30, 2025",
+      "items": [
+        {
+          "name": "Springtime Frame (backdrop)",
+          "price": "50",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Promo Card (Mewtwo ex)",
+      "period": "Mar 27 - Apr 30, 2025",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Mar 27 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Water-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Lightning-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Psychic-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Darkness-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Mar 27 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Colorless type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Shining Revelry (A2b) Release",
+      "period": "Mar 27 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Burning Desire",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Magmar’s Evolution",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect Paldean Tauros",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Beach Peekaboo",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Henchman and Boss?",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Tangle of Tentacles",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Bobbing in the Waves",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Shadows of the Distortion World",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Bewitching World",
+          "rewards": [
+            {
+              "name": "2x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "description": "Collect Mr. Mime",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "As the Wind Blows",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Needling Frenzy",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Sprigatito’s Green Sprouting",
+          "rewards": [
+            {
+              "name": "2x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "description": "Collect Pinsir",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Huge Hammer",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Pile of Coins",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Menacing Motor Noise",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Aura Masters",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "1,000 Punches",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Punching & Kicking",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect Flamigo",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Beedrill ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Electric Cheeks",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Beedrill ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Extra Electrifying",
+          "rewards": [
+            {
+              "name": "2x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "description": "Exploding All Over the Place",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Charizard ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Dangerous Poison Spikes",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Charizard ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Deep Forest Poison Patterns",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Wugtrio ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Intimidating Patterns",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Wugtrio ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Collect Spiritomb",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Pikachu ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Collect cards for Pikachu ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Register 5 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Diligent Nest-Building",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Giratina ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Expanding Body",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Giratina ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Shiny Museum 1",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 15 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Shiny Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Lucario ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Collect cards for Lucario ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Shiny Museum 3",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 25 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Shiny Museum 4",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Paldean Clodsire ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Collect cards for Paldean Clodsire ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Register 35 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Shiny Museum 5",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Tinkaton ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Shiny Museum 6",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Tinkaton ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Shining Revelry Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Shining Revelry Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Shining Revelry)",
+              "local_file": "Emblem Ticket (Shining Revelry).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Bibarel ex Deck (Shining Revelry)"
+        },
+        {
+          "description": "Collect 3 Sprigatito cards",
+          "rewards": [
+            {
+              "name": "1x Sprigatito (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100330_NYAHOJA.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Gimmighoul Collection",
+          "rewards": [
+            {
+              "name": "1x Gholdengo (emblem)",
+              "local_file": "Gholdengo (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100130_SURFUGO.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Shiny Charizard (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100320_SHINY_LIZARDON.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Bibarel ex Deck (Shining Revelry)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#159"
+  ],
+  "名前": "Budew",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "30",
+  "タイプ": "grass",
+  "弱点": "none",
+  "にげる": 0,
+  "説明文": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+  "イラストレーター": "Yuka Tanaka",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Petals_Flair_White_Battle.webp",
+    "Flowers_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Prickly Powder",
+      "ダメージ": "10",
+      "効果": "The Defending Pokémon loses all Abilities. This effect lasts until the Defending Pokémon leaves the Active Spot.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "unspecified"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#13"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

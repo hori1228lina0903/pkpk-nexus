@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#184"
+  ],
+  "名前": "Toxtricity ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "150",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Digital_Squares_Flair_Yellow-green_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Flash_of_Lightning_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Damaging Spark",
+      "ダメージ": "90",
+      "効果": "This attack also does 30 damage to each of your opponent’s Benched Pokémon that has damage on it.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#55"
+    },
+    {
+      "カード番号": "b2#198"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Toxel"
+      ]
+    ]
+  }
+}

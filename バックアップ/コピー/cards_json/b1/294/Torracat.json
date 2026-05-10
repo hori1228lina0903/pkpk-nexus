@@ -1,0 +1,73 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#294"
+  ],
+  "名前": "Torracat",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 1,
+  "説明文": "Torracat will let its Trainer coddle it once they’ve grown close, but it’s a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.",
+  "イラストレーター": "whomor Inc.",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Flames_Flair_Orange_Battle.webp",
+    "Sword_Flash_Flair_Orange_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Heat Tackle",
+      "ダメージ": "40",
+      "効果": "This Pokémon also does 10 damage to itself.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#32"
+    },
+    {
+      "カード番号": "a4b#80"
+    },
+    {
+      "カード番号": "a4b#81"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Incineroar ex,                                         Incineroar"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Litten"
+      ]
+    ]
+  }
+}

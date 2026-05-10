@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#46"
+  ],
+  "名前": "Arbok",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "darkness",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
+  "イラストレーター": "Midori Harada",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Rounded_Squares_Flair_Purple_Battle.webp",
+    "Tiny_Twinkles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Venomous Fang",
+      "ダメージ": "70",
+      "効果": "Your opponent’s Active Pokémon is now Poisoned.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Ekans"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#109"
+  ],
+  "名前": "Chingling",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "30",
+  "タイプ": "psychic",
+  "弱点": "N/A",
+  "にげる": 0,
+  "説明文": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+  "イラストレーター": "Kagemaru Himeno",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック: Mega Blaziken Pack",
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Baby"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Circles_Flair_Pink_Battle.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Digital_Squares_Flair_Purple_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Jingly Noise",
+      "ダメージ": "10",
+      "効果": "During your opponent’s next turn, they can’t play any Item cards from their hand.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "unspecified"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

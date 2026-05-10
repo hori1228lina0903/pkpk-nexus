@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#7"
+  ],
+  "名前": "Pinsir",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+  "イラストレーター": "Toshinao Aoki",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Guillotine",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

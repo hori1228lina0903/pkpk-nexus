@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#39"
+  ],
+  "名前": "Floatzel",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+  "イラストレーター": "Kanako Eo",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Palkia Pack",
+    "パック: Dialga Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Light_blue_Cosmetic.webp",
+    "Star_Outlines_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Jet Screw",
+      "ダメージ": "30+",
+      "効果": "Flip a coin. If heads, this attack does 30 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Buizel"
+      ]
+    ]
+  }
+}

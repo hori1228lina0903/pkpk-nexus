@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#73"
+  ],
+  "名前": "Glaceon",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+  "イラストレーター": "Fujimoto Gold",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Snowflakes_Flair_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Big_Rings_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Ice Blade",
+      "ダメージ": "N/A",
+      "効果": "This attack does 50 damage to 1 of your opponent’s Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#17"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Eevee"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-b#17"
+  ],
+  "名前": "Swablu",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+  "イラストレーター": "Yukiko Baba",
+  "収録セット": [
+    "Promo B"
+  ],
+  "入手方法": [
+    "イベント: Mareep Drop Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Feathers_Flair_White_Cosmetic.webp",
+    "Heart_Outlines_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Find a Friend",
+      "ダメージ": "N/A",
+      "効果": "Put a random Pokémon from your deck into your hand.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Mega Altaria ex,                                         Altaria"
+      ]
+    ]
+  },
+  "進化前": {}
+}

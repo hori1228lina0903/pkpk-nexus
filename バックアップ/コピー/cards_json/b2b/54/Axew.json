@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#54"
+  ],
+  "名前": "Axew",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "dragon",
+  "弱点": "none",
+  "にげる": 1,
+  "説明文": "If you see peculiar teeth marks on boulders or trees, it means an Axew is likely living nearby.",
+  "イラストレーター": "Yukiko Baba",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Dragon_Energy_Flair_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Poké_Ball_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sharp Fang",
+      "ダメージ": "40",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2b#108"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Fraxure"
+      ]
+    ]
+  },
+  "進化前": {}
+}

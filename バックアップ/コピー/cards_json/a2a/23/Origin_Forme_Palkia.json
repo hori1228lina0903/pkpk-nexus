@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#23"
+  ],
+  "名前": "Origin Forme Palkia",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia’s strategy for gaining Arceus’s powers.",
+  "イラストレーター": "toriyufu",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Bursts_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Zone Smash",
+      "ダメージ": "60+",
+      "効果": "Flip a coin. If heads, this attack does 60 more damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

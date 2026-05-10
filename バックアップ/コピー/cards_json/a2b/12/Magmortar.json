@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#12"
+  ],
+  "名前": "Magmortar",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 3,
+  "説明文": "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Flames_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Smoke Bomb",
+      "ダメージ": "70",
+      "効果": "During your opponent’s next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn’t happen.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fire",
+        "fire",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Magmar"
+      ]
+    ]
+  }
+}

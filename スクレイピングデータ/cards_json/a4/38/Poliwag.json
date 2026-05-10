@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#38"
+  ],
+  "名前": "Poliwag",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.",
+  "イラストレーター": "Asako Ito",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Light_blue_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Cosmetic.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Water Gun",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Poliwhirl"
+      ]
+    ]
+  },
+  "進化前": {}
+}

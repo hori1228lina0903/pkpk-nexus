@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#28"
+  ],
+  "名前": "Helioptile",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Lightning_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Thunder Shock",
+      "ダメージ": "10",
+      "効果": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Heliolisk"
+      ]
+    ]
+  },
+  "進化前": {}
+}

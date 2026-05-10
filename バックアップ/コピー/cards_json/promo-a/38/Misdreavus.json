@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#38"
+  ],
+  "名前": "Misdreavus",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "This Pokémon startles people in the middle of the night. It gathers fear as its energy.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Cresselia ex Drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Psychic_Energy_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Mini_Triangles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Confuse Ray",
+      "ダメージ": "N/A",
+      "効果": "Your opponent’s Active Pokémon is now Confused.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Mismagius,                                         Mismagius ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

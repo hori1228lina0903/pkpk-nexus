@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#75"
+  ],
+  "名前": "Espeon",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "The tip of its forked tail quivers when it is predicting its opponent’s next move.",
+  "イラストレーター": "rika",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Purple_Battle.webp",
+    "Petals_Flair_White_Battle.webp",
+    "Small_Stars_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Energy Crush",
+      "ダメージ": "20x",
+      "効果": "This attack does 20 damage for each Energy attached to all of your opponent’s Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#28"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Eevee"
+      ]
+    ]
+  }
+}

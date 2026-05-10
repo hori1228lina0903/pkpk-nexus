@@ -1,0 +1,54 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#175"
+  ],
+  "名前": "Wobbuffet",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 2,
+  "説明文": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+  "イラストレーター": "GOTO minori",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Light_blue_Battle.webp",
+    "Glowing_Ring_Flair_Purple_Battle.webp",
+    "Mini_Triangles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Reply Strongly",
+      "ダメージ": "30+",
+      "効果": "If this Pokémon was damaged by an attack during your opponent’s last turn while it was in the Active Spot, this attack does 50 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#86"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

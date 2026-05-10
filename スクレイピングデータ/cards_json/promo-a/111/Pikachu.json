@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#111"
+  ],
+  "名前": "Pikachu",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+  "イラストレーター": "sui",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Raichu ex Drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp",
+    "Pikachu_Silhouettes_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Quick Attack",
+      "ダメージ": "20+",
+      "効果": "Flip a coin. If heads, this attack does 30 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Raichu ex,                                         Raichu,                                         Alolan Raichu ex,                                         Alolan Raichu"
+      ]
+    ]
+  },
+  "進化前": {}
+}

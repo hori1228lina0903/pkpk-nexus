@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#56"
+  ],
+  "名前": "Octillery",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "100",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
+  "イラストレーター": "Kagemaru Himeno",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Circles_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Octazooka",
+      "ダメージ": "50",
+      "効果": "If the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn’t happen. This effect lasts until the Defending Pokémon leaves the Active Spot, and it doesn’t stack.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#169"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Remoraid"
+      ]
+    ]
+  }
+}

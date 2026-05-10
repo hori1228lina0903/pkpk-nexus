@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#149"
+  ],
+  "名前": "Honchkrow",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "100",
+  "タイプ": "darkness",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "A single cry from this nocturnal Pokémon, and more than 100 of its Murkrow cronies will assemble.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Blue_Battle.webp",
+    "Mini_Triangles_Flair_Blue_Battle.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Evil Admonition",
+      "ダメージ": "40+",
+      "効果": "This attack does 40 more damage for each of your opponent’s Pokémon in play that has an Ability.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#244"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Murkrow"
+      ]
+    ]
+  }
+}

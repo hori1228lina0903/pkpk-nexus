@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#40"
+  ],
+  "名前": "Mienfoo",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 1,
+  "説明文": "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",
+  "イラストレーター": "Shigenori Negishi",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Kick Shot",
+      "ダメージ": "40",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Mienshao"
+      ]
+    ]
+  },
+  "進化前": {}
+}

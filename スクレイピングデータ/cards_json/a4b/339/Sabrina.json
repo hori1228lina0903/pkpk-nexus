@@ -1,0 +1,46 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a4b#339"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Sabrina",
+  "イラストレーター": "Yuu Nishida",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "Switch out your opponent’s Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Purple_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#225"
+    },
+    {
+      "カード番号": "a1#272"
+    },
+    {
+      "カード番号": "a4b#338"
+    }
+  ],
+  "進化先": {}
+}

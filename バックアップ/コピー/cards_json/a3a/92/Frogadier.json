@@ -1,0 +1,73 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#92"
+  ],
+  "名前": "Frogadier",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+  "イラストレーター": "Souichirou Gunjima",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp",
+    "Big_Rings_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Water Drip",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#88"
+    },
+    {
+      "カード番号": "a4b#112"
+    },
+    {
+      "カード番号": "a4b#113"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Greninja,                                         Greninja ex"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Froakie"
+      ]
+    ]
+  }
+}

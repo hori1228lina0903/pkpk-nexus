@@ -1,0 +1,39 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b2#190"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Diantha",
+  "イラストレーター": "saino misaki",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1250"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "Heal 90 damage from 1 of your [Psychic] Pokémon that has 2 or more [Psychic] Energy attached. If you healed any damage in this way, discard 2 [Psychic] Energy from that Pokémon.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Petals_Flair_Red_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#149"
+    }
+  ],
+  "進化先": {}
+}

@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#89"
+  ],
+  "名前": "Granbull",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "While it has powerful jaws, it doesn’t care for disputes, so it rarely has a chance to display their might.",
+  "イラストレーター": "Suwama Chiaki",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック: Lugia Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Purple_Battle.webp",
+    "Bursts_Flair_Purple_Cosmetic.webp",
+    "Big_Rings_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Wild Tackle",
+      "ダメージ": "100",
+      "効果": "This Pokémon also does 20 damage to itself.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Snubbull"
+      ]
+    ]
+  }
+}

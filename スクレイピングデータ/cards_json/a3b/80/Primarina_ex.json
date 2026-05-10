@@ -1,0 +1,82 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#80"
+  ],
+  "名前": "Primarina ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "180",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp",
+    "Big_Rings_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hydro Pump",
+      "ダメージ": "40+",
+      "効果": "If this Pokémon has at least 1 extra  Energy attached, this attack does 40 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    },
+    {
+      "名前": "Sparkling Aria",
+      "ダメージ": "100",
+      "効果": "Heal 20 damage from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#24"
+    },
+    {
+      "カード番号": "a3b#88"
+    },
+    {
+      "カード番号": "a4b#120"
+    },
+    {
+      "カード番号": "b1#320"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Brionne"
+      ]
+    ]
+  }
+}

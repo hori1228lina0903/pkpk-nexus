@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#20"
+  ],
+  "名前": "Snover",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring.",
+  "イラストレーター": "otumami",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Snowflakes_Flair_Cosmetic.webp",
+    "Small_Hexagons_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Corkscrew Punch",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Abomasnow"
+      ]
+    ]
+  },
+  "進化前": {}
+}

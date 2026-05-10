@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#63"
+  ],
+  "名前": "Lickilicky",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "130",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 3,
+  "説明文": "Lickilicky’s strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky’s tongue can stretch so far.",
+  "イラストレーター": "Suwama Chiaki",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Small_Hearts_Flair_Pink_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rollout",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Lickitung"
+      ]
+    ]
+  }
+}

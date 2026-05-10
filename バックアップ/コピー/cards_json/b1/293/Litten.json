@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#293"
+  ],
+  "名前": "Litten",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 1,
+  "説明文": "If you try too hard to get close to it, it won’t open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+  "イラストレーター": "whomor Inc.",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Heart_Bubbles_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Heat Tackle",
+      "ダメージ": "30",
+      "効果": "This Pokémon also does 10 damage to itself.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#30"
+    },
+    {
+      "カード番号": "a4b#78"
+    },
+    {
+      "カード番号": "a4b#79"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Torracat"
+      ]
+    ]
+  },
+  "進化前": {}
+}

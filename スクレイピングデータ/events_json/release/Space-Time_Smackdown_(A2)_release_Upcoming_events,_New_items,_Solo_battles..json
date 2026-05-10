@@ -1,0 +1,744 @@
+{
+  "url": "https://www.pokemon-zone.com/events/space-time-smackdown-release/",
+  "title": "Space-Time Smackdown (A2) release: Upcoming events, New items, Solo battles.",
+  "period": {
+    "text": "Jan 30",
+    "start_date": "2025-01-30"
+  },
+  "packs": [
+    {
+      "title": "Dialga pack",
+      "link": "/sets/a2/Dialga pack.html",
+      "key_visual": "/images/packs/Dialga pack.webp"
+    },
+    {
+      "title": "Palkia pack",
+      "link": "/sets/a2/Palkia pack.html",
+      "key_visual": "/images/packs/Palkia pack.webp"
+    }
+  ],
+  "game_updates": [],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "A2 Release - Space-Time Smackdown",
+      "period": "Jan 30 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Dialga (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A2",
+          "currency_image": "Emblem Ticket (Space-Time Smackdown).webp"
+        },
+        {
+          "name": "Palkia (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A2",
+          "currency_image": "Emblem Ticket (Space-Time Smackdown).webp"
+        }
+      ]
+    },
+    {
+      "title": "A2 Release - Accessories",
+      "period": "Jan 30 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Space-Time Smackdown: Palkia (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        },
+        {
+          "name": "Space-Time Smackdown: Dialga (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    },
+    {
+      "title": "Period A2 to A2a - Accessories",
+      "period": "Jan 30 - Feb 28, 2025",
+      "items": [
+        {
+          "name": "Lovely Hearts (backdrop)",
+          "price": "50",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Cynthia)",
+      "period": "Jan 30 - Apr 30, 2025",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Jan 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Darkness-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Metal-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Water-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Jan 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Water-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Psychic-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Darkness-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Lightning-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Jan 30 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Lightning type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "A2 Release",
+      "period": "Jan 30 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Collect the highlight card for Yanmega ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Collect cards for Yanmega ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Collect the highlight card for Palkia ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Collect cards for Palkia ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Collect the highlight card for Volkner Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Myths of Sinnoh Resurrected",
+          "rewards": [
+            {
+              "name": "22x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "22"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Volkner Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Collect the highlight card for Supreme Blast Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Unknown Distortion World",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Supreme Blast Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Legends of Newmoon Island and Fullmoon Island",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Lickilicky ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Giants Unleashed",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Garden of Smiling Flowers",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Lickilicky ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Garden of Smiling Flowers 2",
+          "rewards": [
+            {
+              "name": "1x Garden of Smiling Flowers (cover)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PeripheralGoods/CollectionFile/ICON_FILE_100840.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Manaphy Travelogue",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Weavile ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Collect cards for Weavile ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Ecosystem of Stark Mountain",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Spiritomb of Hallowed Tower",
+          "rewards": [
+            {
+              "name": "16x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "16"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Team Galactic Grunt Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Battle with Champion Cynthia",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Team Galactic Grunt Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Infernape ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "A Variety of Pokémon Abilities",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Slightly Scary Pokémon",
+          "rewards": [
+            {
+              "name": "9x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "9"
+            }
+          ]
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Infernape ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Cynthia Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Pokémon Grown Large",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "New Discoveries of the Sinnoh Region",
+          "rewards": [
+            {
+              "name": "12x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Cynthia Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Pachirisu ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Mischievous Shapeshifters",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 70 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 80 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Pachirisu ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Team Galactic, Assemble!",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Space-Time Smackdown Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mismagius ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 90 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 100 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Space-Time Smackdown Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mismagius ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 110 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Gallade ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Space-Time Smackdown Museum 3",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Space-Time Smackdown Museum 4",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Gallade ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 120 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Champion of the Sinnoh Region",
+          "rewards": [
+            {
+              "name": "1x Garchomp (emblem)",
+              "local_file": "Garchomp (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100090_GABURIAS.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 130 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Darkrai ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 140 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Darkrai ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Collect 3 Turtwig cards",
+          "rewards": [
+            {
+              "name": "1x Turtwig (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100250_NAETLE.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Chimchar cards",
+          "rewards": [
+            {
+              "name": "1x Chimchar (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100260_HIKOZARU.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 150 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Space-Time Smackdown)",
+              "local_file": "Emblem Ticket (Space-Time Smackdown).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Dialga ex Deck (Space-Time Smackdown)"
+        },
+        {
+          "description": "Register 155 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "1x Dialga (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100230_DIALGA.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Piplup cards",
+          "rewards": [
+            {
+              "name": "1x Piplup (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100270_POCHAMA.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Dialga ex Deck (Space-Time Smackdown)"
+        }
+      ]
+    }
+  ]
+}

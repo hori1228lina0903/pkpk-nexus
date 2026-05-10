@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-b#21"
+  ],
+  "名前": "Onix",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 3,
+  "説明文": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+  "イラストレーター": "Hitoshi Ariga",
+  "収録セット": [
+    "Promo B"
+  ],
+  "入手方法": [
+    "イベント: Mega Latios ex Drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Tail Smash",
+      "ダメージ": "90",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Mega Steelix ex,                                         Steelix"
+      ]
+    ]
+  },
+  "進化前": {}
+}

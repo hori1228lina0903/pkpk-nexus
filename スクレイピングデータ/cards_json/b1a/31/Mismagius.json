@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#31"
+  ],
+  "名前": "Mismagius",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+  "イラストレーター": "Ligton",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Star_Outlines_Flair_Purple_Cosmetic.webp",
+    "Spinning_Rings_Flair_Purple_Battle.webp",
+    "Shining_Star_Dust_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Stored Power",
+      "ダメージ": "60",
+      "効果": "Move all  Energy from this Pokémon to 1 of your Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Misdreavus"
+      ]
+    ]
+  }
+}

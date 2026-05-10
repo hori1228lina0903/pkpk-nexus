@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#189"
+  ],
+  "名前": "Mega Audino ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "180",
+  "タイプ": "colorless",
+  "弱点": "Fighting",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Mega",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Bright_Stars_Flair_Pink_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp",
+    "Ink_Splatters_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Heartfelt Shine",
+      "ダメージ": "90",
+      "効果": "Heal 30 damage from each of your Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#141"
+    },
+    {
+      "カード番号": "b3#202"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

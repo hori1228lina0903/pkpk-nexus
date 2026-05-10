@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#124"
+  ],
+  "名前": "Hitmonchan ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "130",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Quick Straight",
+      "ダメージ": "50",
+      "効果": "This attack’s damage isn’t affected by Weakness.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#261"
+    },
+    {
+      "カード番号": "b1#279"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

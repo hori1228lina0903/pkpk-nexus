@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#143"
+  ],
+  "名前": "Cinccino",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "colorless",
+  "弱点": "Fighting",
+  "にげる": 1,
+  "説明文": "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Knock Away",
+      "ダメージ": "30+",
+      "効果": "Flip a coin. If heads, this attack does 30 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#179"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Minccino"
+      ]
+    ]
+  }
+}

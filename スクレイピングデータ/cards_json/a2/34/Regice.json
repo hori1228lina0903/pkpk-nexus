@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#34"
+  ],
+  "名前": "Regice",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "With cold air that can reach temperatures as low as −328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.",
+  "イラストレーター": "Tomokazu Komiya",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Palkia Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Small_Hexagons_Flair_Light_blue_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Crystal Body",
+      "効果": "Prevent all effects of attacks used by your opponent’s Pokémon done to this Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Frost Smash",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

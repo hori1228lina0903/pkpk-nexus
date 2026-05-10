@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#99",
+    "a4b#200"
+  ],
+  "名前": "Phanpy",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 2,
+  "説明文": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won’t be able to settle down unless it washes its body.",
+  "イラストレーター": "Midori Harada",
+  "収録セット": [
+    "Wisdom of Sea and Sky",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Ho-Oh Pack",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Reckless Charge",
+      "ダメージ": "30",
+      "効果": "This Pokémon also does 10 damage to itself.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#201"
+    },
+    {
+      "カード番号": "b2#222"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Donphan ex,                                         Donphan"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,65 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#124"
+  ],
+  "名前": "Meowth",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Carefree Steps",
+      "効果": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Feelin’ Fine",
+      "ダメージ": "N/A",
+      "効果": "Draw a card.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#204"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Persian"
+      ]
+    ]
+  },
+  "進化前": {}
+}

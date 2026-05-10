@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mew Pack - カード一覧</title>
+  <link rel="stylesheet" href="/styles/header-footer.css">
+  <link href="/styles/base.css" rel="stylesheet"/>
+  <link href="/styles/cards.css" rel="stylesheet" >
+</head>
+<body>
+  <div id="header"></div>
+
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+  </nav>
+
+  <main class="page-main">
+    <div class="section">
+      <h1 class="main-title">Cards</h1>
+    </div>
+   
+    <div class="sub-container">
+      <div class="search-container">
+        <input type="text" id="cardSearch" class="search-input" placeholder="Search by Card Name">
+        <button id="searchButton" class="search-btn">Search</button>
+        <button id="resetSearch" class="reset-btn">Reset</button>
+      </div>
+
+      <div class="filter-group">
+        <h4>Card Type</h4>
+        <div class="button-group">
+          <button class="filter-btn active" data-type="cardType" data-value="all">All</button>
+          <button class="filter-btn" data-type="cardType" data-value="Pokémon">Pokémon</button>
+          <button class="filter-btn" data-type="cardType" data-value="Trainer">Trainer</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-header">
+          <h4>
+            <span class="filter-title">Expansion Pack</span>
+            <button id="resetPackFilter" class="mini-reset-btn">×</button>
+          </h4>
+        </div>
+        <div class="pack-selection-group">
+          <div class="custom-select">
+            <div class="select-selected">
+              <img src="/images/packs/all.webp" alt="Expansion Pack" class="select-icon">
+              <span>All Expansion Pack</span>
+              <span class="select-arrow">▼</span>
+            </div>
+            <div class="select-items"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 折りたたみボタン -->
+      <div class="filter-group">
+        <div class="filter-header">
+          <h4>
+            <span class="filter-title">Advanced Search Settings</span>
+            <button id="resetAdvancedFilters" class="mini-reset-btn">×</button>
+          </h4>
+        </div>
+        <button id="toggleAdvancedFilters" class="toggle-filters-btn">
+          <span>Show Advanced Filters</span>
+          <span class="toggle-arrow">▼</span>
+        </button>
+      </div>
+
+      <!-- 詳細フィルターを囲むコンテナ（タイプとレア度を含む） -->
+      <div id="advancedFilters" class="advanced-filters-container" style="display: none;">
+        <!-- タイプフィルター -->
+        <div class="filter-group">
+          <h4>Type</h4>
+          <div class="type-group">
+            <button class="filter-btn" data-type="type" data-value="grass">
+              <img src="/images/energy/grass.webp" alt="grass" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="fire">
+              <img src="/images/energy/fire.webp" alt="fire" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="water">
+              <img src="/images/energy/water.webp" alt="water" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="lightning">
+              <img src="/images/energy/lightning.webp" alt="electric" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="psychic">
+              <img src="/images/energy/psychic.webp" alt="psychic" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="fighting">
+              <img src="/images/energy/fighting.webp" alt="fighting" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="darkness">
+              <img src="/images/energy/darkness.webp" alt="darkness" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="metal">
+              <img src="/images/energy/metal.webp" alt="metal" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="dragon">
+              <img src="/images/energy/dragon.webp" alt="dragon" class="type-icon">
+            </button>
+            <button class="filter-btn" data-type="type" data-value="colorless">
+              <img src="/images/energy/colorless.webp" alt="colorless" class="type-icon">
+            </button>
+          </div>
+        </div>
+
+        <!-- レア度フィルター -->
+        <div class="filter-group">
+          <h4>Rarity</h4>
+          <div class="rarity-group">
+            <button class="filter-btn" data-type="rarity" data-value="diamond1">
+              <img src="/images/rarities/diamond.webp" alt="diamond1_1" class="rarity-icon">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="diamond2">
+              <img src="/images/rarities/diamond.webp" alt="diamond2_1" class="rarity-icon">
+              <img src="/images/rarities/diamond.webp" alt="diamond2_2" class="rarity-icon">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="diamond3">
+              <img src="/images/rarities/diamond.webp" alt="diamond3_1" class="rarity-icon">
+              <img src="/images/rarities/diamond.webp" alt="diamond3_2" class="rarity-icon">
+              <img src="/images/rarities/diamond.webp" alt="diamond3_3" class="rarity-icon">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="diamond4">
+              <img src="/images/rarities/diamond.webp" alt="diamond4_1" class="rarity-icon">
+              <img src="/images/rarities/diamond.webp" alt="diamond4_2" class="rarity-icon">
+              <img src="/images/rarities/diamond.webp" alt="diamond4_3" class="rarity-icon">
+              <img src="/images/rarities/diamond.webp" alt="diamond4_4" class="rarity-icon">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="star1">
+              <img src="/images/rarities/star.webp" alt="star1_1" class="rarity-icon2">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="star2">
+              <img src="/images/rarities/star.webp" alt="star2_1" class="rarity-icon2">
+              <img src="/images/rarities/star.webp" alt="star2_2" class="rarity-icon2">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="star3">
+              <img src="/images/rarities/star.webp" alt="star3_1" class="rarity-icon2">
+              <img src="/images/rarities/star.webp" alt="star3_2" class="rarity-icon2">
+              <img src="/images/rarities/star.webp" alt="star3_3" class="rarity-icon2">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="crown1">
+              <img src="/images/rarities/crown.webp" alt="crown" class="rarity-icon">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="shiny1">
+              <img src="/images/rarities/shiny.webp" alt="shiny1_1" class="rarity-icon">
+            </button>
+            <button class="filter-btn" data-type="rarity" data-value="shiny2">
+              <img src="/images/rarities/shiny.webp" alt="shiny2_1" class="rarity-icon">
+              <img src="/images/rarities/shiny.webp" alt="shiny2_2" class="rarity-icon">
+            </button>
+          </div>
+        </div>
+
+        <!-- HPフィルター -->
+        <div class="filter-group">
+          <h4>HP</h4>
+          <div class="hp-filter-group">
+            <select id="hpMin" class="hp-select">
+              <option value="">No min</option>
+            </select>
+            <span>〜</span>
+            <select id="hpMax" class="hp-select">
+              <option value="">No max</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- ワザダメージフィルター -->
+        <div class="filter-group">
+          <h4>Attack Damage</h4>
+          <div class="damage-filter-group">
+            <select id="damageMin" class="damage-select">
+              <option value="">No min</option>
+            </select>
+            <span>〜</span>
+            <select id="damageMax" class="damage-select">
+              <option value="">No max</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- その他フィルター -->
+        <div class="filter-group">
+          <h4>Other</h4>
+          <div class="other-filter-group">
+            <button class="filter-btn" data-type="other" data-value="ability">With Ability</button>
+            <button class="filter-btn" data-type="other" data-value="no-ability">Without Ability</button>
+            <button class="filter-btn" data-type="other" data-value="ex">Pokémon ex</button>
+            <button class="filter-btn" data-type="other" data-value="baby">Baby Pokémon</button>
+            <button class="filter-btn" data-type="other" data-value="ultra-beast">Ultra Beast</button>
+            <button class="filter-btn" data-type="other" data-value="mega">Mega Evolution ex</button>
+          </div>
+        </div>
+
+        <!-- トレーナーズフィルター -->
+        <div class="filter-group">
+          <h4>Trainers</h4>
+          <div class="other-filter-group">
+            <button class="filter-btn" data-type="trainer" data-value="item">Item Cards</button>
+            <button class="filter-btn" data-type="trainer" data-value="tool">Pokémon Tools</button>
+            <button class="filter-btn" data-type="trainer" data-value="fossil">Fossil Items</button>
+            <button class="filter-btn" data-type="trainer" data-value="support">Supporters</button>
+          </div>
+        </div>
+      </div>
+    </div> <!-- sub-container 閉じタグ -->
+    <div class="section">
+      <div class="content">
+        <div class="subheading">
+          <h2>Card List</h2>
+        </div>
+        <!-- 検索結果表示エリア -->
+        <div id="resultsContainer" class="card-container"></div>
+      </div>
+    </div>
+
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>

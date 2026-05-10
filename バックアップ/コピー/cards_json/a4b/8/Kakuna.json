@@ -1,0 +1,74 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#2",
+    "a4b#8"
+  ],
+  "名前": "Kakuna",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
+  "イラストレーター": "Yuka Morii",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Shining Revelry",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Grass_Energy_Flair_Cosmetic.webp",
+    "Clovers_Flair_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "String Shot",
+      "ダメージ": "20",
+      "効果": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#98"
+    },
+    {
+      "カード番号": "a4b#9"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Beedrill,                                         Beedrill ex"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Weedle"
+      ]
+    ]
+  }
+}

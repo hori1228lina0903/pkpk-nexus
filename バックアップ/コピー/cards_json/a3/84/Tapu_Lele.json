@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#84"
+  ],
+  "名前": "Tapu Lele",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
+  "イラストレーター": "Misa Tsutsui",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Petals_Flair_Red_Cosmetic.webp",
+    "Flowers_Flair_Purple_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Energy Arrow",
+      "ダメージ": "N/A",
+      "効果": "This attack does 20 damage to 1 of your opponent’s Pokémon for each Energy attached to that Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#170"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

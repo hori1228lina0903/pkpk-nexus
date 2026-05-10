@@ -1,0 +1,45 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a4b#309"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Eevee Bag",
+  "イラストレーター": "AYUMI ODASHIMA",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Item",
+  "カードの効果": {
+    "発動効果": "Choose 1:During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent’s Active Pokémon.Heal 20 damage from each of your Pokémon that evolves from Eevee.",
+    "追加ルール": "You may play any number of Item cards during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Hearts_Flair_Pink_Cosmetic.webp",
+    "Bubbles_Flair_Pink_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#66"
+    },
+    {
+      "カード番号": "a3b#107"
+    },
+    {
+      "カード番号": "a4b#308"
+    }
+  ],
+  "進化先": {}
+}

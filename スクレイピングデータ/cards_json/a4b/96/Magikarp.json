@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#17",
+    "a4b#96"
+  ],
+  "名前": "Magikarp",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "30",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+  "イラストレーター": "Mitsuhiro Arita",
+  "収録セット": [
+    "Mythical Island",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Ripples_Flair_Light_blue_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Leap Out",
+      "ダメージ": "N/A",
+      "効果": "Switch this Pokémon with 1 of your Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#214"
+    },
+    {
+      "カード番号": "a4b#97"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Gyarados ex,                                         Gyarados,                                         Mega Gyarados ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

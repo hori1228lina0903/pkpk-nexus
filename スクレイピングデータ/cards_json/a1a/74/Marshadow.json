@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#74"
+  ],
+  "名前": "Marshadow",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 1,
+  "説明文": "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it’s imitating.",
+  "イラストレーター": "OKACHEKE",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Revenge",
+      "ダメージ": "40+",
+      "効果": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent’s last turn, this attack does 60 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1a#47"
+    },
+    {
+      "カード番号": "a4b#224"
+    },
+    {
+      "カード番号": "a4b#225"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#111"
+  ],
+  "名前": "Heliolisk",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+  "イラストレーター": "otumami",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "パック: Pikachu Pack",
+    "パック: Mewtwo Pack",
+    "イベント: Bonus Pick - Lightning Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Quick Attack",
+      "ダメージ": "40+",
+      "効果": "Flip a coin. If heads, this attack does 40 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Helioptile"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#16"
+  ],
+  "名前": "Sunkern",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "40",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves.",
+  "イラストレーター": "0313",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Grass_Energy_Flair_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Blot",
+      "ダメージ": "20",
+      "効果": "Heal 10 damage from this Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Sunflora"
+      ]
+    ]
+  },
+  "進化前": {}
+}

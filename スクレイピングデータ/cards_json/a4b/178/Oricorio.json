@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#77",
+    "a4b#178"
+  ],
+  "名前": "Oricorio",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "70",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
+  "イラストレーター": "Jerky",
+  "収録セット": [
+    "Celestial Guardians",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Purple_Cosmetic.webp",
+    "Glowing_Ring_Flair_Purple_Battle.webp",
+    "Tiny_Twinkles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Spiteful Dance",
+      "ダメージ": "20+",
+      "効果": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent’s last turn, this attack does 60 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#179"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

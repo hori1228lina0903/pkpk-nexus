@@ -1,0 +1,68 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#49"
+  ],
+  "名前": "Drizzile",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "water",
+  "弱点": "Lightning",
+  "にげる": 1,
+  "説明文": "Highly intelligent but also very lazy, it defends its home by laying traps.",
+  "イラストレーター": "Mizue",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ink_Splatters_Flair_Light_blue_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Cosmetic.webp",
+    "Star_Outlines_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Swift Shot",
+      "効果": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 20 damage to your opponent’s Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Water Gun",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Inteleon"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Sobble"
+      ]
+    ]
+  }
+}

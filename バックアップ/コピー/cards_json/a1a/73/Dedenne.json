@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#73"
+  ],
+  "名前": "Dedenne",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "It’s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people’s homes and charge itself.",
+  "イラストレーター": "Yuu Nishida",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Thunder Shock",
+      "ダメージ": "10",
+      "効果": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1a#30"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.pokemon-zone.com/events/slowpoke-drop-event/",
+  "title": "Slowpoke Drop Event",
+  "period": {
+    "text": "Apr 9 - Apr 26",
+    "start_date": "2026-04-09",
+    "end_date": "2026-04-26"
+  },
+  "promo_pack": {
+    "name": "Promo Pack B Series Vol. 6",
+    "cards": [
+      {
+        "name": "Slowpoke",
+        "url": "/cards/promo-b/42/slowpoke/"
+      },
+      {
+        "name": "Electrike",
+        "url": "/cards/promo-b/43/electrike/"
+      },
+      {
+        "name": "Varoom",
+        "url": "/cards/promo-b/44/varoom/"
+      },
+      {
+        "name": "Chatot",
+        "url": "/cards/promo-b/46/chatot/"
+      },
+      {
+        "name": "Haxorus",
+        "url": "/cards/promo-b/45/haxorus/"
+      }
+    ]
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Water",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Water",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Mega Shine cards included in your deck"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Water",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}

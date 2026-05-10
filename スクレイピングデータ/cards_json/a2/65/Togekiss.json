@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#65"
+  ],
+  "名前": "Togekiss",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "140",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they’ve hardly been seen at all.",
+  "イラストレーター": "kawayoo",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック: Palkia Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Battle.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Overdrive Smash",
+      "ダメージ": "60",
+      "効果": "During your next turn, this Pokémon’s Overdrive Smash attack does +60 damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Togetic"
+      ]
+    ]
+  }
+}

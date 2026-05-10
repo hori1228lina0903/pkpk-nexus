@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#84"
+  ],
+  "名前": "Gliscor",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 2,
+  "説明文": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+  "イラストレーター": "Mizue",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Small_Hexagons_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Acrobatics",
+      "ダメージ": "20+",
+      "効果": "Flip 2 coins. This attack does 20 more damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Gligar"
+      ]
+    ]
+  }
+}

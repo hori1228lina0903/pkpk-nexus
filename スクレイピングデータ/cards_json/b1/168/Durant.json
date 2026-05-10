@@ -1,0 +1,52 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#168"
+  ],
+  "名前": "Durant",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+  "イラストレーター": "kodama",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック: Mega Blaziken Pack",
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Metal_Energy_Flair_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Bite Together",
+      "ダメージ": "40+",
+      "効果": "If Durant is on your Bench, this attack does 40 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

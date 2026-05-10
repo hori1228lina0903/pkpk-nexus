@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#80"
+  ],
+  "名前": "Suicune ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Legendary Pulse",
+      "効果": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Crystal Waltz",
+      "ダメージ": "20x",
+      "効果": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent’s).",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4a#20"
+    },
+    {
+      "カード番号": "a4a#90"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

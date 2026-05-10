@@ -1,0 +1,39 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a4#201"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Hiker",
+  "イラストレーター": "Hideki Ishikawa",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "For each of your [Fighting] Pokémon in play, look at that many cards from the top of your deck and put them back in any order.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#161"
+    }
+  ],
+  "進化先": {}
+}

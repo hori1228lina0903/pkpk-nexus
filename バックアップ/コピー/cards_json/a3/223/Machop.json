@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#223"
+  ],
+  "名前": "Machop",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 2,
+  "説明文": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Poké_Ball_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Knuckle Punch",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#143"
+    },
+    {
+      "カード番号": "a4b#189"
+    },
+    {
+      "カード番号": "a4b#190"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Machoke"
+      ]
+    ]
+  },
+  "進化前": {}
+}

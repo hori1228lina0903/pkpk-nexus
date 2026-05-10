@@ -1,0 +1,69 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#171"
+  ],
+  "名前": "Cosmog",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn’t seem to care.",
+  "イラストレーター": "Yoko Hishida",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Teleport",
+      "ダメージ": "N/A",
+      "効果": "Switch this Pokémon with 1 of your Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#85"
+    },
+    {
+      "カード番号": "a4b#180"
+    },
+    {
+      "カード番号": "a4b#181"
+    },
+    {
+      "カード番号": "promo-a#67"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Cosmoem"
+      ]
+    ]
+  },
+  "進化前": {}
+}

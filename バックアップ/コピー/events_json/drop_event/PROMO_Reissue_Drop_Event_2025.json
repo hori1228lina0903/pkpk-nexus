@@ -1,0 +1,20 @@
+{
+  "url": "https://www.pokemon-zone.com/events/promo-reissue-drop-event-2025/",
+  "title": "PROMO Reissue Drop Event 2025",
+  "period": {
+    "text": "Oct 30 - Nov 16",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-16"
+  },
+  "promo_pack": {
+    "name": "",
+    "cards": []
+  },
+  "battles": [
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Water",
+      "tasks": []
+    }
+  ]
+}

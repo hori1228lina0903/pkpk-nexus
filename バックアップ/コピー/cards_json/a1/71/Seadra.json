@@ -1,0 +1,65 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#71"
+  ],
+  "名前": "Seadra",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "70",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
+  "イラストレーター": "Sanosuke Sakuma",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Pikachu Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Light_blue_Cosmetic.webp",
+    "Big_Rings_Flair_Blue_Battle.webp",
+    "Tiny_Twinkles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Water Arrow",
+      "ダメージ": "N/A",
+      "効果": "This attack does 50 damage to 1 of your opponent’s Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Kingdra ex"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Horsea"
+      ]
+    ]
+  }
+}

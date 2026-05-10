@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#66"
+  ],
+  "名前": "Lokix",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long.",
+  "イラストレーター": "Souichirou Gunjima",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Rounded_Squares_Flair_Blue_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rocket Jump",
+      "ダメージ": "80",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Nymble"
+      ]
+    ]
+  }
+}

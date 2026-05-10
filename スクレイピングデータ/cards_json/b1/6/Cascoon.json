@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#6"
+  ],
+  "名前": "Cascoon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+  "イラストレーター": "GOSSAN",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Foliage_Flair_Battle.webp",
+    "Grass_Energy_Flair_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Harden",
+      "ダメージ": "N/A",
+      "効果": "During your opponent’s next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Dustox"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Wurmple"
+      ]
+    ]
+  }
+}

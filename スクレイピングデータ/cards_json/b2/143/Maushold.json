@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#143"
+  ],
+  "名前": "Maushold",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "70",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.",
+  "イラストレーター": "MINAMINAMI Take",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Family Beatdown",
+      "ダメージ": "60x",
+      "効果": "Flip a coin for each Tandemaus and Maushold you have in play. This attack does 60 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Tandemaus"
+      ]
+    ]
+  }
+}

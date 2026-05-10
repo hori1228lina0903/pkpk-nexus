@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#135"
+  ],
+  "名前": "Bidoof",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+  "イラストレーター": "Kagemaru Himeno",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Super Fang",
+      "ダメージ": "N/A",
+      "効果": "Halve your opponent’s Active Pokémon’s remaining HP, rounded down.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#177"
+    },
+    {
+      "カード番号": "b1#316"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Bibarel ex,                                         Bibarel"
+      ]
+    ]
+  },
+  "進化前": {}
+}

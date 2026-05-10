@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#59"
+  ],
+  "名前": "Raticate",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
+  "イラストレーター": "Kyoko Umemoto",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Feathers_Flair_Gray_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Tackle",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Rattata"
+      ]
+    ]
+  }
+}

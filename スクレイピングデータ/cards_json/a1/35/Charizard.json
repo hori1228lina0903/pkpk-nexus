@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#35"
+  ],
+  "名前": "Charizard",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "150",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 2,
+  "説明文": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+  "イラストレーター": "takuyoa",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "イベント: Rare Pick - Fire Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Flames_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Fire Spin",
+      "ダメージ": "150",
+      "効果": "Discard 2  Energy from this Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "fire",
+        "fire",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Charmeleon"
+      ]
+    ]
+  }
+}

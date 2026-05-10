@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#51"
+  ],
+  "名前": "Espathra",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.",
+  "イラストレーター": "Sanosuke Sakuma",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Glowing_Ring_Flair_Purple_Battle.webp",
+    "Ripples_Flair_Purple_Cosmetic.webp",
+    "Star_Outlines_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Psychic",
+      "ダメージ": "30+",
+      "効果": "This attack does 20 more damage for each Energy attached to your opponent’s Active Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Flittle"
+      ]
+    ]
+  }
+}

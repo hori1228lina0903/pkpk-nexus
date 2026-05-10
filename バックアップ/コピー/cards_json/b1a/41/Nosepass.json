@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#41"
+  ],
+  "名前": "Nosepass",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 2,
+  "説明文": "The magnet in Nosepass’s nose provides an unerring compass, making it an excellent partner for Trainers going on a journey.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rising Lunge",
+      "ダメージ": "10+",
+      "効果": "Flip a coin. If heads, this attack does 20 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Probopass,                                         Probopass ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

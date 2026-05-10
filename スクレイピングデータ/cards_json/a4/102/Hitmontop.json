@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#102"
+  ],
+  "名前": "Hitmontop",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 2,
+  "説明文": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
+  "イラストレーター": "Hisao Nakamura",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック: Lugia Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Piercing Spin",
+      "ダメージ": "20",
+      "効果": "This attack also does 20 damage to 1 of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

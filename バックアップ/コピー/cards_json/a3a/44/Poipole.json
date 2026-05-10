@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#44"
+  ],
+  "名前": "Poipole",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "darkness",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "イベント: Bonus Pick - Ultra Beast Mass Outbreak Event",
+    "イベント: Bonus Pick - Poipole and Stufful Wonder Pick",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Ultra_Beast_Flair_Cosmetic.webp",
+    "Bursts_Flair_Blue_Cosmetic.webp",
+    "Small_Hearts_Flair_Blue_Cosmetic.webp",
+    "Ultra_Beast_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "2-Step",
+      "ダメージ": "20x",
+      "効果": "Flip 2 coins. This attack does 20 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-a#82"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Naganadel"
+      ]
+    ]
+  },
+  "進化前": {}
+}

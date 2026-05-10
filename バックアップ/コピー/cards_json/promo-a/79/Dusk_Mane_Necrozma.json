@@ -1,0 +1,52 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#79"
+  ],
+  "名前": "Dusk Mane Necrozma",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "110",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "This is its form while it is devouring the light of Solgaleo. It pounces on foes and then slashes them with the claws on its four limbs and back.",
+  "イラストレーター": "nagimiso",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Ultra Beast Drop Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Ultra_Beast_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Sword_Flash_Flair_Yellow_Battle.webp",
+    "Ultra_Beast_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Black Metal",
+      "ダメージ": "100",
+      "効果": "Discard a  Energy from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "metal",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

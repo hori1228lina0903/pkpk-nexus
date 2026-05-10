@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#289"
+  ],
+  "名前": "Victreebel",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "140",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+  "イラストレーター": "MAHOU",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Glowing_Ring_Flair_Yellow-green_Battle.webp",
+    "Digital_Squares_Flair_Yellow-green_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Fragrance Trap",
+      "効果": "If this Pokémon is in the Active Spot, once during your turn, you may switch in 1 of your opponent’s Benched Basic Pokémon to the Active Spot."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Vine Whip",
+      "ダメージ": "60",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#20"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Weepinbell"
+      ]
+    ]
+  }
+}

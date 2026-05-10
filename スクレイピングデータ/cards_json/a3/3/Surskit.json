@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#3"
+  ],
+  "名前": "Surskit",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Grass_Energy_Flair_Cosmetic.webp",
+    "Ripples_Flair_Light_blue_Cosmetic.webp",
+    "Clovers_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Quick Attack",
+      "ダメージ": "10+",
+      "効果": "Flip a coin. If heads, this attack does 20 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Masquerain"
+      ]
+    ]
+  },
+  "進化前": {}
+}

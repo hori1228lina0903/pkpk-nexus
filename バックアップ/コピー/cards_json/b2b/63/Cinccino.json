@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#63"
+  ],
+  "名前": "Cinccino",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "colorless",
+  "弱点": "Fighting",
+  "にげる": 1,
+  "説明文": "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
+  "イラストレーター": "Kagemaru Himeno",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Gentle Slap",
+      "ダメージ": "60",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Minccino"
+      ]
+    ]
+  }
+}

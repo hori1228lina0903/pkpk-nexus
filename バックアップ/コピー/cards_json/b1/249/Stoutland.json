@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#249"
+  ],
+  "名前": "Stoutland",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "150",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 3,
+  "説明文": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.",
+  "イラストレーター": "Whisker",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Star_Outlines_Flair_Purple_Battle.webp",
+    "Rounded_Squares_Flair_Purple_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Poké_Ball_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Dangerous Bite",
+      "ダメージ": "70+",
+      "効果": "If your opponent’s Active Pokémon is a Basic Pokémon, this attack does 70 more damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#203"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Herdier"
+      ]
+    ]
+  }
+}

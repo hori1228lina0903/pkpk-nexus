@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#60"
+  ],
+  "名前": "Origin Forme Dialga",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form.",
+  "イラストレーター": "akagi",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Tiny_Twinkles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Time Mash",
+      "ダメージ": "100",
+      "効果": "Flip a coin. If tails, during your next turn, this Pokémon can’t attack.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "metal",
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

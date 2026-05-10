@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#38"
+  ],
+  "名前": "Donphan",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 3,
+  "説明文": "Donphan is covered in tough hide, so even being hit by a car won’t faze this Pokémon. However, it is extremely susceptible to rain.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Puffs_Flair_Gray_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rolling Spin",
+      "ダメージ": "60",
+      "効果": "During your next turn, this Pokémon’s Rolling Spin attack does +60 damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting",
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Phanpy"
+      ]
+    ]
+  }
+}

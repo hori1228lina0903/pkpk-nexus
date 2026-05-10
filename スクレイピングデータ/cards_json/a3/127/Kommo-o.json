@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#127"
+  ],
+  "名前": "Kommo-o",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "150",
+  "タイプ": "dragon",
+  "弱点": "N/A",
+  "にげる": 2,
+  "説明文": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
+  "イラストレーター": "hatachu",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Clanging Scales",
+      "ダメージ": "130",
+      "効果": "During your opponent’s next turn, this Pokémon takes +30 damage from attacks.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Hakamo-o"
+      ]
+    ]
+  }
+}

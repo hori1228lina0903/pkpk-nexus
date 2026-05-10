@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ho-oh Pack - ホウオウパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/a4/Ho-oh Pack.html">Ho-oh Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Ho-oh Pack</h1>
+      <h4>July 30, 2025</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Ho-oh Pack.webp" alt="Ho-oh Pack" class="top-pack-image">
+      <p class="description">
+        Ho-Oh Pack is one of the booster packs in Wisdom of Sea and Sky (A4).
+        It mainly features Fire-type Pokémon along with cards that support powerful attacks and energy recovery, complementing early pressure enabled by Baby Pokémon.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item pack-select">
+        <a href="/sets/a4/Ho-oh Pack.html" >
+          <img src="/images/packs/Ho-oh Pack.webp" alt="Ho-oh Pack" class="pack-image">
+        </a>
+        <div class="set-name">Ho-oh Pack</div>
+      </div>
+      <div class="pack-item">
+        <a href="/sets/a4/Lugia Pack.html">
+          <img src="/images/packs/Lugia Pack.webp" alt="Lugia Pack" class="pack-image">
+        </a>
+        <div class="set-name">Lugia Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+     <div class="must-pull-cards">
+        <img src="/images/cards/a4/32.webp" alt="Magby" class="card-image2">
+        <img src="/images/cards/a4/109.webp" alt="Crobat_ex" class="card-image2">
+        <img src="/images/cards/a4/134.webp" alt="Eevee" class="card-image2">
+        <img src="/images/cards/a4/158.webp" alt="Silver" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Ho-oh Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

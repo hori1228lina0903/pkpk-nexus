@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#49"
+  ],
+  "名前": "Snorlax",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 4,
+  "説明文": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+  "イラストレーター": "okayamatakatoshi",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Manaphy and Snorlax Wonder Pick Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Rounded_Squares_Flair_Red_Battle_.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Collapse",
+      "ダメージ": "100",
+      "効果": "This Pokémon is now Asleep.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2a#63"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

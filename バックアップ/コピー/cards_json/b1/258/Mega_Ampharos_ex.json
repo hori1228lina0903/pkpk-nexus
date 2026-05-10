@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#258"
+  ],
+  "名前": "Mega Ampharos ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "210",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "Massive amounts of energy intensely stimulated Ampharos’s cells, apparently awakening its long-sleeping dragon’s blood.",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "Mega"
+  ],
+  "エフェクト一覧": [
+    "Mega_Evolution_Flair_Battle.webp",
+    "Digital_Squares_Flair_Orange_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Shining_Star_Dust_Flair_Gold_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Lightning Lancer",
+      "ダメージ": "100",
+      "効果": "1 of your opponent’s Benched Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, also do 20 damage to it.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#85"
+    },
+    {
+      "カード番号": "b1#277"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Flaaffy"
+      ]
+    ]
+  }
+}

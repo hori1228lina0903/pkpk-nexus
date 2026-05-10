@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#123"
+  ],
+  "名前": "Scizor",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "100",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "This Pokémon’s pincers, which contain steel, can crush any hard object they get ahold of into bits.",
+  "イラストレーター": "Ryuta Fuse",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Metal_Energy_Flair_Cosmetic.webp",
+    "Sword_Flash_Flair_Purple_Battle.webp",
+    "Poké_Ball_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Gale Thrust",
+      "ダメージ": "50+",
+      "効果": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#180"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Scyther"
+      ]
+    ]
+  }
+}

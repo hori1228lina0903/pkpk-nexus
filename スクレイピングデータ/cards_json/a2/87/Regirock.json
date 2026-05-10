@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#87"
+  ],
+  "名前": "Regirock",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 3,
+  "説明文": "Every bit of Regirock’s body is made of stone. As parts of its body erode, this Pokémon sticks rocks to itself to repair what’s been lost.",
+  "イラストレーター": "Tomokazu Komiya",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Palkia Pack",
+    "パック: Dialga Pack",
+    "イベント: Bonus Pick - Fighting-Type Pokemon Mass Outbreak Event",
+    "イベント: Rare Pick - Fighting-Type Pokemon Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Sword_Flash_Flair_Orange_Battle.webp",
+    "Puffs_Flair_White_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Exoskeleton",
+      "効果": "This Pokémon takes −20 damage from attacks."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Boulder Crush",
+      "ダメージ": "100",
+      "効果": "N/A",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting",
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

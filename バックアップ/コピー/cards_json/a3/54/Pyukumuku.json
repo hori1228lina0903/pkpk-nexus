@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#54"
+  ],
+  "名前": "Pyukumuku",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+  "イラストレーター": "You Iribi",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Circles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Innards Out",
+      "効果": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent’s Pokémon, do 50 damage to the Attacking Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Sprinkle Water",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#163"
+    },
+    {
+      "カード番号": "a4a#97"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

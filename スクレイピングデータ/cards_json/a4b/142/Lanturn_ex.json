@@ -1,0 +1,72 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#65",
+    "a4b#142"
+  ],
+  "名前": "Lanturn ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "150",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA Igarashi",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Lugia Pack",
+    "イベント: Rare Pick - Lightning-Type Pokemon Mass Outbreak Event",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Flashing Signal",
+      "ダメージ": "80",
+      "効果": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed. If tails, your opponent’s Active Pokémon is now Confused.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "lightning",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#189"
+    },
+    {
+      "カード番号": "a4#204"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Chinchou"
+      ]
+    ]
+  }
+}

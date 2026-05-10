@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#38"
+  ],
+  "名前": "Onix",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 3,
+  "説明文": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+  "イラストレーター": "Naoyo Kimura",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Dig",
+      "ダメージ": "30",
+      "効果": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Steelix,                                         Mega Steelix ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

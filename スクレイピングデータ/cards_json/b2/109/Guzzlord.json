@@ -1,0 +1,54 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#109"
+  ],
+  "名前": "Guzzlord",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "150",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 4,
+  "説明文": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.",
+  "イラストレーター": "Anesaki Dynamic",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Big_Rings_Flair_Blue_Battle.webp",
+    "Ultra_Beast_Flair_Battle.webp",
+    "Ultra_Beast_Flair_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Breakcore",
+      "ダメージ": "N/A",
+      "効果": "Flip a coin. If heads, discard your opponent’s Active Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness",
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#182"
+  ],
+  "名前": "Melmetal",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "130",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Small_Hexagons_Flair_Gray_Battle.webp",
+    "Small_Stars_Flair_Gray_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Hard Coat",
+      "効果": "This Pokémon takes −20 damage from attacks."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Heavy Impact",
+      "ダメージ": "120",
+      "効果": "N/A",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "metal",
+        "metal",
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Meltan"
+      ]
+    ]
+  }
+}

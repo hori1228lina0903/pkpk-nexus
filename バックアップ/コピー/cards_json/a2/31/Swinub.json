@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#31"
+  ],
+  "名前": "Swinub",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+  "イラストレーター": "Eri Yamaki",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Star_Outlines_Flair_Purple_Cosmetic.webp",
+    "Snowflakes_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Headbutt",
+      "ダメージ": "40",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Piloswine"
+      ]
+    ]
+  },
+  "進化前": {}
+}

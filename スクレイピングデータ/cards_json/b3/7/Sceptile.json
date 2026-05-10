@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#7"
+  ],
+  "名前": "Sceptile",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "140",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 1,
+  "説明文": "It agilely flits through the jungle and uses the sharp-edged leaves on its arms to cut down its prey.",
+  "イラストレーター": "kawayoo",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Foliage_Flair_Cosmetic.webp",
+    "Digital_Squares_Flair_Yellow-green_Battle.webp",
+    "Glowing_Ring_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Leaf Blade",
+      "ダメージ": "70+",
+      "効果": "Flip a coin. If heads, this attack does 50 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Grovyle"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#40"
+  ],
+  "名前": "Hitmonlee",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 1,
+  "説明文": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+  "イラストレーター": "Tomokazu Komiya",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "イベント: Bonus Pick - Fighting-Type Pokemon Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Kick",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

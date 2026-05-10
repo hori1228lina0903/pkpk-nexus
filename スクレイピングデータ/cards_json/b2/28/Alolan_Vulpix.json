@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#28"
+  ],
+  "名前": "Alolan Vulpix",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.",
+  "イラストレーター": "Saya Tsuruta",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "イベント: Bonus Pick - Cinderace and Alolan Vulpix Wonderpick",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Snowflakes_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Gnaw",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-b#32"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Alolan Ninetales ex,                                         Alolan Ninetales"
+      ]
+    ]
+  },
+  "進化前": {}
+}

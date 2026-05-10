@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#108"
+  ],
+  "名前": "Drifblim",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 2,
+  "説明文": "They carry people and Pokémon, but the wind can catch them, so there can’t be a fixed destination.",
+  "イラストレーター": "Yumi",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "イベント: Bonus Pick - Eevee and Drifblim Wonderpick",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Digital_Squares_Flair_Purple_Battle.webp",
+    "Flowers_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Balloon Barrage",
+      "ダメージ": "20+",
+      "効果": "This attack does 20 more damage for each Energy attached to this Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-b#10"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Drifloon"
+      ]
+    ]
+  }
+}

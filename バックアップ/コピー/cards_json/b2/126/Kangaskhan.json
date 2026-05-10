@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#126"
+  ],
+  "名前": "Kangaskhan",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 3,
+  "説明文": "There are records of a lost human child being raised by a childless Kangaskhan.",
+  "イラストレーター": "kawayoo",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Spinning_Rings_Flair_Yellow_Battle.webp",
+    "Small_Stars_Flair_Gray_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Steady Punch",
+      "ダメージ": "60+",
+      "効果": "Flip a coin. If heads, this attack does 30 more damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#56"
+  ],
+  "名前": "Druddigon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "dragon",
+  "弱点": "N/A",
+  "にげる": 2,
+  "説明文": "Druddigon lives in caves, but it never skips sunbathing—it won’t be able to move if its body gets too cold.",
+  "イラストレーター": "Ryota Murayama",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Dragon_Energy_Flair_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Rough Skin",
+      "効果": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent’s Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Dragon Claw",
+      "ダメージ": "90",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fire",
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

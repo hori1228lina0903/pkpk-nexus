@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#164"
+  ],
+  "名前": "Cramorant",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "Cramorant takes advantage of Arrokuda’s frantic thrashing to help spit Arrokuda out at high speed.",
+  "イラストレーター": "osare",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Mini_Triangles_Flair_Blue_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Spit-Out Shot",
+      "ダメージ": "N/A",
+      "効果": "This attack does 30 damage to 1 of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#45"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

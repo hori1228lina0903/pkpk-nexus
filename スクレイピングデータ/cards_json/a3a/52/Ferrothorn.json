@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#52"
+  ],
+  "名前": "Ferrothorn",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+  "イラストレーター": "Masakazu Fukuda",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Blue_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Battle.webp",
+    "Sword_Flash_Flair_Green_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Steel Spikes",
+      "効果": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent’s Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Spinning Attack",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "metal",
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Ferroseed"
+      ]
+    ]
+  }
+}

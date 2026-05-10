@@ -1,0 +1,615 @@
+{
+  "url": "https://www.pokemon-zone.com/events/heliolisk-buneary-wonder-pick/",
+  "title": "Heliolisk and Buneary Wonder Pick Event",
+  "period": {
+    "text": "Jan 9 - Jan 26",
+    "start_date": "2026-01-09",
+    "end_date": "2026-01-26"
+  },
+  "promo_cards": [
+    {
+      "name": "Heliolisk Rare",
+      "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+      "url": "/cards/promo-b/18/heliolisk/",
+      "id": "promo-b/18",
+      "set": "promo-b"
+    },
+    {
+      "name": "Buneary Rare",
+      "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+      "url": "/cards/promo-b/19/buneary/",
+      "id": "promo-b/19",
+      "set": "promo-b"
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Heliolisk and Buneary - Cards",
+      "period": "Jan 9 - Jan 26, 2026",
+      "items": [
+        {
+          "name": "Buneary",
+          "description": "",
+          "price": "1",
+          "currency": "Promo Card Exchange Ticket (Goomy Wonder Pick Event)"
+        },
+        {
+          "name": "Heliolisk",
+          "description": "",
+          "price": "1",
+          "currency": "Promo Card Exchange Ticket (Goomy Wonder Pick Event)"
+        }
+      ]
+    },
+    {
+      "title": "Heliolisk and Buneary - Wonder Pick Event",
+      "period": "Jan 9 - Jan 26, 2026",
+      "items": [
+        {
+          "name": "Goomy (cover)",
+          "description": "Goomy (cover) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Goomy)"
+        },
+        {
+          "name": "Goomy (icon)",
+          "description": "Goomy (icon) ",
+          "price": "2",
+          "currency": "Event Shop Ticket (Goomy)"
+        },
+        {
+          "name": "New Year 2026 (backdrop)",
+          "description": "New Year 2026 (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Goomy)"
+        },
+        {
+          "name": "Shinedust            x50",
+          "description": "Shinedust ",
+          "price": "1",
+          "currency": "Event Shop Ticket (Goomy)"
+        },
+        {
+          "name": "Goomy (playmat)",
+          "description": "Goomy (playmat) ",
+          "price": "10",
+          "currency": "Event Shop Ticket (Goomy)"
+        },
+        {
+          "name": "Goomy (backdrop)",
+          "description": "Goomy (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Goomy)"
+        },
+        {
+          "name": "Goomy (card sleeve)",
+          "description": "Goomy (card sleeve) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Goomy)"
+        },
+        {
+          "name": "Goomy (Pokémon coin)",
+          "description": "Goomy (Pokémon coin) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Goomy)"
+        }
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Heliolisk and Buneary Wonderpick",
+      "period": "Jan 9 - Jan 19, 2026",
+      "missions": [
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "1x Promo Card Exchange Ticket (Goomy Wonder Pick Event)",
+              "local_file": "Promo Card Exchange Ticket (Goomy Wonder Pick Event).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_09.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 1 Heliolisk Promo Card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Collect 1 Buneary Promo Card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 1 time",
+          "rewards": [
+            {
+              "name": "2000x Shinedust",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHINEDUST.webp",
+              "amount": "2000",
+              "type": "main"
+            },
+            {
+              "name": "2x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 2 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/2"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 4 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/4"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Wonder pick 6 times",
+          "rewards": [
+            {
+              "name": "5x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "5",
+              "type": "main"
+            }
+          ],
+          "target": "0/6"
+        },
+        {
+          "description": "Collect 5 Lightning cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Colorless cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Lightning cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 10 Colorless cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Goomy)",
+              "local_file": "Event Shop Ticket (Goomy).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        }
+      ]
+    }
+  ],
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Uncommon",
+          "full_name": "Heliolisk Uncommon - Crimson Blaze (B1a) #29",
+          "url": "/cards/b1a/29/heliolisk/",
+          "id": "b1a/29"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Goomy)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Common",
+          "full_name": "Buneary Common - Crimson Blaze (B1a) #62",
+          "url": "/cards/b1a/62/buneary/",
+          "id": "b1a/62"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Heliolisk Rare",
+          "full_name": "Heliolisk Rare - Promo B (PROMO-B) #18",
+          "url": "/cards/promo-b/18/heliolisk/",
+          "id": "promo-b/18"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        },
+        {
+          "type": "card",
+          "name": "Buneary Rare",
+          "full_name": "Buneary Rare - Promo B (PROMO-B) #19",
+          "url": "/cards/promo-b/19/buneary/",
+          "id": "promo-b/19"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    }
+  ]
+}

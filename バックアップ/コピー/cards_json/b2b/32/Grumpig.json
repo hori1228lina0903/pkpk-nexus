@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#32"
+  ],
+  "名前": "Grumpig",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "psychic",
+  "弱点": "Darkness",
+  "にげる": 3,
+  "説明文": "It uses black pearls to amplify its psychic power. It does a strange dance to control foes’ minds.",
+  "イラストレーター": "Sanosuke Sakuma",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Cosmetic.webp",
+    "Spinning_Rings_Flair_Purple_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Swaying Dance",
+      "ダメージ": "40+",
+      "効果": "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Spoink"
+      ]
+    ]
+  }
+}

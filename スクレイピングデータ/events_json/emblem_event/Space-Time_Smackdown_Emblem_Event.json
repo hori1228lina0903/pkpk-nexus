@@ -1,0 +1,117 @@
+{
+  "url": "https://www.pokemon-zone.com/events/space-time-smackdown-emblem-event/",
+  "title": "Space-Time Smackdown Emblem Event",
+  "period": {
+    "text": "Feb 4 - Feb 25",
+    "start_date": "2025-02-04",
+    "end_date": "2025-02-25"
+  },
+  "emblems": [
+    {
+      "name": "Space-Time Smackdown Emblem Event Participation Emblem",
+      "local_file": "Space-Time Smackdown Emblem Event Participation Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100310_EVENT3_NOR.webp",
+      "position": 0,
+      "condition": "White emblem Winning 1 versus battle"
+    },
+    {
+      "name": "Space-Time Smackdown Emblem Event Bronze Emblem",
+      "local_file": "Space-Time Smackdown Emblem Event Bronze Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100320_EVENT3_BRZ.webp",
+      "position": 1,
+      "condition": "Bronze emblem Winning 5 versus battle"
+    },
+    {
+      "name": "Space-Time Smackdown Emblem Event Silver Emblem",
+      "local_file": "Space-Time Smackdown Emblem Event Silver Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100330_EVENT3_SIL.webp",
+      "position": 2,
+      "condition": "Silver emblem Winning 25 versus battle"
+    },
+    {
+      "name": "Space-Time Smackdown Emblem Event Gold Emblem",
+      "local_file": "Space-Time Smackdown Emblem Event Gold Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100340_EVENT3_GOL.webp",
+      "position": 3,
+      "condition": "Gold emblem Winning 45 versus battle"
+    }
+  ],
+  "missions": [
+    {
+      "name": "Space-Time Smackdown Emblem Event Missions",
+      "period": "Feb 4 - Feb 25, 2025",
+      "missions": [
+        {
+          "description": "Win 1 versus battle",
+          "reward": {
+            "name": "50x Shinedust",
+            "amount": "50"
+          }
+        },
+        {
+          "description": "Win 3 versus battles",
+          "reward": {
+            "name": "100x Shinedust",
+            "amount": "100"
+          }
+        },
+        {
+          "description": "Win 5 versus battles",
+          "reward": {
+            "name": "200x Shinedust",
+            "amount": "200"
+          }
+        },
+        {
+          "description": "Win 10 versus battles",
+          "reward": {
+            "name": "500x Shinedust",
+            "amount": "500"
+          }
+        },
+        {
+          "description": "Win 25 versus battles",
+          "reward": {
+            "name": "1000x Shinedust",
+            "amount": "1000"
+          }
+        },
+        {
+          "description": "Win 50 versus battles",
+          "reward": {
+            "name": "2000x Shinedust",
+            "amount": "2000"
+          }
+        },
+        {
+          "description": "Participate in 1 versus battle",
+          "reward": {
+            "name": "3x Pack Hourglass",
+            "amount": "3"
+          }
+        },
+        {
+          "description": "Participate in 3 versus battles",
+          "reward": {
+            "name": "3x Pack Hourglass",
+            "amount": "3"
+          }
+        },
+        {
+          "description": "Participate in 5 versus battles",
+          "reward": {
+            "name": "6x Pack Hourglass",
+            "amount": "6"
+          }
+        },
+        {
+          "description": "Participate in 10 versus battles",
+          "reward": {
+            "name": "12x Pack Hourglass",
+            "amount": "12"
+          }
+        }
+      ]
+    }
+  ]
+}

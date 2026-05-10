@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#40"
+  ],
+  "名前": "Darmanitan",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 3,
+  "説明文": "This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.",
+  "イラストレーター": "kawayoo",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Flames_Flair_Orange_Battle.webp",
+    "Digital_Squares_Flair_Orange_Battle.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Darmani-Hands",
+      "ダメージ": "80+",
+      "効果": "Flip 2 coins. This attack does 30 more damage for each heads.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "fire",
+        "fire",
+        "fire",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Darumaka"
+      ]
+    ]
+  }
+}

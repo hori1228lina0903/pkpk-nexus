@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#72"
+  ],
+  "名前": "Emolga",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "lightning",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",
+  "イラストレーター": "Saya Tsuruta",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック: Lugia Pack",
+    "イベント: Bonus Pick - Lightning-Type Pokemon Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Hearts_Flair_Pink_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Raging Thunder",
+      "ダメージ": "40",
+      "効果": "This attack also does 10 damage to 1 of your Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

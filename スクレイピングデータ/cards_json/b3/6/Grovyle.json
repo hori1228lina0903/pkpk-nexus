@@ -1,0 +1,68 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#6"
+  ],
+  "名前": "Grovyle",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 1,
+  "説明文": "Grovyle leaps from branch to branch in large trees, moving with ease. It propels itself with astounding speed and force.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Gold_Battle.webp",
+    "Mini_Triangles_Flair_Green_Battle.webp",
+    "Gale_Flair_Yellow-green_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Slicing Snipe",
+      "ダメージ": "N/A",
+      "効果": "This attack does 50 damage to 1 of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#157"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Sceptile,                                         Mega Sceptile ex"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Treecko"
+      ]
+    ]
+  }
+}

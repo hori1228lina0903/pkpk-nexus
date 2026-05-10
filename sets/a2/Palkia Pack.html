@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Palkia Pack - パルキアパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/a2/Palkia Pack.html">Palkia Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Palkia Pack</h1>
+      <h4>January 29, 2025</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Palkia Pack.webp" alt="Palkia Pack" class="top-pack-image">
+      <p class="description">
+        Palkia Pack is one of the two booster packs in Space-Time Smackdown (A2).
+        It mainly features Water-type Pokémon and Trainer cards that support faster setups and high-impact plays, including key support cards like Cyrus that influence the overall game flow.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item">
+        <a href="/sets/a2/Dialga Pack.html" >
+          <img src="/images/packs/Dialga Pack.webp" alt="Dialga Pack" class="pack-image">
+        </a>
+        <div class="set-name">Dialga Pack</div>
+      </div>
+      <div class="pack-item pack-select">
+        <a href="/sets/a2/Palkia Pack.html">
+          <img src="/images/packs/Palkia Pack.webp" alt="Palkia Pack" class="pack-image">
+        </a>
+        <div class="set-name">Palkia Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/a2/50.webp" alt="Manaphy" class="card-image2">
+        <img src="/images/cards/a2/53.webp" alt="Magnezone" class="card-image2">
+        <img src="/images/cards/a2/148.webp" alt="Rocky_Helmet" class="card-image2">
+        <img src="/images/cards/a2/150.webp" alt="Cyrus" class="card-image2">
+        <img src="/images/cards/a2/155.webp" alt="Mars" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Palkia Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

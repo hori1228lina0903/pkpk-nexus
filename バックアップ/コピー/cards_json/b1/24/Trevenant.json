@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#24"
+  ],
+  "名前": "Trevenant",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them.",
+  "イラストレーター": "Hiroyuki Yamamoto",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック: Mega Blaziken Pack",
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sword_Flash_Flair_Green_Battle.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Mini_Triangles_Flair_Green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Horn Leech",
+      "ダメージ": "60",
+      "効果": "Heal 20 damage from this Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Phantump"
+      ]
+    ]
+  }
+}

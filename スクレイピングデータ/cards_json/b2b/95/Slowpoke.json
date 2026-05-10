@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#95"
+  ],
+  "名前": "Slowpoke",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "water",
+  "弱点": "Lightning",
+  "にげる": 2,
+  "説明文": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+  "イラストレーター": "Shigenori Negishi",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Headbutt",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2b#15"
+    },
+    {
+      "カード番号": "promo-b#42"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Slowbro,                                         Mega Slowbro ex,                                         Slowking"
+      ]
+    ]
+  },
+  "進化前": {}
+}

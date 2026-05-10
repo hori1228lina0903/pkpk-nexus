@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#65"
+  ],
+  "名前": "Paldean Clodsire",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "darkness",
+  "弱点": "fighting +20",
+  "にげる": 3,
+  "説明文": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "イベント: Bonus Pick - Pawmi and Paldean Clodsire Wonderpick",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Cosmetic.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Muddy Hammer",
+      "ダメージ": "70",
+      "効果": "Discard the top card of your opponent’s deck.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-b#40"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Paldean Wooper"
+      ]
+    ]
+  }
+}

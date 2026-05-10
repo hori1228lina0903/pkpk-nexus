@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#5"
+  ],
+  "名前": "Tangrowth",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "130",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 4,
+  "説明文": "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
+  "イラストレーター": "tetsuya koizumi",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Gale_Flair_Yellow-green_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp",
+    "Foliage_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Grass Knot",
+      "ダメージ": "10+",
+      "効果": "This attack does 40 more damage for each Energy in your opponent’s Active Pokémon’s Retreat Cost.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Tangela"
+      ]
+    ]
+  }
+}

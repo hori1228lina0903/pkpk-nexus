@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#38"
+  ],
+  "名前": "Florges",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.",
+  "イラストレーター": "Cona Nitanda",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "イベント: Bonus Pick - Psychic Type Pokemon Mass Outbreak",
+    "イベント: Rare Pick - Psychic Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Petals_Flair_Red_Cosmetic.webp",
+    "Petals_Flair_Red_Battle.webp",
+    "Flowers_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Bloomshine",
+      "ダメージ": "80",
+      "効果": "Heal 20 damage from each of your Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Floette"
+      ]
+    ]
+  }
+}

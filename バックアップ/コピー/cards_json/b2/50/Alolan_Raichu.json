@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#50"
+  ],
+  "名前": "Alolan Raichu",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "110",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts.",
+  "イラストレーター": "Akira Komayama",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Flash_of_Lightning_Flair_Yellow_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Surge Surfer",
+      "効果": "If a Stadium is in play, this Pokémon has no Retreat Cost."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Thunder Spear",
+      "ダメージ": "N/A",
+      "効果": "This attack does 50 damage to 1 of your opponent’s Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Pikachu"
+      ]
+    ]
+  }
+}

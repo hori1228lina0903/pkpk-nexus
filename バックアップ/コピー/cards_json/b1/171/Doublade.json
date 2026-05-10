@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#171"
+  ],
+  "名前": "Doublade",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.",
+  "イラストレーター": "Hajime Kusajima",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp",
+    "Small_Stars_Flair_Gray_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Slash",
+      "ダメージ": "40",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Aegislash"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Honedge"
+      ]
+    ]
+  }
+}

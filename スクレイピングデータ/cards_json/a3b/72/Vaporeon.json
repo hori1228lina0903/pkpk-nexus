@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#72"
+  ],
+  "名前": "Vaporeon",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "120",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s.",
+  "イラストレーター": "chibi",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp",
+    "Circles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hyper Whirlpool",
+      "ダメージ": "70",
+      "効果": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent’s Active Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#16"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Eevee"
+      ]
+    ]
+  }
+}

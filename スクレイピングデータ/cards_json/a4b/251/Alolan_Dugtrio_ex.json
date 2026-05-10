@@ -1,0 +1,72 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#47",
+    "a4b#251"
+  ],
+  "名前": "Alolan Dugtrio ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "130",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Extradimensional Crisis",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Blue_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Triplet Headbutt",
+      "ダメージ": "60x",
+      "効果": "Flip 3 coins. This attack does 60 damage for each heads.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3a#80"
+    },
+    {
+      "カード番号": "a3a#87"
+    },
+    {
+      "カード番号": "b1#325"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Alolan Diglett"
+      ]
+    ]
+  }
+}

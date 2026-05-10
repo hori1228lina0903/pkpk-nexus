@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#61"
+  ],
+  "名前": "Giratina",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "dragon",
+  "弱点": "N/A",
+  "にげる": 3,
+  "説明文": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Small_Hexagons_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Crisis Dive",
+      "ダメージ": "120",
+      "効果": "Discard 2 random Energy from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

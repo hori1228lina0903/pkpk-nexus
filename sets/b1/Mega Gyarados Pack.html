@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mega Gyarados Pack - メガギャラドスパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/b1/Mega Gyarados Pack.html">Mega Gyarados Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Mega Gyarados Pack</h1>
+      <h4>October 30, 2025</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Mega Gyarados Pack.webp" alt="Mega Gyarados Pack" class="top-pack-image">
+      <p class="description">
+        Mega Gyarados Pack is one of the booster packs in Mega Rising (B1).
+        In this pack, players can obtain Water-type Pokémon including Mega Gyarados, offering high durability and strong attack potential, allowing for a wide range of strategic playstyles under the Mega Evolution system.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item">
+        <a href="/sets/b1/Mega Blaziken Pack.html" >
+          <img src="/images/packs/Mega Blaziken Pack.webp" alt="Mega Blaziken Pack" class="pack-image">
+        </a>
+        <div class="set-name">Mega Blaziken Pack</div>
+      </div>
+      <div class="pack-item pack-select">
+        <a href="/sets/b1/Mega Gyarados Pack.html" >
+          <img src="/images/packs/Mega Gyarados Pack.webp" alt="Mega Gyarados Pack" class="pack-image">
+        </a>
+        <div class="set-name">Mega Gyarados Pack</div>
+      </div>
+      <div class="pack-item">
+        <a href="/sets/b1/Mega Altaria Pack.html" >
+          <img src="/images/packs/Mega Altaria Pack.webp" alt="Mega Altaria Pack" class="pack-image">
+        </a>
+        <div class="set-name">Mega Altaria Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/b1/73.webp" alt="Greninja_ex" class="card-image2">
+        <img src="/images/cards/b1/151.webp" alt="Mega_Absol_ex" class="card-image2">
+        <img src="/images/cards/b1/157.webp" alt="Hydreigon" class="card-image2">
+        <img src="/images/cards/b1/174.webp" alt="Melmetal_ex" class="card-image2">
+        <img src="/images/cards/b1/225.webp" alt="Copycat" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Mega Gyarados Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

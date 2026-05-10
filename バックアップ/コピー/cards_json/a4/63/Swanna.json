@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#63"
+  ],
+  "名前": "Swanna",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 0,
+  "説明文": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+  "イラストレーター": "chibi",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Feathers_Flair_White_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Blue_Battle.webp",
+    "Feathers_Flair_White_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Feathery Cyclone",
+      "ダメージ": "60",
+      "効果": "Move all Energy from this Pokémon to 1 of your Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Ducklett"
+      ]
+    ]
+  }
+}

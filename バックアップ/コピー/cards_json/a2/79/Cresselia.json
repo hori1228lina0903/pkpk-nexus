@@ -1,0 +1,54 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#79"
+  ],
+  "名前": "Cresselia",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "110",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 2,
+  "説明文": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+  "イラストレーター": "Masako Tomii",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Palkia Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Purple_Battle.webp",
+    "Star_Outlines_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Moonlight Gain",
+      "ダメージ": "50",
+      "効果": "Heal 20 damage from this Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#168"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#116"
+  ],
+  "名前": "Ferrothorn",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "120",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
+  "イラストレーター": "Midori Harada",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Digital_Squares_Flair_Yellow-green_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Metal_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Pummel",
+      "ダメージ": "40+",
+      "効果": "Flip a coin. If heads, this attack does 60 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Ferroseed"
+      ]
+    ]
+  }
+}

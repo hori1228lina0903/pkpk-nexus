@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#38"
+  ],
+  "名前": "Frillish",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean’s surface.",
+  "イラストレーター": "Akira Komayama",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Purple_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Circles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Absorb",
+      "ダメージ": "10",
+      "効果": "Heal 10 damage from this Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Jellicent"
+      ]
+    ]
+  },
+  "進化前": {}
+}

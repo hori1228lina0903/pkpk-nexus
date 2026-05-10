@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#11"
+  ],
+  "名前": "Chansey",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 3,
+  "説明文": "This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.",
+  "イラストレーター": "sowsow",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Meowth and Chansey Wonder Pick Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Cosmetic.webp",
+    "Bubbles_Flair_Pink_Battle.webp",
+    "Flowers_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Gentle Slap",
+      "ダメージ": "60",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#202"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Blissey ex,                                         Blissey"
+      ]
+    ]
+  },
+  "進化前": {}
+}

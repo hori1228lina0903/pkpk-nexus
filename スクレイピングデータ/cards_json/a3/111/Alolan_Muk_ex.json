@@ -1,0 +1,70 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#111",
+    "a4b#235"
+  ],
+  "名前": "Alolan Muk ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "160",
+  "タイプ": "darkness",
+  "弱点": "fighting +20",
+  "にげる": 3,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Celestial Guardians",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Yellow-green_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Sword_Flash_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Chemical Panic",
+      "ダメージ": "80",
+      "効果": "1 Special Condition from among Asleep, Burned, Confused, Paralyzed, and Poisoned is chosen at random, and your opponent’s Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#188"
+    },
+    {
+      "カード番号": "a3#206"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Alolan Grimer"
+      ]
+    ]
+  }
+}

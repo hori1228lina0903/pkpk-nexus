@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#24"
+  ],
+  "名前": "Phantump",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 2,
+  "説明文": "With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees.",
+  "イラストレーター": "sui",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Purple_Cosmetic.webp",
+    "Ripples_Flair_Purple_Cosmetic.webp",
+    "Small_Hexagons_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Spooky Shot",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Trevenant"
+      ]
+    ]
+  },
+  "進化前": {}
+}

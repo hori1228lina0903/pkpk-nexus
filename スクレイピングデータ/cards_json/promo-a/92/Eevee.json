@@ -1,0 +1,68 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#92"
+  ],
+  "名前": "Eevee",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "イラストレーター": "nisimono",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "ミッション: Collect 3 Eevee cards - Eevee Mass Outbreak Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Hearts_Flair_Pink_Cosmetic.webp",
+    "Petals_Flair_White_Battle.webp",
+    "Flowers_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Tackle",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#206"
+    },
+    {
+      "カード番号": "a1#207"
+    },
+    {
+      "カード番号": "a1#208"
+    },
+    {
+      "カード番号": "a1#248"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Flareon ex,                                         Espeon ex,                                         Vaporeon,                                         Umbreon ex,                                         Leafeon,                                         Sylveon,                                         Sylveon ex,                                         Leafeon ex,                                         Glaceon,                                         Flareon,                                         Jolteon,                                         Jolteon ex,                                         Glaceon ex,                                         Umbreon,                                         Espeon"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#5"
+  ],
+  "名前": "Tangrowth",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
+  "イラストレーター": "kodama",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Clovers_Flair_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Mega Drain",
+      "ダメージ": "90",
+      "効果": "Heal 30 damage from this Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#156"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Tangela"
+      ]
+    ]
+  }
+}

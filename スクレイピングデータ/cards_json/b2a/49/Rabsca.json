@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#49"
+  ],
+  "名前": "Rabsca",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "70",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably.",
+  "イラストレーター": "Oswaldo KATO",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Circles_Flair_Purple_Battle.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Poké_Ball_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Psybeam",
+      "ダメージ": "80",
+      "効果": "Your opponent’s Active Pokémon is now Confused.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Rellor"
+      ]
+    ]
+  }
+}

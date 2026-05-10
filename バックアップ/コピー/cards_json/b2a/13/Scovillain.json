@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#13"
+  ],
+  "名前": "Scovillain",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it.",
+  "イラストレーター": "kodama",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Red-Hot Headbutt",
+      "ダメージ": "60+",
+      "効果": "If your opponent’s Active Pokémon is a  or  Pokémon, this attack does 40 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Capsakid"
+      ]
+    ]
+  }
+}

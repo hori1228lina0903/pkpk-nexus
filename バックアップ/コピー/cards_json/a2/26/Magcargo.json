@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#26"
+  ],
+  "名前": "Magcargo",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 3,
+  "説明文": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+  "イラストレーター": "Oswaldo KATO",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック: Palkia Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Puffs_Flair_White_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Searing Flame",
+      "ダメージ": "30",
+      "効果": "Your opponent’s Active Pokémon is now Burned.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fire",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Slugma"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#37"
+  ],
+  "名前": "Floette",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "This Pokémon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.",
+  "イラストレーター": "Cona Nitanda",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "イベント: Bonus Pick - Psychic Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Cosmetic.webp",
+    "Petals_Flair_Red_Cosmetic.webp",
+    "Petals_Flair_Red_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Leaf Drain",
+      "ダメージ": "40",
+      "効果": "Heal 10 damage from this Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Florges"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Flabébé"
+      ]
+    ]
+  }
+}

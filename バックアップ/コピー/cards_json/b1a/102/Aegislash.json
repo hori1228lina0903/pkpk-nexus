@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#102"
+  ],
+  "名前": "Aegislash",
+  "レア度": {
+    "rarity_types": [
+      "crown"
+    ],
+    "count": 1
+  },
+  "HP": "140",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 2500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Circles_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sword_Flash_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Cursed Metal",
+      "効果": "Attacks used by yourPokémon andPokémon do +30 damage to your opponent’s Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Slicing Blade",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "metal",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#172"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Doublade"
+      ]
+    ]
+  }
+}

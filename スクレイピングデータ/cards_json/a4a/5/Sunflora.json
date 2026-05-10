@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#5"
+  ],
+  "名前": "Sunflora",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Flowers_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Trip Over",
+      "ダメージ": "50+",
+      "効果": "Flip a coin. If heads, this attack does 30 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Sunkern"
+      ]
+    ]
+  }
+}

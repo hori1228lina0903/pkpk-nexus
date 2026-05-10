@@ -1,0 +1,70 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#27",
+    "a4b#71"
+  ],
+  "名前": "Chimchar",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 1,
+  "説明文": "Its fiery rear end is fueled by gas made in its belly. Even rain can’t extinguish the fire.",
+  "イラストレーター": "Kagemaru Himeno",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Palkia Pack",
+    "イベント: Bonus Pick - Chimchar and Togepi Wonder Pick",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Heart_Outlines_Flair_Red_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Scratch",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4a#91"
+    },
+    {
+      "カード番号": "a4b#72"
+    },
+    {
+      "カード番号": "promo-a#40"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Monferno"
+      ]
+    ]
+  },
+  "進化前": {}
+}

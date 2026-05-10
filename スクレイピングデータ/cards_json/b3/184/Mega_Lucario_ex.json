@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#184"
+  ],
+  "名前": "Mega Lucario ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "190",
+  "タイプ": "fighting",
+  "弱点": "Psychic",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "5ban Graphics",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "Mega",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Star_Outlines_Flair_Light_blue_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Ink_Splatters_Flair_Light_blue_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Fighting Pulse",
+      "ダメージ": "90+",
+      "効果": "If this Pokémon has at least 1 extra  Energy attached, this attack does 50 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#81"
+    },
+    {
+      "カード番号": "b3#204"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Riolu"
+      ]
+    ]
+  }
+}

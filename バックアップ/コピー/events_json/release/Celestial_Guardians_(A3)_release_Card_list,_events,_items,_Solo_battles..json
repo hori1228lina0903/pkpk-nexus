@@ -1,0 +1,849 @@
+{
+  "url": "https://www.pokemon-zone.com/events/celestial-guardians-release/",
+  "title": "Celestial Guardians (A3) release: Card list, events, items, Solo battles.",
+  "period": {
+    "text": "Apr 30",
+    "start_date": "2025-04-30"
+  },
+  "packs": [
+    {
+      "title": "Solgaleo pack",
+      "link": "/sets/a3/Solgaleo pack.html",
+      "key_visual": "/images/packs/Solgaleo pack.webp"
+    },
+    {
+      "title": "Lunala Pack",
+      "link": "/sets/a3/Lunala Pack.html",
+      "key_visual": "/images/packs/Lunala Pack.webp"
+    }
+  ],
+  "game_updates": [
+    "New solo step-up Battles (see below)",
+    "Cards from Shining Revelry (A3) become available for trading."
+  ],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Celestial Guardians (A3) Release - Celestial Guardians",
+      "period": "Apr 30 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Lunala (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A3",
+          "currency_image": "Emblem Ticket (Celestial Guardians).webp"
+        },
+        {
+          "name": "Solgaleo (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A3",
+          "currency_image": "Emblem Ticket (Celestial Guardians).webp"
+        }
+      ]
+    },
+    {
+      "title": "Celestial Guardians (A3) Release - Accessories",
+      "period": "Apr 30 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Celestial Guardians: Solgaleo (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        },
+        {
+          "name": "Celestial Guardians: Lunala (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    },
+    {
+      "title": "Cyber Realm Backdrop - Accessories",
+      "period": "Apr 30 - May 29, 2025",
+      "items": [
+        {
+          "name": "Cyber Realm (backdrop)",
+          "price": "50",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Lillie)",
+      "period": "Apr 30 - Jul 30, 2025",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Apr 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Apr 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Water-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Darkness-type Pokémon",
+        "Make your opponent’s Pokémon Poisoned 1 time",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Metal-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Apr 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Metal-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Water-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Darkness-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Psychic-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Apr 30 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Lightning type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Celestial Guardians (A3) Release",
+      "period": "Apr 30 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Daytime Pack and Nighttime Pack",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Evolution Split by Day and Night",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Alolan Dancers",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Descended from the Sun and the Moon?",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Komala, Always Sleeping",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "A Beach Scene, Day and Night",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "A Day in the Life of Rowlet",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Decidueye ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "A Day in the Life of Litten",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "A Day in the Life of Popplio",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Decidueye ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Collect the highlight card for Mallow Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Sun Collection",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mallow Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Moon Collection",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Incineroar ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Kiawe and Volcano Park Pokémon",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Mallow and Jungle Pokémon",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Incineroar ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Ilima and Cave Pokémon",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Kiawe Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Collect cards for Kiawe Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Acerola and Spooky Pokémon",
+          "rewards": [
+            {
+              "name": "8x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "8"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Crabominable ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Lana and Waterside Pokémon",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Crabominable ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Sophocles and Electric Discharge Pokémon",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Lana Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Captains of the Alola Region",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Lana Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Team Skull’s Nasty Plot",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Lillie and Nebby’s Growth",
+          "rewards": [
+            {
+              "name": "7x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "7"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Alolan Raichu ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Guardian Deities of the Four Islands",
+          "rewards": [
+            {
+              "name": "14x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "14"
+            }
+          ]
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Alolan Raichu ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Standing Before You: Totem Pokémon",
+          "rewards": [
+            {
+              "name": "12x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Sophocles Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Collect cards for Sophocles Deck (Celestial Guardians)"
+        },
+        {
+          "description": "An Assembly of Alolan Forms 1",
+          "rewards": [
+            {
+              "name": "14x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "14"
+            }
+          ]
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "An Assembly of Alolan Forms 2",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register 70 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Lunala ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Collect cards for Lunala ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Celestial Guardians Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 80 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Acerola Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Celestial Guardians Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 90 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Celestial Guardians Museum 3",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 100 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Acerola Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Celestial Guardians Museum 4",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 110 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Passimian ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Lana and Wishiwashi’s School",
+          "rewards": [
+            {
+              "name": "1x Wishiwashi (emblem)",
+              "local_file": "Wishiwashi (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100160_YOWASHI.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Passimian ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Register 120 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Guidance of the Sun and the Moon",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Alolan Muk ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Register 130 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Alolan Muk ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Collect 3 Rowlet cards",
+          "rewards": [
+            {
+              "name": "1x Rowlet (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100370_MOKUROH.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 140 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Litten cards",
+          "rewards": [
+            {
+              "name": "1x Litten (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100380_NYABBY.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 150 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Celestial Guardians)",
+              "local_file": "Emblem Ticket (Celestial Guardians).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Solgaleo ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Collect 3 Popplio cards",
+          "rewards": [
+            {
+              "name": "1x Popplio (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100390_ASHIMARI.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Solgaleo ex Deck (Celestial Guardians)"
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Celestial Guardians: Solgaleo (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100350_SOLGALEO.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#41"
+  ],
+  "名前": "Castform Snowy Form",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "water",
+  "弱点": "Metal",
+  "にげる": 1,
+  "説明文": "This is Castform’s form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!",
+  "イラストレーター": "miki kudo",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Snowflakes_Flair_Cosmetic.webp",
+    "Digital_Squares_Flair_Light_blue_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Snowy Chilling",
+      "ダメージ": "40",
+      "効果": "If a Stadium is in play, your opponent’s Active Pokémon is now Asleep.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

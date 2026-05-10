@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#22"
+  ],
+  "名前": "Golisopod",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Mini_Triangles_Flair_Green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "First Impression",
+      "ダメージ": "60+",
+      "効果": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Wimpod"
+      ]
+    ]
+  }
+}

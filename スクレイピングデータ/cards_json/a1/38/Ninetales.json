@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#38"
+  ],
+  "名前": "Ninetales",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 1,
+  "説明文": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+  "イラストレーター": "You Iribi",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "イベント: Bonus Pick - Fire Type Pokemon Mass Outbreak",
+    "イベント: Rare Pick - Fire Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Flames_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Flamethrower",
+      "ダメージ": "90",
+      "効果": "Discard a  Energy from this Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fire",
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Vulpix"
+      ]
+    ]
+  }
+}

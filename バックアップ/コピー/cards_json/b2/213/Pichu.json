@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#213"
+  ],
+  "名前": "Pichu",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "30",
+  "タイプ": "lightning",
+  "弱点": "N/A",
+  "にげる": 0,
+  "説明文": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+  "イラストレーター": "Souichirou Gunjima",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Baby"
+  ],
+  "エフェクト一覧": [
+    "Spinning_Rings_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Crackly Toss",
+      "ダメージ": "N/A",
+      "効果": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "unspecified"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#66"
+    },
+    {
+      "カード番号": "a4#171"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

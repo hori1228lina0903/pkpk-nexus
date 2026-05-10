@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#60",
+    "a4b#102"
+  ],
+  "名前": "Corphish",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive.",
+  "イラストレーター": "chibi",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Lugia Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Vise Grip",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#103"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Crawdaunt"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,69 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#78"
+  ],
+  "名前": "Wigglytuff",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+  "イラストレーター": "5ban Graphics",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Pink_Battle.webp",
+    "Puffs_Flair_White_Battle.webp",
+    "Small_Stars_Flair_Pink_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Comforting Song",
+      "効果": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Gentle Slap",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#61"
+    },
+    {
+      "カード番号": "a3#229"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Jigglypuff"
+      ]
+    ]
+  }
+}

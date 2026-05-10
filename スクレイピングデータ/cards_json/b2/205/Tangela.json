@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#205"
+  ],
+  "名前": "Tangela",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery.",
+  "イラストレーター": "Taiga Kasai",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Mini_Triangles_Flair_Green_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Glowing_Ring_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sleep Powder",
+      "ダメージ": "20",
+      "効果": "Your opponent’s Active Pokémon is now Asleep.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#4"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Tangrowth"
+      ]
+    ]
+  },
+  "進化前": {}
+}

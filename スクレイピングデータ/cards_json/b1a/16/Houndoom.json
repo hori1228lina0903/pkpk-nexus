@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#16"
+  ],
+  "名前": "Houndoom",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 1,
+  "説明文": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+  "イラストレーター": "Midori Harada",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Flame_Trail_Flair_Orange_Cosmetic.webp",
+    "Fire_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sharp Fang",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Houndour"
+      ]
+    ]
+  }
+}

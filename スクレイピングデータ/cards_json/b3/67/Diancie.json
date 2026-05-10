@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#67"
+  ],
+  "名前": "Diancie",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "Metal",
+  "にげる": 2,
+  "説明文": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
+  "イラストレーター": "Sanosuke Sakuma",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Digital_Squares_Flair_Purple_Cosmetic.webp",
+    "Bright_Stars_Flair_Pink_Battle.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Diamond Storm",
+      "ダメージ": "50",
+      "効果": "Heal 20 damage from each of your  Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

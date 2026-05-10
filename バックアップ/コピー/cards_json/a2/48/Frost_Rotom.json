@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#48"
+  ],
+  "名前": "Frost Rotom",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "This Rotom has entered a refrigerator. It leaps around gleefully after it uses cold air to freeze the area around it.",
+  "イラストレーター": "MAHOU",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック: Palkia Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Snowflakes_Flair_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Blizzard",
+      "ダメージ": "30",
+      "効果": "This attack also does 10 damage to each of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

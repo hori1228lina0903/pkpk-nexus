@@ -1,0 +1,85 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#238"
+  ],
+  "名前": "Lunala ex",
+  "レア度": {
+    "rarity_types": [
+      "crown"
+    ],
+    "count": 1
+  },
+  "HP": "180",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 2500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Small_Stars_Flair_Purple_Battle.webp",
+    "Big_Rings_Flair_Purple_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Psychic Connect",
+      "効果": "Once during your turn, you may move allEnergy from 1 of your BenchedPokémon to your Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Lunar Blast",
+      "ダメージ": "100",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#87"
+    },
+    {
+      "カード番号": "a3#186"
+    },
+    {
+      "カード番号": "a3#204"
+    },
+    {
+      "カード番号": "a4b#184"
+    },
+    {
+      "カード番号": "a4b#367"
+    },
+    {
+      "カード番号": "b1a#99"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Cosmoem"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#115"
+  ],
+  "名前": "Regigigas",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 4,
+  "説明文": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
+  "イラストレーター": "Ryuta Fuse",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Raichu ex Drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Small_Hexagons_Flair_Gray_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Raging Hammer",
+      "ダメージ": "50+",
+      "効果": "This attack does more damage equal to the damage this Pokémon has on it.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#143"
+    },
+    {
+      "カード番号": "a2#179"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

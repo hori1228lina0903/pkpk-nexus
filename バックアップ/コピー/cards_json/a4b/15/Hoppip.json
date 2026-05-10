@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#15"
+  ],
+  "名前": "Hoppip",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "Outside of cold regions, Hoppip can be found practically everywhere. This is because the wind carries this species all over the world.",
+  "イラストレーター": "Mékayu",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Grass_Energy_Flair_Cosmetic.webp",
+    "Small_Hearts_Flair_Pink_Cosmetic.webp",
+    "Circles_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Tackle",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#13"
+    },
+    {
+      "カード番号": "a4b#14"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Skiploom"
+      ]
+    ]
+  },
+  "進化前": {}
+}

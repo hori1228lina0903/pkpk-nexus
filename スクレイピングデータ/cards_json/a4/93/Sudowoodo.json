@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#93"
+  ],
+  "名前": "Sudowoodo",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 2,
+  "説明文": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+  "イラストレーター": "AKIRA EGAWA",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rock Throw",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

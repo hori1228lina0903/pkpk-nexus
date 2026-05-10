@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#120"
+  ],
+  "名前": "Escavalier",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+  "イラストレーター": "Satoshi Shirai",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック: Solgaleo Pack",
+    "イベント: Bonus Pick - Metal-Type Pokemon Mass Outbreak Event",
+    "イベント: Rare Pick - Metal-Type Pokemon Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Pike",
+      "ダメージ": "30",
+      "効果": "This attack also does 20 damage to 1 of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Karrablast"
+      ]
+    ]
+  }
+}

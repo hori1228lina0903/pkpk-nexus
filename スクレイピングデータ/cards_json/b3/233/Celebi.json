@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#233"
+  ],
+  "名前": "Celebi",
+  "レア度": {
+    "rarity_types": [
+      "crown"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 1,
+  "説明文": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+  "イラストレーター": "Ayaka Yoshida",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 2500"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Foliage_Flair_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Time Recall",
+      "効果": "Each of your evolved Pokémon can use any attack from its previous Evolutions.(You still need the necessary Energy to use each attack.)"
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Smack",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#4"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#51"
+  ],
+  "名前": "Cyclizar",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+  "イラストレーター": "Shigenori Negishi",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "ミッション: Collect 50 cards - Ranked Match Season 1"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Star_Outlines_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Overacceleration",
+      "ダメージ": "20",
+      "効果": "During your next turn, this Pokémon’s Overacceleration attack does +20 damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#68"
+    },
+    {
+      "カード番号": "a4b#306"
+    },
+    {
+      "カード番号": "a4b#307"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

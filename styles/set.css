@@ -1,0 +1,316 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    overflow-x: hidden !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    position: relative !important;
+}
+
+/* ページ全体のフェードイン効果を追加 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+    animation: pageFadeIn 0.8s ease-in-out forwards;
+    background-color: #2f3739 !important;
+}
+
+@keyframes pageFadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.breadcrumbs {
+    width: 93%;
+    margin: 0 auto;
+    padding: 5px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 14px;
+}
+
+.breadcrumbs a {
+    color: #007bff;
+    text-decoration: none;
+    position: relative;
+}
+
+.breadcrumbs a:not(:last-of-type)::after {
+    padding: 0 8px;
+    content: ">";
+    color: #999;
+    font-weight: bold;
+}
+
+.breadcrumbs .current {
+    color: #666;
+}
+
+.set-page-main {
+    width: 93%;
+    background-color: #f5f5f5;
+    padding: 0 0 10px 0; /* 上 右 下 左 */
+    margin: 0 auto;
+    border: 0.8vw solid #FFCB05; /* 電気タイプ枠色 */
+    border-radius: 0.8vw;
+    box-shadow: 0 0.9vw 3.2vw rgba(0,0,0,0.2);
+    max-width: 100%;
+    overflow-x: hidden; /* 横スクロール禁止 */
+    box-sizing: border-box;
+}
+
+.title {
+  background: #FFCB05;
+  padding: 0 0 6px 0;
+  color: #2C3E50;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+}
+
+.description-container {
+    text-align: center;
+}
+.description {
+    text-align: left;
+    padding: 0 12px;
+}
+
+.set-page-main .section {
+  background: #f5f5f5;
+  /* 左右のボーダーを消す */
+  border-left: none;
+  border-right: none;
+  /* 上下のボーダーは残す */
+  border-top: 3px #FFCB05;
+  border-bottom: 3px #FFCB05;
+  width: 100%;
+  max-width: 100%;
+}
+
+.set-page-main .section h1 {
+  padding: 6px 8px;
+  margin: 0 0 30px 0;
+  background: #FFCB05;
+  color: #2C3E50;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+}
+
+.set-border {
+  border: none;
+  height: 2px;
+  background-color: #FFCB05;
+  width: 95%;
+  margin: 20px auto;
+}
+
+.set-image {
+  width: 50vw;
+  display: block;
+  margin: 15px auto;
+}
+
+.set-content {
+  border: 2px solid #3B4CCA;
+  border-radius: 8px;
+  padding: 10px 0;
+  width: 97%;
+  margin: 0 auto 15px auto;
+  position: relative;
+}
+
+.set-subheading {
+  padding: 6px 8px;
+  display: block;
+  margin: -10px 0 10px 0;
+  background: #3B4CCA;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 4px 4px 0 0; /* 上だけ丸く */
+}
+
+.packs {
+  margin: 10px 0 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 1vw;
+}
+
+.pack-item {
+    display: flex;
+    flex: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25rem;
+    overflow: hidden;
+    width: 22vw;
+}
+
+.pack-select {
+    border: 0.8vw solid #ff0000;
+    border-radius: 1.8vw;
+    padding: 3vw 0;
+    margin-top: -0.8vw;
+    animation: simpleBlink 2s infinite;
+}
+
+@keyframes simpleBlink {
+    0%, 100% { border-color: #ff0000; }
+    50% { border-color: transparent; }
+}
+
+.set-name {
+    width: 100%;
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow: hidden;
+    text-align: center;
+    font-weight: 500;
+    font-size: 3.9vw;
+}
+
+.pack-image {
+  width: 14vw;
+  height: auto;
+  object-fit: contain;
+}
+
+.top-pack-image {
+  width: 35vw;
+  height: auto;
+  margin: 15px;
+  object-fit: contain;
+}
+
+/* カードコンテナ */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3px;
+    padding: 0 2px;
+    margin: 10px 0 15px 0;
+}
+
+.card {
+    display: block;
+    background: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.card-image {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    aspect-ratio: 3/4;
+    background-color: #f8f8f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-image2 {
+  width: 20vw;
+  height: auto;
+  object-fit: contain;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+    transition: transform 0.3s ease;
+}
+
+.card-image img.loaded {
+    opacity: 1;
+}
+
+/* スケルトンローディング（cards.htmlと同じ） */
+.card-skeleton {
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+}
+
+/* ローディングインジケーター */
+.loading-indicator {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 40px;
+    color: #666;
+}
+
+.spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #BF0A30;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto 15px auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* エラーメッセージ */
+.no-results, .error-message {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 40px;
+    color: #666;
+}
+
+/* 画像の遅延読み込み用 */
+.card-image img.lazy {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.card-image img.lazy.loaded {
+    opacity: 1;
+}
+
+/* cards.htmlと同じスタイル */
+#resultsCount.results-count {
+    text-align: center;
+    margin: 10px auto;
+    width: 100%;
+}
+
+.must-pull-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 2vw;
+    justify-items: center;
+    align-items: center;
+}

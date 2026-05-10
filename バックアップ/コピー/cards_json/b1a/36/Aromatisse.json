@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#36"
+  ],
+  "名前": "Aromatisse",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent’s will to fight.",
+  "イラストレーター": "Mizue",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Psychic_Energy_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Perfume Blast",
+      "ダメージ": "60",
+      "効果": "During your opponent’s next turn, attacks used by the Defending Pokémon cost 1  more.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Spritzee"
+      ]
+    ]
+  }
+}

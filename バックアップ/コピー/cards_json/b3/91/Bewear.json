@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#91"
+  ],
+  "名前": "Bewear",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "fighting",
+  "弱点": "Psychic",
+  "にげる": 2,
+  "説明文": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
+  "イラストレーター": "Nisota Niso",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp",
+    "Spinning_Rings_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Triple Smash",
+      "ダメージ": "50x",
+      "効果": "Flip 3 coins. This attack does 50 damage for each heads.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fighting",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Stufful"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#228"
+  ],
+  "名前": "Espeon ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Special_Shiny_Sparkles_Flair_Battle.webp",
+    "Digital_Squares_Flair_Yellow-green_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Small_Hearts_Flair_Pink_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Psychic Healing",
+      "効果": "Once during your turn, if this Pokémon is in the Active Spot, you may heal 30 damage from 1 of your Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Super Psy Bolt",
+      "ダメージ": "80",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#83"
+    },
+    {
+      "カード番号": "a4#190"
+    },
+    {
+      "カード番号": "a4#205"
+    },
+    {
+      "カード番号": "a4b#160"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Eevee"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#8"
+  ],
+  "名前": "Mega Sceptile ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "210",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA Igarashi",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "Mega",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Mega_Evolution_Flair_Cosmetic.webp",
+    "Ink_Splatters_Flair_Yellow-green_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp",
+    "Sword_Flash_Flair_Green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Terminating Tail",
+      "ダメージ": "130",
+      "効果": "Discard Grass Energy from this Pokémon. Your opponent’s Active Pokémon is now Poisoned.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#180"
+    },
+    {
+      "カード番号": "b3#194"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Grovyle"
+      ]
+    ]
+  }
+}

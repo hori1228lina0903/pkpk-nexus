@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b2a#89"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Iono",
+  "イラストレーター": "Sanosuke Sakuma",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Lightning_Surge_Flair_Light_blue_Cosmetic.webp",
+    "Digital_Squares_Flair_Light_blue_Cosmetic.webp",
+    "Big_Hearts_Flair_Pink_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#69"
+    },
+    {
+      "カード番号": "a2b#88"
+    },
+    {
+      "カード番号": "a4b#340"
+    },
+    {
+      "カード番号": "a4b#341"
+    },
+    {
+      "カード番号": "b2a#106"
+    }
+  ],
+  "進化先": {}
+}

@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#75"
+  ],
+  "名前": "Banette",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+  "イラストレーター": "Aya Kusube",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック: Lunala Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Psychic_Energy_Flair_Cosmetic.webp",
+    "Ripples_Flair_Purple_Cosmetic.webp",
+    "Big_Rings_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Night Bind",
+      "ダメージ": "30",
+      "効果": "During your opponent’s next turn, they can’t take any Energy from their Energy Zone to attach to their Active Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Shuppet"
+      ]
+    ]
+  }
+}

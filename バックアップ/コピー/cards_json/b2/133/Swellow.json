@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#133"
+  ],
+  "名前": "Swellow",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "80",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+  "イラストレーター": "Mizue",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Feathers_Flair_Gray_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Cosmetic.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Repelling Wind",
+      "効果": "Once during your turn, you may switch out your opponent’s Active Basic Pokémon to the Bench.(Your opponent chooses the new Active Pokémon.)"
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Wing Attack",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Taillow"
+      ]
+    ]
+  }
+}

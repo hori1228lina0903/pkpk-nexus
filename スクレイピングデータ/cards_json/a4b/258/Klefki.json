@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#258"
+  ],
+  "名前": "Klefki",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "70",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "Once it absorbs a key’s metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Mini_Triangles_Flair_Gray_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Unlock",
+      "ダメージ": "10",
+      "効果": "Draw a card.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#121"
+    },
+    {
+      "カード番号": "a4b#257"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

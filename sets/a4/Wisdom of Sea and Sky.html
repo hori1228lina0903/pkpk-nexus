@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wisdom of Sea and Sky - 空と海の導き</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/a4/Wisdom of Sea and Sky.html">Wisdom of Sea and Sky</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Wisdom of Sea and Sky</h1>
+      <h4>July 30, 2025</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Wisdom of Sea and Sky.webp" alt="Wisdom of Sea and Sky" class="set-image">
+      <p class="description">
+        Wisdom of Sea and Sky (A4) is a major expansion set for Pokémon Trading Card Game Pocket, released on July 30, 2025.
+        This set features two themed booster packs—Lugia and Ho-Oh—and introduces Baby Pokémon, which can use attacks without requiring Energy. This change impacts early turns, making going first more viable than before, while also expanding the card pool with new Pokémon and Trainer cards.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item">
+        <a href="/sets/a4/Ho-oh Pack.html" >
+          <img src="/images/packs/Ho-oh Pack.webp" alt="Ho-oh Pack" class="pack-image">
+        </a>
+        <div class="set-name">Ho-oh Pack</div>
+      </div>
+      <div class="pack-item">
+        <a href="/sets/a4/Lugia Pack.html">
+          <img src="/images/packs/Lugia Pack.webp" alt="Lugia Pack" class="pack-image">
+        </a>
+        <div class="set-name">Lugia Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Wisdom of Sea and Sky専用の初期化スクリプト -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // 1. cards.htmlと同じスケルトンを表示
+      showLoadingSkeleton();
+      
+      // 2. カードデータを読み込み
+      const dataLoader = new DataLoader();
+      dataLoader.loadCards().then(cardData => {
+        // 3. CardSearchを初期化
+        const cardSearch = new CardSearch(cardData);
+        
+        // 4. Wisdom of Sea and Skyパックを設定
+        cardSearch.currentFilters.pack = ['a4'];
+        
+        // 5. CardSearchコンストラクタ内で自動的に検索が実行される
+        // Wisdom of Sea and Skyカードだけが表示される
+        
+      }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+      });
+      
+      // cards.htmlと同じスケルトン表示関数
+      function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        // cards.htmlと同じ12個のスケルトン
+        resultsContainer.innerHTML = Array(12).fill(`
+          <div class="card">
+            <div class="card-image card-skeleton"></div>
+          </div>
+        `).join('');
+      }
+      
+      // エラー表示関数
+      function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+          resultsContainer.innerHTML = `
+            <div style="grid-column: 1 / -1; text-align: center; padding: 40px;">
+              <p>カードデータの読み込みに失敗しました</p>
+            </div>
+          `;
+        }
+      }
+    });
+  </script>
+</body>
+</html>

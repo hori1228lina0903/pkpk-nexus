@@ -1,0 +1,497 @@
+{
+  "url": "https://www.pokemon-zone.com/events/crimson-blaze-release/",
+  "title": "Crimson Blaze (B1a) release: Card list, Events, Solo Battles",
+  "period": {
+    "text": "Dec 17",
+    "start_date": "2025-12-17"
+  },
+  "packs": [
+    {
+      "title": "Crimson Blaze pack",
+      "link": "/sets/b1a/Crimson Blaze pack.html",
+      "key_visual": "/images/packs/Crimson Blaze pack.webp"
+    }
+  ],
+  "game_updates": [],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Crimson Blaze release - Crimson Blaze",
+      "period": "Dec 17 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Mega Charizard Y (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_B1a",
+          "currency_image": "Emblem Ticket (Crimson Blaze).webp"
+        }
+      ]
+    },
+    {
+      "title": "Crimson Blaze release - Accessories",
+      "period": "Dec 17 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Crimson Blaze: Mega Charizard Y (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Serena)",
+      "period": "Dec 17 - Jan 28, 2026",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Dec 17 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Dec 17 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Psychic-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Crimson Blaze cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Crimson Blaze cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Crimson Blaze cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Crimson Blaze cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Crimson Blaze cards included in your deck"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Dec 17 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Psychic-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Dec 17 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Colorless type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Lightning type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Crimson Blaze release",
+      "period": "Dec 17 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Crimson Ascension",
+          "rewards": [
+            {
+              "name": "11x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "11"
+            }
+          ]
+        },
+        {
+          "description": "Mighty Water Blasts",
+          "rewards": [
+            {
+              "name": "8x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "8"
+            }
+          ]
+        },
+        {
+          "description": "Overpowering Aromas",
+          "rewards": [
+            {
+              "name": "8x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "8"
+            }
+          ]
+        },
+        {
+          "description": "Deposit Trash in Mouth",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Venusaur ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Sunkern’s Growth Diary",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 5 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Venusaur ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Artificial Pokémon",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Charizard Y ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Magnetic Pokémon",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "A Flock of Starly",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 15 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Charizard Y ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Collect the highlight card for Mega Blastoise ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Clemont the Inventor",
+          "rewards": [
+            {
+              "name": "1x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon with Horns",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Blastoise ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Register 25 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Clemont Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Crimson Blaze Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Crimson Blaze Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 35 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Clemont Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Register 45 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Mega Charizard Y ex Museum",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Lopunny ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Collect cards for Mega Lopunny ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Mega Venusaur’s Evolution",
+          "rewards": [
+            {
+              "name": "1x Mega Venusaur (emblem)",
+              "local_file": "Mega Venusaur (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100380_MEGAFUSHIGIBANA.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 55 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 65 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Crimson Blaze)",
+              "local_file": "Emblem Ticket (Crimson Blaze).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Steelix ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "A Multitude of Mega Evolution Pokémon!",
+          "rewards": [
+            {
+              "name": "1x Mega Blastoise (emblem)",
+              "local_file": "Mega Blastoise (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100370_MEGAKAMEX.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Steelix ex Deck (Crimson Blaze)"
+        },
+        {
+          "description": "Collect 3 Serena cards",
+          "rewards": [
+            {
+              "name": "1x Serena (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100720_SERENA.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Crimson Blaze: Mega Charizard Y (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100710_MEGALIZARDONY.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

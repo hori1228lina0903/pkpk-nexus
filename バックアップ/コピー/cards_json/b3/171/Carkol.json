@@ -1,0 +1,68 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#171"
+  ],
+  "名前": "Carkol",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "fighting",
+  "弱点": "Grass",
+  "にげる": 3,
+  "説明文": "Due to the coal tar created inside it, the heap of coal on Carkol’s back never falls apart, even when the Pokémon rolls around at high speeds.",
+  "イラストレーター": "Katsunori Sato",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Puffs_Flair_Gray_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hammer In",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#93"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Coalossal"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Rolycoly"
+      ]
+    ]
+  }
+}

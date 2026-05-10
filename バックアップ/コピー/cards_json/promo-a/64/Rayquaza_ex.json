@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#64"
+  ],
+  "名前": "Rayquaza ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Rayquaza ex Drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Draco Meteor",
+      "ダメージ": "N/A",
+      "効果": "1 of your opponent’s Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-a#65"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

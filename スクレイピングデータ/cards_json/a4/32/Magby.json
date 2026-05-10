@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#32"
+  ],
+  "名前": "Magby",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "30",
+  "タイプ": "fire",
+  "弱点": "N/A",
+  "にげる": 0,
+  "説明文": "This Pokémon is still small and timid. Whenever Magby gets excited or surprised, flames leak from its mouth and its nose.",
+  "イラストレーター": "Yukiko Baba",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "ミッション: Reach player level 3 - Elite Deck Gift Missions",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Baby"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Sword_Flash_Flair_Orange_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Toasty Toss",
+      "ダメージ": "N/A",
+      "効果": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "unspecified"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#166"
+    },
+    {
+      "カード番号": "b2#206"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

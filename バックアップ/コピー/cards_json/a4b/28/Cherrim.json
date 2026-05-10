@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#28"
+  ],
+  "名前": "Cherrim",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "After absorbing plenty of sunlight, Cherrim takes this form. It’s full of energy while it’s like this, and its liveliness will go on until sundown.",
+  "イラストレーター": "Atsuko Nishida",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Petals_Flair_Red_Cosmetic.webp",
+    "Flowers_Flair_Orange_Battle.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Seed Bomb",
+      "ダメージ": "40",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#24"
+    },
+    {
+      "カード番号": "a4b#27"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Cherubi"
+      ]
+    ]
+  }
+}

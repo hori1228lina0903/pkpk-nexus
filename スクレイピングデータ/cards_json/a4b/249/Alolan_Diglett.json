@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#46",
+    "a4b#249"
+  ],
+  "名前": "Alolan Diglett",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "The metal-rich geology of this Pokémon’s habitat caused it to develop steel whiskers on its head.",
+  "イラストレーター": "Megumi Mizutani",
+  "収録セット": [
+    "Extradimensional Crisis",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Metal_Energy_Flair_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Small_Hexagons_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Happened to Headbutt",
+      "ダメージ": "40",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#250"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Alolan Dugtrio,                                         Alolan Dugtrio ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

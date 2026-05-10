@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#12"
+  ],
+  "名前": "Breloom",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 1,
+  "説明文": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.",
+  "イラストレーター": "Atsuko Nishida",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Gold_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Pre-Dawn Strike",
+      "ダメージ": "30+",
+      "効果": "If your opponent’s Active Pokémon is Asleep, this attack does 60 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Shroomish"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#19"
+  ],
+  "名前": "Steenee",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+  "イラストレーター": "Mizue",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Cosmetic.webp",
+    "Petals_Flair_White_Battle.webp",
+    "Bright_Stars_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Double Spin",
+      "ダメージ": "30x",
+      "効果": "Flip 2 coins. This attack does 30 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Tsareena"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Bounsweet"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#76"
+  ],
+  "名前": "Blacephalon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 2,
+  "説明文": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",
+  "イラストレーター": "Hasuno",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Ultra Beast Drop Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Ultra_Beast_Flair_Cosmetic.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Ultra_Beast_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Beat Punk",
+      "ダメージ": "130",
+      "効果": "This Pokémon also does 70 damage to itself.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fire",
+        "fire",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3a#9"
+    },
+    {
+      "カード番号": "a3a#72"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

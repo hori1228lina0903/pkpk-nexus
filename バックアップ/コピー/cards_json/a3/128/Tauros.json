@@ -1,0 +1,52 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#128"
+  ],
+  "名前": "Tauros",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.",
+  "イラストレーター": "Kazumasa Yasukuni",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック: Lunala Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rising Lunge",
+      "ダメージ": "50+",
+      "効果": "Flip a coin. If heads, this attack does 50 more damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#298"
+  ],
+  "名前": "Articuno",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
+  "イラストレーター": "Taiga Kasai",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Ice Beam",
+      "ダメージ": "60",
+      "効果": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#83"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

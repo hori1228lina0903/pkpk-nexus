@@ -1,0 +1,69 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#112"
+  ],
+  "名前": "Chien-Pao ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "kodama",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Glowing_Ring_Flair_Light_blue_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Snowflakes_Flair_Battle.webp",
+    "Sunshine_Sparkles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Icicle",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    },
+    {
+      "名前": "Diving Icicles",
+      "ダメージ": "N/A",
+      "効果": "Discard all  Energy from this Pokémon. This attack does 130 damage to 1 of your opponent’s Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2a#37"
+    },
+    {
+      "カード番号": "b2a#102"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

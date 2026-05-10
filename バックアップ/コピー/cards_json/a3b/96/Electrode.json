@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#96"
+  ],
+  "名前": "Electrode",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+  "イラストレーター": "Scav",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Digital_Squares_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rolling Attack",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#55"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Voltorb"
+      ]
+    ]
+  }
+}

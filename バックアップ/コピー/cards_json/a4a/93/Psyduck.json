@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#93"
+  ],
+  "名前": "Psyduck",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+  "イラストレーター": "Scav",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Heart_Outlines_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Headache",
+      "ダメージ": "10",
+      "効果": "Your opponent can’t use any Supporter cards from their hand during their next turn.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#57"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Golduck"
+      ]
+    ]
+  },
+  "進化前": {}
+}

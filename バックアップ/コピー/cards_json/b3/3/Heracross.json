@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#3"
+  ],
+  "名前": "Heracross",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 2,
+  "説明文": "With its herculean powers, it can easily throw around an object that is 100 times its own weight.",
+  "イラストレーター": "Taira Akitsu",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Gale_Flair_Yellow-green_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp",
+    "Digital_Squares_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Powerful Friends",
+      "ダメージ": "30+",
+      "効果": "If you have any Stage 2 Pokémon on your Bench, this attack does 50 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

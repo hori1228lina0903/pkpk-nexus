@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#93"
+  ],
+  "名前": "Ponyta",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fire",
+  "弱点": "Water",
+  "にげる": 1,
+  "説明文": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+  "イラストレーター": "Souichirou Gunjima",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Singe",
+      "ダメージ": "N/A",
+      "効果": "Your opponent’s Active Pokémon is now Burned.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2b#10"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Rapidash ex,                                         Rapidash"
+      ]
+    ]
+  },
+  "進化前": {}
+}

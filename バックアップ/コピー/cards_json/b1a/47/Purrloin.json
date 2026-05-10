@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#47"
+  ],
+  "名前": "Purrloin",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
+  "イラストレーター": "Sumiyoshi Kizuki",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Spinning_Rings_Flair_Purple_Battle.webp",
+    "Darkness_Energy_Flair_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Trip Over",
+      "ダメージ": "10+",
+      "効果": "Flip a coin. If heads, this attack does 30 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Liepard"
+      ]
+    ]
+  },
+  "進化前": {}
+}

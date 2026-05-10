@@ -1,0 +1,68 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#75"
+  ],
+  "名前": "Celesteela",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "120",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 4,
+  "説明文": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+  "イラストレーター": "REND",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Ultra_Beast_Flair_Battle.webp",
+    "Special_Ultra_Beast_Flair_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow-green_Battle.webp",
+    "Mini_Triangles_Flair_Green_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Ultra Thrusters",
+      "効果": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Moombahton",
+      "ダメージ": "100",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3a#62"
+    },
+    {
+      "カード番号": "a4b#304"
+    },
+    {
+      "カード番号": "a4b#305"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

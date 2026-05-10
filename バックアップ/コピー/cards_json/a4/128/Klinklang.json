@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#128"
+  ],
+  "名前": "Klinklang",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "150",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+  "イラストレーター": "Akira Komayama",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Metal_Energy_Flair_Cosmetic.webp",
+    "Small_Hexagons_Flair_Gray_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Gear Spinner",
+      "ダメージ": "70",
+      "効果": "During your next turn, this Pokémon’s Gear Spinner attack does +70 damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "metal",
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Klang"
+      ]
+    ]
+  }
+}

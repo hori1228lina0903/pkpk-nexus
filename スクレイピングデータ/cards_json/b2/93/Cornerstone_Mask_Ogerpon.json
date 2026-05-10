@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#93"
+  ],
+  "名前": "Cornerstone Mask Ogerpon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "80",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "In this form, it draws on the power of stone. Its body is rock-solid, protecting it from all manner of attacks.",
+  "イラストレーター": "Hitoshi Ariga",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Cornerstone Dance",
+      "ダメージ": "40",
+      "効果": "Flip a coin. If heads, during your opponent’s next turn, this Pokémon takes −100 damage from attacks.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

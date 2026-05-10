@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#184"
+  ],
+  "名前": "Eevee",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
+  "イラストレーター": "MAHOU",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "イベント: Bonus Pick - Eevee and Drifblim Wonderpick",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Eevee_Silhouettes_Flair_Battle.webp",
+    "Petals_Flair_Red_Cosmetic.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Boosted Evolution",
+      "効果": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Stampede",
+      "ダメージ": "10",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-b#11"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Sylveon ex,                                         Leafeon ex,                                         Jolteon ex,                                         Umbreon,                                         Sylveon,                                         Espeon,                                         Jolteon,                                         Umbreon ex,                                         Leafeon,                                         Glaceon ex,                                         Vaporeon,                                         Espeon ex,                                         Glaceon,                                         Flareon ex,                                         Flareon"
+      ]
+    ]
+  },
+  "進化前": {}
+}

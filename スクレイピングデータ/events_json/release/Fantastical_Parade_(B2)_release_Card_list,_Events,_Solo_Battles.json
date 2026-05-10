@@ -1,0 +1,775 @@
+{
+  "url": "https://www.pokemon-zone.com/events/fantastical-parade-release/",
+  "title": "Fantastical Parade (B2) release: Card list, Events, Solo Battles",
+  "period": {
+    "text": "Jan 28",
+    "start_date": "2026-01-28"
+  },
+  "packs": [
+    {
+      "title": "Fantastical Parade pack",
+      "link": "/sets/b2/Fantastical Parade pack.html",
+      "key_visual": "/images/packs/Fantastical Parade pack.webp"
+    }
+  ],
+  "game_updates": [
+    "Message in the Trade feature"
+  ],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Fantastical Parade Release - Fantastical Parade",
+      "period": "Jan 28 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Mega Gardevoir (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_B2",
+          "currency_image": "Emblem Ticket (Fantastical Parade).webp"
+        },
+        {
+          "name": "Ogerpon (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_B2",
+          "currency_image": "Emblem Ticket (Fantastical Parade).webp"
+        }
+      ]
+    },
+    {
+      "title": "Fantastical Parade Release - Accessories",
+      "period": "Jan 28 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Fantastical Parade: Mega Gardevoir (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    },
+    {
+      "title": "Fantastical Parade Backdrop - Accessories",
+      "period": "Jan 28 - Feb 25, 2026",
+      "items": [
+        {
+          "name": "Rainbow (backdrop)",
+          "price": "50",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Mimikyu)",
+      "period": "Jan 28 - Feb 25, 2026",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Jan 28 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Jan 28 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Darkness-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Fantastical Parade cards included in your deck"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Jan 28 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Darkness-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Jan 28 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Metal type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Lightning type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Fantastical Parade cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Fantastical Parade Missions",
+      "period": "Jan 28 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Mega Gardevoir and a Magnificent Evolution",
+          "rewards": [
+            {
+              "name": "12x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Mega Swampert and Pokémon with Strong Arms",
+          "rewards": [
+            {
+              "name": "12x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Mega Mawile and Pokémon with Huge Jaws",
+          "rewards": [
+            {
+              "name": "12x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Mega Kangaskhan and Family Bonds",
+          "rewards": [
+            {
+              "name": "9x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "9"
+            }
+          ]
+        },
+        {
+          "description": "High Spirits in a Vibrant Town",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon That Dance in the Town",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Teal Mask Ogerpon ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Pokémon and the Nighttime Festival",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon and the Town Festival",
+          "rewards": [
+            {
+              "name": "1x Meowth (emblem)",
+              "local_file": "Meowth (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100350_NYARTH.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Teal Mask Ogerpon ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Ogerpon and the Four Masks",
+          "rewards": [
+            {
+              "name": "16x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "16"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Blacephalon ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Collect cards for Blacephalon ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Each Meowth Is Different",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Swampert ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Cramorant, Gulping and Gorging 1",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Cramorant, Gulping and Gorging 2",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Swampert ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Toxtricity ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Warning: May Be Prickly",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Toxtricity ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Plusle and Minun",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Want Some...Ice Cream?",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Gardevoir ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Teatime Preparations",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Gardevoir ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Invasion of the Ultra Beasts",
+          "rewards": [
+            {
+              "name": "12x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Gigalith ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Alolan Form Pokémon",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Gigalith ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Register 70 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 80 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Piers Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Galarian Form Pokémon",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Piers Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Starting Plains Battle",
+          "rewards": [
+            {
+              "name": "1x Starting Plains battle (cover)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PeripheralGoods/CollectionFile/ICON_FILE_100940.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 90 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register 100 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Peculiar Plaza and Psychic-type Pokémon",
+          "rewards": [
+            {
+              "name": "9x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "9"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Mawile ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Collect cards for Mega Mawile ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Register 110 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Fantastical Parade Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Kangaskhan ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Fantastical Parade Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 120 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Kangaskhan ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Fantastical Parade Museum 3",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 130 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register 140 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Fantastical Parade)",
+              "local_file": "Emblem Ticket (Fantastical Parade).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Alolan Ninetales ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Fantastical Parade: Immersive Experience",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Cramorant cards",
+          "rewards": [
+            {
+              "name": "1x Cramorant (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100670_UU.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Meloetta cards",
+          "rewards": [
+            {
+              "name": "1x Meloetta (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100680_MELOETTA.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Mudkip cards",
+          "rewards": [
+            {
+              "name": "1x Mudkip (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100690_MIZUGOROU.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "On a Snowy Day...",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Family of Four and Family of Three",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Alolan Ninetales ex Deck (Fantastical Parade)"
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Fantastical Parade: Mega Gardevoir (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100660_MEGASIRNIGHT.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

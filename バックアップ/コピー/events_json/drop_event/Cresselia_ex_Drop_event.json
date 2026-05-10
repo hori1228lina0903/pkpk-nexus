@@ -1,0 +1,42 @@
+{
+  "url": "https://www.pokemon-zone.com/events/cresselia-ex-drop-event/",
+  "title": "Cresselia ex Drop event",
+  "period": {
+    "text": "Feb 3 - Feb 17",
+    "start_date": "2025-02-03",
+    "end_date": "2025-02-17"
+  },
+  "promo_pack": {
+    "name": "",
+    "cards": []
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Darkness-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Darkness-type Pokémon",
+        "Make your opponent’s Pokémon Asleep 1 time",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Win 5 or more battles",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}

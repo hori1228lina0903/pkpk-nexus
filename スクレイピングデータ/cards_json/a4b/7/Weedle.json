@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#7"
+  ],
+  "名前": "Weedle",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+  "イラストレーター": "Akira Komayama",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Grass_Energy_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Clovers_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Multiply",
+      "ダメージ": "N/A",
+      "効果": "Put 1 random Weedle from your deck onto your Bench.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#1"
+    },
+    {
+      "カード番号": "a2b#97"
+    },
+    {
+      "カード番号": "a4b#6"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Kakuna"
+      ]
+    ]
+  },
+  "進化前": {}
+}

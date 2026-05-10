@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#74"
+  ],
+  "名前": "Trubbish",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "darkness",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+  "イラストレーター": "Saboteri",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Circles_Flair_Yellow_Battle.webp",
+    "Small_Stars_Flair_Gray_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Drool",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1a#49"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Garbodor"
+      ]
+    ]
+  },
+  "進化前": {}
+}

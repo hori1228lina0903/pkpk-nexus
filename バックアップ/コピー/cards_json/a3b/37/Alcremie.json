@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#37",
+    "a4b#187"
+  ],
+  "名前": "Alcremie",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "When it trusts a Trainer, it will treat them to berries it’s decorated with cream.",
+  "イラストレーター": "Mizue",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Circles_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sweets Overload",
+      "ダメージ": "40x",
+      "効果": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#188"
+    },
+    {
+      "カード番号": "promo-a#87"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Milcery"
+      ]
+    ]
+  }
+}

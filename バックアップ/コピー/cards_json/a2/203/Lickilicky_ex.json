@@ -1,0 +1,74 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#203"
+  ],
+  "名前": "Lickilicky ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "160",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 4,
+  "説明文": "",
+  "イラストレーター": "Jerky",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Palkia Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Pink_Battle.webp",
+    "Rounded_Squares_Flair_Purple_Battle.webp",
+    "Star_Outlines_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Licking Fury",
+      "ダメージ": "100+",
+      "効果": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#125"
+    },
+    {
+      "カード番号": "a2#189"
+    },
+    {
+      "カード番号": "a4#239"
+    },
+    {
+      "カード番号": "a4b#284"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Lickitung"
+      ]
+    ]
+  }
+}

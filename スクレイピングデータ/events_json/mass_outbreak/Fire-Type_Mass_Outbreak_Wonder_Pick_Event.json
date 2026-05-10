@@ -1,0 +1,663 @@
+{
+  "url": "https://www.pokemon-zone.com/events/fire-type-pokemon-mass-outbreak/",
+  "title": "Fire-Type Mass Outbreak Wonder Pick Event",
+  "period": {
+    "text": "Nov 22 - Nov 28",
+    "start_date": "2024-11-22",
+    "end_date": "2024-11-28"
+  },
+  "target_type": "Fire",
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Heatmor Common",
+          "full_name": "Heatmor Common - Genetic Apex (A1) #48",
+          "url": "/cards/a1/48/heatmor/",
+          "id": "a1/48"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Common",
+          "full_name": "Charmander Common - Genetic Apex (A1) #33",
+          "url": "/cards/a1/33/charmander/",
+          "id": "a1/33"
+        },
+        {
+          "type": "card",
+          "name": "Vulpix Common",
+          "full_name": "Vulpix Common - Genetic Apex (A1) #37",
+          "url": "/cards/a1/37/vulpix/",
+          "id": "a1/37"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Ponyta Common",
+          "full_name": "Ponyta Common - Genetic Apex (A1) #42",
+          "url": "/cards/a1/42/ponyta/",
+          "id": "a1/42"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Ponyta Common",
+          "full_name": "Ponyta Common - Genetic Apex (A1) #42",
+          "url": "/cards/a1/42/ponyta/",
+          "id": "a1/42"
+        },
+        {
+          "type": "card",
+          "name": "Magmar Common",
+          "full_name": "Magmar Common - Genetic Apex (A1) #44",
+          "url": "/cards/a1/44/magmar/",
+          "id": "a1/44"
+        },
+        {
+          "type": "card",
+          "name": "Heatmor Common",
+          "full_name": "Heatmor Common - Genetic Apex (A1) #48",
+          "url": "/cards/a1/48/heatmor/",
+          "id": "a1/48"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Common",
+          "full_name": "Charmander Common - Genetic Apex (A1) #33",
+          "url": "/cards/a1/33/charmander/",
+          "id": "a1/33"
+        },
+        {
+          "type": "card",
+          "name": "Vulpix Common",
+          "full_name": "Vulpix Common - Genetic Apex (A1) #37",
+          "url": "/cards/a1/37/vulpix/",
+          "id": "a1/37"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Ponyta Common",
+          "full_name": "Ponyta Common - Genetic Apex (A1) #42",
+          "url": "/cards/a1/42/ponyta/",
+          "id": "a1/42"
+        },
+        {
+          "type": "card",
+          "name": "Magmar Common",
+          "full_name": "Magmar Common - Genetic Apex (A1) #44",
+          "url": "/cards/a1/44/magmar/",
+          "id": "a1/44"
+        },
+        {
+          "type": "card",
+          "name": "Heatmor Common",
+          "full_name": "Heatmor Common - Genetic Apex (A1) #48",
+          "url": "/cards/a1/48/heatmor/",
+          "id": "a1/48"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Common",
+          "full_name": "Charmander Common - Genetic Apex (A1) #33",
+          "url": "/cards/a1/33/charmander/",
+          "id": "a1/33"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Magmar Common",
+          "full_name": "Magmar Common - Genetic Apex (A1) #44",
+          "url": "/cards/a1/44/magmar/",
+          "id": "a1/44"
+        },
+        {
+          "type": "card",
+          "name": "Heatmor Common",
+          "full_name": "Heatmor Common - Genetic Apex (A1) #48",
+          "url": "/cards/a1/48/heatmor/",
+          "id": "a1/48"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Common",
+          "full_name": "Charmander Common - Genetic Apex (A1) #33",
+          "url": "/cards/a1/33/charmander/",
+          "id": "a1/33"
+        },
+        {
+          "type": "card",
+          "name": "Vulpix Common",
+          "full_name": "Vulpix Common - Genetic Apex (A1) #37",
+          "url": "/cards/a1/37/vulpix/",
+          "id": "a1/37"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Genetic Apex (A1) #34",
+          "url": "/cards/a1/34/charmeleon/",
+          "id": "a1/34"
+        },
+        {
+          "type": "card",
+          "name": "Blaine Uncommon",
+          "full_name": "Blaine Uncommon - Genetic Apex (A1) #221",
+          "url": "/cards/a1/221/blaine/",
+          "id": "a1/221"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Genetic Apex (A1) #34",
+          "url": "/cards/a1/34/charmeleon/",
+          "id": "a1/34"
+        },
+        {
+          "type": "card",
+          "name": "Ninetales Uncommon",
+          "full_name": "Ninetales Uncommon - Genetic Apex (A1) #38",
+          "url": "/cards/a1/38/ninetales/",
+          "id": "a1/38"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Vulpix Common",
+          "full_name": "Vulpix Common - Genetic Apex (A1) #37",
+          "url": "/cards/a1/37/vulpix/",
+          "id": "a1/37"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Ponyta Common",
+          "full_name": "Ponyta Common - Genetic Apex (A1) #42",
+          "url": "/cards/a1/42/ponyta/",
+          "id": "a1/42"
+        },
+        {
+          "type": "card",
+          "name": "Magmar Common",
+          "full_name": "Magmar Common - Genetic Apex (A1) #44",
+          "url": "/cards/a1/44/magmar/",
+          "id": "a1/44"
+        },
+        {
+          "type": "card",
+          "name": "Heatmor Common",
+          "full_name": "Heatmor Common - Genetic Apex (A1) #48",
+          "url": "/cards/a1/48/heatmor/",
+          "id": "a1/48"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Rapidash Uncommon",
+          "full_name": "Rapidash Uncommon - Genetic Apex (A1) #43",
+          "url": "/cards/a1/43/rapidash/",
+          "id": "a1/43"
+        },
+        {
+          "type": "card",
+          "name": "Blaine Uncommon",
+          "full_name": "Blaine Uncommon - Genetic Apex (A1) #221",
+          "url": "/cards/a1/221/blaine/",
+          "id": "a1/221"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Ninetales Uncommon",
+          "full_name": "Ninetales Uncommon - Genetic Apex (A1) #38",
+          "url": "/cards/a1/38/ninetales/",
+          "id": "a1/38"
+        },
+        {
+          "type": "card",
+          "name": "Rapidash Uncommon",
+          "full_name": "Rapidash Uncommon - Genetic Apex (A1) #43",
+          "url": "/cards/a1/43/rapidash/",
+          "id": "a1/43"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Charmander Common",
+          "full_name": "Charmander Common - Genetic Apex (A1) #33",
+          "url": "/cards/a1/33/charmander/",
+          "id": "a1/33"
+        },
+        {
+          "type": "card",
+          "name": "Vulpix Common",
+          "full_name": "Vulpix Common - Genetic Apex (A1) #37",
+          "url": "/cards/a1/37/vulpix/",
+          "id": "a1/37"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Ponyta Common",
+          "full_name": "Ponyta Common - Genetic Apex (A1) #42",
+          "url": "/cards/a1/42/ponyta/",
+          "id": "a1/42"
+        },
+        {
+          "type": "card",
+          "name": "Magmar Common",
+          "full_name": "Magmar Common - Genetic Apex (A1) #44",
+          "url": "/cards/a1/44/magmar/",
+          "id": "a1/44"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Arcanine ex Double Rare",
+          "full_name": "Arcanine ex Double Rare - Deluxe Pack: ex (A4b) #63",
+          "url": "/cards/a4b/63/arcanine-ex/",
+          "id": "a4b/63"
+        },
+        {
+          "type": "card",
+          "name": "Charizard Rare",
+          "full_name": "Charizard Rare - Genetic Apex (A1) #35",
+          "url": "/cards/a1/35/charizard/",
+          "id": "a1/35"
+        },
+        {
+          "type": "card",
+          "name": "Moltres Rare",
+          "full_name": "Moltres Rare - Genetic Apex (A1) #46",
+          "url": "/cards/a1/46/moltres/",
+          "id": "a1/46"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Genetic Apex (A1) #34",
+          "url": "/cards/a1/34/charmeleon/",
+          "id": "a1/34"
+        },
+        {
+          "type": "card",
+          "name": "Ninetales Uncommon",
+          "full_name": "Ninetales Uncommon - Genetic Apex (A1) #38",
+          "url": "/cards/a1/38/ninetales/",
+          "id": "a1/38"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Arcanine ex Double Rare",
+          "full_name": "Arcanine ex Double Rare - Deluxe Pack: ex (A4b) #63",
+          "url": "/cards/a4b/63/arcanine-ex/",
+          "id": "a4b/63"
+        },
+        {
+          "type": "card",
+          "name": "Charizard Rare",
+          "full_name": "Charizard Rare - Genetic Apex (A1) #35",
+          "url": "/cards/a1/35/charizard/",
+          "id": "a1/35"
+        },
+        {
+          "type": "card",
+          "name": "Moltres Rare",
+          "full_name": "Moltres Rare - Genetic Apex (A1) #46",
+          "url": "/cards/a1/46/moltres/",
+          "id": "a1/46"
+        },
+        {
+          "type": "card",
+          "name": "Rapidash Uncommon",
+          "full_name": "Rapidash Uncommon - Genetic Apex (A1) #43",
+          "url": "/cards/a1/43/rapidash/",
+          "id": "a1/43"
+        },
+        {
+          "type": "card",
+          "name": "Blaine Uncommon",
+          "full_name": "Blaine Uncommon - Genetic Apex (A1) #221",
+          "url": "/cards/a1/221/blaine/",
+          "id": "a1/221"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    }
+  ],
+  "exclusive_flair": [
+    {
+      "name": "Circles Flair: Yellow (Battle)",
+      "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Effect/ICON_BATTLE_KIRA_EFFECT_100023.webp",
+      "requirements": [
+        {
+          "item": "cPK_10_000410_00_WINDIEex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        }
+      ],
+      "period": "Nov 22 - Nov 28, 2024"
+    }
+  ],
+  "missions": [
+    {
+      "name": "Fire-Type Mass Outbreak Event",
+      "period": "Nov 22 - Nov 28, 2024",
+      "missions": [
+        {
+          "description": "Collect 1 Arcanine ex card",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Fire cards",
+          "rewards": [
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Fire cards",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "5x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "5",
+              "type": "sub"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 15 Fire cards",
+          "rewards": [
+            {
+              "name": "4x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "4",
+              "type": "main"
+            },
+            {
+              "name": "7x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "7",
+              "type": "sub"
+            }
+          ],
+          "target": "0/15"
+        }
+      ]
+    }
+  ]
+}

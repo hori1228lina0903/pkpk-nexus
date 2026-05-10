@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#286"
+  ],
+  "名前": "Mega Altaria ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 3
+  },
+  "HP": "190",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "Its down is so soft, it seems as if a touch could melt it. But it’s strong enough that just a few strands could be used to hoist a dump truck.",
+  "イラストレーター": "Susumu Maeya",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 1500"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "Mega"
+  ],
+  "エフェクト一覧": [
+    "Heart_Outlines_Flair_Light_blue_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Heart_Bubbles_Flair_Pink_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Mega Harmony",
+      "ダメージ": "40+",
+      "効果": "This attack does 30 more damage for each of your Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#102"
+    },
+    {
+      "カード番号": "b1#259"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Swablu"
+      ]
+    ]
+  }
+}

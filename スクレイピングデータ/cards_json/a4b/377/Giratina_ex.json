@@ -1,0 +1,72 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#377"
+  ],
+  "名前": "Giratina ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "150",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA Yamashita",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Special_Shiny_Sparkles_Flair_Battle.webp",
+    "Digital_Squares_Flair_Purple_Battle.webp",
+    "Small_Stars_Flair_Purple_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Broken-Space Bellow",
+      "効果": "Once during your turn, you may take aEnergy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Chaotic Impact",
+      "ダメージ": "130",
+      "効果": "This Pokémon also does 20 damage to itself.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic",
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#35"
+    },
+    {
+      "カード番号": "a2b#83"
+    },
+    {
+      "カード番号": "a2b#96"
+    },
+    {
+      "カード番号": "a4b#172"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

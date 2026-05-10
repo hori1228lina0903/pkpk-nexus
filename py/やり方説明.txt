@@ -1,0 +1,15 @@
+HTML viewer(アプリ)を使ってpokemon zone.comのカード一覧のソースコードをダウンロードする。
+↓
+card_link_extractor.pyで、ソースコードからカードのurlをjsonファイルでまとめる。
+↓
+card_date_get_v2.pyを使って、カードデータのjsonファイルをカードごとに作る。
+
+
+カードデータが増えたら、カードデータ結合.pyを使ってcardsフォルダのパックを選択してデータ結合jsonをcardsフォルダに作る。ファイル名は「a1-all-cards.json」みたいにする。先頭のa1の部分はパック番号をつける。
+↓
+data-load.jsの
+  const packs = [
+    'a1-all-cards.json',
+    'a1a-all-cards.json'
+  ]
+  にファイル名を追加する。

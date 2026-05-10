@@ -1,0 +1,77 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#372"
+  ],
+  "名前": "Arceus ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "5ban Graphics",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow-green_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Fabled Luster",
+      "効果": "This Pokémon can’t be affected by any Special Conditions."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Ultimate Force",
+      "ダメージ": "70+",
+      "効果": "This attack does 20 more damage for each of your Benched Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2a#71"
+    },
+    {
+      "カード番号": "a2a#86"
+    },
+    {
+      "カード番号": "a2a#95"
+    },
+    {
+      "カード番号": "a2a#96"
+    },
+    {
+      "カード番号": "a4b#299"
+    },
+    {
+      "カード番号": "b1#328"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

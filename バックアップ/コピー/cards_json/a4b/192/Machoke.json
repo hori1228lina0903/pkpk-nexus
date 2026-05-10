@@ -1,0 +1,76 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#192"
+  ],
+  "名前": "Machoke",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 2,
+  "説明文": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+  "イラストレーター": "match",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "イベント: Rare Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Strength",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#144"
+    },
+    {
+      "カード番号": "a3#224"
+    },
+    {
+      "カード番号": "a4b#191"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Machamp,                                         Machamp ex"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Machop"
+      ]
+    ]
+  }
+}

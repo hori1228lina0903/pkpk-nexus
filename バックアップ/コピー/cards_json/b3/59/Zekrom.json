@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#59"
+  ],
+  "名前": "Zekrom",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "lightning",
+  "弱点": "Fighting",
+  "にげる": 2,
+  "説明文": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning.",
+  "イラストレーター": "hatachu",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Flash_of_Lightning_Flair_Light_blue_Battle.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Gold_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Bolt Strike",
+      "ダメージ": "110",
+      "効果": "Flip a coin. If tails, this Pokémon also does 30 damage to itself.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#163"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

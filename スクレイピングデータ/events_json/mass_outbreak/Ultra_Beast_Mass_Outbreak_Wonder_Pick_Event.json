@@ -1,0 +1,553 @@
+{
+  "url": "https://www.pokemon-zone.com/events/ultra-beast-mass-outbreak-event/",
+  "title": "Ultra Beast Mass Outbreak Wonder Pick Event",
+  "period": {
+    "text": "Jun 23 - Jun 29",
+    "start_date": "2025-06-23",
+    "end_date": "2025-06-29"
+  },
+  "target_type": "",
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Xurkitree Uncommon",
+          "full_name": "Xurkitree Uncommon - Extradimensional Crisis (A3a) #20",
+          "url": "/cards/a3a/20/xurkitree/",
+          "id": "a3a/20"
+        },
+        {
+          "type": "card",
+          "name": "Stakataka Uncommon",
+          "full_name": "Stakataka Uncommon - Extradimensional Crisis (A3a) #53",
+          "url": "/cards/a3a/53/stakataka/",
+          "id": "a3a/53"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Common",
+          "full_name": "Poipole Common - Extradimensional Crisis (A3a) #44",
+          "url": "/cards/a3a/44/poipole/",
+          "id": "a3a/44"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Lusamine Uncommon",
+          "full_name": "Lusamine Uncommon - Extradimensional Crisis (A3a) #69",
+          "url": "/cards/a3a/69/lusamine/",
+          "id": "a3a/69"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Stakataka Uncommon",
+          "full_name": "Stakataka Uncommon - Extradimensional Crisis (A3a) #53",
+          "url": "/cards/a3a/53/stakataka/",
+          "id": "a3a/53"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Common",
+          "full_name": "Poipole Common - Extradimensional Crisis (A3a) #44",
+          "url": "/cards/a3a/44/poipole/",
+          "id": "a3a/44"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Lusamine Uncommon",
+          "full_name": "Lusamine Uncommon - Extradimensional Crisis (A3a) #69",
+          "url": "/cards/a3a/69/lusamine/",
+          "id": "a3a/69"
+        },
+        {
+          "type": "card",
+          "name": "Beastite Uncommon",
+          "full_name": "Beastite Uncommon - Extradimensional Crisis (A3a) #66",
+          "url": "/cards/a3a/66/beastite/",
+          "id": "a3a/66"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Blacephalon Uncommon",
+          "full_name": "Blacephalon Uncommon - Extradimensional Crisis (A3a) #9",
+          "url": "/cards/a3a/9/blacephalon/",
+          "id": "a3a/9"
+        },
+        {
+          "type": "card",
+          "name": "Xurkitree Uncommon",
+          "full_name": "Xurkitree Uncommon - Extradimensional Crisis (A3a) #20",
+          "url": "/cards/a3a/20/xurkitree/",
+          "id": "a3a/20"
+        },
+        {
+          "type": "card",
+          "name": "Beastite Uncommon",
+          "full_name": "Beastite Uncommon - Extradimensional Crisis (A3a) #66",
+          "url": "/cards/a3a/66/beastite/",
+          "id": "a3a/66"
+        },
+        {
+          "type": "card",
+          "name": "Beast Wall Uncommon",
+          "full_name": "Beast Wall Uncommon - Extradimensional Crisis (A3a) #63",
+          "url": "/cards/a3a/63/beast-wall/",
+          "id": "a3a/63"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Blacephalon Uncommon",
+          "full_name": "Blacephalon Uncommon - Extradimensional Crisis (A3a) #9",
+          "url": "/cards/a3a/9/blacephalon/",
+          "id": "a3a/9"
+        },
+        {
+          "type": "card",
+          "name": "Lusamine Uncommon",
+          "full_name": "Lusamine Uncommon - Extradimensional Crisis (A3a) #69",
+          "url": "/cards/a3a/69/lusamine/",
+          "id": "a3a/69"
+        },
+        {
+          "type": "card",
+          "name": "Beastite Uncommon",
+          "full_name": "Beastite Uncommon - Extradimensional Crisis (A3a) #66",
+          "url": "/cards/a3a/66/beastite/",
+          "id": "a3a/66"
+        },
+        {
+          "type": "card",
+          "name": "Beast Wall Uncommon",
+          "full_name": "Beast Wall Uncommon - Extradimensional Crisis (A3a) #63",
+          "url": "/cards/a3a/63/beast-wall/",
+          "id": "a3a/63"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Blacephalon Uncommon",
+          "full_name": "Blacephalon Uncommon - Extradimensional Crisis (A3a) #9",
+          "url": "/cards/a3a/9/blacephalon/",
+          "id": "a3a/9"
+        },
+        {
+          "type": "card",
+          "name": "Xurkitree Uncommon",
+          "full_name": "Xurkitree Uncommon - Extradimensional Crisis (A3a) #20",
+          "url": "/cards/a3a/20/xurkitree/",
+          "id": "a3a/20"
+        },
+        {
+          "type": "card",
+          "name": "Stakataka Uncommon",
+          "full_name": "Stakataka Uncommon - Extradimensional Crisis (A3a) #53",
+          "url": "/cards/a3a/53/stakataka/",
+          "id": "a3a/53"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Common",
+          "full_name": "Poipole Common - Extradimensional Crisis (A3a) #44",
+          "url": "/cards/a3a/44/poipole/",
+          "id": "a3a/44"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Blacephalon Uncommon",
+          "full_name": "Blacephalon Uncommon - Extradimensional Crisis (A3a) #9",
+          "url": "/cards/a3a/9/blacephalon/",
+          "id": "a3a/9"
+        },
+        {
+          "type": "card",
+          "name": "Xurkitree Uncommon",
+          "full_name": "Xurkitree Uncommon - Extradimensional Crisis (A3a) #20",
+          "url": "/cards/a3a/20/xurkitree/",
+          "id": "a3a/20"
+        },
+        {
+          "type": "card",
+          "name": "Stakataka Uncommon",
+          "full_name": "Stakataka Uncommon - Extradimensional Crisis (A3a) #53",
+          "url": "/cards/a3a/53/stakataka/",
+          "id": "a3a/53"
+        },
+        {
+          "type": "card",
+          "name": "Beast Wall Uncommon",
+          "full_name": "Beast Wall Uncommon - Extradimensional Crisis (A3a) #63",
+          "url": "/cards/a3a/63/beast-wall/",
+          "id": "a3a/63"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Poipole Common",
+          "full_name": "Poipole Common - Extradimensional Crisis (A3a) #44",
+          "url": "/cards/a3a/44/poipole/",
+          "id": "a3a/44"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Lusamine Uncommon",
+          "full_name": "Lusamine Uncommon - Extradimensional Crisis (A3a) #69",
+          "url": "/cards/a3a/69/lusamine/",
+          "id": "a3a/69"
+        },
+        {
+          "type": "card",
+          "name": "Beastite Uncommon",
+          "full_name": "Beastite Uncommon - Extradimensional Crisis (A3a) #66",
+          "url": "/cards/a3a/66/beastite/",
+          "id": "a3a/66"
+        },
+        {
+          "type": "card",
+          "name": "Beast Wall Uncommon",
+          "full_name": "Beast Wall Uncommon - Extradimensional Crisis (A3a) #63",
+          "url": "/cards/a3a/63/beast-wall/",
+          "id": "a3a/63"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Lusamine Uncommon",
+          "full_name": "Lusamine Uncommon - Extradimensional Crisis (A3a) #69",
+          "url": "/cards/a3a/69/lusamine/",
+          "id": "a3a/69"
+        },
+        {
+          "type": "card",
+          "name": "Beastite Uncommon",
+          "full_name": "Beastite Uncommon - Extradimensional Crisis (A3a) #66",
+          "url": "/cards/a3a/66/beastite/",
+          "id": "a3a/66"
+        },
+        {
+          "type": "card",
+          "name": "Beast Wall Uncommon",
+          "full_name": "Beast Wall Uncommon - Extradimensional Crisis (A3a) #63",
+          "url": "/cards/a3a/63/beast-wall/",
+          "id": "a3a/63"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 11,
+      "items": [
+        {
+          "type": "card",
+          "name": "Blacephalon Uncommon",
+          "full_name": "Blacephalon Uncommon - Extradimensional Crisis (A3a) #9",
+          "url": "/cards/a3a/9/blacephalon/",
+          "id": "a3a/9"
+        },
+        {
+          "type": "card",
+          "name": "Xurkitree Uncommon",
+          "full_name": "Xurkitree Uncommon - Extradimensional Crisis (A3a) #20",
+          "url": "/cards/a3a/20/xurkitree/",
+          "id": "a3a/20"
+        },
+        {
+          "type": "card",
+          "name": "Stakataka Uncommon",
+          "full_name": "Stakataka Uncommon - Extradimensional Crisis (A3a) #53",
+          "url": "/cards/a3a/53/stakataka/",
+          "id": "a3a/53"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Common",
+          "full_name": "Poipole Common - Extradimensional Crisis (A3a) #44",
+          "url": "/cards/a3a/44/poipole/",
+          "id": "a3a/44"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "rare",
+      "percent": 100,
+      "items": [
+        {
+          "type": "card",
+          "name": "Guzzlord ex Double Rare",
+          "full_name": "Guzzlord ex Double Rare - Extradimensional Crisis (A3a) #43",
+          "url": "/cards/a3a/43/guzzlord-ex/",
+          "id": "a3a/43"
+        },
+        {
+          "type": "card",
+          "name": "Buzzwole ex Double Rare",
+          "full_name": "Buzzwole ex Double Rare - Deluxe Pack: ex (A4b) #44",
+          "url": "/cards/a4b/44/buzzwole-ex/",
+          "id": "a4b/44"
+        },
+        {
+          "type": "card",
+          "name": "Nihilego Rare",
+          "full_name": "Nihilego Rare - Extradimensional Crisis (A3a) #42",
+          "url": "/cards/a3a/42/nihilego/",
+          "id": "a3a/42"
+        },
+        {
+          "type": "card",
+          "name": "Naganadel Rare",
+          "full_name": "Naganadel Rare - Extradimensional Crisis (A3a) #45",
+          "url": "/cards/a3a/45/naganadel/",
+          "id": "a3a/45"
+        },
+        {
+          "type": "card",
+          "name": "Celesteela Rare",
+          "full_name": "Celesteela Rare - Extradimensional Crisis (A3a) #62",
+          "url": "/cards/a3a/62/celesteela/",
+          "id": "a3a/62"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    }
+  ],
+  "exclusive_flair": [],
+  "missions": [
+    {
+      "name": "Ultra Beast Mass Outbreak Event",
+      "period": "Jun 23 - Jun 29, 2025",
+      "missions": [
+        {
+          "description": "Collect 5 Ultra Beast cards",
+          "rewards": [
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Ultra Beast cards",
+          "rewards": [
+            {
+              "name": "5x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "5",
+              "type": "main"
+            },
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 15 Ultra Beast cards",
+          "rewards": [
+            {
+              "name": "7x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "7",
+              "type": "main"
+            },
+            {
+              "name": "4x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "4",
+              "type": "sub"
+            }
+          ],
+          "target": "0/15"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        }
+      ]
+    }
+  ]
+}

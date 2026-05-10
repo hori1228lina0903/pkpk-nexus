@@ -1,0 +1,473 @@
+{
+  "url": "https://www.pokemon-zone.com/events/extradimensional-crisis-release/",
+  "title": "Extradimensional Crisis (A3a) release: card list, events, new items, Solo battles",
+  "period": {
+    "text": "May 29",
+    "start_date": "2025-05-29"
+  },
+  "packs": [
+    {
+      "title": "Extradimensional Crisis pack",
+      "link": "/sets/a3a/Extradimensional Crisis pack.html",
+      "key_visual": "/images/packs/Extradimensional Crisis pack.webp"
+    }
+  ],
+  "game_updates": [
+    "New solo step-up Battles (see below)",
+    "Cards from Celestial Guardians (A3) become available for trading.",
+    "Minor bug fixes"
+  ],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Extradimensional Crisis (A3a) Release - Extradimensional Crisis",
+      "period": "May 29 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Buzzwole (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A3a",
+          "currency_image": "Emblem Ticket (Extradimensional Crisis).webp"
+        }
+      ]
+    },
+    {
+      "title": "Extradimensional Crisis (A3a) Release - Accessories",
+      "period": "May 29 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Extradimensional Crisis: Ultra Beast (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Acerola)",
+      "period": "May 29 - Jun 26, 2025",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "May 29 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "May 29 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "May 29 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "May 29 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Lightning type",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Extradimensional Crisis (A3a) Release",
+      "period": "May 29 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Ultra Beast Collection",
+          "rewards": [
+            {
+              "name": "25x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "25"
+            }
+          ]
+        },
+        {
+          "description": "Quick as Lightning",
+          "rewards": [
+            {
+              "name": "11x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "11"
+            }
+          ]
+        },
+        {
+          "description": "Lusamine, President of the Aether Foundation",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Type: Null’s Bonds",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Buzzwole ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Register 15 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Meditation Masters",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon that Get Nutrition from Minerals",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Buzzwole ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "A Dangerous Forest with No Way Out",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Register 25 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Tapu Koko ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Collect cards for Tapu Koko ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Pokémon with Black around their Eyes",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 35 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Lycanroc ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Well-Coordinated Team Play",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Fur that’s Pleasant to Touch",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Lycanroc ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Collect the highlight card for Guzzlord ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "A Trio with Impressive Whiskers",
+          "rewards": [
+            {
+              "name": "1x Alolan Dugtrio (emblem)",
+              "local_file": "Alolan Dugtrio (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100180_ALOLADUGTRIO.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Guzzlord ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Extradimensional Crisis Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Alolan Dugtrio ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Extradimensional Crisis Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 65 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Extradimensional Crisis)",
+              "local_file": "Emblem Ticket (Extradimensional Crisis).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A3a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect 5 Nihilego cards",
+          "rewards": [
+            {
+              "name": "1x Nihilego (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100420_UTUROID.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Alolan Dugtrio ex Deck (Extradimensional Crisis)"
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Extradimensional Crisis: Buzzwole (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100410_MASSIVOON.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

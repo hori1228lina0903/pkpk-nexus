@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-b#33"
+  ],
+  "名前": "Quaxly",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things.",
+  "イラストレーター": "buchi",
+  "収録セット": [
+    "Promo B"
+  ],
+  "入手方法": [
+    "プレミアムミッション: March 2026 Login Bonus (Day 1)"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Heart_Bubbles_Flair_Light_blue_Battle.webp",
+    "Circles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Splashing Dodge",
+      "ダメージ": "10",
+      "効果": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2a#22"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Quaxwell"
+      ]
+    ]
+  },
+  "進化前": {}
+}

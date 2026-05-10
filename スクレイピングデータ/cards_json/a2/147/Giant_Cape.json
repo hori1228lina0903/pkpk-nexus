@@ -1,0 +1,43 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a2#147",
+    "a4b#320"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Giant Cape",
+  "イラストレーター": "Ryo Ueda",
+  "収録セット": [
+    "Space-Time Smackdown",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック: Deluxe Pack: ex",
+    "ミッション: Get 12 points in solo battles - Elite Deck Gift Missions",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Tool",
+  "カードの効果": {
+    "発動効果": "The Pokémon this card is attached to gets +20 HP.",
+    "追加ルール": "N/A"
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Star_Outlines_Flair_Purple_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#321"
+    }
+  ],
+  "進化先": {}
+}

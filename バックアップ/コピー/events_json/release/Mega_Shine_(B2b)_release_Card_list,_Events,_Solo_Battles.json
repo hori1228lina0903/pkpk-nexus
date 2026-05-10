@@ -1,0 +1,538 @@
+{
+  "url": "https://www.pokemon-zone.com/events/mega-shine-release/",
+  "title": "Mega Shine (B2b) release: Card list, Events, Solo Battles",
+  "period": {
+    "text": "Mar 25",
+    "start_date": "2026-03-25"
+  },
+  "packs": [
+    {
+      "title": "Mega Shine Pack",
+      "link": "/sets/a3/Mega Shine Pack.html",
+      "key_visual": "/images/packs/Mega Shine Pack.webp"
+    }
+  ],
+  "game_updates": [],
+  "upcoming_events": [
+    {
+      "name": "Mega Shine Emblem Event",
+      "url": "https://www.pokemon-zone.com/events/mega-shine-emblem-event/",
+      "description": "March 28: Mega Shine Emblem Event. Collect emblems and various rewards by winning PvP matches."
+    },
+    {
+      "name": "Monthly Premium Shop Update",
+      "url": "https://www.pokemon-zone.com/events/april-2026-premium-shop/",
+      "description": "April 1: Monthly Premium Shop Update. The premium accessories are themed around Mega Gengar. The log-in reward for Premium Pass holders is Chien-Pao ex (alternative artwork from Paldean Wonders)."
+    },
+    {
+      "name": "Bonus Week Missions",
+      "url": "https://www.pokemon-zone.com/events/bonus-week-missions/",
+      "description": "April 4: Bonus Week Missions. For a week, several missions will be available. Completing them will reward you with Pack Hourglasses, Shinedust and Shop Tickets. Even more missions & rewards have been added!"
+    },
+    {
+      "name": "Slowpoke Drop event",
+      "url": "https://www.pokemon-zone.com/events/slowpoke-drop-event/",
+      "description": "April 9: Slowpoke Drop event. Get an exclusive Art Rare Slowpoke and exclusive Electrike and Varoom, as well as alternative artworks for Haxorus and Chatot in this Solo Battle event."
+    },
+    {
+      "name": "ranked Match Season 12 (B2b)",
+      "url": "https://www.pokemon-zone.com/events/ranked-match-season-12-b2b/",
+      "description": "April 13: The ranked Match Season 12 (B2b) starts! The twelfth season of ranked will last until April 27."
+    },
+    {
+      "name": "Gastly and Wigglytuff Wonderpick",
+      "url": "https://www.pokemon-zone.com/events/gastly-wigglytuff-wonder-pick/",
+      "description": "April 17: Gastly and Wigglytuff Wonderpick. A Wonder Pick event where you can get Promo Gastly, Promo Wigglytuff and Kangaskhan themed accessories in exchange of Event Shop Tickets (Kangaskhan)."
+    },
+    {
+      "name": "B3",
+      "url": "https://www.pokemon-zone.com/sets/b3/",
+      "description": "The next set B3 will be released on April 28."
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Mega Shine Release - Mega Shine",
+      "period": "Mar 25 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Shiny Mega Gengar (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_B2b",
+          "currency_image": "Emblem Ticket (Mega Shine).webp"
+        }
+      ]
+    },
+    {
+      "title": "Mega Shine Release - Accessories",
+      "period": "Mar 25 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Mega Shine: Shiny Pokémon (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Morpeko)",
+      "period": "Mar 25 - Apr 27, 2026",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Mar 25 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Mar 25 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Mega Shine cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Mega Shine cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Mega Shine cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Mega Shine cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Mega Shine cards included in your deck"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Mar 25 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Mar 25 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Mega Shine cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Mega Shine Missions",
+      "period": "Mar 25 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Signs Drawn in the Night Sky",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Diglett on the Cliff’s Edge",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Under the Moonlight",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Rivals Joining Forces",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Falling into a Deep Sleep",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 5 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "See You at the Beach!",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "A Herd of Ponyta",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Charizard X ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Register 15 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Charizard X ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Dratini’s Evolution",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Toward a More Beautiful World",
+          "rewards": [
+            {
+              "name": "13x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "13"
+            }
+          ]
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Slowbro ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Collect cards for Mega Slowbro ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Register 25 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Seeking Prey from the Shadows",
+          "rewards": [
+            {
+              "name": "13x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "13"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Manectric ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Shiny Radiance",
+          "rewards": [
+            {
+              "name": "7x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "7"
+            }
+          ]
+        },
+        {
+          "description": "Shiny Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 35 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Manectric ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Shiny Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Gengar ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Gengar ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Mega Shine Museum",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mega Scizor ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Mega Shine: Immersive Experience",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mega Shine)",
+              "local_file": "Emblem Ticket (Mega Shine).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2b.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mega Scizor ex Deck (Mega Shine)"
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Mega Shine: Shiny Mega Gengar (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100770_SHINY_MEGAGANGAR.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Shiny Collection Complete!",
+          "rewards": [
+            {
+              "name": "1x Shiny Mew (emblem)",
+              "local_file": "Shiny Mew (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100420_SHINY_MEW.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Morpeko cards",
+          "rewards": [
+            {
+              "name": "1x Morpeko (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100780_MORPEKO.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

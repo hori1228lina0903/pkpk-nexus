@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#229"
+  ],
+  "名前": "Hitmonchan ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "fighting",
+  "弱点": "Psychic",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Purple_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Special_Shiny_Sparkles_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Quick Straight",
+      "ダメージ": "50",
+      "効果": "This attack’s damage isn’t affected by Weakness.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#124"
+    },
+    {
+      "カード番号": "b1#261"
+    },
+    {
+      "カード番号": "b1#279"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

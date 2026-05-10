@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#55"
+  ],
+  "名前": "Magnezone",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "140",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
+  "イラストレーター": "toriyufu",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Linked_Sparkles_Flair_Cosmetic.webp",
+    "Small_Hexagons_Flair_Gray_Battle.webp",
+    "Linked_Sparkles_Flair_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Resilience Link",
+      "効果": "If you haveArceusorArceus exin play, this Pokémon takes −30 damage from attacks."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Power Beam",
+      "ダメージ": "80",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "metal",
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Magneton"
+      ]
+    ]
+  }
+}

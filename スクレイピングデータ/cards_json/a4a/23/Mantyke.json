@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#23"
+  ],
+  "名前": "Mantyke",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "30",
+  "タイプ": "water",
+  "弱点": "N/A",
+  "にげる": 0,
+  "説明文": "It’s highly friendly and easily tamed. Tours that take people swimming with Mantyke are a super-popular beach activity.",
+  "イラストレーター": "Shibuzoh.",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "イベント: Rare Pick - Water-Type Pokémon Mass Outbreak Event",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Baby"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Small_Hearts_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Splashy Toss",
+      "ダメージ": "N/A",
+      "効果": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "unspecified"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4a#105"
+    },
+    {
+      "カード番号": "b2#210"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

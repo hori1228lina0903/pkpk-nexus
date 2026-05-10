@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mega Blaziken Pack - メガバシャーモパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/b1/Mega Blaziken Pack.html">Mega Blaziken Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Mega Blaziken Pack</h1>
+      <h4>October 30, 2025</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Mega Blaziken Pack.webp" alt="Mega Blaziken Pack" class="top-pack-image">
+      <p class="description">
+        Mega Blaziken Pack is one of the booster packs in Mega Rising (B1).
+        In this pack, players can obtain Fire-type Pokémon including Mega Blaziken, which enables aggressive strategies with high damage output and efficient Energy usage, taking advantage of Mega Evolution mechanics.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item pack-select">
+        <a href="/sets/b1/Mega Blaziken Pack.html" >
+          <img src="/images/packs/Mega Blaziken Pack.webp" alt="Mega Blaziken Pack" class="pack-image">
+        </a>
+        <div class="set-name">Mega Blaziken Pack</div>
+      </div>
+      <div class="pack-item">
+        <a href="/sets/b1/Mega Gyarados Pack.html" >
+          <img src="/images/packs/Mega Gyarados Pack.webp" alt="Mega Gyarados Pack" class="pack-image">
+        </a>
+        <div class="set-name">Mega Gyarados Pack</div>
+      </div>
+      <div class="pack-item">
+        <a href="/sets/b1/Mega Altaria Pack.html" >
+          <img src="/images/packs/Mega Altaria Pack.webp" alt="Mega Altaria Pack" class="pack-image">
+        </a>
+        <div class="set-name">Mega Altaria Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/b1/36.webp" alt="Mega_Blaziken_ex" class="card-image2">
+        <img src="/images/cards/b1/217.webp" alt="Flame_Patch" class="card-image2">
+        <img src="/images/cards/b1/223.webp" alt="May" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Mega Blaziken Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

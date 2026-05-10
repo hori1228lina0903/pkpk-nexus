@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#14"
+  ],
+  "名前": "Paldean Tauros",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "fire",
+  "弱点": "Water",
+  "にげる": 1,
+  "説明文": "People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.",
+  "イラストレーター": "AKIRA EGAWA",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Flames_Flair_Orange_Battle.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Take Down",
+      "ダメージ": "60",
+      "効果": "This Pokémon also does 20 damage to itself.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fire",
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

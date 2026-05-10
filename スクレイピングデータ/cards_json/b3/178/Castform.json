@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#178"
+  ],
+  "名前": "Castform",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "colorless",
+  "弱点": "Fighting",
+  "にげる": 1,
+  "説明文": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
+  "イラストレーター": "Kazuhisa Uragami",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Shining_Star_Dust_Flair_Purple_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Glowing_Ring_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Blow Through",
+      "ダメージ": "20+",
+      "効果": "If a Stadium is in play, this attack does 20 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#133"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

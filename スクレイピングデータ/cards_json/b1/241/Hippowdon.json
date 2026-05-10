@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#241"
+  ],
+  "名前": "Hippowdon",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "130",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 4,
+  "説明文": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+  "イラストレーター": "Teeziro",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Spinning_Rings_Flair_Brown_Battle.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Crashing Fangs",
+      "ダメージ": "100",
+      "効果": "Flip a coin. If tails, during your next turn, this Pokémon can’t attack.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#129"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Hippopotas"
+      ]
+    ]
+  }
+}

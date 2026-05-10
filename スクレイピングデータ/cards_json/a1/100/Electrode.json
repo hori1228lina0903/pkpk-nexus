@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#100"
+  ],
+  "名前": "Electrode",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 0,
+  "説明文": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+  "イラストレーター": "Asako Ito",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Pikachu Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Lightning_Surge_Flair_Yellow_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Electro Ball",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#235"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Voltorb"
+      ]
+    ]
+  }
+}

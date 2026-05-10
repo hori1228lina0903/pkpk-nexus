@@ -1,0 +1,72 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#43",
+    "a4b#92"
+  ],
+  "名前": "Kingdra ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "170",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Wisdom of Sea and Sky",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Blue_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Stormy Prison",
+      "ダメージ": "90",
+      "効果": "During your opponent’s next turn, the Defending Pokémon can’t retreat.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#188"
+    },
+    {
+      "カード番号": "a4#203"
+    },
+    {
+      "カード番号": "b2#227"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Seadra"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#257"
+  ],
+  "名前": "Starmie ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 0,
+  "説明文": "",
+  "イラストレーター": "PLANETA Igarashi",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Star_Outlines_Flair_Light_blue_Battle.webp",
+    "Big_Rings_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hydro Splash",
+      "ダメージ": "90",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#76"
+    },
+    {
+      "カード番号": "a3#233"
+    },
+    {
+      "カード番号": "a4b#95"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Staryu"
+      ]
+    ]
+  }
+}

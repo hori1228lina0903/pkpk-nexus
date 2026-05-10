@@ -1,0 +1,312 @@
+{
+  "url": "https://www.pokemon-zone.com/events/genetic-apex-release/",
+  "title": "Genetic Apex (A1) release: Card list, events, items, Solo battles.",
+  "period": {
+    "text": "Oct 30",
+    "start_date": "2024-10-30"
+  },
+  "packs": [
+    {
+      "title": "Charizard pack",
+      "link": "/sets/a1/Charizard pack.html",
+      "key_visual": "/images/packs/Charizard pack.webp"
+    },
+    {
+      "title": "Mewtwo pack",
+      "link": "/sets/a1/Mewtwo pack.html",
+      "key_visual": "/images/packs/Mewtwo pack.webp"
+    },
+    {
+      "title": "Pikachu pack",
+      "link": "/sets/a1/Pikachu pack.html",
+      "key_visual": "/images/packs/Pikachu pack.webp"
+    }
+  ],
+  "game_updates": [
+    "Initial game release",
+    "First booster packs available",
+    "Beginner and Advanced Solo Battles"
+  ],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Genetic Apex (A1) Release - Emblems",
+      "period": "Oct 30, 2024 - Ongoing",
+      "items": [
+        {
+          "name": "Charizard (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A1",
+          "currency_image": "Emblem Ticket (Genetic Apex).webp"
+        },
+        {
+          "name": "Mewtwo (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A1",
+          "currency_image": "Emblem Ticket (Genetic Apex).webp"
+        },
+        {
+          "name": "Pikachu (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A1",
+          "currency_image": "Emblem Ticket (Genetic Apex).webp"
+        }
+      ]
+    },
+    {
+      "title": "Genetic Apex (A1) Release - Covers",
+      "period": "Oct 30, 2024 - Ongoing",
+      "items": [
+        {
+          "name": "Genetic Apex: Charizard (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        },
+        {
+          "name": "Genetic Apex: Mewtwo (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        },
+        {
+          "name": "Genetic Apex: Pikachu (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Oct 30, 2024 - Ongoing",
+      "tasks": [
+        "Win this battle",
+        "Win this battle by turn 20",
+        "Knock Out your opponent's Active Pokémon 2 times with an attack from a Grass-type Pokémon"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Oct 30, 2024 - Ongoing",
+      "tasks": [
+        "Win this battle",
+        "Win this battle by turn 16",
+        "Knock Out your opponent's Active Pokémon 3 times with an attack from a Fire-type Pokémon"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Oct 30, 2024 - Ongoing",
+      "tasks": [
+        "Win this battle",
+        "Win this battle by turn 14",
+        "Knock Out your opponent's Active Pokémon 4 times with an attack from a Water-type Pokémon"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "Expert",
+      "period": "Oct 30, 2024 - Ongoing",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Genetic Apex (A1) Release",
+      "period": "Oct 30, 2024 - Ongoing",
+      "missions": [
+        {
+          "description": "Register 5 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 15 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 70 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 80 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 90 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 100 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 110 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register 120 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register 130 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register 140 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register 150 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Genetic Apex)",
+              "local_file": "Emblem Ticket (Genetic Apex).webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Register all cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Genetic Apex: Mew (icon)",
+              "local_file": null,
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#120"
+  ],
+  "名前": "Bisharp",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "metal",
+  "弱点": "Fire",
+  "にげる": 2,
+  "説明文": "Bisharp mercilessly cuts its opponents to pieces with the sharp blades covering its body. It will do anything to win.",
+  "イラストレーター": "DOM",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Glowing_Ring_Flair_Light_blue_Cosmetic.webp",
+    "Spinning_Rings_Flair_Light_blue_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Night Slash",
+      "ダメージ": "60",
+      "効果": "Switch this Pokémon with 1 of your Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#176"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Pawniard"
+      ]
+    ]
+  }
+}

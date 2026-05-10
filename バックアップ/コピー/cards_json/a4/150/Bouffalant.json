@@ -1,0 +1,52 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#150"
+  ],
+  "名前": "Bouffalant",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
+  "イラストレーター": "nagimiso",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Bursts_Flair_Purple_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Continuous Headbutt",
+      "ダメージ": "70x",
+      "効果": "Flip a coin until you get tails. This attack does 70 damage for each heads.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

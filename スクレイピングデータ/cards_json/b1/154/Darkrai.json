@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#154"
+  ],
+  "名前": "Darkrai",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 2,
+  "説明文": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
+  "イラストレーター": "Uta",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Navy_blue_Cosmetic.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Shadow Cage",
+      "ダメージ": "70",
+      "効果": "During your opponent’s next turn, the Defending Pokémon can’t retreat.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

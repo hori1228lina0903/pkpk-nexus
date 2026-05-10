@@ -1,0 +1,121 @@
+.event-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 93%;
+  margin: 5px auto;
+  border: 1px solid #d0d0d0;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.label {
+  color: #333;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  padding: 0 0.8rem;
+  background: #F57C00;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  padding: 0 1.2rem;
+  color: #333;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.hero_image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: 50%;
+  margin-top: -15px;
+  margin-bottom: 15px;
+  transform: translateX(-50%);
+}
+
+/* ランクテーブル */
+.rank-table {
+  width: 98%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0 auto 20px auto;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.rank-table th,
+.rank-table td {
+  padding: 12px 8px;
+  text-align: center;
+  border: 1px solid #e0e0e0;
+  vertical-align: middle;
+}
+
+.rank-table th {
+  background-color: #2c3e50;
+  color: white;
+  font-weight: bold;
+}
+
+.rank-cell {
+  width: 32vw;
+  color: #333;
+}
+
+.reward-cell {
+  text-align: center;
+}
+
+/* 報酬コンテンツ */
+.reward-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.reward-emblem,
+.reward-hourglass {
+  display: inline-flex;
+  align-items: center;
+  gap: 0;
+  justify-content: center;
+}
+
+.reward-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.reward-amount {
+  color: #333;
+}
+
+.rank-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.rank-badge {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.rank-header h3 {
+  margin: 0;
+  font-size: 1.5em;
+  color: #333;
+}

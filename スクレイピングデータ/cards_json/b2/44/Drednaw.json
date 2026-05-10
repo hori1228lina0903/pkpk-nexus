@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#44"
+  ],
+  "名前": "Drednaw",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 3,
+  "説明文": "Drednaw lurks along the shoreline. When prey come to drink water, Drednaw stretches its neck out and chomps down on them.",
+  "イラストレーター": "kodama",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp",
+    "Bursts_Flair_Blue_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Heavy Impact",
+      "ダメージ": "120",
+      "効果": "N/A",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Chewtle"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#40"
+  ],
+  "名前": "Darkrai",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "100",
+  "タイプ": "darkness",
+  "弱点": "Grass",
+  "にげる": 2,
+  "説明文": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
+  "イラストレーター": "nagimiso",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Spinning_Rings_Flair_Light_blue_Battle.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Small_Stars_Flair_Purple_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Bad Dreams",
+      "効果": "At the end of each turn, if your opponent’s Active Pokémon is Asleep, do 20 damage to that Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Dark Slumber",
+      "ダメージ": "40",
+      "効果": "Your opponent’s Active Pokémon is now Asleep.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

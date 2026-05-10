@@ -1,0 +1,68 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#14"
+  ],
+  "名前": "Mega Charizard Y ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "220",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 2,
+  "説明文": "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet.",
+  "イラストレーター": "PLANETA Igarashi",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "Mega"
+  ],
+  "エフェクト一覧": [
+    "Mega_Evolution_Flair_Battle.webp",
+    "Sword_Flash_Flair_Orange_Battle.webp",
+    "Mega_Evolution_Flair_Cosmetic.webp",
+    "Flames_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Crimson Dive",
+      "ダメージ": "250",
+      "効果": "This Pokémon also does 50 damage to itself.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "fire",
+        "fire",
+        "fire",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1a#77"
+    },
+    {
+      "カード番号": "b1a#87"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Charmeleon"
+      ]
+    ]
+  }
+}

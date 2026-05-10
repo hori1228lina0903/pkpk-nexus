@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#31"
+  ],
+  "名前": "Galarian Mr. Rime",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
+  "イラストレーター": "Naoki Saito",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp",
+    "Paper_Streamers_Flair_Blue_Battle.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Triple Spin",
+      "ダメージ": "60x",
+      "効果": "Flip 3 coins. This attack does 60 damage for each heads.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Galarian Mr. Mime"
+      ]
+    ]
+  }
+}

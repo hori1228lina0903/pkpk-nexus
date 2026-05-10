@@ -1,0 +1,521 @@
+{
+  "url": "https://www.pokemon-zone.com/events/paldean-wonders-release/",
+  "title": "Paldean Wonders (B2a) release: Card list, Events, Solo Battles",
+  "period": {
+    "text": "Feb 25",
+    "start_date": "2026-02-25"
+  },
+  "packs": [
+    {
+      "title": "Paldean Wonders pack",
+      "link": "/sets/b2a/Paldean Wonders pack.html",
+      "key_visual": "/images/packs/Paldean Wonders pack.webp"
+    }
+  ],
+  "game_updates": [],
+  "upcoming_events": [
+    {
+      "name": "Pokémon 30th Celebration",
+      "url": "https://www.pokemon-zone.com/events/pokemon-30th-celebration",
+      "description": "February 27: Pokémon 30th Celebration. To celebrate the 30th anniversary of our favorite franchise, a set of missions rewarding exclusive accessories and many booster packs from the B series and the Deluxe Pack: ex expansion are now available on Pokémon TCG Pocket. Log-in for 30 days to collect all these rewards!"
+    },
+    {
+      "name": "Paldean Wonders Emblem Event",
+      "url": "https://www.pokemon-zone.com/events/paldean-wonders-emblem-event/",
+      "description": "February 28: Paldean Wonders Emblem Event. Collect emblems and various rewards by winning PvP matches."
+    },
+    {
+      "name": "Monthly Premium Shop Update",
+      "url": "https://www.pokemon-zone.com/events/march-2026-premium-shop/",
+      "description": "March 1: Monthly Premium Shop Update. The premium accessories are themed around Sprigatito. The log-in reward for Premium Pass holders is an Art Rare Quaxly."
+    },
+    {
+      "name": "Bonus Week Missions",
+      "url": "https://www.pokemon-zone.com/events/bonus-week-missions/",
+      "description": "March 7: Bonus Week Missions. For a week, several missions will be available. Completing them will reward you with Pack Hourglasses, Shinedust and Shop Tickets."
+    },
+    {
+      "name": "ranked Match Season 11 (B2a)",
+      "url": "https://www.pokemon-zone.com/events/ranked-match-season-11-b2a/",
+      "description": "March 11: The ranked Match Season 11 (B2a) starts! The eleventh season of ranked will last until March 25."
+    },
+    {
+      "name": "Charcadet Drop event",
+      "url": "https://www.pokemon-zone.com/events/charcadet-drop-event/",
+      "description": "March 11: Charcadet Drop event. Get an exclusive Art Rare Charcadet and exclusive Smoliv and Frigibax, as well as alternative artworks for Tinkaton and Tatsugiri in this Solo Battle event."
+    },
+    {
+      "name": "Pawmi and Paldean Clodsire Wonderpick",
+      "url": "https://www.pokemon-zone.com/events/pawmi-paldean-clodsire-wonder-pick/",
+      "description": "March 15: Pawmi and Paldean Clodsire Wonderpick. A Wonder Pick event where you can get Promo Pawmi, Promo Paldean Clodsire and Arven themed accessories in exchange of Event Shop Tickets (Arven)."
+    },
+    {
+      "name": "B2b",
+      "url": "https://www.pokemon-zone.com/sets/b2b/",
+      "description": "The next set B2b will be released on March 26."
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Paldean Wonders Release - Paldean Wonders",
+      "period": "Feb 25 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Sprigatito, Fuecoco, and Quaxly (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_B2a",
+          "currency_image": "Emblem Ticket (Paldean Wonders).webp"
+        }
+      ]
+    },
+    {
+      "title": "Paldean Wonders Release - Accessories",
+      "period": "Feb 25 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Paldean Wonders: Fuecoco and Pals (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Iono)",
+      "period": "Feb 25 - Mar 25, 2026",
+      "price": "$???",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Feb 25 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Feb 25 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Paldean Wonders cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Paldean Wonders cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Paldean Wonders cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Paldean Wonders cards included in your deck",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Paldean Wonders cards included in your deck"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Feb 25 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle with 6 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle with 6 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Metal-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle with 6 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle with 6 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle with 6 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Feb 25 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle without any Pokémon ex included in your deck",
+        "Win this battle with 12 or more Paldean Wonders cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Win this battle by turn 12"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Paldean Wonders Missions",
+      "period": "Feb 25 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "First Partners 1",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "First Partners 2",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "First Partners 3",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Legends of the Paldea Region",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Category: Ruinous Pokémon",
+          "rewards": [
+            {
+              "name": "19x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "19"
+            }
+          ]
+        },
+        {
+          "description": "Nemona and Pawmot",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Meowscarada ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Collect cards for Meowscarada ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Arven and Mabosstiff",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Wafting Fragrances",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Armarouge ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Hidden Delicacies",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Armarouge ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "A Great Team",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Chien-Pao ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "A Flock of Flamigo",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Chien-Pao ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Bellibolt ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Coin Collecting",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Bellibolt ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Paldean Wonders Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Paldean Wonders Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Gholdengo ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Register 70 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 80 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Gholdengo ex Deck (Paldean Wonders)"
+        },
+        {
+          "description": "Register 90 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Paldean Wonders)",
+              "local_file": "Emblem Ticket (Paldean Wonders).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_B2a.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Trainers of Paldea",
+          "rewards": [
+            {
+              "name": "1x Mabosstiff (emblem)",
+              "local_file": "Mabosstiff (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100400_MAFITIFF.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 5 Iono cards",
+          "rewards": [
+            {
+              "name": "1x Iono (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100750_NANJYAMO.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Paldean Wonders: Fuecoco (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100740_HOGATOR.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

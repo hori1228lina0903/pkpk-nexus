@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fantastical Parade - 夢幻パレード</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/b2/Fantastical Parade.html">Fantastical Parade</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Fantastical Parade</h1>
+      <h4>January 29, 2026</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Fantastical Parade.webp" alt="Fantastical Parade" class="set-image">
+      <p class="description">
+        Fantastical Parade (B2) is an expansion set of Series B in Pokémon Trading Card Game Pocket, following Crimson Blaze (B1A).
+        This set introduces Stadium cards for the first time, adding new field-based effects that influence the flow of battles. It also features a variety of whimsical and fantasy-themed Pokémon, with an emphasis on strategic versatility and unique card interactions. Certain cards, such as Lucky Ice Pop, introduce high-variance effects that can result in extremely large recovery depending on coin flips.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item">
+        <a href="/sets/b2/Fantastical Parade Pack.html" >
+          <img src="/images/packs/Fantastical Parade Pack.webp" alt="Fantastical Parade Pack" class="pack-image">
+        </a>
+        <div class="set-name">Fantastical Parade Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Fantastical Parade専用の初期化スクリプト -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // 1. cards.htmlと同じスケルトンを表示
+      showLoadingSkeleton();
+      
+      // 2. カードデータを読み込み
+      const dataLoader = new DataLoader();
+      dataLoader.loadCards().then(cardData => {
+        // 3. CardSearchを初期化
+        const cardSearch = new CardSearch(cardData);
+        
+        // 4. Fantastical Paradeパックを設定
+        cardSearch.currentFilters.pack = ['b2'];
+        
+        // 5. CardSearchコンストラクタ内で自動的に検索が実行される
+        // Fantastical Paradeカードだけが表示される
+        
+      }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+      });
+      
+      // cards.htmlと同じスケルトン表示関数
+      function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        // cards.htmlと同じ12個のスケルトン
+        resultsContainer.innerHTML = Array(12).fill(`
+          <div class="card">
+            <div class="card-image card-skeleton"></div>
+          </div>
+        `).join('');
+      }
+      
+      // エラー表示関数
+      function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+          resultsContainer.innerHTML = `
+            <div style="grid-column: 1 / -1; text-align: center; padding: 40px;">
+              <p>カードデータの読み込みに失敗しました</p>
+            </div>
+          `;
+        }
+      }
+    });
+  </script>
+</body>
+</html>

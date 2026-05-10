@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#107"
+  ],
+  "名前": "Alolan Raticate",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 3,
+  "説明文": "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can’t possibly eat it all.",
+  "イラストレーター": "nagimiso",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Cosmetic.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Scrounge-and-Scarf",
+      "ダメージ": "50",
+      "効果": "Discard a random Item card from your opponent’s hand.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Alolan Rattata"
+      ]
+    ]
+  }
+}

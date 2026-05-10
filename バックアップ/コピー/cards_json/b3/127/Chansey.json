@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#127"
+  ],
+  "名前": "Chansey",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "colorless",
+  "弱点": "Fighting",
+  "にげる": 2,
+  "説明文": "This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.",
+  "イラストレーター": "Mizue",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Bubbles_Flair_Pink_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Bind Wound",
+      "ダメージ": "N/A",
+      "効果": "Heal 30 damage from 1 of your Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#220"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Blissey ex,                                         Blissey"
+      ]
+    ]
+  },
+  "進化前": {}
+}

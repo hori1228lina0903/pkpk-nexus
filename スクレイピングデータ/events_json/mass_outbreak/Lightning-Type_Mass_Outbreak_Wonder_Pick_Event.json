@@ -1,0 +1,663 @@
+{
+  "url": "https://www.pokemon-zone.com/events/lightning-type-pokemon-mass-outbreak/",
+  "title": "Lightning-Type Mass Outbreak Wonder Pick Event",
+  "period": {
+    "text": "Dec 26 - Jan 1",
+    "start_date": "2024-12-26",
+    "end_date": "2025-01-01"
+  },
+  "target_type": "Lightning",
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Magnemite Common",
+          "full_name": "Magnemite Common - Deluxe Pack: ex (A4b) #133",
+          "url": "/cards/a4b/133/magnemite/",
+          "id": "a4b/133"
+        },
+        {
+          "type": "card",
+          "name": "Helioptile Common",
+          "full_name": "Helioptile Common - Genetic Apex (A1) #110",
+          "url": "/cards/a1/110/helioptile/",
+          "id": "a1/110"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Common",
+          "full_name": "Heliolisk Common - Genetic Apex (A1) #111",
+          "url": "/cards/a1/111/heliolisk/",
+          "id": "a1/111"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Mythical Island (A1a) #25",
+          "url": "/cards/a1a/25/pikachu/",
+          "id": "a1a/25"
+        },
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Mythical Island (A1a) #28",
+          "url": "/cards/a1a/28/joltik/",
+          "id": "a1a/28"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Pincurchin Uncommon",
+          "full_name": "Pincurchin Uncommon - Genetic Apex (A1) #112",
+          "url": "/cards/a1/112/pincurchin/",
+          "id": "a1/112"
+        },
+        {
+          "type": "card",
+          "name": "Electabuzz Uncommon",
+          "full_name": "Electabuzz Uncommon - Mythical Island (A1a) #27",
+          "url": "/cards/a1a/27/electabuzz/",
+          "id": "a1a/27"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Dedenne Common",
+          "full_name": "Dedenne Common - Mythical Island (A1a) #30",
+          "url": "/cards/a1a/30/dedenne/",
+          "id": "a1a/30"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Common",
+          "full_name": "Magnemite Common - Deluxe Pack: ex (A4b) #133",
+          "url": "/cards/a4b/133/magnemite/",
+          "id": "a4b/133"
+        },
+        {
+          "type": "card",
+          "name": "Helioptile Common",
+          "full_name": "Helioptile Common - Genetic Apex (A1) #110",
+          "url": "/cards/a1/110/helioptile/",
+          "id": "a1/110"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Common",
+          "full_name": "Heliolisk Common - Genetic Apex (A1) #111",
+          "url": "/cards/a1/111/heliolisk/",
+          "id": "a1/111"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Mythical Island (A1a) #25",
+          "url": "/cards/a1a/25/pikachu/",
+          "id": "a1a/25"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Mythical Island (A1a) #25",
+          "url": "/cards/a1a/25/pikachu/",
+          "id": "a1a/25"
+        },
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Mythical Island (A1a) #28",
+          "url": "/cards/a1a/28/joltik/",
+          "id": "a1a/28"
+        },
+        {
+          "type": "card",
+          "name": "Dedenne Common",
+          "full_name": "Dedenne Common - Mythical Island (A1a) #30",
+          "url": "/cards/a1a/30/dedenne/",
+          "id": "a1a/30"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Common",
+          "full_name": "Magnemite Common - Deluxe Pack: ex (A4b) #133",
+          "url": "/cards/a4b/133/magnemite/",
+          "id": "a4b/133"
+        },
+        {
+          "type": "card",
+          "name": "Helioptile Common",
+          "full_name": "Helioptile Common - Genetic Apex (A1) #110",
+          "url": "/cards/a1/110/helioptile/",
+          "id": "a1/110"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Pincurchin Uncommon",
+          "full_name": "Pincurchin Uncommon - Genetic Apex (A1) #112",
+          "url": "/cards/a1/112/pincurchin/",
+          "id": "a1/112"
+        },
+        {
+          "type": "card",
+          "name": "Lt. Surge Uncommon",
+          "full_name": "Lt. Surge Uncommon - Genetic Apex (A1) #226",
+          "url": "/cards/a1/226/lt-surge/",
+          "id": "a1/226"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Heliolisk Common",
+          "full_name": "Heliolisk Common - Genetic Apex (A1) #111",
+          "url": "/cards/a1/111/heliolisk/",
+          "id": "a1/111"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Mythical Island (A1a) #25",
+          "url": "/cards/a1a/25/pikachu/",
+          "id": "a1a/25"
+        },
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Mythical Island (A1a) #28",
+          "url": "/cards/a1a/28/joltik/",
+          "id": "a1a/28"
+        },
+        {
+          "type": "card",
+          "name": "Dedenne Common",
+          "full_name": "Dedenne Common - Mythical Island (A1a) #30",
+          "url": "/cards/a1a/30/dedenne/",
+          "id": "a1a/30"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Common",
+          "full_name": "Magnemite Common - Deluxe Pack: ex (A4b) #133",
+          "url": "/cards/a4b/133/magnemite/",
+          "id": "a4b/133"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Electabuzz Uncommon",
+          "full_name": "Electabuzz Uncommon - Mythical Island (A1a) #27",
+          "url": "/cards/a1a/27/electabuzz/",
+          "id": "a1a/27"
+        },
+        {
+          "type": "card",
+          "name": "Galvantula Uncommon",
+          "full_name": "Galvantula Uncommon - Mythical Island (A1a) #29",
+          "url": "/cards/a1a/29/galvantula/",
+          "id": "a1a/29"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Galvantula Uncommon",
+          "full_name": "Galvantula Uncommon - Mythical Island (A1a) #29",
+          "url": "/cards/a1a/29/galvantula/",
+          "id": "a1a/29"
+        },
+        {
+          "type": "card",
+          "name": "Lt. Surge Uncommon",
+          "full_name": "Lt. Surge Uncommon - Genetic Apex (A1) #226",
+          "url": "/cards/a1/226/lt-surge/",
+          "id": "a1/226"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Helioptile Common",
+          "full_name": "Helioptile Common - Genetic Apex (A1) #110",
+          "url": "/cards/a1/110/helioptile/",
+          "id": "a1/110"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Common",
+          "full_name": "Heliolisk Common - Genetic Apex (A1) #111",
+          "url": "/cards/a1/111/heliolisk/",
+          "id": "a1/111"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Mythical Island (A1a) #25",
+          "url": "/cards/a1a/25/pikachu/",
+          "id": "a1a/25"
+        },
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Mythical Island (A1a) #28",
+          "url": "/cards/a1a/28/joltik/",
+          "id": "a1a/28"
+        },
+        {
+          "type": "card",
+          "name": "Dedenne Common",
+          "full_name": "Dedenne Common - Mythical Island (A1a) #30",
+          "url": "/cards/a1a/30/dedenne/",
+          "id": "a1a/30"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Mythical Island (A1a) #28",
+          "url": "/cards/a1a/28/joltik/",
+          "id": "a1a/28"
+        },
+        {
+          "type": "card",
+          "name": "Dedenne Common",
+          "full_name": "Dedenne Common - Mythical Island (A1a) #30",
+          "url": "/cards/a1a/30/dedenne/",
+          "id": "a1a/30"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Common",
+          "full_name": "Magnemite Common - Deluxe Pack: ex (A4b) #133",
+          "url": "/cards/a4b/133/magnemite/",
+          "id": "a4b/133"
+        },
+        {
+          "type": "card",
+          "name": "Helioptile Common",
+          "full_name": "Helioptile Common - Genetic Apex (A1) #110",
+          "url": "/cards/a1/110/helioptile/",
+          "id": "a1/110"
+        },
+        {
+          "type": "card",
+          "name": "Heliolisk Common",
+          "full_name": "Heliolisk Common - Genetic Apex (A1) #111",
+          "url": "/cards/a1/111/heliolisk/",
+          "id": "a1/111"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Zapdos ex Double Rare",
+          "full_name": "Zapdos ex Double Rare - Genetic Apex (A1) #104",
+          "url": "/cards/a1/104/zapdos-ex/",
+          "id": "a1/104"
+        },
+        {
+          "type": "card",
+          "name": "Magneton Rare",
+          "full_name": "Magneton Rare - Deluxe Pack: ex (A4b) #135",
+          "url": "/cards/a4b/135/magneton/",
+          "id": "a4b/135"
+        },
+        {
+          "type": "card",
+          "name": "Raichu Rare",
+          "full_name": "Raichu Rare - Mythical Island (A1a) #26",
+          "url": "/cards/a1a/26/raichu/",
+          "id": "a1a/26"
+        },
+        {
+          "type": "card",
+          "name": "Galvantula Uncommon",
+          "full_name": "Galvantula Uncommon - Mythical Island (A1a) #29",
+          "url": "/cards/a1a/29/galvantula/",
+          "id": "a1a/29"
+        },
+        {
+          "type": "card",
+          "name": "Pincurchin Uncommon",
+          "full_name": "Pincurchin Uncommon - Genetic Apex (A1) #112",
+          "url": "/cards/a1/112/pincurchin/",
+          "id": "a1/112"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Zapdos ex Double Rare",
+          "full_name": "Zapdos ex Double Rare - Genetic Apex (A1) #104",
+          "url": "/cards/a1/104/zapdos-ex/",
+          "id": "a1/104"
+        },
+        {
+          "type": "card",
+          "name": "Magneton Rare",
+          "full_name": "Magneton Rare - Deluxe Pack: ex (A4b) #135",
+          "url": "/cards/a4b/135/magneton/",
+          "id": "a4b/135"
+        },
+        {
+          "type": "card",
+          "name": "Raichu Rare",
+          "full_name": "Raichu Rare - Mythical Island (A1a) #26",
+          "url": "/cards/a1a/26/raichu/",
+          "id": "a1a/26"
+        },
+        {
+          "type": "card",
+          "name": "Electabuzz Uncommon",
+          "full_name": "Electabuzz Uncommon - Mythical Island (A1a) #27",
+          "url": "/cards/a1a/27/electabuzz/",
+          "id": "a1a/27"
+        },
+        {
+          "type": "card",
+          "name": "Lt. Surge Uncommon",
+          "full_name": "Lt. Surge Uncommon - Genetic Apex (A1) #226",
+          "url": "/cards/a1/226/lt-surge/",
+          "id": "a1/226"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    }
+  ],
+  "exclusive_flair": [
+    {
+      "name": "Star Outlines Flair: Yellow (Battle)",
+      "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Effect/ICON_BATTLE_KIRA_EFFECT_100078.webp",
+      "requirements": [
+        {
+          "item": "cPK_10_001040_00_THUNDERex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        }
+      ],
+      "period": "Dec 26 - Jan 1, 2025"
+    }
+  ],
+  "missions": [
+    {
+      "name": "Lightning-Type Mass Outbreak Event Missions",
+      "period": "Dec 26 - Jan 1, 2025",
+      "missions": [
+        {
+          "description": "Collect 1 Zapdos ex card",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Lightning cards",
+          "rewards": [
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Lightning cards",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "5x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "5",
+              "type": "sub"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 15 Lightning cards",
+          "rewards": [
+            {
+              "name": "4x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "4",
+              "type": "main"
+            },
+            {
+              "name": "7x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "7",
+              "type": "sub"
+            }
+          ],
+          "target": "0/15"
+        }
+      ]
+    }
+  ]
+}

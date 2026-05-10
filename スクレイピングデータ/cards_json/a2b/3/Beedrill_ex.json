@@ -1,0 +1,69 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#3",
+    "a4b#10"
+  ],
+  "名前": "Beedrill ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "170",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA Igarashi",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Shining Revelry",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sword_Flash_Flair_Green_Battle.webp",
+    "Mini_Triangles_Flair_Green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Crushing Spear",
+      "ダメージ": "80",
+      "効果": "Discard a random Energy from your opponent’s Active Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#79"
+    },
+    {
+      "カード番号": "a2b#107"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Kakuna"
+      ]
+    ]
+  }
+}

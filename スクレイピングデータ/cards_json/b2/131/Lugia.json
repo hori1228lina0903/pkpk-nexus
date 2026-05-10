@@ -1,0 +1,52 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#131"
+  ],
+  "名前": "Lugia",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+  "イラストレーター": "Anesaki Dynamic",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Purple_Battle.webp",
+    "Bursts_Flair_Purple_Cosmetic.webp",
+    "Spinning_Rings_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Aeroblast",
+      "ダメージ": "80+",
+      "効果": "Flip 2 coins. This attack does 40 more damage for each heads.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

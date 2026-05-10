@@ -1,0 +1,39 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a2b#70"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Pokémon Center Lady",
+  "イラストレーター": "Susumu Maeya",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#89"
+    }
+  ],
+  "進化先": {}
+}

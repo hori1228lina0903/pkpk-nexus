@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#166"
+  ],
+  "名前": "Tapu Koko",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Although it’s called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
+  "イラストレーター": "OKACHEKE",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sword_Flash_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Volt Switch",
+      "ダメージ": "70",
+      "効果": "Switch this Pokémon with 1 of your Benched  Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#68"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#30"
+  ],
+  "名前": "Clefable",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 2,
+  "説明文": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+  "イラストレーター": "sui",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp",
+    "Small_Stars_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Moonblast",
+      "ダメージ": "60",
+      "効果": "During your opponent’s next turn, attacks used by the Defending Pokémon do −30 damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Clefairy"
+      ]
+    ]
+  }
+}

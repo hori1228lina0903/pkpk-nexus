@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#196"
+  ],
+  "名前": "Meowth",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+  "イラストレーター": "Mitsuhiro Arita",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "イベント: Bonus Pick - Meowth and Chansey",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Pay Day",
+      "ダメージ": "10",
+      "効果": "Draw a card.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#246"
+    },
+    {
+      "カード番号": "b1#312"
+    },
+    {
+      "カード番号": "promo-a#12"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Persian"
+      ]
+    ]
+  },
+  "進化前": {}
+}

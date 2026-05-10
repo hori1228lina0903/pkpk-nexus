@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#260"
+  ],
+  "名前": "Indeedee ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Glowing_Ring_Flair_Purple_Battle.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Small_Stars_Flair_Purple_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Watch Over",
+      "効果": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Psychic",
+      "ダメージ": "30+",
+      "効果": "This attack does 30 more damage for each Energy attached to your opponent’s Active Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#121"
+    },
+    {
+      "カード番号": "b1#278"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

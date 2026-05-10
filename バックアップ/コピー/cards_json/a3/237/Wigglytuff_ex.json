@@ -1,0 +1,73 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#237"
+  ],
+  "名前": "Wigglytuff ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA Igarashi",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bright_Stars_Flair_Pink_Battle.webp",
+    "Special_Shiny_Sparkles_Flair_Battle.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sleepy Song",
+      "ダメージ": "80",
+      "効果": "Your opponent’s Active Pokémon is now Asleep.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#195"
+    },
+    {
+      "カード番号": "a1#265"
+    },
+    {
+      "カード番号": "a1#279"
+    },
+    {
+      "カード番号": "a4b#279"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Jigglypuff"
+      ]
+    ]
+  }
+}

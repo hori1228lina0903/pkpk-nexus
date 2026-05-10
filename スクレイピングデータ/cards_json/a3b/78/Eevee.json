@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#78"
+  ],
+  "名前": "Eevee",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "イラストレーター": "Narumi Sato",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Petals_Flair_White_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Collect",
+      "ダメージ": "N/A",
+      "効果": "Draw a card.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#55"
+    },
+    {
+      "カード番号": "a4b#285"
+    },
+    {
+      "カード番号": "a4b#286"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Sylveon,                                         Jolteon ex,                                         Vaporeon,                                         Jolteon,                                         Umbreon ex,                                         Umbreon,                                         Glaceon ex,                                         Flareon,                                         Glaceon,                                         Leafeon ex,                                         Sylveon ex,                                         Leafeon,                                         Flareon ex,                                         Espeon,                                         Espeon ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,73 @@
+a {
+  text-decoration: none;
+}
+
+.event_item {
+  width: 93%;
+  margin: 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  color: #333;
+  background-color: #fff; /* 背景色を入れると影が綺麗に映えます */
+  /* 影を少し濃く、密度を上げた設定 */
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.45);
+}
+
+
+.event_top {
+  width: 100%;
+  display: block;   /* imgの下の余白を消す */
+}
+
+.event_bottom {
+  margin: 0;
+  padding: 0 15px 15px 15px ;
+  background: #95B1D6;
+  background-color: #fff; /*  */
+}
+
+.event_meta {
+  display: flex;
+  align-items: center;
+  margin: 5px 0 3px 0;
+}
+
+/* タイプバッジの基本スタイル */
+.type-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+  white-space: nowrap;
+}
+
+/* 各タイプの色 */
+.type-badge-ranked { background-color: #e91e63; }      /* ランクマッチ - ピンク */
+.type-badge-drop { background-color: #4caf50; }       /* ドロップ - 緑 */
+.type-badge-mission { background-color: #2196f3; }    /* ミッション - 青 */
+.type-badge-premium { background-color: #ff9800; }    /* プレミアム - オレンジ */
+.type-badge-emblem { background-color: #9c27b0; }     /* エンブレム - 紫 */
+.type-badge-release { background-color: #f44336; }    /* リリース - 赤 */
+.type-badge-wonder { background-color: #00bcd4; }     /* ワンダーピック - シアン */
+.type-badge-celebration { background-color: #ffc107; color: #333; } /* 記念祭 - 黄色 */
+.type-badge-campaign { background-color: #795548; }   /* キャンペーン - 茶色 */
+.type-badge-sale { background-color: #ff5722; }       /* セール - 深橙 */
+.type-badge-mass { background-color: #8bc34a; }       /* 大量発生 - 黄緑 */
+.type-badge-rerun { background-color: #607d8b; }      /* 復刻 - 青灰 */
+.type-badge-gift { background-color: #e91e63; }       /* プレゼント - ピンク */
+.type-badge-default { background-color: #9e9e9e; }    /* デフォルト - 灰色 */
+
+.event_date {
+  margin: 0 0 0 auto;
+  color: #999;
+}
+
+/* イベントアイテム間の縦の間隔 */
+.ongoing-events-container,
+.past-events-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

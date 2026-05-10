@@ -1,0 +1,584 @@
+{
+  "url": "https://www.pokemon-zone.com/events/togedemaru-and-greedent-wonderpick/",
+  "title": "Togedemaru and Greedent Wonder Pick Event",
+  "period": {
+    "text": "Jul 11 - Jul 28",
+    "start_date": "2025-07-11",
+    "end_date": "2025-07-28"
+  },
+  "promo_cards": [
+    {
+      "name": "Greedent Rare",
+      "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+      "url": "/cards/promo-a/91/greedent/",
+      "id": "promo-a/91",
+      "set": "promo-a"
+    },
+    {
+      "name": "Togedemaru Rare",
+      "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+      "url": "/cards/promo-a/90/togedemaru/",
+      "id": "promo-a/90",
+      "set": "promo-a"
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Togedemaru and Greedent - Wonder Pick Event",
+      "period": "Jul 11 - Jul 28, 2025",
+      "items": [
+        {
+          "name": "Gladion & Silvally (playmat)",
+          "description": "Gladion & Silvally (playmat) ",
+          "price": "10",
+          "currency": "Event Shop Ticket (Silvally)"
+        },
+        {
+          "name": "Nighttime Camping (backdrop)",
+          "description": "Nighttime Camping (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Silvally)"
+        },
+        {
+          "name": "Gladion (icon)",
+          "description": "Gladion (icon) ",
+          "price": "2",
+          "currency": "Event Shop Ticket (Silvally)"
+        },
+        {
+          "name": "Silvally (Pokémon coin)",
+          "description": "Silvally (Pokémon coin) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Silvally)"
+        },
+        {
+          "name": "Gladion & Silvally (cover)",
+          "description": "Gladion & Silvally (cover) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Silvally)"
+        },
+        {
+          "name": "Gladion (card sleeve)",
+          "description": "Gladion (card sleeve) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Silvally)"
+        },
+        {
+          "name": "Gladion (backdrop)",
+          "description": "Gladion (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Silvally)"
+        },
+        {
+          "name": "Shinedust            x50",
+          "description": "Shinedust ",
+          "price": "1",
+          "currency": "Event Shop Ticket (Silvally)"
+        }
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Bonus Pick: Togedemaru/Greedent Wonder Pick Event",
+      "period": "Jul 11 - Jul 21, 2025",
+      "missions": [
+        {
+          "description": "Collect 1 Togedemaru Promo Card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Collect 1 Greedent Promo Card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 1 time",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "200x Trade Tokens",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/TradeItem/TRADE_ITEM_130010.webp",
+              "amount": "200",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 2 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/2"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 4 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/4"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Wonder pick 6 times",
+          "rewards": [
+            {
+              "name": "5x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "5",
+              "type": "main"
+            }
+          ],
+          "target": "0/6"
+        },
+        {
+          "description": "Collect 5 Metal cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Colorless cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Metal cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 10 Colorless cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Silvally)",
+              "local_file": "Event Shop Ticket (Silvally).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        }
+      ]
+    }
+  ],
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Uncommon",
+          "full_name": "Greedent Uncommon - Eevee Grove (A3b) #65",
+          "url": "/cards/a3b/65/greedent/",
+          "id": "a3b/65"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Common",
+          "full_name": "Togedemaru Common - Eevee Grove (A3b) #48",
+          "url": "/cards/a3b/48/togedemaru/",
+          "id": "a3b/48"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Silvally)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    }
+  ]
+}

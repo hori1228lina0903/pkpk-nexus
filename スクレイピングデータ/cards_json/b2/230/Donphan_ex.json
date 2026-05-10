@@ -1,0 +1,71 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#230"
+  ],
+  "名前": "Donphan ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "160",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 3,
+  "説明文": "",
+  "イラストレーター": "PLANETA Yamashita",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Special_Shiny_Sparkles_Flair_Battle.webp",
+    "Spinning_Rings_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Gigantic Press",
+      "ダメージ": "50+",
+      "効果": "If this Pokémon has at least 2 extra  Energy attached, this attack does 60 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#100"
+    },
+    {
+      "カード番号": "a4#191"
+    },
+    {
+      "カード番号": "a4#206"
+    },
+    {
+      "カード番号": "a4b#202"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Phanpy"
+      ]
+    ]
+  }
+}

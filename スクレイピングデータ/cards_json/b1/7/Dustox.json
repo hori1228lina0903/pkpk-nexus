@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#7"
+  ],
+  "名前": "Dustox",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "130",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+  "イラストレーター": "Midori Harada",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Gold_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Select Powder",
+      "ダメージ": "60",
+      "効果": "Choose either Poisoned or Confused. Your opponent’s Active Pokémon is now affected by that Special Condition.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Cascoon"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#77"
+  ],
+  "名前": "Orthworm",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil.",
+  "イラストレーター": "Pani Kobayashi",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Small_Hearts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Iron Supply",
+      "ダメージ": "10",
+      "効果": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2a#98"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#74"
+  ],
+  "名前": "Gligar",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fighting",
+  "弱点": "Grass",
+  "にげる": 1,
+  "説明文": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+  "イラストレーター": "kawayoo",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ink_Splatters_Flair_Yellow_Battle.webp",
+    "Shooting_Stars_Flair_Yellow_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Lunge",
+      "ダメージ": "40",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Gliscor"
+      ]
+    ]
+  },
+  "進化前": {}
+}

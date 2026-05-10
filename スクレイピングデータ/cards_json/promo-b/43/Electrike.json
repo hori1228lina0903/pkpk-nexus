@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-b#43"
+  ],
+  "名前": "Electrike",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "lightning",
+  "弱点": "Fighting",
+  "にげる": 1,
+  "説明文": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+  "イラストレーター": "Miki Tanaka",
+  "収録セット": [
+    "Promo B"
+  ],
+  "入手方法": [
+    "イベント: Slowpoke Drop Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Cosmetic.webp",
+    "Lightning_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Reckless Charge",
+      "ダメージ": "30",
+      "効果": "This Pokémon also does 10 damage to itself.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Manectric,                                         Mega Manectric ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#26"
+  ],
+  "名前": "Cinderace",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "130",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 0,
+  "説明文": "Using a ball that it made out of flames, Cinderace blinds its opponents and keeps them at bay.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "イベント: Bonus Pick - Cinderace and Alolan Vulpix Wonderpick",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Flames_Flair_Orange_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Fireball Shot",
+      "ダメージ": "120",
+      "効果": "During your next turn, this Pokémon can’t attack.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fire",
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-b#31"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Raboot"
+      ]
+    ]
+  }
+}

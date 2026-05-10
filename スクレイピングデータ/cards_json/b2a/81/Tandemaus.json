@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#81"
+  ],
+  "名前": "Tandemaus",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "30",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 0,
+  "説明文": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
+  "イラストレーター": "Akira Komayama",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Double Hit",
+      "ダメージ": "30x",
+      "効果": "Flip 2 coins. This attack does 30 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Maushold"
+      ]
+    ]
+  },
+  "進化前": {}
+}

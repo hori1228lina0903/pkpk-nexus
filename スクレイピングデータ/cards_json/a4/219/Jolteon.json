@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#219"
+  ],
+  "名前": "Jolteon",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+  "イラストレーター": "Souichirou Gunjima",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Lightning_Surge_Flair_Green_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Beginning Bolt",
+      "ダメージ": "40+",
+      "効果": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#25"
+    },
+    {
+      "カード番号": "a3b#74"
+    },
+    {
+      "カード番号": "promo-a#86"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Eevee"
+      ]
+    ]
+  }
+}

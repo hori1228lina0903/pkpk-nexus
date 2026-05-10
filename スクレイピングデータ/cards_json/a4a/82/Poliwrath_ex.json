@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#82"
+  ],
+  "名前": "Poliwrath ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "180",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 3,
+  "説明文": "",
+  "イラストレーター": "PLANETA Mochizuki",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Digital_Squares_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hydro Knuckle",
+      "ダメージ": "100+",
+      "効果": "If this Pokémon has any  Energy attached, this attack does 40 more damage.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fighting",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4a#42"
+    },
+    {
+      "カード番号": "a4a#89"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Poliwhirl"
+      ]
+    ]
+  }
+}

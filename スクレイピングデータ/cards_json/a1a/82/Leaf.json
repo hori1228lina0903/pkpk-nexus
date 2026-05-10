@@ -1,0 +1,45 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a1a#82"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Leaf",
+  "イラストレーター": "En Morikura",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Hearts_Flair_Pink_Cosmetic.webp",
+    "Bubbles_Flair_Pink_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1a#68"
+    },
+    {
+      "カード番号": "a4b#346"
+    },
+    {
+      "カード番号": "a4b#347"
+    }
+  ],
+  "進化先": {}
+}

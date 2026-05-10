@@ -1,0 +1,68 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#285"
+  ],
+  "名前": "Mega Gyarados ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 3
+  },
+  "HP": "210",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 3,
+  "説明文": "Mega Evolution also affects its brain, leaving no other function except its destructive instinct to burn everything to cinders.",
+  "イラストレーター": "danciao",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 1500"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "Mega"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Blue_Battle.webp",
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Mega Blaster",
+      "ダメージ": "140",
+      "効果": "Discard the top 3 cards of your opponent’s deck.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#52"
+    },
+    {
+      "カード番号": "b1#255"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Magikarp"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#35"
+  ],
+  "名前": "Beheeyem",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+  "イラストレーター": "sowsow",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "イベント: Bonus Pick - Psychic Type Pokemon Mass Outbreak",
+    "イベント: Rare Pick - Psychic Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Psychic_Energy_Flair_Cosmetic.webp",
+    "Small_Hexagons_Flair_Purple_Battle.webp",
+    "Circles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Mind Jack",
+      "ダメージ": "10+",
+      "効果": "This attack does 20 more damage for each of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Elgyem"
+      ]
+    ]
+  }
+}

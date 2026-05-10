@@ -1,0 +1,73 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#196"
+  ],
+  "名前": "Yanmega ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "grass",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "Mina Nakai",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Mini_Triangles_Flair_Green_Battle.webp",
+    "Small_Hexagons_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Air Slash",
+      "ダメージ": "120",
+      "効果": "Discard a random Energy from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#7"
+    },
+    {
+      "カード番号": "a2#180"
+    },
+    {
+      "カード番号": "a4#232"
+    },
+    {
+      "カード番号": "a4b#22"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Yanma"
+      ]
+    ]
+  }
+}

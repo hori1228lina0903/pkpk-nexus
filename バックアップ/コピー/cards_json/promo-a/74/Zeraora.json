@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#74"
+  ],
+  "名前": "Zeraora",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.",
+  "イラストレーター": "GIDORA",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "プレミアムミッション: June 2025 Login Bonus (Day 1)"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Glowing_Ring_Flair_Light_blue_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Thunderclap Flash",
+      "効果": "At the end of your first turn, take aEnergy from your Energy Zone and attach it to this Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Lightning Claw",
+      "ダメージ": "50",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3a#21"
+    },
+    {
+      "カード番号": "a4b#149"
+    },
+    {
+      "カード番号": "a4b#150"
+    },
+    {
+      "カード番号": "b1#304"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

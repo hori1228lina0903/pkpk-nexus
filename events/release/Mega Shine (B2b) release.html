@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mega Shine (B2b) release</title>
+  <link rel="stylesheet" href="/styles/header-footer.css">
+  <link rel="stylesheet" href="/styles/base.css">
+  <link rel="stylesheet" href="/styles/tooltip.css">
+  <link rel="stylesheet" href="/styles/release.css">
+</head>
+<body class="page-body">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Top</a>
+    <a href="/Events.html">Events</a>
+    <a href="/events/release/Mega Shine (B2b) release.html">Mega Shine (B2b) release</a>
+  </nav>
+  <main class="page-main">
+    <div class="section">
+      <h1 class="main-title">Mega Shine (B2b) release</h1>
+    </div>
+    <img src="/images/events/release/Mega Shine (B2b) release.webp" alt="Mega Shine (B2b) release" class="hero_image">
+    <div class="event-row">
+      <div class="label">Release date</div>
+      <div class="date">Mar 25, 2026 - Ongoing</div>
+    </div>
+    <div class="intro">
+      <p><strong>Mega Shine (B2b) release</strong> is now available! This expansion introduces new ex cards and exclusive rewards.</p>
+<p>New cards from this set can be obtained by opening Mega Shine (B2b) booster packs. Complete missions to earn Emblem Tickets and special items!</p>
+    </div>
+    
+    <!-- 目玉カード -->
+    <div class="featured-packs">
+
+      <a href="/sets/a3/Mega Shine Pack.html">
+        <img src="/images/packs/Mega Shine Pack.webp" alt="Mega Shine Pack" class="featured-pack">
+      </a>
+    </div>
+
+
+    <!-- New shop items -->
+    <div class="section">
+      <div class="content">
+        <div class="subheading">
+          <h2>New shop items</h2>
+        </div>
+        <div class="event-row">
+          <div class="label">Release date</div>
+          <div class="date">Mar 25, 2026 - Ongoing</div>
+        </div>
+        <div class="intro">
+          <p>New emblems that can be purchased with Emblem Tickets have been added. Emblem Tickets are obtained as mission rewards.</p>
+          <p>Additionally, a cover binder themed after this series has been added to the Shop menu. This binder can be purchased with Shop Tickets.</p>
+        </div>
+
+        <div class="accessory-grid">
+
+          <div class="item">
+            <div class="tooltip">
+              <img src="/images/emblem/Shiny Mega Gengar (emblem).webp" alt="Shiny Mega Gengar (emblem)" onerror="this.src='/images/placeholder.webp'">
+              <span class="tooltiptext">Shiny Mega Gengar (emblem)</span>
+            </div>
+            <div class="Shop-Ticket">
+              <img src="/images/tickets/Emblem Ticket (Mega Shine).webp" alt="Ticket">
+              <span>100</span>
+            </div>
+          </div>
+          <div class="item">
+            <div class="tooltip">
+              <img src="/images/accessories/covers/Mega_Shine_Shiny_Pokémon_cover.webp" alt="Mega Shine: Shiny Pokémon (cover)" onerror="this.src='/images/placeholder.webp'">
+              <span class="tooltiptext">Mega Shine: Shiny Pokémon (cover)</span>
+            </div>
+            <div class="Shop-Ticket">
+              <img src="/images/tickets/Shop ticket.webp" alt="Ticket">
+              <span>15</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Dex Missions (動的読み込み) -->
+    <div class="section">
+      <div class="content">
+        <div class="subheading">
+          <h2>Dex Missions</h2>
+        </div>
+        
+        <!-- キービジュアル -->
+        <img src="/images/missions/dex_missions/Mega Shine (B2b).webp" alt="Mega Shine Dex mission" class="hero_image" onerror="this.style.display='none'">
+        
+        <div class="event-row">
+          <div class="label">Release date</div>
+          <div class="date">Mar 25, 2026 - Ongoing</div>
+        </div>
+        <div class="intro">
+          <p>Clear these missions to earn Emblem Tickets and exclusive Emblem!</p>
+        </div>
+        <div id="mission-container" 
+             class="mission-group" 
+             data-dex-path="/data/dex_missions/Mega Shine Dex Missions.json">
+          <div class="loading">Loading missions...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Themed Collections (動的読み込み) -->
+    <div class="section">
+      <div class="content">
+        <div class="subheading">
+          <h2>Themed Collections</h2>
+        </div>
+        
+        <!-- キービジュアル -->
+        <img src="/images/missions/themed_collections/Mega Shine (B2b).webp" alt="Mega Shine Themed Collection" class="hero_image" onerror="this.style.display='none'">
+        
+        <div class="event-row">
+          <div class="label">Release date</div>
+          <div class="date">Mar 25, 2026 - Ongoing</div>
+        </div>
+        <div class="intro">
+          <p>Complete these missions to earn Emblem Tickets, Wonder Hourglasses, and exclusive Emblem!</p>
+        </div>
+        <div id="themed-collections-container" 
+             class="mission-group" 
+             data-collections-path="/data/themed_collections/Mega Shine Themed Collections.json">
+          <div class="loading">Loading themed collections...</div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <div id="footer"></div>
+  <script id="missions-config" type="application/json">
+{
+  "rewardImages": {
+    "Shiny Mega Gengar (emblem)": "/images/emblem/Shiny Mega Gengar (emblem).webp",
+    "Mega Shine: Shiny Pokémon (cover)": "/images/accessories/covers/Mega_Shine_Shiny_Pokémon_cover.webp",
+    "Emblem Ticket": "/images/tickets/Emblem Ticket (Mega Shine).webp",
+    "Wonder Hourglass": "/images/items/Wonder Hourglass.webp",
+    "Pack Hourglass": "/images/items/Pack Hourglass.webp",
+    "Shop Ticket": "/images/tickets/Shop ticket.webp"
+  }
+}
+  </script>
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/tooltip.js"></script>
+  <script src="/js/release-missions.js"></script>
+</body>
+</html>

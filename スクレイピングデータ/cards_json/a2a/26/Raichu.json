@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#26"
+  ],
+  "名前": "Raichu",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "90",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+  "イラストレーター": "Nisota Niso",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Linked_Sparkles_Flair_Cosmetic.webp",
+    "Linked_Sparkles_Flair_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Resilience Link",
+      "効果": "If you haveArceusorArceus exin play, this Pokémon takes −30 damage from attacks."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Spark",
+      "ダメージ": "40",
+      "効果": "This attack also does 20 damage to 1 of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-a#44"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Pikachu"
+      ]
+    ]
+  }
+}

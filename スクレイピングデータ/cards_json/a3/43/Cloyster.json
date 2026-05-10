@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#43"
+  ],
+  "名前": "Cloyster",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "110",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 3,
+  "説明文": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+  "イラストレーター": "Masakazu Fukuda",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Blue_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Blue_Battle.webp",
+    "Small_Hexagons_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Guard Press",
+      "ダメージ": "50",
+      "効果": "During your opponent’s next turn, this Pokémon takes −20 damage from attacks.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1a#93"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Shellder"
+      ]
+    ]
+  }
+}

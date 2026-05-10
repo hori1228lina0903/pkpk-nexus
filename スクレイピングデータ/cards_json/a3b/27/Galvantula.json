@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#27"
+  ],
+  "名前": "Galvantula",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 0,
+  "説明文": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+  "イラストレーター": "otumami",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "イベント: Bonus Pick - Lightning-Type Pokemon Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Electric Shock",
+      "ダメージ": "70",
+      "効果": "Discard all Energy attached to this Pokémon. Your opponent’s Active Pokémon is now Paralyzed.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Joltik"
+      ]
+    ]
+  }
+}

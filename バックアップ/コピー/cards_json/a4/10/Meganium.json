@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#10"
+  ],
+  "名前": "Meganium",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "150",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+  "イラストレーター": "Hajime Kusajima",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Petals_Flair_Red_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Bloomshine",
+      "ダメージ": "80",
+      "効果": "Heal 20 damage from each of your Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Bayleef"
+      ]
+    ]
+  }
+}

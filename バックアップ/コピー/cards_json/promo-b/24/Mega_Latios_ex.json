@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-b#24"
+  ],
+  "名前": "Mega Latios ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "180",
+  "タイプ": "dragon",
+  "弱点": "N/A",
+  "にげる": 2,
+  "説明文": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Promo B"
+  ],
+  "入手方法": [
+    "イベント: Mega Latios ex Drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Mega",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Mega_Evolution_Flair_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sonic Impulse",
+      "ダメージ": "160",
+      "効果": "Discard all Energy from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

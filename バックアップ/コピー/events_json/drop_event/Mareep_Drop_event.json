@@ -1,0 +1,63 @@
+{
+  "url": "https://www.pokemon-zone.com/events/mareep-drop-event/",
+  "title": "Mareep Drop event",
+  "period": {
+    "text": "Jan 1 - Jan 18",
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-18"
+  },
+  "promo_pack": {
+    "name": "Promo Pack B Series Vol. 2",
+    "cards": [
+      {
+        "name": "Swablu",
+        "url": "/cards/promo-b/17/swablu/"
+      },
+      {
+        "name": "Magikarp",
+        "url": "/cards/promo-b/14/magikarp/"
+      },
+      {
+        "name": "Arcanine",
+        "url": "/cards/promo-b/13/arcanine/"
+      },
+      {
+        "name": "Krookodile",
+        "url": "/cards/promo-b/16/krookodile/"
+      },
+      {
+        "name": "Mareep",
+        "url": "/cards/promo-b/15/mareep/"
+      }
+    ]
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle with 2 or more Crimson Blaze cards included in your deck"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Win this battle with 1 or more Mega Evolution Pokémon ex included in your deck",
+        "Win this battle with 6 or more Crimson Blaze cards included in your deck",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}

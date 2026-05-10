@@ -1,0 +1,38 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "promo-a#8"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "N/A",
+  "名前": "Pokédex",
+  "イラストレーター": "Yuu Nishida",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "Event: Gift from the Dev Team Celebrating 40 Billion Total Cards Acquired by Players(January 2025)"
+  ],
+  "分類": "Item",
+  "カードの効果": {
+    "発動効果": "Look at the top 3 cards of your deck.",
+    "追加ルール": "You may play any number of Item cards during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Small_Hearts_Flair_Pink_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-a#4"
+    }
+  ],
+  "進化先": {}
+}

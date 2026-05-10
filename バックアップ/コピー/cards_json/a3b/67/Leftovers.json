@@ -1,0 +1,35 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a3b#67"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Leftovers",
+  "イラストレーター": "Studio Bora Inc.",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Tool",
+  "カードの効果": {
+    "発動効果": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
+    "追加ルール": "N/A"
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Ripples_Flair_Light_blue_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Cosmetic.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {}
+}

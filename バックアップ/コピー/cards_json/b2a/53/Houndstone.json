@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#53"
+  ],
+  "名前": "Houndstone",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 3,
+  "説明文": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Purple_Battle.webp",
+    "Shining_Star_Dust_Flair_Purple_Battle.webp",
+    "Ripples_Flair_Purple_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Last Respects",
+      "ダメージ": "50+",
+      "効果": "This attack does 20 more damage for each  Pokémon in your discard pile.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Greavard"
+      ]
+    ]
+  }
+}

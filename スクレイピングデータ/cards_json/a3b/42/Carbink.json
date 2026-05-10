@@ -1,0 +1,50 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#42"
+  ],
+  "名前": "Carbink",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "80",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
+  "イラストレーター": "5ban Graphics",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hard Roll",
+      "ダメージ": "30",
+      "効果": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

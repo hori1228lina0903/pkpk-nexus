@@ -1,0 +1,65 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#299"
+  ],
+  "名前": "Manaphy",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+  "イラストレーター": "MAHOU",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Heart_Bubbles_Flair_Light_blue_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Oceanic Gift",
+      "ダメージ": "N/A",
+      "効果": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a  Energy from your Energy Zone and attach it to that Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#50"
+    },
+    {
+      "カード番号": "a2#162"
+    },
+    {
+      "カード番号": "a4b#108"
+    },
+    {
+      "カード番号": "a4b#109"
+    },
+    {
+      "カード番号": "promo-a#48"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

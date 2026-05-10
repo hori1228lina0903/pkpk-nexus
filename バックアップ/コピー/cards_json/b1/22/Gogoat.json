@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#22"
+  ],
+  "名前": "Gogoat",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "120",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "These Pokémon live in herds in mountainous places. The victor in their contests of clashing horns will become the leader of the herd.",
+  "イラストレーター": "sowsow",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Yellow-green_Battle.webp",
+    "Gale_Flair_Yellow-green_Cosmetic.webp",
+    "Grass_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Double-Edge",
+      "ダメージ": "100",
+      "効果": "This Pokémon also does 20 damage to itself.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Skiddo"
+      ]
+    ]
+  }
+}

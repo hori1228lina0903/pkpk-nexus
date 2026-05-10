@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#96"
+  ],
+  "名前": "Gimmighoul",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.",
+  "イラストレーター": "Akira Komayama",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Spinning_Rings_Flair_Yellow_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Paper_Streamers_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Continuous Coin Toss",
+      "ダメージ": "20x",
+      "効果": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2a#54"
+    },
+    {
+      "カード番号": "b2a#122"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Gholdengo ex,                                         Gholdengo"
+      ]
+    ]
+  },
+  "進化前": {}
+}

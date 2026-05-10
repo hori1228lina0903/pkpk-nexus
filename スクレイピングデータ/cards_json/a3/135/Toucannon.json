@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#135"
+  ],
+  "名前": "Toucannon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+  "イラストレーター": "Megumi Mizutani",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp",
+    "Petals_Flair_Red_Battle.webp",
+    "Poké_Ball_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Drill Peck",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Trumbeak"
+      ]
+    ]
+  }
+}

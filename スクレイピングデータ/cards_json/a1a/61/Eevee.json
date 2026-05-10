@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#61"
+  ],
+  "名前": "Eevee",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "イラストレーター": "Hitoshi Ariga",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "イベント: Bonus Pick - Eevee Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Continuous Steps",
+      "ダメージ": "20x",
+      "効果": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Espeon ex,                                         Glaceon,                                         Vaporeon,                                         Flareon,                                         Jolteon,                                         Sylveon ex,                                         Glaceon ex,                                         Jolteon ex,                                         Leafeon,                                         Flareon ex,                                         Umbreon,                                         Umbreon ex,                                         Leafeon ex,                                         Sylveon,                                         Espeon"
+      ]
+    ]
+  },
+  "進化前": {}
+}

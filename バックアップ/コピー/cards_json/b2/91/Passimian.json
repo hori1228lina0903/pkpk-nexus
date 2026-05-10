@@ -1,0 +1,49 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#91"
+  ],
+  "名前": "Passimian",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 2,
+  "説明文": "The boss chooses 10 members of the group to go out hunting. The hunting party will evenly split the food they find with the rest of the group.",
+  "イラストレーター": "HYOGONOSUKE",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Spinning_Rings_Flair_Brown_Battle.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Glowing_Ring_Flair_Yellow_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Fling",
+      "ダメージ": "N/A",
+      "効果": "This attack does 30 damage to 1 of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

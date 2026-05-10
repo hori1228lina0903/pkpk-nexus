@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#175"
+  ],
+  "名前": "Corviknight",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "140",
+  "タイプ": "metal",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "Although its wings have partly turned to steel and become heavy as a result, this Pokémon flies through the skies with ease.",
+  "イラストレーター": "Ryuta Fuse",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Battle.webp",
+    "Feathers_Flair_Gray_Cosmetic.webp",
+    "Sword_Flash_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Iron Wings",
+      "ダメージ": "100",
+      "効果": "Discard 2  Energy from this Pokémon. During your opponent’s next turn, this Pokémon takes −50 damage from attacks.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "metal",
+        "metal",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#246"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Corvisquire"
+      ]
+    ]
+  }
+}

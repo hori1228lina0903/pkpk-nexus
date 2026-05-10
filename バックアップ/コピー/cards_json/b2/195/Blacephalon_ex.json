@@ -1,0 +1,70 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#195"
+  ],
+  "名前": "Blacephalon ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "YASHIRO Nanaco",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Glowing_Ring_Flair_Purple_Battle.webp",
+    "Ultra_Beast_Flair_Battle.webp",
+    "Paper_Streamers_Flair_Blue_Battle.webp",
+    "Special_Ultra_Beast_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Singe",
+      "ダメージ": "N/A",
+      "効果": "Your opponent’s Active Pokémon is now Burned.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fire"
+      ]
+    },
+    {
+      "名前": "Pop-Punk",
+      "ダメージ": "140",
+      "効果": "Discard 3  Energy from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fire",
+        "fire",
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#23"
+    },
+    {
+      "カード番号": "b2#181"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,196 @@
+{
+  "collections": [
+    {
+      "name": "Pokémon That Love Cleaning!",
+      "required_cards": ["Minccino (#142)", "Cinccino (#143 or #179)", "Field Blower (#147)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Castform and the Weather",
+      "required_cards": ["Castform Sunny Form (#024)", "Castform Rainy Form (#040)", "Castform Snowy Form (#041)", "Castform (#133 or #178)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Friendly...Bear Cubs?",
+      "required_cards": ["Cubchoo (#046)", "Stufful (#090)", "Kubfu (#097 or #172)", "Teddiursa (#131)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Victini cards",
+      "required_cards": ["Victini (#025) ×5"],
+      "reward": [{"item": "Victini (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Sobble cards",
+      "required_cards": ["Sobble (#048) ×3"],
+      "reward": [{"item": "Sobble (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Gallade cards",
+      "required_cards": ["Gallade (#084) ×5"],
+      "reward": [{"item": "Gallade (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Trading Punches with Mega Lucario",
+      "required_cards": [
+        "Mega Lucario ex (#081 or #184 or #204)",
+        "3 in any combination of: Breloom (#012), Pignite (#027), Emboar (#028), Darmanitan (#030), Cubchoo (#046), Regirock (#077), Riolu (#079 or #169), Lucario (#080), Croagunk (#082), Toxicroak (#083), Bewear (#091), Single Strike Urshifu (#113), Melmetal (#123), Hitmonchan ex (#229)"
+      ],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Sceptile and the Power of Tails",
+      "required_cards": [
+        "Mega Sceptile ex (#008 or #180 or #194)",
+        "3 in any combination of: Treecko (#005 or #156), Wooper (#038), Gligar (#074), Gliscor (#075), Seviper (#104), Dunsparce (#130), Cinccino (#143)"
+      ],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Camerupt and Explosive Eruptions",
+      "required_cards": [
+        "Mega Camerupt ex (#023 or #181 or #195)",
+        "3 in any combination of: Camerupt (#022), Voltorb (#055), Electrode (#056), Coalossal (#094), Koffing (#101), Weezing (#102)"
+      ],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Audino and the Power of Healing",
+      "required_cards": [
+        "Mega Audino ex (#141 or #189 or #202)",
+        "3 in any combination of: Applin (#019), Diancie (#067), Chansey (#127 or #220), Blissey (#128 or #221), Audino (#140)"
+      ],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": true
+    },
+    {
+      "name": "A Fight for Survival in the Arena!",
+      "required_cards": ["Gligar (#074)", "Gallade (#084)", "Throh (#085)", "Sawk (#086)", "Bewear (#091)", "Arena of Antiquity (#154)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Life in the Rain",
+      "required_cards": ["Sewaddle (#015)", "Politoed (#035)", "Castform Rainy Form (#040)", "Toxel (#060)", "Parasol Lady (#152)", "Shroomish (#158)", "Sobble (#203)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Desert Ecosystem",
+      "required_cards": ["Trapinch (#076)", "Vibrava (#125)", "3 in any combination of: Flygon ex (#126 or #188 or #201), Silicobra (#095), Sandaconda (#096)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Pulsing Aura Museum 1",
+      "required_cards": [
+        "Treecko (#156)", "Grovyle (#157)", "Shroomish (#158)", "Budew (#159)", "Flapple (#160)",
+        "Tepig (#161)", "Quagsire (#162)", "Zekrom (#163)", "Morpeko (#164)", "Meowstic (#165)",
+        "Oricorio (#166)", "Brambleghast (#167)", "Bonsly (#168)", "Riolu (#169)", "Meloetta (#170)",
+        "Carkol (#171)", "Kubfu (#172)", "Seviper (#173)", "Zorua (#174)", "Malamar (#175)",
+        "Bisharp (#176)", "Meltan (#177)", "Castform (#178)", "Cinccino (#179)"
+      ],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Pulsing Aura Museum 2",
+      "required_cards": ["Korrina (#190)", "Cabbie (#191)", "Cheren (#192)", "Parasol Lady (#193)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Pulsing Aura Museum 3",
+      "required_cards": [
+        "Mega Sceptile ex (#194)", "Mega Camerupt ex (#195)", "Vaporeon ex (#196)",
+        "Magnezone ex (#197)", "Crustle ex (#198)", "Zoroark ex (#199)",
+        "Corviknight ex (#200)", "Flygon ex (#201)", "Mega Audino ex (#202)"
+      ],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Pulsing Aura: Immersive Experience",
+      "required_cards": ["Sobble (#203)", "Mega Lucario ex (#204)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Sceptile's Evolution Journey",
+      "required_cards": ["Treecko (#156)", "Grovyle (#157)", "Mega Sceptile ex (#194)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Sobble and Rainy Scenery",
+      "required_cards": [
+        "Surskit (#009)", "Carnivine (#014)", "Sewaddle (#015)", "Applin (#019)", "Numel (#021)",
+        "Poliwag (#033)", "Politoed (#035)", "Shroomish (#158)", "Sobble (#203)",
+        "3 in any combination of: Vaporeon ex (#037 or #182 or #196), Wooper (#038), Castform Rainy Form (#040), Toxel (#060)"
+      ],
+      "reward": [{"item": "Sobble (emblem)", "quantity": 1}],
+      "secret": true
+    }
+  ]
+}

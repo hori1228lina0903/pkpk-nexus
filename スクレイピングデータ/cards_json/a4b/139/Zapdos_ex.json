@@ -1,0 +1,77 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#104",
+    "a4b#139"
+  ],
+  "名前": "Zapdos ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "130",
+  "タイプ": "lightning",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Pikachu Pack",
+    "パック: Deluxe Pack: ex",
+    "イベント: Rare Pick - Lightning Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Purple_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Peck",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    },
+    {
+      "名前": "Thundering Hurricane",
+      "ダメージ": "50x",
+      "効果": "Flip 4 coins. This attack does 50 damage for each heads.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "lightning",
+        "lightning",
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#260"
+    },
+    {
+      "カード番号": "a1#276"
+    },
+    {
+      "カード番号": "a3b#105"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

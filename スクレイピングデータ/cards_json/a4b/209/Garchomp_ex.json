@@ -1,0 +1,82 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#47",
+    "a4b#209"
+  ],
+  "名前": "Garchomp ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "170",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Sword_Flash_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Linear Attack",
+      "ダメージ": "N/A",
+      "効果": "This attack does 50 damage to 1 of your opponent’s Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    },
+    {
+      "名前": "Dragon Claw",
+      "ダメージ": "100",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2a#84"
+    },
+    {
+      "カード番号": "a2a#93"
+    },
+    {
+      "カード番号": "a4a#103"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Gabite"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2324 @@
+{
+  "url": "https://www.pokemon-zone.com/events/promo-reissue-wonder-pick-event-2025/",
+  "title": "PROMO Reissue Wonder Pick Event 2025",
+  "promo_reissue": true,
+  "period": {
+    "text": "Oct 30 - Nov 21",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-21"
+  },
+  "promo_cards": [
+    {
+      "name": "Snorlax Rare",
+      "full_name": "Snorlax Rare - Promo A (PROMO-A) #49",
+      "url": "/cards/promo-a/49/snorlax/",
+      "id": "promo-a/49",
+      "set": "promo-a"
+    },
+    {
+      "name": "Phanpy Rare",
+      "full_name": "Phanpy Rare - Promo A (PROMO-A) #108",
+      "url": "/cards/promo-a/108/phanpy/",
+      "id": "promo-a/108",
+      "set": "promo-a"
+    },
+    {
+      "name": "Manaphy Rare",
+      "full_name": "Manaphy Rare - Promo A (PROMO-A) #48",
+      "url": "/cards/promo-a/48/manaphy/",
+      "id": "promo-a/48",
+      "set": "promo-a"
+    },
+    {
+      "name": "Pachirisu Rare",
+      "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+      "url": "/cards/promo-a/58/pachirisu/",
+      "id": "promo-a/58",
+      "set": "promo-a"
+    },
+    {
+      "name": "Miltank Rare",
+      "full_name": "Miltank Rare - Promo A (PROMO-A) #107",
+      "url": "/cards/promo-a/107/miltank/",
+      "id": "promo-a/107",
+      "set": "promo-a"
+    },
+    {
+      "name": "Cosmog Rare",
+      "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+      "url": "/cards/promo-a/67/cosmog/",
+      "id": "promo-a/67",
+      "set": "promo-a"
+    },
+    {
+      "name": "Marill Rare",
+      "full_name": "Marill Rare - Promo A (PROMO-A) #99",
+      "url": "/cards/promo-a/99/marill/",
+      "id": "promo-a/99",
+      "set": "promo-a"
+    },
+    {
+      "name": "Absol Rare",
+      "full_name": "Absol Rare - Promo A (PROMO-A) #117",
+      "url": "/cards/promo-a/117/absol/",
+      "id": "promo-a/117",
+      "set": "promo-a"
+    },
+    {
+      "name": "Meowth Rare",
+      "full_name": "Meowth Rare - Promo A (PROMO-A) #12",
+      "url": "/cards/promo-a/12/meowth/",
+      "id": "promo-a/12",
+      "set": "promo-a"
+    },
+    {
+      "name": "Chimchar Rare",
+      "full_name": "Chimchar Rare - Promo A (PROMO-A) #40",
+      "url": "/cards/promo-a/40/chimchar/",
+      "id": "promo-a/40",
+      "set": "promo-a"
+    },
+    {
+      "name": "Togepi Rare",
+      "full_name": "Togepi Rare - Promo A (PROMO-A) #41",
+      "url": "/cards/promo-a/41/togepi/",
+      "id": "promo-a/41",
+      "set": "promo-a"
+    },
+    {
+      "name": "Charmander Rare",
+      "full_name": "Charmander Rare - Promo A (PROMO-A) #32",
+      "url": "/cards/promo-a/32/charmander/",
+      "id": "promo-a/32",
+      "set": "promo-a"
+    },
+    {
+      "name": "Squirtle Rare",
+      "full_name": "Squirtle Rare - Promo A (PROMO-A) #33",
+      "url": "/cards/promo-a/33/squirtle/",
+      "id": "promo-a/33",
+      "set": "promo-a"
+    },
+    {
+      "name": "Bulbasaur Rare",
+      "full_name": "Bulbasaur Rare - Promo A (PROMO-A) #23",
+      "url": "/cards/promo-a/23/bulbasaur/",
+      "id": "promo-a/23",
+      "set": "promo-a"
+    },
+    {
+      "name": "Togedemaru Rare",
+      "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+      "url": "/cards/promo-a/90/togedemaru/",
+      "id": "promo-a/90",
+      "set": "promo-a"
+    },
+    {
+      "name": "Greedent Rare",
+      "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+      "url": "/cards/promo-a/91/greedent/",
+      "id": "promo-a/91",
+      "set": "promo-a"
+    },
+    {
+      "name": "Chansey Rare",
+      "full_name": "Chansey Rare - Promo A (PROMO-A) #11",
+      "url": "/cards/promo-a/11/chansey/",
+      "id": "promo-a/11",
+      "set": "promo-a"
+    },
+    {
+      "name": "Lycanroc Rare",
+      "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+      "url": "/cards/promo-a/68/lycanroc/",
+      "id": "promo-a/68",
+      "set": "promo-a"
+    },
+    {
+      "name": "Weavile Rare",
+      "full_name": "Weavile Rare - Promo A (PROMO-A) #100",
+      "url": "/cards/promo-a/100/weavile/",
+      "id": "promo-a/100",
+      "set": "promo-a"
+    },
+    {
+      "name": "Riolu Rare",
+      "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+      "url": "/cards/promo-a/59/riolu/",
+      "id": "promo-a/59",
+      "set": "promo-a"
+    },
+    {
+      "name": "Stufful Rare",
+      "full_name": "Stufful Rare - Promo A (PROMO-A) #83",
+      "url": "/cards/promo-a/83/stufful/",
+      "id": "promo-a/83",
+      "set": "promo-a"
+    },
+    {
+      "name": "Magnemite Rare",
+      "full_name": "Magnemite Rare - Promo A (PROMO-A) #24",
+      "url": "/cards/promo-a/24/magnemite/",
+      "id": "promo-a/24",
+      "set": "promo-a"
+    },
+    {
+      "name": "Shaymin Rare",
+      "full_name": "Shaymin Rare - Promo A (PROMO-A) #116",
+      "url": "/cards/promo-a/116/shaymin/",
+      "id": "promo-a/116",
+      "set": "promo-a"
+    },
+    {
+      "name": "Poipole Rare",
+      "full_name": "Poipole Rare - Promo A (PROMO-A) #82",
+      "url": "/cards/promo-a/82/poipole/",
+      "id": "promo-a/82",
+      "set": "promo-a"
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Promo Wonder Pick Exchange - Cards",
+      "period": "Oct 30 - Nov 21, 2025",
+      "items": [
+        {
+          "name": "Absol",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Riolu",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Bulbasaur",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Meowth",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Poipole",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Phanpy",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Snorlax",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Chansey",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Shaymin",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Greedent",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Stufful",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Manaphy",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Pachirisu",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Miltank",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Weavile",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Magnemite",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Togepi",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Togedemaru",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Chimchar",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Charmander",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Cosmog",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Squirtle",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Lycanroc",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        },
+        {
+          "name": "Marill",
+          "description": "",
+          "price": "1",
+          "currency": "Event Shop Ticket (PROMO Reissue Wonder Pick Event 2025)"
+        }
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "PROMO Reissue Wonder Pick Event 2025",
+      "period": "Oct 30 - Nov 14, 2025",
+      "missions": [
+        {
+          "description": "Wonder pick 1 time",
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "target": "0/5"
+        }
+      ]
+    }
+  ],
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Snorlax Rare",
+          "full_name": "Snorlax Rare - Promo A (PROMO-A) #49",
+          "url": "/cards/promo-a/49/snorlax/",
+          "id": "promo-a/49"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Rare",
+          "full_name": "Phanpy Rare - Promo A (PROMO-A) #108",
+          "url": "/cards/promo-a/108/phanpy/",
+          "id": "promo-a/108"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Rare",
+          "full_name": "Manaphy Rare - Promo A (PROMO-A) #48",
+          "url": "/cards/promo-a/48/manaphy/",
+          "id": "promo-a/48"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Miltank Rare",
+          "full_name": "Miltank Rare - Promo A (PROMO-A) #107",
+          "url": "/cards/promo-a/107/miltank/",
+          "id": "promo-a/107"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Marill Rare",
+          "full_name": "Marill Rare - Promo A (PROMO-A) #99",
+          "url": "/cards/promo-a/99/marill/",
+          "id": "promo-a/99"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Absol Rare",
+          "full_name": "Absol Rare - Promo A (PROMO-A) #117",
+          "url": "/cards/promo-a/117/absol/",
+          "id": "promo-a/117"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Meowth Rare",
+          "full_name": "Meowth Rare - Promo A (PROMO-A) #12",
+          "url": "/cards/promo-a/12/meowth/",
+          "id": "promo-a/12"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Chimchar Rare",
+          "full_name": "Chimchar Rare - Promo A (PROMO-A) #40",
+          "url": "/cards/promo-a/40/chimchar/",
+          "id": "promo-a/40"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Togepi Rare",
+          "full_name": "Togepi Rare - Promo A (PROMO-A) #41",
+          "url": "/cards/promo-a/41/togepi/",
+          "id": "promo-a/41"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Rare",
+          "full_name": "Charmander Rare - Promo A (PROMO-A) #32",
+          "url": "/cards/promo-a/32/charmander/",
+          "id": "promo-a/32"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Squirtle Rare",
+          "full_name": "Squirtle Rare - Promo A (PROMO-A) #33",
+          "url": "/cards/promo-a/33/squirtle/",
+          "id": "promo-a/33"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Bulbasaur Rare",
+          "full_name": "Bulbasaur Rare - Promo A (PROMO-A) #23",
+          "url": "/cards/promo-a/23/bulbasaur/",
+          "id": "promo-a/23"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Chansey Rare",
+          "full_name": "Chansey Rare - Promo A (PROMO-A) #11",
+          "url": "/cards/promo-a/11/chansey/",
+          "id": "promo-a/11"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Weavile Rare",
+          "full_name": "Weavile Rare - Promo A (PROMO-A) #100",
+          "url": "/cards/promo-a/100/weavile/",
+          "id": "promo-a/100"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Stufful Rare",
+          "full_name": "Stufful Rare - Promo A (PROMO-A) #83",
+          "url": "/cards/promo-a/83/stufful/",
+          "id": "promo-a/83"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Rare",
+          "full_name": "Magnemite Rare - Promo A (PROMO-A) #24",
+          "url": "/cards/promo-a/24/magnemite/",
+          "id": "promo-a/24"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Shaymin Rare",
+          "full_name": "Shaymin Rare - Promo A (PROMO-A) #116",
+          "url": "/cards/promo-a/116/shaymin/",
+          "id": "promo-a/116"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 17,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Rare",
+          "full_name": "Poipole Rare - Promo A (PROMO-A) #82",
+          "url": "/cards/promo-a/82/poipole/",
+          "id": "promo-a/82"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Snorlax Rare",
+          "full_name": "Snorlax Rare - Promo A (PROMO-A) #49",
+          "url": "/cards/promo-a/49/snorlax/",
+          "id": "promo-a/49"
+        },
+        {
+          "type": "card",
+          "name": "Snorlax Rare",
+          "full_name": "Snorlax Rare - Promo A (PROMO-A) #49",
+          "url": "/cards/promo-a/49/snorlax/",
+          "id": "promo-a/49"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Marill Rare",
+          "full_name": "Marill Rare - Promo A (PROMO-A) #99",
+          "url": "/cards/promo-a/99/marill/",
+          "id": "promo-a/99"
+        },
+        {
+          "type": "card",
+          "name": "Weavile Rare",
+          "full_name": "Weavile Rare - Promo A (PROMO-A) #100",
+          "url": "/cards/promo-a/100/weavile/",
+          "id": "promo-a/100"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Squirtle Rare",
+          "full_name": "Squirtle Rare - Promo A (PROMO-A) #33",
+          "url": "/cards/promo-a/33/squirtle/",
+          "id": "promo-a/33"
+        },
+        {
+          "type": "card",
+          "name": "Squirtle Rare",
+          "full_name": "Squirtle Rare - Promo A (PROMO-A) #33",
+          "url": "/cards/promo-a/33/squirtle/",
+          "id": "promo-a/33"
+        },
+        {
+          "type": "card",
+          "name": "Chimchar Rare",
+          "full_name": "Chimchar Rare - Promo A (PROMO-A) #40",
+          "url": "/cards/promo-a/40/chimchar/",
+          "id": "promo-a/40"
+        },
+        {
+          "type": "card",
+          "name": "Togepi Rare",
+          "full_name": "Togepi Rare - Promo A (PROMO-A) #41",
+          "url": "/cards/promo-a/41/togepi/",
+          "id": "promo-a/41"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Rare",
+          "full_name": "Manaphy Rare - Promo A (PROMO-A) #48",
+          "url": "/cards/promo-a/48/manaphy/",
+          "id": "promo-a/48"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Charmander Rare",
+          "full_name": "Charmander Rare - Promo A (PROMO-A) #32",
+          "url": "/cards/promo-a/32/charmander/",
+          "id": "promo-a/32"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Rare",
+          "full_name": "Charmander Rare - Promo A (PROMO-A) #32",
+          "url": "/cards/promo-a/32/charmander/",
+          "id": "promo-a/32"
+        },
+        {
+          "type": "card",
+          "name": "Squirtle Rare",
+          "full_name": "Squirtle Rare - Promo A (PROMO-A) #33",
+          "url": "/cards/promo-a/33/squirtle/",
+          "id": "promo-a/33"
+        },
+        {
+          "type": "card",
+          "name": "Chimchar Rare",
+          "full_name": "Chimchar Rare - Promo A (PROMO-A) #40",
+          "url": "/cards/promo-a/40/chimchar/",
+          "id": "promo-a/40"
+        },
+        {
+          "type": "card",
+          "name": "Togepi Rare",
+          "full_name": "Togepi Rare - Promo A (PROMO-A) #41",
+          "url": "/cards/promo-a/41/togepi/",
+          "id": "promo-a/41"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Marill Rare",
+          "full_name": "Marill Rare - Promo A (PROMO-A) #99",
+          "url": "/cards/promo-a/99/marill/",
+          "id": "promo-a/99"
+        },
+        {
+          "type": "card",
+          "name": "Marill Rare",
+          "full_name": "Marill Rare - Promo A (PROMO-A) #99",
+          "url": "/cards/promo-a/99/marill/",
+          "id": "promo-a/99"
+        },
+        {
+          "type": "card",
+          "name": "Weavile Rare",
+          "full_name": "Weavile Rare - Promo A (PROMO-A) #100",
+          "url": "/cards/promo-a/100/weavile/",
+          "id": "promo-a/100"
+        },
+        {
+          "type": "card",
+          "name": "Miltank Rare",
+          "full_name": "Miltank Rare - Promo A (PROMO-A) #107",
+          "url": "/cards/promo-a/107/miltank/",
+          "id": "promo-a/107"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Rare",
+          "full_name": "Phanpy Rare - Promo A (PROMO-A) #108",
+          "url": "/cards/promo-a/108/phanpy/",
+          "id": "promo-a/108"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Rare",
+          "full_name": "Poipole Rare - Promo A (PROMO-A) #82",
+          "url": "/cards/promo-a/82/poipole/",
+          "id": "promo-a/82"
+        },
+        {
+          "type": "card",
+          "name": "Stufful Rare",
+          "full_name": "Stufful Rare - Promo A (PROMO-A) #83",
+          "url": "/cards/promo-a/83/stufful/",
+          "id": "promo-a/83"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Phanpy Rare",
+          "full_name": "Phanpy Rare - Promo A (PROMO-A) #108",
+          "url": "/cards/promo-a/108/phanpy/",
+          "id": "promo-a/108"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Rare",
+          "full_name": "Phanpy Rare - Promo A (PROMO-A) #108",
+          "url": "/cards/promo-a/108/phanpy/",
+          "id": "promo-a/108"
+        },
+        {
+          "type": "card",
+          "name": "Shaymin Rare",
+          "full_name": "Shaymin Rare - Promo A (PROMO-A) #116",
+          "url": "/cards/promo-a/116/shaymin/",
+          "id": "promo-a/116"
+        },
+        {
+          "type": "card",
+          "name": "Absol Rare",
+          "full_name": "Absol Rare - Promo A (PROMO-A) #117",
+          "url": "/cards/promo-a/117/absol/",
+          "id": "promo-a/117"
+        },
+        {
+          "type": "card",
+          "name": "Chansey Rare",
+          "full_name": "Chansey Rare - Promo A (PROMO-A) #11",
+          "url": "/cards/promo-a/11/chansey/",
+          "id": "promo-a/11"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Miltank Rare",
+          "full_name": "Miltank Rare - Promo A (PROMO-A) #107",
+          "url": "/cards/promo-a/107/miltank/",
+          "id": "promo-a/107"
+        },
+        {
+          "type": "card",
+          "name": "Miltank Rare",
+          "full_name": "Miltank Rare - Promo A (PROMO-A) #107",
+          "url": "/cards/promo-a/107/miltank/",
+          "id": "promo-a/107"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Rare",
+          "full_name": "Phanpy Rare - Promo A (PROMO-A) #108",
+          "url": "/cards/promo-a/108/phanpy/",
+          "id": "promo-a/108"
+        },
+        {
+          "type": "card",
+          "name": "Shaymin Rare",
+          "full_name": "Shaymin Rare - Promo A (PROMO-A) #116",
+          "url": "/cards/promo-a/116/shaymin/",
+          "id": "promo-a/116"
+        },
+        {
+          "type": "card",
+          "name": "Absol Rare",
+          "full_name": "Absol Rare - Promo A (PROMO-A) #117",
+          "url": "/cards/promo-a/117/absol/",
+          "id": "promo-a/117"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Chimchar Rare",
+          "full_name": "Chimchar Rare - Promo A (PROMO-A) #40",
+          "url": "/cards/promo-a/40/chimchar/",
+          "id": "promo-a/40"
+        },
+        {
+          "type": "card",
+          "name": "Chimchar Rare",
+          "full_name": "Chimchar Rare - Promo A (PROMO-A) #40",
+          "url": "/cards/promo-a/40/chimchar/",
+          "id": "promo-a/40"
+        },
+        {
+          "type": "card",
+          "name": "Togepi Rare",
+          "full_name": "Togepi Rare - Promo A (PROMO-A) #41",
+          "url": "/cards/promo-a/41/togepi/",
+          "id": "promo-a/41"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Rare",
+          "full_name": "Manaphy Rare - Promo A (PROMO-A) #48",
+          "url": "/cards/promo-a/48/manaphy/",
+          "id": "promo-a/48"
+        },
+        {
+          "type": "card",
+          "name": "Snorlax Rare",
+          "full_name": "Snorlax Rare - Promo A (PROMO-A) #49",
+          "url": "/cards/promo-a/49/snorlax/",
+          "id": "promo-a/49"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Rare",
+          "full_name": "Poipole Rare - Promo A (PROMO-A) #82",
+          "url": "/cards/promo-a/82/poipole/",
+          "id": "promo-a/82"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Poipole Rare",
+          "full_name": "Poipole Rare - Promo A (PROMO-A) #82",
+          "url": "/cards/promo-a/82/poipole/",
+          "id": "promo-a/82"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Rare",
+          "full_name": "Poipole Rare - Promo A (PROMO-A) #82",
+          "url": "/cards/promo-a/82/poipole/",
+          "id": "promo-a/82"
+        },
+        {
+          "type": "card",
+          "name": "Stufful Rare",
+          "full_name": "Stufful Rare - Promo A (PROMO-A) #83",
+          "url": "/cards/promo-a/83/stufful/",
+          "id": "promo-a/83"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Absol Rare",
+          "full_name": "Absol Rare - Promo A (PROMO-A) #117",
+          "url": "/cards/promo-a/117/absol/",
+          "id": "promo-a/117"
+        },
+        {
+          "type": "card",
+          "name": "Absol Rare",
+          "full_name": "Absol Rare - Promo A (PROMO-A) #117",
+          "url": "/cards/promo-a/117/absol/",
+          "id": "promo-a/117"
+        },
+        {
+          "type": "card",
+          "name": "Chansey Rare",
+          "full_name": "Chansey Rare - Promo A (PROMO-A) #11",
+          "url": "/cards/promo-a/11/chansey/",
+          "id": "promo-a/11"
+        },
+        {
+          "type": "card",
+          "name": "Meowth Rare",
+          "full_name": "Meowth Rare - Promo A (PROMO-A) #12",
+          "url": "/cards/promo-a/12/meowth/",
+          "id": "promo-a/12"
+        },
+        {
+          "type": "card",
+          "name": "Bulbasaur Rare",
+          "full_name": "Bulbasaur Rare - Promo A (PROMO-A) #23",
+          "url": "/cards/promo-a/23/bulbasaur/",
+          "id": "promo-a/23"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Bulbasaur Rare",
+          "full_name": "Bulbasaur Rare - Promo A (PROMO-A) #23",
+          "url": "/cards/promo-a/23/bulbasaur/",
+          "id": "promo-a/23"
+        },
+        {
+          "type": "card",
+          "name": "Bulbasaur Rare",
+          "full_name": "Bulbasaur Rare - Promo A (PROMO-A) #23",
+          "url": "/cards/promo-a/23/bulbasaur/",
+          "id": "promo-a/23"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Rare",
+          "full_name": "Magnemite Rare - Promo A (PROMO-A) #24",
+          "url": "/cards/promo-a/24/magnemite/",
+          "id": "promo-a/24"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Rare",
+          "full_name": "Charmander Rare - Promo A (PROMO-A) #32",
+          "url": "/cards/promo-a/32/charmander/",
+          "id": "promo-a/32"
+        },
+        {
+          "type": "card",
+          "name": "Squirtle Rare",
+          "full_name": "Squirtle Rare - Promo A (PROMO-A) #33",
+          "url": "/cards/promo-a/33/squirtle/",
+          "id": "promo-a/33"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Marill Rare",
+          "full_name": "Marill Rare - Promo A (PROMO-A) #99",
+          "url": "/cards/promo-a/99/marill/",
+          "id": "promo-a/99"
+        },
+        {
+          "type": "card",
+          "name": "Weavile Rare",
+          "full_name": "Weavile Rare - Promo A (PROMO-A) #100",
+          "url": "/cards/promo-a/100/weavile/",
+          "id": "promo-a/100"
+        },
+        {
+          "type": "card",
+          "name": "Miltank Rare",
+          "full_name": "Miltank Rare - Promo A (PROMO-A) #107",
+          "url": "/cards/promo-a/107/miltank/",
+          "id": "promo-a/107"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Chansey Rare",
+          "full_name": "Chansey Rare - Promo A (PROMO-A) #11",
+          "url": "/cards/promo-a/11/chansey/",
+          "id": "promo-a/11"
+        },
+        {
+          "type": "card",
+          "name": "Chansey Rare",
+          "full_name": "Chansey Rare - Promo A (PROMO-A) #11",
+          "url": "/cards/promo-a/11/chansey/",
+          "id": "promo-a/11"
+        },
+        {
+          "type": "card",
+          "name": "Meowth Rare",
+          "full_name": "Meowth Rare - Promo A (PROMO-A) #12",
+          "url": "/cards/promo-a/12/meowth/",
+          "id": "promo-a/12"
+        },
+        {
+          "type": "card",
+          "name": "Bulbasaur Rare",
+          "full_name": "Bulbasaur Rare - Promo A (PROMO-A) #23",
+          "url": "/cards/promo-a/23/bulbasaur/",
+          "id": "promo-a/23"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Rare",
+          "full_name": "Magnemite Rare - Promo A (PROMO-A) #24",
+          "url": "/cards/promo-a/24/magnemite/",
+          "id": "promo-a/24"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Stufful Rare",
+          "full_name": "Stufful Rare - Promo A (PROMO-A) #83",
+          "url": "/cards/promo-a/83/stufful/",
+          "id": "promo-a/83"
+        },
+        {
+          "type": "card",
+          "name": "Stufful Rare",
+          "full_name": "Stufful Rare - Promo A (PROMO-A) #83",
+          "url": "/cards/promo-a/83/stufful/",
+          "id": "promo-a/83"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        },
+        {
+          "type": "card",
+          "name": "Greedent Rare",
+          "full_name": "Greedent Rare - Promo A (PROMO-A) #91",
+          "url": "/cards/promo-a/91/greedent/",
+          "id": "promo-a/91"
+        },
+        {
+          "type": "card",
+          "name": "Marill Rare",
+          "full_name": "Marill Rare - Promo A (PROMO-A) #99",
+          "url": "/cards/promo-a/99/marill/",
+          "id": "promo-a/99"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Shaymin Rare",
+          "full_name": "Shaymin Rare - Promo A (PROMO-A) #116",
+          "url": "/cards/promo-a/116/shaymin/",
+          "id": "promo-a/116"
+        },
+        {
+          "type": "card",
+          "name": "Shaymin Rare",
+          "full_name": "Shaymin Rare - Promo A (PROMO-A) #116",
+          "url": "/cards/promo-a/116/shaymin/",
+          "id": "promo-a/116"
+        },
+        {
+          "type": "card",
+          "name": "Absol Rare",
+          "full_name": "Absol Rare - Promo A (PROMO-A) #117",
+          "url": "/cards/promo-a/117/absol/",
+          "id": "promo-a/117"
+        },
+        {
+          "type": "card",
+          "name": "Chansey Rare",
+          "full_name": "Chansey Rare - Promo A (PROMO-A) #11",
+          "url": "/cards/promo-a/11/chansey/",
+          "id": "promo-a/11"
+        },
+        {
+          "type": "card",
+          "name": "Meowth Rare",
+          "full_name": "Meowth Rare - Promo A (PROMO-A) #12",
+          "url": "/cards/promo-a/12/meowth/",
+          "id": "promo-a/12"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Meowth Rare",
+          "full_name": "Meowth Rare - Promo A (PROMO-A) #12",
+          "url": "/cards/promo-a/12/meowth/",
+          "id": "promo-a/12"
+        },
+        {
+          "type": "card",
+          "name": "Meowth Rare",
+          "full_name": "Meowth Rare - Promo A (PROMO-A) #12",
+          "url": "/cards/promo-a/12/meowth/",
+          "id": "promo-a/12"
+        },
+        {
+          "type": "card",
+          "name": "Bulbasaur Rare",
+          "full_name": "Bulbasaur Rare - Promo A (PROMO-A) #23",
+          "url": "/cards/promo-a/23/bulbasaur/",
+          "id": "promo-a/23"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Rare",
+          "full_name": "Magnemite Rare - Promo A (PROMO-A) #24",
+          "url": "/cards/promo-a/24/magnemite/",
+          "id": "promo-a/24"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Rare",
+          "full_name": "Charmander Rare - Promo A (PROMO-A) #32",
+          "url": "/cards/promo-a/32/charmander/",
+          "id": "promo-a/32"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Togepi Rare",
+          "full_name": "Togepi Rare - Promo A (PROMO-A) #41",
+          "url": "/cards/promo-a/41/togepi/",
+          "id": "promo-a/41"
+        },
+        {
+          "type": "card",
+          "name": "Togepi Rare",
+          "full_name": "Togepi Rare - Promo A (PROMO-A) #41",
+          "url": "/cards/promo-a/41/togepi/",
+          "id": "promo-a/41"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Rare",
+          "full_name": "Manaphy Rare - Promo A (PROMO-A) #48",
+          "url": "/cards/promo-a/48/manaphy/",
+          "id": "promo-a/48"
+        },
+        {
+          "type": "card",
+          "name": "Snorlax Rare",
+          "full_name": "Snorlax Rare - Promo A (PROMO-A) #49",
+          "url": "/cards/promo-a/49/snorlax/",
+          "id": "promo-a/49"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Weavile Rare",
+          "full_name": "Weavile Rare - Promo A (PROMO-A) #100",
+          "url": "/cards/promo-a/100/weavile/",
+          "id": "promo-a/100"
+        },
+        {
+          "type": "card",
+          "name": "Weavile Rare",
+          "full_name": "Weavile Rare - Promo A (PROMO-A) #100",
+          "url": "/cards/promo-a/100/weavile/",
+          "id": "promo-a/100"
+        },
+        {
+          "type": "card",
+          "name": "Miltank Rare",
+          "full_name": "Miltank Rare - Promo A (PROMO-A) #107",
+          "url": "/cards/promo-a/107/miltank/",
+          "id": "promo-a/107"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Rare",
+          "full_name": "Phanpy Rare - Promo A (PROMO-A) #108",
+          "url": "/cards/promo-a/108/phanpy/",
+          "id": "promo-a/108"
+        },
+        {
+          "type": "card",
+          "name": "Shaymin Rare",
+          "full_name": "Shaymin Rare - Promo A (PROMO-A) #116",
+          "url": "/cards/promo-a/116/shaymin/",
+          "id": "promo-a/116"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Manaphy Rare",
+          "full_name": "Manaphy Rare - Promo A (PROMO-A) #48",
+          "url": "/cards/promo-a/48/manaphy/",
+          "id": "promo-a/48"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Rare",
+          "full_name": "Manaphy Rare - Promo A (PROMO-A) #48",
+          "url": "/cards/promo-a/48/manaphy/",
+          "id": "promo-a/48"
+        },
+        {
+          "type": "card",
+          "name": "Snorlax Rare",
+          "full_name": "Snorlax Rare - Promo A (PROMO-A) #49",
+          "url": "/cards/promo-a/49/snorlax/",
+          "id": "promo-a/49"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Magnemite Rare",
+          "full_name": "Magnemite Rare - Promo A (PROMO-A) #24",
+          "url": "/cards/promo-a/24/magnemite/",
+          "id": "promo-a/24"
+        },
+        {
+          "type": "card",
+          "name": "Magnemite Rare",
+          "full_name": "Magnemite Rare - Promo A (PROMO-A) #24",
+          "url": "/cards/promo-a/24/magnemite/",
+          "id": "promo-a/24"
+        },
+        {
+          "type": "card",
+          "name": "Charmander Rare",
+          "full_name": "Charmander Rare - Promo A (PROMO-A) #32",
+          "url": "/cards/promo-a/32/charmander/",
+          "id": "promo-a/32"
+        },
+        {
+          "type": "card",
+          "name": "Squirtle Rare",
+          "full_name": "Squirtle Rare - Promo A (PROMO-A) #33",
+          "url": "/cards/promo-a/33/squirtle/",
+          "id": "promo-a/33"
+        },
+        {
+          "type": "card",
+          "name": "Chimchar Rare",
+          "full_name": "Chimchar Rare - Promo A (PROMO-A) #40",
+          "url": "/cards/promo-a/40/chimchar/",
+          "id": "promo-a/40"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 17,
+      "items": [
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Poipole Rare",
+          "full_name": "Poipole Rare - Promo A (PROMO-A) #82",
+          "url": "/cards/promo-a/82/poipole/",
+          "id": "promo-a/82"
+        },
+        {
+          "type": "card",
+          "name": "Stufful Rare",
+          "full_name": "Stufful Rare - Promo A (PROMO-A) #83",
+          "url": "/cards/promo-a/83/stufful/",
+          "id": "promo-a/83"
+        },
+        {
+          "type": "card",
+          "name": "Togedemaru Rare",
+          "full_name": "Togedemaru Rare - Promo A (PROMO-A) #90",
+          "url": "/cards/promo-a/90/togedemaru/",
+          "id": "promo-a/90"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    }
+  ]
+}

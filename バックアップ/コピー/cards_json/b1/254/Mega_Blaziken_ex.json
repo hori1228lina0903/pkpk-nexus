@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#254"
+  ],
+  "名前": "Mega Blaziken ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "210",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 1,
+  "説明文": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+  "イラストレーター": "PLANETA Igarashi",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "Mega"
+  ],
+  "エフェクト一覧": [
+    "Bursts_Flair_Orange_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp",
+    "Flames_Flair_Orange_Battle.webp",
+    "Spinning_Rings_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Mega Burning",
+      "ダメージ": "120",
+      "効果": "Discard Fire Energy from this Pokémon. Your opponent’s Active Pokémon is now Burned.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fire",
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#36"
+    },
+    {
+      "カード番号": "b1#284"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Combusken"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#119"
+  ],
+  "名前": "Doublade",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Digital_Squares_Flair_Purple_Battle.webp",
+    "Tiny_Twinkles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Dual Blades",
+      "ダメージ": "40x",
+      "効果": "Flip 2 coins. This attack does 40 damage for each heads.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Aegislash"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Honedge"
+      ]
+    ]
+  }
+}

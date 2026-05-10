@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#23",
+    "a4b#43"
+  ],
+  "名前": "Dhelmise ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "140",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA Tsuji",
+  "収録セット": [
+    "Celestial Guardians",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow-green_Battle.webp",
+    "Sword_Flash_Flair_Green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Anchor Shot",
+      "ダメージ": "80",
+      "効果": "During your opponent’s next turn, the Defending Pokémon can’t retreat.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#181"
+    },
+    {
+      "カード番号": "a3#199"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

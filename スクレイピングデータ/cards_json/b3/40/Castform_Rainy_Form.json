@@ -1,0 +1,49 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#40"
+  ],
+  "名前": "Castform Rainy Form",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "water",
+  "弱点": "Lightning",
+  "にげる": 1,
+  "説明文": "This is Castform’s form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn’t change to this form.",
+  "イラストレーター": "sowsow",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Glowing_Ring_Flair_Light_blue_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Rainy Absorbing",
+      "ダメージ": "30",
+      "効果": "If a Stadium is in play, heal 20 damage from this Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

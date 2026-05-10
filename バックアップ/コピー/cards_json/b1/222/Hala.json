@@ -1,0 +1,39 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b1#222"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Hala",
+  "イラストレーター": "Teeziro",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "During your opponent’s next turn, if your Hariyama or Crabominable would be Knocked Out by damage from an attack, it is not Knocked Out and its remaining HP becomes 10.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Gale_Flair_Yellow-green_Cosmetic.webp",
+    "Digital_Squares_Flair_Yellow-green_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#267"
+    }
+  ],
+  "進化先": {}
+}

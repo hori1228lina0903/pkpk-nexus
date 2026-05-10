@@ -1,0 +1,49 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#9"
+  ],
+  "名前": "Dhelmise",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
+  "イラストレーター": "Hasuno",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Grass_Energy_Flair_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Energy Whip",
+      "ダメージ": "20+",
+      "効果": "If this Pokémon has at least 3 extra  Energy attached, this attack does 70 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

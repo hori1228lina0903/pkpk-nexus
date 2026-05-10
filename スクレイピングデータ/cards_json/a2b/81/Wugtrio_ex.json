@@ -1,0 +1,70 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#81"
+  ],
+  "名前": "Wugtrio ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA Tsuji",
+  "収録セット": [
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Bubbles_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Pop Out Throughout",
+      "ダメージ": "N/A",
+      "効果": "1 of your opponent’s Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#19"
+    },
+    {
+      "カード番号": "a2b#109"
+    },
+    {
+      "カード番号": "a4b#127"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Wiglett"
+      ]
+    ]
+  }
+}

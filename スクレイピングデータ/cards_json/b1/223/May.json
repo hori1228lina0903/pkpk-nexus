@@ -1,0 +1,40 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b1#223"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "May",
+  "イラストレーター": "Sanosuke Sakuma",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "ミッション: Reach player level 3 - Elite Deck Gift Missions",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "Put 2 random Pokémon from your deck into your hand. For each Pokémon you put into your hand in this way, choose a Pokémon to shuffle from your hand into your deck.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp",
+    "Digital_Squares_Flair_Light_blue_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#268"
+    }
+  ],
+  "進化先": {}
+}

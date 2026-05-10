@@ -1,0 +1,35 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b2b#69"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Hiking Trail",
+  "イラストレーター": "AYUMI ODASHIMA",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Stadium",
+  "カードの効果": {
+    "発動効果": "At the end of each player’s turn, that player draws cards until they have 3 cards in their hand.",
+    "追加ルール": "You may only play 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played"
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Clovers_Flair_Battle.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {}
+}

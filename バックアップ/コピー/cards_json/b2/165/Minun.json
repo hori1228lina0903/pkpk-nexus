@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#165"
+  ],
+  "名前": "Minun",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+  "イラストレーター": "Kariya",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Small_Stars_Flair_Pink_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Buddy Spark",
+      "ダメージ": "30",
+      "効果": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#53"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#56"
+  ],
+  "名前": "Porygon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.",
+  "イラストレーター": "Hisao Nakamura",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Digital_Squares_Flair_Purple_Battle.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Stiffen",
+      "ダメージ": "N/A",
+      "効果": "During your opponent’s next turn, this Pokémon takes −20 damage from attacks.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Porygon2"
+      ]
+    ]
+  },
+  "進化前": {}
+}

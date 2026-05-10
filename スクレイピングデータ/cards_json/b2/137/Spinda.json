@@ -1,0 +1,49 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#137"
+  ],
+  "名前": "Spinda",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!",
+  "イラストレーター": "Shibuzoh.",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Glowing_Ring_Flair_Yellow_Cosmetic.webp",
+    "Spinning_Rings_Flair_Yellow_Battle.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Teetering Steps",
+      "ダメージ": "40",
+      "効果": "This Pokémon is now Confused.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

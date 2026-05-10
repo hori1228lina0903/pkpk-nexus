@@ -1,0 +1,42 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a2#145"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "40",
+  "名前": "Armor Fossil",
+  "イラストレーター": "Toyste Beach",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Palkia Pack",
+    "パック開封ポイント: 35"
+  ],
+  "分類": "Fossil",
+  "カードの効果": {
+    "発動効果": "Play this card as if it were a 40-HP Basic [Colorless] Pokémon.At any time during your turn, you may discard this card from play.This card can’t retreat.",
+    "追加ルール": "You may play any number of Item cards during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Shieldon"
+      ]
+    ]
+  }
+}

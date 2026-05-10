@@ -1,0 +1,39 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "promo-a#5"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "N/A",
+  "名前": "Poké Ball",
+  "イラストレーター": "Ryo Ueda",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "ミッション: Reach player level 3 - Elite Deck Gift Missions",
+    "商品: Tickets - Launch"
+  ],
+  "分類": "Item",
+  "カードの効果": {
+    "発動効果": "Put a random Basic Pokémon from your deck into your hand.",
+    "追加ルール": "You may play any number of Item cards during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#111"
+    }
+  ],
+  "進化先": {}
+}

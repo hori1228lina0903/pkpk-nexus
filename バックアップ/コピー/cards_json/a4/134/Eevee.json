@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#134"
+  ],
+  "名前": "Eevee",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "イラストレーター": "sowsow",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Heart_Outlines_Flair_Red_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Find a Friend",
+      "ダメージ": "N/A",
+      "効果": "Put a random Pokémon from your deck into your hand.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#231"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Sylveon,                                         Jolteon ex,                                         Vaporeon,                                         Jolteon,                                         Umbreon ex,                                         Umbreon,                                         Glaceon ex,                                         Flareon,                                         Glaceon,                                         Leafeon ex,                                         Sylveon ex,                                         Leafeon,                                         Flareon ex,                                         Espeon,                                         Espeon ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

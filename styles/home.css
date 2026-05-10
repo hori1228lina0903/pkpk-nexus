@@ -1,0 +1,518 @@
+.spacer {
+    height: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.top{
+  width: 100%;
+}
+
+.grid-menu {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  list-style: none;
+  padding: 0 6px;
+  margin: 0;
+  gap: 3px;
+}
+
+.grid-menu li {
+  text-align: center;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.45);
+}
+
+.grid-menu img {
+  width: 100%;
+  height: auto;
+  display: block;
+  aspect-ratio: 1 / 1;   /* 正方形に統一（好みで変更可） */
+}
+
+.grid-menu li a {
+  text-decoration: none;
+  display: block;
+}
+
+.grid-menu li span {
+  display: block;
+  background: #2c3e50;
+  height: 50px;
+  padding: 4px 5px;
+  border-radius: 0 0 8px 8px;
+  color: #fff;
+  word-break: break-word;
+}
+
+/* 通常表示時の縦並び（カルーセルクラスがない場合のみ） */
+.events-container:not(.use-carousel) .ongoing-events-container,
+.past-events-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* カルーセルモード時はブロック表示に切り替え */
+.events-container.use-carousel .ongoing-events-container {
+  display: block;
+  overflow: visible;
+}
+
+/* イベントカード全体 */
+.event_item {
+  width: 97%;
+  margin: 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  color: #333;
+  background-color: #fff;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.45);
+}
+
+/* 画像ラッパー - NEWバッジ配置用 */
+.event_image_wrapper {
+  position: relative;
+  display: block;
+}
+
+/* NEWバッジ - 画像の右上に表示 */
+.new-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #ff4444;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+  animation: blink 2s ease-in-out infinite;
+}
+
+/* 点滅のキーフレーム */
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+
+/* イベント画像 */
+.event_top {
+  width: 100%;
+  display: block;
+}
+
+/* 画像下のテキストエリア */
+.event_bottom {
+  margin: 0;
+  padding: 0 15px 15px 15px;
+  background: #95B1D6;
+  background-color: #fff;
+}
+
+/* タイプバッジと日付の行 */
+.event_meta {
+  display: flex;
+  align-items: center;
+  margin: 5px 0 3px 0;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+/* タイプバッジの基本スタイル */
+.type-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+  white-space: nowrap;
+}
+
+/* 各タイプの色 */
+.type-badge-ranked { background-color: #e91e63; }
+.type-badge-drop { background-color: #4caf50; }
+.type-badge-mission { background-color: #2196f3; }
+.type-badge-premium { background-color: #ff9800; }
+.type-badge-emblem { background-color: #9c27b0; }
+.type-badge-release { background-color: #f44336; }
+.type-badge-wonder { background-color: #00bcd4; }
+.type-badge-celebration { background-color: #ffc107; color: #333; }
+.type-badge-campaign { background-color: #795548; }
+.type-badge-sale { background-color: #ff5722; }
+.type-badge-mass { background-color: #8bc34a; }
+.type-badge-rerun { background-color: #607d8b; }
+.type-badge-gift { background-color: #e91e63; }
+.type-badge-default { background-color: #9e9e9e; }
+
+/* イベント日付 */
+.event_date {
+  margin: 0 0 0 auto;
+  color: #999;
+  font-size: 12px;
+}
+
+/* Ongoing Events カルーセル用 */
+.events-container.use-carousel .ongoing-events-container .swiper {
+  padding-bottom: 40px;
+}
+
+.events-container.use-carousel .ongoing-events-container .swiper-slide {
+  width: 85%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.events-container.use-carousel .ongoing-events-container .event_item {
+  width: 100%;
+  margin: 0;
+}
+
+.events-container.use-carousel .ongoing-events-container .swiper-pagination-bullet-active {
+  background-color: #FF4BB4;
+}
+
+/* Upcoming Events カルーセル用（追加） */
+.events-container.use-carousel .upcoming-events-container .swiper {
+  padding-bottom: 40px;
+}
+
+.events-container.use-carousel .upcoming-events-container .swiper-slide {
+  width: 85%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.events-container.use-carousel .upcoming-events-container .event_item {
+  width: 100%;
+  margin: 0;
+}
+
+.events-container.use-carousel .upcoming-events-container .swiper-pagination-bullet-active {
+  background-color: #FF4BB4;
+}
+
+
+
+/* Set list */
+/* 拡張パック一覧のスタイル */
+.expansion-container {
+  margin: 10px 10px;
+  overflow-x: hidden;
+}
+
+.expansion-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.expansion-card {
+  text-decoration: none;
+  color: #333;
+}
+.expansion-card-inner {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+}
+
+.expansion-image {
+  width: 100%;
+  height: 30px;
+  object-fit: contain;
+  display: block;
+  margin: 5px auto;
+  padding: 0 5px;
+}
+
+.expansion-info {
+  text-align: center;
+}
+
+.expansion-name {
+  font-size: 12px;
+  font-weight: bold;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+.expansion-code {
+  font-size: 10px;
+  color: #999;
+  margin: 0;
+}
+
+/* シリーズ選択タブ */
+.expansion-tabs {
+  width: 93%;
+  margin: 0 auto;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+
+.tab-btn {
+  background: #d0d0d0;
+  border: none;
+  padding: 4px 15px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #666;
+  cursor: pointer;
+  border-radius: 3px;  /* 四角く */
+  transition: all 0.2s ease;
+}
+
+.tab-btn.active {
+  background: #BF0A30;  /* 赤 */
+  color: white;
+}
+
+
+/* decks.css */
+.new-deck-grid {
+  width: 93%;
+  margin: 15px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.new-deck-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tier-decks-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", sans-serif;
+  padding: 0;
+  border-radius: 8px;
+}
+
+.intro {
+  width: 93%;
+  margin: 5px auto;
+  text-align: left;
+  line-height: 1.3;
+  color: #333;
+}
+
+.intro strong {
+  font-weight: bold;
+}
+
+.tier-decks-table td {
+  background-color: #e8eafc;
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 10px 0;
+  border-right: 4px solid rgba(255, 255, 255, 0.3);
+}
+
+/* グリッド設定 */
+.tier-s-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-a-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-b-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-c-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+.tier-d-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.125rem;
+  justify-content: start;
+}
+
+/* 画像の設定 */
+.tier-decks-table img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ティアの左列 */
+.tier-s {
+  background-color: #FF0000;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-a {
+  background-color: #FF8C00;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-b {
+  background-color: #FFCB05;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-c {
+  background-color: #78C850;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+.tier-d {
+  background-color: #6890F0;
+  color: #000;
+  width: 20px;
+  font-weight: bold;
+}
+
+/* デッキカード枠 */
+.deck-container {
+  position: relative;
+  border: 3px solid #3B4CCA;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+/* オーバーレイテキスト */
+.overlay-text {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 9px;
+  padding: 2px 0;
+  text-align: center;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+}
+
+.view-all-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.view-all-events {
+  display: inline-block;
+  background: transparent;
+  color: #2c3e50;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 2px solid #2c3e50;
+  border-radius: 8px;
+  font-weight: bold;
+  text-align: center;
+  transition: all 0.3s ease;
+  margin-top: 20px;
+  float: right;
+}
+
+.accessory-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.tab-btn,
+.accessory-tab {
+  background: #d0d0d0;
+  border: none;
+  padding: 4px 15px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #666;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+.tab-btn.active,
+.accessory-tab.active { 
+  background: #BF0A30;
+  color: white; 
+}
+
+.accessory-category-content {
+  display: none;
+}
+
+.accessory-category-content.active {
+  display: block;
+}
+
+.accessory-grid {
+  display: grid;
+  width: 97%;
+  margin: 0 auto;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3px;
+  box-sizing: border-box;
+}
+
+.accessory-item {
+  text-align: center;
+  background: white;
+  border-radius: 12px;
+  box-sizing: border-box;
+  padding: 0.8rem;
+  min-width: 0;
+  overflow: hidden;
+}
+.accessory-item img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: contain;
+}
+.accessory-name {
+  font-size: 0.75rem;
+  margin-top: 6px;
+  word-break: break-word;
+  color: #333;
+}

@@ -1,0 +1,70 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#195"
+  ],
+  "名前": "Cubone",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+  "イラストレーター": "sowsow",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Growl",
+      "ダメージ": "N/A",
+      "効果": "During your opponent’s next turn, attacks used by the Defending Pokémon do −20 damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#151"
+    },
+    {
+      "カード番号": "a1#239"
+    },
+    {
+      "カード番号": "a3#226"
+    },
+    {
+      "カード番号": "a4b#194"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Alolan Marowak,                                         Marowak,                                         Marowak ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

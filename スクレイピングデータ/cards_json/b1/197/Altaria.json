@@ -1,0 +1,57 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#197"
+  ],
+  "名前": "Altaria",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "100",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+  "イラストレーター": "sui",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Light_blue_Battle.webp",
+    "Heart_Bubbles_Flair_Light_blue_Battle.webp",
+    "Feathers_Flair_White_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Do the Wave",
+      "ダメージ": "20+",
+      "効果": "This attack does 20 more damage for each of your Benched Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Swablu"
+      ]
+    ]
+  }
+}

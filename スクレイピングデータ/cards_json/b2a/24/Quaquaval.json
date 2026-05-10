@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#24"
+  ],
+  "名前": "Quaquaval",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "150",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Spinning_Rings_Flair_Light_blue_Battle.webp",
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Cosmetic.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Torrent",
+      "効果": "If this Pokémon’s remaining HP is 50 or less, attacks used by this Pokémon do +60 damage to your opponent’s Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Hydro Kick",
+      "ダメージ": "90",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Quaxwell"
+      ]
+    ]
+  }
+}

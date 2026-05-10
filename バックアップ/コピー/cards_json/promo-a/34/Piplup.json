@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#34"
+  ],
+  "名前": "Piplup",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.",
+  "イラストレーター": "Kariya",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "プレミアムミッション: February 2025 Login Bonus (Day 1)"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Heart_Outlines_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Nap",
+      "ダメージ": "N/A",
+      "効果": "Heal 20 damage from this Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#35"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Prinplup"
+      ]
+    ]
+  },
+  "進化前": {}
+}

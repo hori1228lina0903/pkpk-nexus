@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#196"
+  ],
+  "名前": "Swablu",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+  "イラストレーター": "Kanako Eo",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Feathers_Flair_White_Battle.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Small_Hearts_Flair_Blue_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sing",
+      "ダメージ": "N/A",
+      "効果": "Your opponent’s Active Pokémon is now Asleep.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Mega Altaria ex,                                         Altaria"
+      ]
+    ]
+  },
+  "進化前": {}
+}

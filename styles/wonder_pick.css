@@ -1,0 +1,455 @@
+.event-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 93%;
+  margin: 5px auto;
+  border: 1px solid #d0d0d0;
+  border-radius: 50px;
+  /* 全体を丸く */
+  overflow: hidden;
+  /* はみ出し部分を隠す */
+}
+
+.label {
+  color: #333;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  padding: 0 0.8rem;
+  background: #F57C00;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+  border-top-left-radius: 50px;
+  /* 左上 */
+  border-bottom-left-radius: 50px;
+  /* 左下 */
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  /* 縦中央 */
+  flex: 1;
+  padding: 0 1.2rem;
+  color: #333;
+  border-top-right-radius: 50px;
+  /* 右上 */
+  border-bottom-right-radius: 50px;
+  /* 右下 */
+}
+
+.hero_image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: 50%;
+  margin-top: -15px;
+  margin-bottom: 15px;
+  transform: translateX(-50%); /* 中央配置 */
+}
+
+.featured-wonder_pick {
+  display: flex;
+  justify-content: center;  /* 中央揃え */
+  align-items: center;
+  gap: 20px;  /* カード間の隙間を5pxに */
+  flex-wrap: wrap;  /* 必要に応じて折り返し */
+}
+
+.featured-card {
+  width: 40vw;
+  height: auto;
+  margin: 10px auto;
+  object-fit: contain;
+  border-radius: 5px;
+  display: block;
+}
+
+.pattern-button {
+  display: flex;
+  justify-content: center;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.pattern-button button {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background: #a0a0a0;
+}
+
+.pattern-button button.active {
+  background: #BF0A30;
+  border-color: #BF0A30;
+  color: white;
+}
+
+.bonus-pick{
+  width: 93%;
+  margin: 5px auto;
+  padding: 15px 0 10px 0;
+  border:1px solid #e0e0e0;
+  background-color: #e0e0e0 ;
+  border-radius: 8px;
+  position: relative;
+}
+
+.bonus-pick_outer {
+  width: 250px;
+  height: 55px;
+  margin: 0 auto;
+  border: 2px solid #F6F6E4;
+  border-radius: 50px;
+  background-color: #F6F6E4;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+.bonus-pick_inner {
+  position: relative;  /* 画像の絶対配置の基準点 */
+  width: 100%;
+  height: 100%;
+  border: 3px solid #C9C983;
+  border-radius: 50px;
+  padding: 13px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.bonus-pick_image {
+  position: absolute;
+  top: -36%;  /* 上から30%の位置 */
+  left: 0%;  /* 左から20%の位置 */
+  transform: translate(0, 0);  /* 変換なし */
+  width: 33%;
+  height: auto;
+  max-width: none;
+  z-index: 1;
+}
+
+.chansey-pick_outer {
+  width: 250px;
+  height: 55px;
+  margin: 0 auto;
+  border: 2px solid #FBD7EC;
+  border-radius: 50px;
+  /* 白を強くした斜めグラデーション */
+background: linear-gradient(130deg, #f9a8d4 0%, #ffe4f0 10%, #ffffff 40%, #ffe4f0 50%, #f9a8d4 63%, #f9a8d4 65%, #f9a8d4 67%, #ffe4f0 75%, #ffffff 100%);
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+.chansey-pick_inner {
+  position: relative;  /* 画像の絶対配置の基準点 */
+  width: 100%;
+  height: 100%;
+  border: 3px solid #8D8195;
+  border-radius: 50px;
+  padding: 13px;
+  box-sizing: border-box;
+  overflow: hidden;  /* ← ここが重要！はみ出した部分を非表示 */
+}
+
+.chansey-pick_image {
+  position: absolute;
+  top: -3%;  /* 上から30%の位置 */
+  left: 3%;  /* 左から20%の位置 */
+  transform: translate(0, 0);  /* 変換なし */
+  width: 30%;
+  height: auto;
+  max-width: none;
+  z-index: 1;
+}
+
+.chansey-pick-card {
+  width: 19vw;
+  height: auto;
+}
+
+.chansey-pick-ticket {
+  width: 17vw;
+  height: auto;
+}
+
+.chansey-pick-item {
+  width: 13vw;
+  height: auto;
+}
+
+.chansey-pick_content {
+  width: 93%;
+  margin: 2vw auto 0 auto;
+  border: 1px solid #ffe4f0;
+  background-color: #ffe4f0;
+  padding: 10vw 4vw;
+  border-radius: 50px;
+  position: relative;
+  box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.bonus-pick_label {
+  color: #333;
+  position: relative;
+  z-index: 2;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+.bonus-pick_content {
+  width: 93%;
+  margin: 2vw auto 0 auto;
+  border: 1px solid #f0f0f0;
+  background-color: #f0f0f0;
+  padding: 10vw 4vw;
+  border-radius: 50px;
+  position: relative;
+  box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.bonus-pick_intro p{
+  width: 93%;
+  text-align: left;
+  line-height: 1.3;
+  color: #333;
+  margin: 20px auto 0 auto;
+}
+
+.cards-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 5vw;
+  align-items: center;
+}
+
+.cards-row {
+  display: flex;
+  justify-content: center;
+  gap: 6vw;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.bonus-pick-ticket{
+  width: 17vw;
+  height: auto;
+}
+
+.bonus-pick-item{
+  width: 13vw;
+  height: auto;
+}
+
+.bonus-pick-card{
+  width: 19vw;
+  height: auto;
+}
+
+.bonus-pick-ticket,
+.bonus-pick-item,
+.bonus-pick-card {
+  width: 17vw;
+  height: auto;
+  border-radius: 5px;
+}
+
+.chansey-pick-ticket,
+.chansey-pick-item,
+.chansey-pick-card {
+  width: 17vw;
+  height: auto;
+  border-radius: 5px;
+}
+
+.cost_outer {
+  position: absolute;
+  width: 130px;
+  height: 26px;
+  left: 50%;
+  bottom: -13px;
+  transform: translateX(-50%);
+  margin: 0;
+  border: 1px solid #f5f5f5;
+  border-radius: 50px;
+  background-color: #f5f5f5;
+  padding: 3px;
+  box-sizing: border-box;
+  
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-weight:bold;
+}
+
+.cost_inner {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #f0f0f0;
+  border-radius: 50px;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cost_inner img{
+  border-radius: 5px;
+}
+
+.cost_inner img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position:absolute;
+  left:8px;
+  width:20px;
+  height:20px;
+}
+
+.cost_label {
+  color: #333;
+  text-align: center;
+  width:100%;
+}
+
+.event-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 93%;
+  margin: 5px auto;
+  border: 1px solid #d0d0d0;
+  border-radius: 50px;
+  /* 全体を丸く */
+  overflow: hidden;
+  /* はみ出し部分を隠す */
+}
+
+.accessory-grid{
+  display:grid;
+  grid-template-columns:repeat(3, 1fr);
+  gap:20px;
+  width: 93%;
+  margin:auto;
+}
+
+.item{
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+}
+
+.item img{
+  width:100%;
+  height:120px;
+  object-fit:contain;
+  border-radius:8px;
+}
+
+.Event-Shop-Ticket{
+  position: relative;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:6px;
+  font-weight:bold;
+  color:#333;
+  border:1px solid #d0d0d0;
+  padding:4px 8px;
+  border-radius:50px;
+}
+
+.Event-Shop-Ticket img{
+  position:absolute;
+  left:8px;
+  width:20px;
+  height:20px;
+}
+
+.Event-Shop-Ticket span{
+  text-align:center;
+  width:100%;
+}
+
+/* ミッションカード */
+.mission-group {
+  margin: 10px auto;
+  width: 93%;
+}
+
+.mission-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.mission-card {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 12px;
+  border: 2px solid #e0e0e0;
+  color: #333;
+}
+
+.mission-card__inner {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  position: relative;
+}
+
+.mission-card__preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  min-width: 80px;
+  position: relative;
+  padding-right: 15px;
+  min-width: 90px;
+  width: 90px;
+}
+
+.mission-card__preview::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  height: auto;
+  background-color: #ccc;
+  border-radius: 1px;
+}
+
+.mission-card__preview-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 100%;  /* 幅を100%に */
+  justify-content: center;  /* 中央揃え */
+}
+
+.mission-card__preview img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.mission-card__content {
+  flex: 1;
+}
+
+.mission-card__text {
+  font-weight: 500;
+  margin-bottom: 5px;
+}

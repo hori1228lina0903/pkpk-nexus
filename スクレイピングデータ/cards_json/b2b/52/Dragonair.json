@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#52"
+  ],
+  "名前": "Dragonair",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "dragon",
+  "弱点": "none",
+  "にげる": 1,
+  "説明文": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+  "イラストレーター": "Kouki Saitou",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Gold_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sky’s Blessing",
+      "ダメージ": "N/A",
+      "効果": "Take a  and a  Energy from your Energy Zone and attach them to this Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2b#106"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Dragonite ex,                                         Dragonite"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Dratini"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-b#25"
+  ],
+  "名前": "Jirachi",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "It is said to have the ability to grant any wish for just one week every thousand years.",
+  "イラストレーター": "Rond",
+  "収録セット": [
+    "Promo B"
+  ],
+  "入手方法": [
+    "プレミアムミッション: February 2026 Login Bonus (Day 1)"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Shining_Star_Dust_Flair_Light_blue_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Snowflakes_Flair_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Star Drop",
+      "ダメージ": "N/A",
+      "効果": "This attack does 30 damage to 1 of your opponent’s Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#106"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

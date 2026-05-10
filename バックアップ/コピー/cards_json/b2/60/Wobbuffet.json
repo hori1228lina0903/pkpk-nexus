@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#60"
+  ],
+  "名前": "Wobbuffet",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 2,
+  "説明文": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+  "イラストレーター": "HYOGONOSUKE",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Psychic_Energy_Flair_Cosmetic.webp",
+    "Digital_Squares_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Flip Over",
+      "ダメージ": "80",
+      "効果": "This Pokémon also does 10 damage to itself.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

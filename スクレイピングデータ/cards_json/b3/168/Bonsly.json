@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#168"
+  ],
+  "名前": "Bonsly",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "30",
+  "タイプ": "fighting",
+  "弱点": "none",
+  "にげる": 0,
+  "説明文": "From its eyes, it can expel excess moisture from its body. This liquid is similar in composition to human sweat.",
+  "イラストレーター": "Jerky",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Flowers_Flair_Pink_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Teary Attack",
+      "ダメージ": "10",
+      "効果": "During your opponent’s next turn, attacks used by the Defending Pokémon do −30 damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "unspecified"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#78"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

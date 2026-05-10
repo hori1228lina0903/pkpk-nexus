@@ -1,0 +1,73 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#146",
+    "a4b#193"
+  ],
+  "名前": "Machamp ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "180",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 3,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Small_Hexagons_Flair_Brown_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Mega Punch",
+      "ダメージ": "120",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting",
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#263"
+    },
+    {
+      "カード番号": "a1#278"
+    },
+    {
+      "カード番号": "a3#235"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Machoke"
+      ]
+    ]
+  }
+}

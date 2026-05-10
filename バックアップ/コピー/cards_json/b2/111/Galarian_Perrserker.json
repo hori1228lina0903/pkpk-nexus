@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#111"
+  ],
+  "名前": "Galarian Perrserker",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "100",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+  "イラストレーター": "Shigenori Negishi",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sword_Flash_Flair_Purple_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Dig Up",
+      "効果": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Metal Claw",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#177"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Galarian Meowth"
+      ]
+    ]
+  }
+}

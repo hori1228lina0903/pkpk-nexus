@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#71"
+  ],
+  "名前": "Pheromosa",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+  "イラストレーター": "matazo",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Ultra_Beast_Flair_Battle.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp",
+    "Special_Ultra_Beast_Flair_Battle.webp",
+    "Sword_Flash_Flair_Green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Jump Blues",
+      "ダメージ": "20",
+      "効果": "This attack also does 20 damage to 1 of your opponent’s Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3a#7"
+    },
+    {
+      "カード番号": "a4b#45"
+    },
+    {
+      "カード番号": "a4b#46"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

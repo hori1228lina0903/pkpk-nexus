@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#32",
+    "a4b#175"
+  ],
+  "名前": "Slurpuff",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "psychic",
+  "弱点": "metal +20",
+  "にげる": 3,
+  "説明文": "By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications.",
+  "イラストレーター": "Kyoko Umemoto",
+  "収録セット": [
+    "Eevee Grove",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Hearts_Flair_Pink_Cosmetic.webp",
+    "Circles_Flair_Pink_Battle.webp",
+    "Tiny_Twinkles_Flair_Purple_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sweets Relay",
+      "ダメージ": "30+",
+      "効果": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#176"
+    },
+    {
+      "カード番号": "a4b#358"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Swirlix"
+      ]
+    ]
+  }
+}

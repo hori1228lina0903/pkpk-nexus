@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#14"
+  ],
+  "名前": "Buzzwole",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "110",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
+  "イラストレーター": "Masakazu Fukuda",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Small_Rocks_Flair_Brown_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Ultra_Beast_Flair_Battle.webp",
+    "Ultra_Beast_Flair_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Ground Beat",
+      "ダメージ": "40+",
+      "効果": "If your opponent has gotten exactly 1 points, this attack does 40 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#159"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

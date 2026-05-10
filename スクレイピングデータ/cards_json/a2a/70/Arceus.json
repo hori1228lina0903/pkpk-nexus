@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2a#70"
+  ],
+  "名前": "Arceus",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "120",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
+  "イラストレーター": "Nurikabe",
+  "収録セット": [
+    "Triumphant Light"
+  ],
+  "入手方法": [
+    "パック: Arceus Pack",
+    "ミッション: Use pack stamina to open 4 4 booster packs - Triumphant Light Release",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Linked_Sparkles_Flair_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Linked_Sparkles_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Power Blast",
+      "ダメージ": "100",
+      "効果": "Discard a random Energy from this Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

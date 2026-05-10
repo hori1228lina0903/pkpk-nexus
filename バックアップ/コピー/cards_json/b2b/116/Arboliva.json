@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#116"
+  ],
+  "名前": "Arboliva",
+  "レア度": {
+    "rarity_types": [
+      "crown"
+    ],
+    "count": 1
+  },
+  "HP": "130",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 2,
+  "説明文": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+  "イラストレーター": "PLANETA Yamashita",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 2500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Foliage_Flair_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Extra Heal",
+      "効果": "Once during your turn, you may heal 60 damage from 1 of your Pokémonexthat has any Energy attached. If you do, discard a random Energy from that Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Seed Bomb",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2a#9"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Dolliv"
+      ]
+    ]
+  }
+}

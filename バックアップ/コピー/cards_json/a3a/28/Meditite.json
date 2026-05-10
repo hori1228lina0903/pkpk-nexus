@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#28"
+  ],
+  "名前": "Meditite",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 1,
+  "説明文": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+  "イラストレーター": "Yukiko Baba",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Trip Over",
+      "ダメージ": "10+",
+      "効果": "Flip a coin. If heads, this attack does 20 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "fighting"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Mega Medicham ex,                                         Medicham"
+      ]
+    ]
+  },
+  "進化前": {}
+}

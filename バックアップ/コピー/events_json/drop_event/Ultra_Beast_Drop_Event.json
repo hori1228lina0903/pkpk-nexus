@@ -1,0 +1,72 @@
+{
+  "url": "https://www.pokemon-zone.com/events/ultra-beast-drop-event/",
+  "title": "Ultra Beast Drop Event",
+  "period": {
+    "text": "Jun 4 - Jun 14",
+    "start_date": "2025-06-04",
+    "end_date": "2025-06-14"
+  },
+  "promo_pack": {
+    "name": "Promo Pack A Series Vol. 9",
+    "cards": [
+      {
+        "name": "Dusk Mane Necrozma",
+        "url": "/cards/promo-a/79/dusk-mane-necrozma/"
+      },
+      {
+        "name": "Dawn Wings Necrozma",
+        "url": "/cards/promo-a/78/dawn-wings-necrozma/"
+      },
+      {
+        "name": "Ultra Necrozma ex",
+        "url": "/cards/promo-a/81/ultra-necrozma-ex/"
+      },
+      {
+        "name": "Xurkitree",
+        "url": "/cards/promo-a/77/xurkitree/"
+      },
+      {
+        "name": "Kartana",
+        "url": "/cards/promo-a/75/kartana/"
+      },
+      {
+        "name": "Stakataka",
+        "url": "/cards/promo-a/80/stakataka/"
+      },
+      {
+        "name": "Blacephalon",
+        "url": "/cards/promo-a/76/blacephalon/"
+      }
+    ]
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Darkness-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Darkness-type Pokémon",
+        "Make your opponent’s Pokémon Poisoned 1 time",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Darkness-type Pokémon",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}

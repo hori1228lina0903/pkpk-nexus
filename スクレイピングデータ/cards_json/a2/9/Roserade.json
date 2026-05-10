@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#9"
+  ],
+  "名前": "Roserade",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
+  "イラストレーター": "Masakazu Fukuda",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Palkia Pack",
+    "パック: Dialga Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Gale_Flair_Yellow-green_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Petals_Flair_Red_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Poisonous Whip",
+      "ダメージ": "50",
+      "効果": "Your opponent’s Active Pokémon is now Poisoned.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Roselia"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#102"
+  ],
+  "名前": "Zorua",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "darkness",
+  "弱点": "Grass",
+  "にげる": 1,
+  "説明文": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+  "イラストレーター": "Krgc",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Spinning_Rings_Flair_Light_blue_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Paper_Streamers_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Surprise Attack",
+      "ダメージ": "40",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2b#43"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Zoroark"
+      ]
+    ]
+  },
+  "進化前": {}
+}

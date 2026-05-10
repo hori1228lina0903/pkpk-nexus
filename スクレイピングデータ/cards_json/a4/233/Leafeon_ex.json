@@ -1,0 +1,78 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#233"
+  ],
+  "名前": "Leafeon ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Special_Shiny_Sparkles_Flair_Battle.webp",
+    "Sword_Flash_Flair_Green_Battle.webp",
+    "Foliage_Flair_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Forest Breath",
+      "効果": "Once during your turn, if this Pokémon is in the Active Spot, you may take aEnergy from your Energy Zone and attach it to 1 of yourPokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Solar Beam",
+      "ダメージ": "70",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2a#10"
+    },
+    {
+      "カード番号": "a2a#82"
+    },
+    {
+      "カード番号": "a2a#91"
+    },
+    {
+      "カード番号": "a4b#29"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Eevee"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#73"
+  ],
+  "名前": "Toucannon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+  "イラストレーター": "Sekio",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Alolan Ninetales Drop Event"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Petals_Flair_White_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Beak Blast",
+      "ダメージ": "80",
+      "効果": "Flip a coin. If heads, your opponent’s Active Pokémon is now Burned.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Trumbeak"
+      ]
+    ]
+  }
+}

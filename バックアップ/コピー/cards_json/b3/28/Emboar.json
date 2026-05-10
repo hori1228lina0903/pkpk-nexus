@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#28"
+  ],
+  "名前": "Emboar",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "160",
+  "タイプ": "fire",
+  "弱点": "Water",
+  "にげる": 4,
+  "説明文": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sword_Flash_Flair_Orange_Battle.webp",
+    "Flames_Flair_Orange_Battle.webp",
+    "Bursts_Flair_Orange_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Flare Storm",
+      "ダメージ": "70+",
+      "効果": "Flip a coin for each  Energy attached to this Pokémon. This attack does 30 more damage for each heads.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fire",
+        "fire",
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Pignite"
+      ]
+    ]
+  }
+}

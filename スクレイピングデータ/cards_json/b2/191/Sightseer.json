@@ -1,0 +1,39 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b2#191"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Sightseer",
+  "イラストレーター": "yuu",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1250"
+  ],
+  "分類": "Supporter",
+  "カードの効果": {
+    "発動効果": "Look at the top 4 cards of your deck. Put all Stage 1 Pokémon you find there into your hand. Shuffle the other cards back into your deck.",
+    "追加ルール": "You may play only 1 Supporter card during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Glowing_Ring_Flair_Yellow_Cosmetic.webp"
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2#150"
+    }
+  ],
+  "進化先": {}
+}

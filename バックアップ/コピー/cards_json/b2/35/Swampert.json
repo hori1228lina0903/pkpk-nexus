@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#35"
+  ],
+  "名前": "Swampert",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "150",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 3,
+  "説明文": "Swampert’s arms are rock-hard. With one swing, they can batter down Swampert’s foes. This Pokémon makes its nest on beautiful beaches.",
+  "イラストレーター": "Masakazu Fukuda",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Large Whirlpool",
+      "ダメージ": "100",
+      "効果": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent’s).",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Marshtomp"
+      ]
+    ]
+  }
+}

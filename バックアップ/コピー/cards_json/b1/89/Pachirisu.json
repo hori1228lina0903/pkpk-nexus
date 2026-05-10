@@ -1,0 +1,52 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#89"
+  ],
+  "名前": "Pachirisu",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+  "イラストレーター": "Naoyo Kimura",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Altaria Pack",
+    "パック: Mega Blaziken Pack",
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Lightning_Energy_Flair_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Attack the Wound",
+      "ダメージ": "30+",
+      "効果": "If your opponent’s Active Pokémon has damage on it, this attack does 30 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "lightning",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,663 @@
+{
+  "url": "https://www.pokemon-zone.com/events/darkness-type-pokemon-mass-outbreak/",
+  "title": "Darkness-Type Mass Outbreak Wonder Pick Event",
+  "period": {
+    "text": "Feb 21 - Feb 27",
+    "start_date": "2025-02-21",
+    "end_date": "2025-02-27"
+  },
+  "target_type": "Darkness",
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Mightyena Uncommon",
+          "full_name": "Mightyena Uncommon - Space-Time Smackdown (A2) #101",
+          "url": "/cards/a2/101/mightyena/",
+          "id": "a2/101"
+        },
+        {
+          "type": "card",
+          "name": "Skuntank Uncommon",
+          "full_name": "Skuntank Uncommon - Space-Time Smackdown (A2) #103",
+          "url": "/cards/a2/103/skuntank/",
+          "id": "a2/103"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Croagunk Common",
+          "full_name": "Croagunk Common - Space-Time Smackdown (A2) #107",
+          "url": "/cards/a2/107/croagunk/",
+          "id": "a2/107"
+        },
+        {
+          "type": "card",
+          "name": "Murkrow Common",
+          "full_name": "Murkrow Common - Space-Time Smackdown (A2) #96",
+          "url": "/cards/a2/96/murkrow/",
+          "id": "a2/96"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        },
+        {
+          "type": "card",
+          "name": "Poochyena Common",
+          "full_name": "Poochyena Common - Space-Time Smackdown (A2) #100",
+          "url": "/cards/a2/100/poochyena/",
+          "id": "a2/100"
+        },
+        {
+          "type": "card",
+          "name": "Stunky Common",
+          "full_name": "Stunky Common - Space-Time Smackdown (A2) #102",
+          "url": "/cards/a2/102/stunky/",
+          "id": "a2/102"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Murkrow Common",
+          "full_name": "Murkrow Common - Space-Time Smackdown (A2) #96",
+          "url": "/cards/a2/96/murkrow/",
+          "id": "a2/96"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        },
+        {
+          "type": "card",
+          "name": "Poochyena Common",
+          "full_name": "Poochyena Common - Space-Time Smackdown (A2) #100",
+          "url": "/cards/a2/100/poochyena/",
+          "id": "a2/100"
+        },
+        {
+          "type": "card",
+          "name": "Stunky Common",
+          "full_name": "Stunky Common - Space-Time Smackdown (A2) #102",
+          "url": "/cards/a2/102/stunky/",
+          "id": "a2/102"
+        },
+        {
+          "type": "card",
+          "name": "Koffing Common",
+          "full_name": "Koffing Common - Genetic Apex (A1) #176",
+          "url": "/cards/a1/176/koffing/",
+          "id": "a1/176"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Honchkrow Uncommon",
+          "full_name": "Honchkrow Uncommon - Space-Time Smackdown (A2) #97",
+          "url": "/cards/a2/97/honchkrow/",
+          "id": "a2/97"
+        },
+        {
+          "type": "card",
+          "name": "Mightyena Uncommon",
+          "full_name": "Mightyena Uncommon - Space-Time Smackdown (A2) #101",
+          "url": "/cards/a2/101/mightyena/",
+          "id": "a2/101"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Poochyena Common",
+          "full_name": "Poochyena Common - Space-Time Smackdown (A2) #100",
+          "url": "/cards/a2/100/poochyena/",
+          "id": "a2/100"
+        },
+        {
+          "type": "card",
+          "name": "Stunky Common",
+          "full_name": "Stunky Common - Space-Time Smackdown (A2) #102",
+          "url": "/cards/a2/102/stunky/",
+          "id": "a2/102"
+        },
+        {
+          "type": "card",
+          "name": "Koffing Common",
+          "full_name": "Koffing Common - Genetic Apex (A1) #176",
+          "url": "/cards/a1/176/koffing/",
+          "id": "a1/176"
+        },
+        {
+          "type": "card",
+          "name": "Croagunk Common",
+          "full_name": "Croagunk Common - Space-Time Smackdown (A2) #107",
+          "url": "/cards/a2/107/croagunk/",
+          "id": "a2/107"
+        },
+        {
+          "type": "card",
+          "name": "Murkrow Common",
+          "full_name": "Murkrow Common - Space-Time Smackdown (A2) #96",
+          "url": "/cards/a2/96/murkrow/",
+          "id": "a2/96"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Koffing Common",
+          "full_name": "Koffing Common - Genetic Apex (A1) #176",
+          "url": "/cards/a1/176/koffing/",
+          "id": "a1/176"
+        },
+        {
+          "type": "card",
+          "name": "Croagunk Common",
+          "full_name": "Croagunk Common - Space-Time Smackdown (A2) #107",
+          "url": "/cards/a2/107/croagunk/",
+          "id": "a2/107"
+        },
+        {
+          "type": "card",
+          "name": "Murkrow Common",
+          "full_name": "Murkrow Common - Space-Time Smackdown (A2) #96",
+          "url": "/cards/a2/96/murkrow/",
+          "id": "a2/96"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        },
+        {
+          "type": "card",
+          "name": "Poochyena Common",
+          "full_name": "Poochyena Common - Space-Time Smackdown (A2) #100",
+          "url": "/cards/a2/100/poochyena/",
+          "id": "a2/100"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        },
+        {
+          "type": "card",
+          "name": "Poochyena Common",
+          "full_name": "Poochyena Common - Space-Time Smackdown (A2) #100",
+          "url": "/cards/a2/100/poochyena/",
+          "id": "a2/100"
+        },
+        {
+          "type": "card",
+          "name": "Stunky Common",
+          "full_name": "Stunky Common - Space-Time Smackdown (A2) #102",
+          "url": "/cards/a2/102/stunky/",
+          "id": "a2/102"
+        },
+        {
+          "type": "card",
+          "name": "Koffing Common",
+          "full_name": "Koffing Common - Genetic Apex (A1) #176",
+          "url": "/cards/a1/176/koffing/",
+          "id": "a1/176"
+        },
+        {
+          "type": "card",
+          "name": "Croagunk Common",
+          "full_name": "Croagunk Common - Space-Time Smackdown (A2) #107",
+          "url": "/cards/a2/107/croagunk/",
+          "id": "a2/107"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Spiritomb Uncommon",
+          "full_name": "Spiritomb Uncommon - Space-Time Smackdown (A2) #104",
+          "url": "/cards/a2/104/spiritomb/",
+          "id": "a2/104"
+        },
+        {
+          "type": "card",
+          "name": "Honchkrow Uncommon",
+          "full_name": "Honchkrow Uncommon - Space-Time Smackdown (A2) #97",
+          "url": "/cards/a2/97/honchkrow/",
+          "id": "a2/97"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Stunky Common",
+          "full_name": "Stunky Common - Space-Time Smackdown (A2) #102",
+          "url": "/cards/a2/102/stunky/",
+          "id": "a2/102"
+        },
+        {
+          "type": "card",
+          "name": "Koffing Common",
+          "full_name": "Koffing Common - Genetic Apex (A1) #176",
+          "url": "/cards/a1/176/koffing/",
+          "id": "a1/176"
+        },
+        {
+          "type": "card",
+          "name": "Croagunk Common",
+          "full_name": "Croagunk Common - Space-Time Smackdown (A2) #107",
+          "url": "/cards/a2/107/croagunk/",
+          "id": "a2/107"
+        },
+        {
+          "type": "card",
+          "name": "Murkrow Common",
+          "full_name": "Murkrow Common - Space-Time Smackdown (A2) #96",
+          "url": "/cards/a2/96/murkrow/",
+          "id": "a2/96"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Skuntank Uncommon",
+          "full_name": "Skuntank Uncommon - Space-Time Smackdown (A2) #103",
+          "url": "/cards/a2/103/skuntank/",
+          "id": "a2/103"
+        },
+        {
+          "type": "card",
+          "name": "Spiritomb Uncommon",
+          "full_name": "Spiritomb Uncommon - Space-Time Smackdown (A2) #104",
+          "url": "/cards/a2/104/spiritomb/",
+          "id": "a2/104"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Weavile ex Double Rare",
+          "full_name": "Weavile ex Double Rare - Space-Time Smackdown (A2) #99",
+          "url": "/cards/a2/99/weavile-ex/",
+          "id": "a2/99"
+        },
+        {
+          "type": "card",
+          "name": "Darkrai Rare",
+          "full_name": "Darkrai Rare - Space-Time Smackdown (A2) #109",
+          "url": "/cards/a2/109/darkrai/",
+          "id": "a2/109"
+        },
+        {
+          "type": "card",
+          "name": "Weezing Rare",
+          "full_name": "Weezing Rare - Genetic Apex (A1) #177",
+          "url": "/cards/a1/177/weezing/",
+          "id": "a1/177"
+        },
+        {
+          "type": "card",
+          "name": "Honchkrow Uncommon",
+          "full_name": "Honchkrow Uncommon - Space-Time Smackdown (A2) #97",
+          "url": "/cards/a2/97/honchkrow/",
+          "id": "a2/97"
+        },
+        {
+          "type": "card",
+          "name": "Mightyena Uncommon",
+          "full_name": "Mightyena Uncommon - Space-Time Smackdown (A2) #101",
+          "url": "/cards/a2/101/mightyena/",
+          "id": "a2/101"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Weavile ex Double Rare",
+          "full_name": "Weavile ex Double Rare - Space-Time Smackdown (A2) #99",
+          "url": "/cards/a2/99/weavile-ex/",
+          "id": "a2/99"
+        },
+        {
+          "type": "card",
+          "name": "Darkrai Rare",
+          "full_name": "Darkrai Rare - Space-Time Smackdown (A2) #109",
+          "url": "/cards/a2/109/darkrai/",
+          "id": "a2/109"
+        },
+        {
+          "type": "card",
+          "name": "Weezing Rare",
+          "full_name": "Weezing Rare - Genetic Apex (A1) #177",
+          "url": "/cards/a1/177/weezing/",
+          "id": "a1/177"
+        },
+        {
+          "type": "card",
+          "name": "Skuntank Uncommon",
+          "full_name": "Skuntank Uncommon - Space-Time Smackdown (A2) #103",
+          "url": "/cards/a2/103/skuntank/",
+          "id": "a2/103"
+        },
+        {
+          "type": "card",
+          "name": "Spiritomb Uncommon",
+          "full_name": "Spiritomb Uncommon - Space-Time Smackdown (A2) #104",
+          "url": "/cards/a2/104/spiritomb/",
+          "id": "a2/104"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    }
+  ],
+  "exclusive_flair": [
+    {
+      "name": "Bursts Flair: Purple (Cosmetic)",
+      "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Effect/ICON_KIRA_EFFECT_100025.webp",
+      "requirements": [
+        {
+          "item": "cPK_10_003800_00_MANYULAex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        }
+      ],
+      "period": "Feb 21 - Feb 27, 2025"
+    }
+  ],
+  "missions": [
+    {
+      "name": "Darkness-Type Mass Outbreak Event Missions",
+      "period": "Feb 21 - Feb 27, 2025",
+      "missions": [
+        {
+          "description": "Collect 1 Weavile ex card",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Darkness cards",
+          "rewards": [
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Darkness cards",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "5x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "5",
+              "type": "sub"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 15 Darkness cards",
+          "rewards": [
+            {
+              "name": "4x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "4",
+              "type": "main"
+            },
+            {
+              "name": "7x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "7",
+              "type": "sub"
+            }
+          ],
+          "target": "0/15"
+        }
+      ]
+    }
+  ]
+}

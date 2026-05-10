@@ -1,0 +1,471 @@
+{
+  "url": "https://www.pokemon-zone.com/events/lightning-type-pokemon-mass-outbreak-event-2/",
+  "title": "Lightning-Type Pokémon Mass Outbreak Wonder Pick Event",
+  "period": {
+    "text": "Aug 25 - Aug 31",
+    "start_date": "2025-08-25",
+    "end_date": "2025-08-31"
+  },
+  "target_type": "",
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 67,
+      "items": [
+        {
+          "type": "card",
+          "name": "Galvantula Uncommon",
+          "full_name": "Galvantula Uncommon - Eevee Grove (A3b) #27",
+          "url": "/cards/a3b/27/galvantula/",
+          "id": "a3b/27"
+        },
+        {
+          "type": "card",
+          "name": "Mareep Common",
+          "full_name": "Mareep Common - Wisdom of Sea and Sky (A4) #67",
+          "url": "/cards/a4/67/mareep/",
+          "id": "a4/67"
+        },
+        {
+          "type": "card",
+          "name": "Rotom Common",
+          "full_name": "Rotom Common - Space-Time Smackdown (A2) #62",
+          "url": "/cards/a2/62/rotom/",
+          "id": "a2/62"
+        },
+        {
+          "type": "card",
+          "name": "Emolga Common",
+          "full_name": "Emolga Common - Wisdom of Sea and Sky (A4) #72",
+          "url": "/cards/a4/72/emolga/",
+          "id": "a4/72"
+        },
+        {
+          "type": "card",
+          "name": "Electrical Cord Uncommon",
+          "full_name": "Electrical Cord Uncommon - Extradimensional Crisis (A3a) #65",
+          "url": "/cards/a3a/65/electrical-cord/",
+          "id": "a3a/65"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 67,
+      "items": [
+        {
+          "type": "card",
+          "name": "Flaaffy Uncommon",
+          "full_name": "Flaaffy Uncommon - Wisdom of Sea and Sky (A4) #68",
+          "url": "/cards/a4/68/flaaffy/",
+          "id": "a4/68"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Triumphant Light (A2a) #25",
+          "url": "/cards/a2a/25/pikachu/",
+          "id": "a2a/25"
+        },
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Wisdom of Sea and Sky (A4) #64",
+          "url": "/cards/a4/64/chinchou/",
+          "id": "a4/64"
+        },
+        {
+          "type": "card",
+          "name": "Mareep Common",
+          "full_name": "Mareep Common - Wisdom of Sea and Sky (A4) #67",
+          "url": "/cards/a4/67/mareep/",
+          "id": "a4/67"
+        },
+        {
+          "type": "card",
+          "name": "Electrical Cord Uncommon",
+          "full_name": "Electrical Cord Uncommon - Extradimensional Crisis (A3a) #65",
+          "url": "/cards/a3a/65/electrical-cord/",
+          "id": "a3a/65"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 67,
+      "items": [
+        {
+          "type": "card",
+          "name": "Emolga Common",
+          "full_name": "Emolga Common - Wisdom of Sea and Sky (A4) #72",
+          "url": "/cards/a4/72/emolga/",
+          "id": "a4/72"
+        },
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Eevee Grove (A3b) #26",
+          "url": "/cards/a3b/26/joltik/",
+          "id": "a3b/26"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Triumphant Light (A2a) #25",
+          "url": "/cards/a2a/25/pikachu/",
+          "id": "a2a/25"
+        },
+        {
+          "type": "card",
+          "name": "Electrical Cord Uncommon",
+          "full_name": "Electrical Cord Uncommon - Extradimensional Crisis (A3a) #65",
+          "url": "/cards/a3a/65/electrical-cord/",
+          "id": "a3a/65"
+        },
+        {
+          "type": "card",
+          "name": "Elemental Switch Uncommon",
+          "full_name": "Elemental Switch Uncommon - Deluxe Pack: ex (A4b) #310",
+          "url": "/cards/a4b/310/elemental-switch/",
+          "id": "a4b/310"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 67,
+      "items": [
+        {
+          "type": "card",
+          "name": "Flaaffy Uncommon",
+          "full_name": "Flaaffy Uncommon - Wisdom of Sea and Sky (A4) #68",
+          "url": "/cards/a4/68/flaaffy/",
+          "id": "a4/68"
+        },
+        {
+          "type": "card",
+          "name": "Galvantula Uncommon",
+          "full_name": "Galvantula Uncommon - Eevee Grove (A3b) #27",
+          "url": "/cards/a3b/27/galvantula/",
+          "id": "a3b/27"
+        },
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Eevee Grove (A3b) #26",
+          "url": "/cards/a3b/26/joltik/",
+          "id": "a3b/26"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Triumphant Light (A2a) #25",
+          "url": "/cards/a2a/25/pikachu/",
+          "id": "a2a/25"
+        },
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Wisdom of Sea and Sky (A4) #64",
+          "url": "/cards/a4/64/chinchou/",
+          "id": "a4/64"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 67,
+      "items": [
+        {
+          "type": "card",
+          "name": "Flaaffy Uncommon",
+          "full_name": "Flaaffy Uncommon - Wisdom of Sea and Sky (A4) #68",
+          "url": "/cards/a4/68/flaaffy/",
+          "id": "a4/68"
+        },
+        {
+          "type": "card",
+          "name": "Rotom Common",
+          "full_name": "Rotom Common - Space-Time Smackdown (A2) #62",
+          "url": "/cards/a2/62/rotom/",
+          "id": "a2/62"
+        },
+        {
+          "type": "card",
+          "name": "Emolga Common",
+          "full_name": "Emolga Common - Wisdom of Sea and Sky (A4) #72",
+          "url": "/cards/a4/72/emolga/",
+          "id": "a4/72"
+        },
+        {
+          "type": "card",
+          "name": "Joltik Common",
+          "full_name": "Joltik Common - Eevee Grove (A3b) #26",
+          "url": "/cards/a3b/26/joltik/",
+          "id": "a3b/26"
+        },
+        {
+          "type": "card",
+          "name": "Elemental Switch Uncommon",
+          "full_name": "Elemental Switch Uncommon - Deluxe Pack: ex (A4b) #310",
+          "url": "/cards/a4b/310/elemental-switch/",
+          "id": "a4b/310"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 67,
+      "items": [
+        {
+          "type": "card",
+          "name": "Galvantula Uncommon",
+          "full_name": "Galvantula Uncommon - Eevee Grove (A3b) #27",
+          "url": "/cards/a3b/27/galvantula/",
+          "id": "a3b/27"
+        },
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Wisdom of Sea and Sky (A4) #64",
+          "url": "/cards/a4/64/chinchou/",
+          "id": "a4/64"
+        },
+        {
+          "type": "card",
+          "name": "Mareep Common",
+          "full_name": "Mareep Common - Wisdom of Sea and Sky (A4) #67",
+          "url": "/cards/a4/67/mareep/",
+          "id": "a4/67"
+        },
+        {
+          "type": "card",
+          "name": "Rotom Common",
+          "full_name": "Rotom Common - Space-Time Smackdown (A2) #62",
+          "url": "/cards/a2/62/rotom/",
+          "id": "a2/62"
+        },
+        {
+          "type": "card",
+          "name": "Elemental Switch Uncommon",
+          "full_name": "Elemental Switch Uncommon - Deluxe Pack: ex (A4b) #310",
+          "url": "/cards/a4b/310/elemental-switch/",
+          "id": "a4b/310"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "rare",
+      "percent": 100,
+      "items": [
+        {
+          "type": "card",
+          "name": "Lanturn ex Double Rare",
+          "full_name": "Lanturn ex Double Rare - Deluxe Pack: ex (A4b) #142",
+          "url": "/cards/a4b/142/lanturn-ex/",
+          "id": "a4b/142"
+        },
+        {
+          "type": "card",
+          "name": "Tapu Koko ex Double Rare",
+          "full_name": "Tapu Koko ex Double Rare - Extradimensional Crisis (A3a) #19",
+          "url": "/cards/a3a/19/tapu-koko-ex/",
+          "id": "a3a/19"
+        },
+        {
+          "type": "card",
+          "name": "Pichu Rare",
+          "full_name": "Pichu Rare - Wisdom of Sea and Sky (A4) #66",
+          "url": "/cards/a4/66/pichu/",
+          "id": "a4/66"
+        },
+        {
+          "type": "card",
+          "name": "Ampharos Rare",
+          "full_name": "Ampharos Rare - Wisdom of Sea and Sky (A4) #69",
+          "url": "/cards/a4/69/ampharos/",
+          "id": "a4/69"
+        },
+        {
+          "type": "card",
+          "name": "Zeraora Rare",
+          "full_name": "Zeraora Rare - Deluxe Pack: ex (A4b) #149",
+          "url": "/cards/a4b/149/zeraora/",
+          "id": "a4b/149"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    }
+  ],
+  "exclusive_flair": [
+    {
+      "name": "Glowing Ring Flair: Yellow (Battle)",
+      "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Effect/ICON_BATTLE_KIRA_EFFECT_100111.webp",
+      "requirements": [
+        {
+          "item": "cPK_10_009210_00_LANTERNex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        },
+        {
+          "item": "cPK_10_007420_00_KAPU-KOKEKOex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        }
+      ],
+      "period": "Aug 25 - Aug 31, 2025"
+    },
+    {
+      "name": "Lightning Surge Flair: Yellow (Cosmetic)",
+      "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Effect/ICON_KIRA_EFFECT_100028.webp",
+      "requirements": [
+        {
+          "item": "cPK_10_009210_00_LANTERNex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        },
+        {
+          "item": "cPK_10_007420_00_KAPU-KOKEKOex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        }
+      ],
+      "period": "Aug 25 - Aug 31, 2025"
+    }
+  ],
+  "missions": [
+    {
+      "name": "Lightning-Type Mass Outbreak Event",
+      "period": "Aug 25 - Aug 31, 2025",
+      "missions": [
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Lightning cards",
+          "rewards": [
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Lightning cards",
+          "rewards": [
+            {
+              "name": "5x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "5",
+              "type": "main"
+            },
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 15 Lightning cards",
+          "rewards": [
+            {
+              "name": "7x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "7",
+              "type": "main"
+            },
+            {
+              "name": "4x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "4",
+              "type": "sub"
+            }
+          ],
+          "target": "0/15"
+        }
+      ]
+    }
+  ]
+}

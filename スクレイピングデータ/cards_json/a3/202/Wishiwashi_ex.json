@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#202"
+  ],
+  "名前": "Wishiwashi ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "170",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 3,
+  "説明文": "",
+  "イラストレーター": "Nurikabe",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sunshine_Sparkles_Flair_Light_blue_Battle.webp",
+    "Circles_Flair_Light_blue_Battle.webp",
+    "Mini_Triangles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "School Storm",
+      "ダメージ": "30+",
+      "効果": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#51"
+    },
+    {
+      "カード番号": "a3#184"
+    },
+    {
+      "カード番号": "a4b#124"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

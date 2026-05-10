@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#111"
+  ],
+  "名前": "Inkay",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "darkness",
+  "弱点": "Grass",
+  "にげる": 1,
+  "説明文": "Being upside-down improves its blood flow and clears its mind, causing the power of its psychic moves to increase dramatically.",
+  "イラストレーター": "Shibuzoh.",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Ink_Splatters_Flair_Yellow_Battle.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Shooting_Stars_Flair_Yellow_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Spinning Attack",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Malamar"
+      ]
+    ]
+  },
+  "進化前": {}
+}

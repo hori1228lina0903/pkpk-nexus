@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#63"
+  ],
+  "名前": "Azurill",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "30",
+  "タイプ": "colorless",
+  "弱点": "N/A",
+  "にげる": 0,
+  "説明文": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+  "イラストレーター": "Rond",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Baby"
+  ],
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Cosmetic.webp",
+    "Heart_Outlines_Flair_Light_blue_Battle.webp",
+    "Sunshine_Sparkles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Squishy Healing",
+      "ダメージ": "N/A",
+      "効果": "Heal 50 damage from 1 of your Benched Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "unspecified"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4a#77"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

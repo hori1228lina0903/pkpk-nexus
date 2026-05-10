@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#286"
+  ],
+  "名前": "Eevee",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "イラストレーター": "Naoki Saito",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Big_Stars_Flair_Yellow_Cosmetic.webp",
+    "Circles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Collect",
+      "ダメージ": "N/A",
+      "効果": "Draw a card.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#55"
+    },
+    {
+      "カード番号": "a3b#78"
+    },
+    {
+      "カード番号": "a4b#285"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Umbreon ex,                                         Jolteon ex,                                         Umbreon,                                         Sylveon,                                         Leafeon ex,                                         Espeon ex,                                         Glaceon,                                         Jolteon,                                         Glaceon ex,                                         Espeon,                                         Flareon ex,                                         Vaporeon,                                         Leafeon,                                         Sylveon ex,                                         Flareon"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,524 @@
+{
+  "url": "https://www.pokemon-zone.com/events/mythical-island-release/",
+  "title": "Mythical Island (A1a) release - New missions, shop items and Solo Battles",
+  "period": {
+    "text": "Dec 17",
+    "start_date": "2024-12-17"
+  },
+  "packs": [
+    {
+      "title": "Mew pack",
+      "link": "/sets/a1a/Mew pack.html",
+      "key_visual": "/images/packs/Mew pack.webp"
+    }
+  ],
+  "game_updates": [],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "A1a Release - Mythical Island",
+      "period": "Dec 17 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Mew (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A1a",
+          "currency_image": "Emblem Ticket (Mythical Island).webp"
+        }
+      ]
+    },
+    {
+      "title": "Period A1a to A2 - Accessories",
+      "period": "Dec 17 - Jan 30, 2025",
+      "items": [
+        {
+          "name": "Natural Foliage (backdrop)",
+          "price": "50",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Holiday Sale: Poké Gold (paid) ×200 Deal",
+      "period": "Dec 25 - Jan 8, 2025",
+      "price": "$39.99",
+      "items": [
+        {
+          "amount": "200",
+          "is_bonus": false
+        },
+        {
+          "amount": "160",
+          "is_bonus": true
+        }
+      ]
+    },
+    {
+      "name": "Holiday Sale: Poké Gold (paid) ×50 Deal",
+      "period": "Dec 25 - Jan 8, 2025",
+      "price": "$9.99",
+      "items": [
+        {
+          "amount": "50",
+          "is_bonus": false
+        },
+        {
+          "amount": "60",
+          "is_bonus": true
+        }
+      ]
+    },
+    {
+      "name": "Holiday Sale: Poké Gold (paid) ×350 Deal",
+      "period": "Dec 25 - Jan 8, 2025",
+      "price": "$69.99",
+      "items": [
+        {
+          "amount": "350",
+          "is_bonus": false
+        },
+        {
+          "amount": "190",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Dec 17 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Lightning-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Water-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Darkness-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Lightning-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 3 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Dec 17 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Colorless type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Lightning type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "A1a Release",
+      "period": "Dec 17 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Untouched Forest",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Tranquil Lake",
+          "rewards": [
+            {
+              "name": "13x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "13"
+            }
+          ]
+        },
+        {
+          "description": "Scorching Wilderness",
+          "rewards": [
+            {
+              "name": "7x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "7"
+            }
+          ]
+        },
+        {
+          "description": "Forgotten Ruins",
+          "rewards": [
+            {
+              "name": "15x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "15"
+            }
+          ]
+        },
+        {
+          "description": "Catching Bugs",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon That Fly",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 5 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Attacks with 20 Damage",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Celebi ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Small Pokémon",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Celebi ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Register 15 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Tree of Repose",
+          "rewards": [
+            {
+              "name": "1x Tree of Repose (cover)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PeripheralGoods/CollectionFile/ICON_FILE_100310.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Gyarados ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Flower Travelers",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 25 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Gyarados ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Mythical Island Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Mew ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Mythical Island Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Use pack stamina to open 60 Mythical Island booster packs",
+          "rewards": [
+            {
+              "name": "1x Mythical Island: Mew (playmat)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/Asset3d/Supply/PlayMat/Item/PLAYMAT_100170_MEW/Thumbnails/PLAYMAT_100170_MEW_PlayMat.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 35 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Mew ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Mew ex Museum",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Aerodactyl ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Mythical Island Tale of Adventure",
+          "rewards": [
+            {
+              "name": "1x Celebi (emblem)",
+              "local_file": "Celebi (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100050_CELEBI.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Aerodactyl ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Mythical Island)",
+              "local_file": "Emblem Ticket (Mythical Island).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A1a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Mew cards",
+          "rewards": [
+            {
+              "name": "1x Mew (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100190_MEW.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Blue & Pidgeot ex Deck (Mythical Island)"
+        },
+        {
+          "description": "Register 1 card in the Card Dex",
+          "rewards": [
+            {
+              "name": "1x Mythical Island: Mew (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100200_MEW.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 3 Blue cards",
+          "rewards": [
+            {
+              "name": "1x Blue (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100210_GREEN.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Blue & Pidgeot ex Deck (Mythical Island)"
+        }
+      ]
+    }
+  ]
+}

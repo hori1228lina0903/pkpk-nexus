@@ -1,0 +1,54 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-b#56"
+  ],
+  "名前": "Mega Heracross ex",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 4
+  },
+  "HP": "180",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 3,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Promo B"
+  ],
+  "入手方法": [
+    "イベント: Mega Heracross ex Drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Mega",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Mega_Evolution_Flair_Cosmetic.webp",
+    "Digital_Squares_Flair_Yellow-green_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp",
+    "Ink_Splatters_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Dynamic Horn",
+      "ダメージ": "170",
+      "効果": "Flip a coin. If tails, this Pokémon also does 60 damage to itself.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

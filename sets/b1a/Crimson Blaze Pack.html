@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crimson Blaze Pack - 紅蓮ブレイズパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/b1a/Crimson Blaze Pack.html">Crimson Blaze Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Crimson Blaze Pack</h1>
+      <h4>December 17, 2025</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Crimson Blaze Pack.webp" alt="Crimson Blaze Pack" class="top-pack-image">
+      <p class="description">
+        Crimson Blaze Pack is a booster pack in Crimson Blaze (B1A).
+        This pack features Pokémon such as Mega Charizard Y, Furfrou, and Magnezone, along with support cards that strengthen evolution lines, particularly those related to Magneton, with characters such as Clemont providing key synergy support.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item pack-select">
+        <a href="/sets/b1a/Crimson Blaze Pack.html" >
+          <img src="/images/packs/Crimson Blaze Pack.webp" alt="Crimson Blaze Pack" class="pack-image">
+        </a>
+        <div class="set-name">Crimson Blaze Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/b1a/26.webp" alt="Magnezone" class="card-image2">
+        <img src="/images/cards/b1a/65.webp" alt="Furfrou" class="card-image2">
+        <img src="/images/cards/b1a/67.webp" alt="Quick-Grow_Extract" class="card-image2">
+        <img src="/images/cards/b1a/68.webp" alt="Clemont" class="card-image2">
+        <img src="/images/cards/b1a/69.webp" alt="Serena" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Crimson Blaze Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

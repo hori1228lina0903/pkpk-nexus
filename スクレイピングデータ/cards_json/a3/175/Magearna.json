@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#175"
+  ],
+  "名前": "Magearna",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
+  "イラストレーター": "Kuroimori",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Silver Cannon",
+      "ダメージ": "40+",
+      "効果": "If your opponent’s Active Pokémon has an Ability, this attack does 40 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#123"
+    },
+    {
+      "カード番号": "a4b#260"
+    },
+    {
+      "カード番号": "a4b#261"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

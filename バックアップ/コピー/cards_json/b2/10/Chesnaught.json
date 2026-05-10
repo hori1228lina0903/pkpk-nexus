@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#10"
+  ],
+  "名前": "Chesnaught",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "160",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "Its gentle disposition would have it avoid conflict, but it gives opponents a thrashing with its thorned fists when the situation calls for it.",
+  "イラストレーター": "5ban Graphics",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Gale_Flair_Yellow-green_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Sword_Flash_Flair_Green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Needle Lariat",
+      "ダメージ": "80",
+      "効果": "During your opponent’s next turn, if this Pokémon is damaged by an attack, do 80 damage to the Attacking Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Quilladin"
+      ]
+    ]
+  }
+}

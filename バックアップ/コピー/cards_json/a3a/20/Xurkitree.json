@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#20"
+  ],
+  "名前": "Xurkitree",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "100",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 2,
+  "説明文": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
+  "イラストレーター": "Satoshi Shirai",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "イベント: Bonus Pick - Ultra Beast Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast"
+  ],
+  "エフェクト一覧": [
+    "Ultra_Beast_Flair_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp",
+    "Ultra_Beast_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Electronica",
+      "ダメージ": "60",
+      "効果": "Your opponent’s Active Pokémon is now Confused.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "lightning",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-a#77"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

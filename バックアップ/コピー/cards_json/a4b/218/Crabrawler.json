@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#97",
+    "a4b#218"
+  ],
+  "名前": "Crabrawler",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 2,
+  "説明文": "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
+  "イラストレーター": "kirisAki",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Solgaleo Pack",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Punch",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#219"
+    },
+    {
+      "カード番号": "promo-a#71"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Crabominable ex,                                         Crabominable"
+      ]
+    ]
+  },
+  "進化前": {}
+}

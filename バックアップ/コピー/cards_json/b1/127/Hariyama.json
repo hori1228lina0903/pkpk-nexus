@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#127"
+  ],
+  "名前": "Hariyama",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "130",
+  "タイプ": "fighting",
+  "弱点": "psychic +20",
+  "にげる": 4,
+  "説明文": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+  "イラストレーター": "Scav",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Blaziken Pack",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Slapping Knockdown",
+      "ダメージ": "110",
+      "効果": "Before doing damage, discard all Pokémon Tools from your opponent’s Active Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "fighting",
+        "fighting",
+        "fighting",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Makuhita"
+      ]
+    ]
+  }
+}

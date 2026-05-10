@@ -1,0 +1,35 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b3#154"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Arena of Antiquity",
+  "イラストレーター": "AYUMI ODASHIMA",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Stadium",
+  "カードの効果": {
+    "発動効果": "Attacks used by each [Fighting] Pokémon in play (both yours and your opponent’s) do +20 damage to the opponent’s Active Pokémon ex.",
+    "追加ルール": "You may only play 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played"
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {}
+}

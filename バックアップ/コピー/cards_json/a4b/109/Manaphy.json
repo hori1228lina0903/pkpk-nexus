@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4b#109"
+  ],
+  "名前": "Manaphy",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "50",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+  "イラストレーター": "MINAMINAMI Take",
+  "収録セット": [
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "イベント: Rare Pick - Parallel Foil Mass Outbreak Event",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Hearts_Flair_Blue_Cosmetic.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Oceanic Gift",
+      "ダメージ": "N/A",
+      "効果": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a  Energy from your Energy Zone and attach it to that Pokémon.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#50"
+    },
+    {
+      "カード番号": "a2#162"
+    },
+    {
+      "カード番号": "a4b#108"
+    },
+    {
+      "カード番号": "b1#299"
+    },
+    {
+      "カード番号": "promo-a#48"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

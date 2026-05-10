@@ -1,0 +1,80 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3a#76"
+  ],
+  "名前": "Buzzwole ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA Mochizuki",
+  "収録セット": [
+    "Extradimensional Crisis"
+  ],
+  "入手方法": [
+    "パック: Extradimensional Crisis",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Ultra Beast",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Ultra_Beast_Flair_Battle.webp",
+    "Special_Ultra_Beast_Flair_Battle.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp",
+    "Mini_Triangles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Punch",
+      "ダメージ": "30",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    },
+    {
+      "名前": "Big Beat",
+      "ダメージ": "120",
+      "効果": "During your next turn, this Pokémon can’t use Big Beat.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3a#6"
+    },
+    {
+      "カード番号": "a3a#88"
+    },
+    {
+      "カード番号": "a4b#44"
+    },
+    {
+      "カード番号": "a4b#360"
+    },
+    {
+      "カード番号": "b1a#98"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

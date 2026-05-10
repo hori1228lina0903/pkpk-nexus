@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deluxe Pack ex - ハイクラスパックex</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/a4b/Deluxe Pack ex pack.html">Deluxe Pack ex</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Deluxe Pack ex</h1>
+      <h4>December 17, 2024</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Deluxe Pack ex pack.webp" alt="Deluxe Pack ex" class="top-pack-image">
+      <p class="description">
+        In this pack, players can obtain top-tier Pokémon ex and Trainer cards from the Series A sets, making it easier to build competitive decks immediately. It also includes Mirror cards and alternate art cards, offering both strong gameplay options and collectible variations in a single pack.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item pack-select">
+        <a href="/sets/a4b/Deluxe Pack ex pack.html" >
+          <img src="/images/packs/Deluxe Pack ex pack.webp" alt="Deluxe Pack ex" class="pack-image">
+        </a>
+        <div class="set-name">Deluxe Pack ex</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/a4b/373.webp" alt="Professor’s_Research" class="card-image2">
+        <img src="/images/cards/a4b/379.webp" alt="Rare_Candy" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Deluxe Pack ex'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

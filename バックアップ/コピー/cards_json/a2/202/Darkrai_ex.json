@@ -1,0 +1,74 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2#202"
+  ],
+  "名前": "Darkrai ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "140",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "Oswaldo KATO",
+  "収録セット": [
+    "Space-Time Smackdown"
+  ],
+  "入手方法": [
+    "パック: Dialga Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Digital_Squares_Flair_Purple_Battle.webp",
+    "Sword_Flash_Flair_Purple_Battle.webp",
+    "Mini_Triangles_Flair_Gray_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Nightmare Aura",
+      "効果": "Whenever you attach aEnergy from your Energy Zone to this Pokémon, do 20 damage to your opponent’s Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Dark Prism",
+      "ダメージ": "80",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2#110"
+    },
+    {
+      "カード番号": "a2#187"
+    },
+    {
+      "カード番号": "a4b#245"
+    },
+    {
+      "カード番号": "a4b#378"
+    },
+    {
+      "カード番号": "promo-a#42"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

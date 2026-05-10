@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#136"
+  ],
+  "名前": "Slaking",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "160",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 4,
+  "説明文": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.",
+  "イラストレーター": "Masakazu Fukuda",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp",
+    "Bursts_Flair_Orange_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Snoozing Habit",
+      "効果": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Knuckle Sandwich",
+      "ダメージ": "150",
+      "効果": "Discard a random Energy from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Vigoroth"
+      ]
+    ]
+  }
+}

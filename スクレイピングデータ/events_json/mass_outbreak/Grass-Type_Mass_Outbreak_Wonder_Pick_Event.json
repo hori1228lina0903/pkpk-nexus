@@ -1,0 +1,663 @@
+{
+  "url": "https://www.pokemon-zone.com/events/grass-type-pokemon-mass-outbreak-event/",
+  "title": "Grass-Type Mass Outbreak Wonder Pick Event",
+  "period": {
+    "text": "Mar 24 - Mar 30",
+    "start_date": "2025-03-24",
+    "end_date": "2025-03-30"
+  },
+  "target_type": "Grass",
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Vespiquen Uncommon",
+          "full_name": "Vespiquen Uncommon - Triumphant Light (A2a) #5",
+          "url": "/cards/a2a/5/vespiquen/",
+          "id": "a2a/5"
+        },
+        {
+          "type": "card",
+          "name": "Heracross Uncommon",
+          "full_name": "Heracross Uncommon - Triumphant Light (A2a) #1",
+          "url": "/cards/a2a/1/heracross/",
+          "id": "a2a/1"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Burmy Common",
+          "full_name": "Burmy Common - Triumphant Light (A2a) #2",
+          "url": "/cards/a2a/2/burmy/",
+          "id": "a2a/2"
+        },
+        {
+          "type": "card",
+          "name": "Combee Common",
+          "full_name": "Combee Common - Triumphant Light (A2a) #4",
+          "url": "/cards/a2a/4/combee/",
+          "id": "a2a/4"
+        },
+        {
+          "type": "card",
+          "name": "Cherubi Common",
+          "full_name": "Cherubi Common - Triumphant Light (A2a) #6",
+          "url": "/cards/a2a/6/cherubi/",
+          "id": "a2a/6"
+        },
+        {
+          "type": "card",
+          "name": "Servine Uncommon",
+          "full_name": "Servine Uncommon - Mythical Island (A1a) #5",
+          "url": "/cards/a1a/5/servine/",
+          "id": "a1a/5"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Triumphant Light (A2a) #62",
+          "url": "/cards/a2a/62/eevee/",
+          "id": "a2a/62"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Mothim Uncommon",
+          "full_name": "Mothim Uncommon - Triumphant Light (A2a) #3",
+          "url": "/cards/a2a/3/mothim/",
+          "id": "a2a/3"
+        },
+        {
+          "type": "card",
+          "name": "Vespiquen Uncommon",
+          "full_name": "Vespiquen Uncommon - Triumphant Light (A2a) #5",
+          "url": "/cards/a2a/5/vespiquen/",
+          "id": "a2a/5"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cherubi Common",
+          "full_name": "Cherubi Common - Triumphant Light (A2a) #6",
+          "url": "/cards/a2a/6/cherubi/",
+          "id": "a2a/6"
+        },
+        {
+          "type": "card",
+          "name": "Snivy Common",
+          "full_name": "Snivy Common - Mythical Island (A1a) #4",
+          "url": "/cards/a1a/4/snivy/",
+          "id": "a1a/4"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Triumphant Light (A2a) #62",
+          "url": "/cards/a2a/62/eevee/",
+          "id": "a2a/62"
+        },
+        {
+          "type": "card",
+          "name": "Scyther Common",
+          "full_name": "Scyther Common - Genetic Apex (A1) #25",
+          "url": "/cards/a1/25/scyther/",
+          "id": "a1/25"
+        },
+        {
+          "type": "card",
+          "name": "Burmy Common",
+          "full_name": "Burmy Common - Triumphant Light (A2a) #2",
+          "url": "/cards/a2a/2/burmy/",
+          "id": "a2a/2"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Scyther Common",
+          "full_name": "Scyther Common - Genetic Apex (A1) #25",
+          "url": "/cards/a1/25/scyther/",
+          "id": "a1/25"
+        },
+        {
+          "type": "card",
+          "name": "Burmy Common",
+          "full_name": "Burmy Common - Triumphant Light (A2a) #2",
+          "url": "/cards/a2a/2/burmy/",
+          "id": "a2a/2"
+        },
+        {
+          "type": "card",
+          "name": "Combee Common",
+          "full_name": "Combee Common - Triumphant Light (A2a) #4",
+          "url": "/cards/a2a/4/combee/",
+          "id": "a2a/4"
+        },
+        {
+          "type": "card",
+          "name": "Cherubi Common",
+          "full_name": "Cherubi Common - Triumphant Light (A2a) #6",
+          "url": "/cards/a2a/6/cherubi/",
+          "id": "a2a/6"
+        },
+        {
+          "type": "card",
+          "name": "Servine Uncommon",
+          "full_name": "Servine Uncommon - Mythical Island (A1a) #5",
+          "url": "/cards/a1a/5/servine/",
+          "id": "a1a/5"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Combee Common",
+          "full_name": "Combee Common - Triumphant Light (A2a) #4",
+          "url": "/cards/a2a/4/combee/",
+          "id": "a2a/4"
+        },
+        {
+          "type": "card",
+          "name": "Cherubi Common",
+          "full_name": "Cherubi Common - Triumphant Light (A2a) #6",
+          "url": "/cards/a2a/6/cherubi/",
+          "id": "a2a/6"
+        },
+        {
+          "type": "card",
+          "name": "Snivy Common",
+          "full_name": "Snivy Common - Mythical Island (A1a) #4",
+          "url": "/cards/a1a/4/snivy/",
+          "id": "a1a/4"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Triumphant Light (A2a) #62",
+          "url": "/cards/a2a/62/eevee/",
+          "id": "a2a/62"
+        },
+        {
+          "type": "card",
+          "name": "Scyther Common",
+          "full_name": "Scyther Common - Genetic Apex (A1) #25",
+          "url": "/cards/a1/25/scyther/",
+          "id": "a1/25"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Heracross Uncommon",
+          "full_name": "Heracross Uncommon - Triumphant Light (A2a) #1",
+          "url": "/cards/a2a/1/heracross/",
+          "id": "a2a/1"
+        },
+        {
+          "type": "card",
+          "name": "Servine Uncommon",
+          "full_name": "Servine Uncommon - Mythical Island (A1a) #5",
+          "url": "/cards/a1a/5/servine/",
+          "id": "a1a/5"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "item",
+          "name": "Shop ticket",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Pack Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Servine Uncommon",
+          "full_name": "Servine Uncommon - Mythical Island (A1a) #5",
+          "url": "/cards/a1a/5/servine/",
+          "id": "a1a/5"
+        },
+        {
+          "type": "card",
+          "name": "Mothim Uncommon",
+          "full_name": "Mothim Uncommon - Triumphant Light (A2a) #3",
+          "url": "/cards/a2a/3/mothim/",
+          "id": "a2a/3"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Triumphant Light (A2a) #62",
+          "url": "/cards/a2a/62/eevee/",
+          "id": "a2a/62"
+        },
+        {
+          "type": "card",
+          "name": "Scyther Common",
+          "full_name": "Scyther Common - Genetic Apex (A1) #25",
+          "url": "/cards/a1/25/scyther/",
+          "id": "a1/25"
+        },
+        {
+          "type": "card",
+          "name": "Burmy Common",
+          "full_name": "Burmy Common - Triumphant Light (A2a) #2",
+          "url": "/cards/a2a/2/burmy/",
+          "id": "a2a/2"
+        },
+        {
+          "type": "card",
+          "name": "Combee Common",
+          "full_name": "Combee Common - Triumphant Light (A2a) #4",
+          "url": "/cards/a2a/4/combee/",
+          "id": "a2a/4"
+        },
+        {
+          "type": "card",
+          "name": "Cherubi Common",
+          "full_name": "Cherubi Common - Triumphant Light (A2a) #6",
+          "url": "/cards/a2a/6/cherubi/",
+          "id": "a2a/6"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 10,
+      "items": [
+        {
+          "type": "card",
+          "name": "Snivy Common",
+          "full_name": "Snivy Common - Mythical Island (A1a) #4",
+          "url": "/cards/a1a/4/snivy/",
+          "id": "a1a/4"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Triumphant Light (A2a) #62",
+          "url": "/cards/a2a/62/eevee/",
+          "id": "a2a/62"
+        },
+        {
+          "type": "card",
+          "name": "Scyther Common",
+          "full_name": "Scyther Common - Genetic Apex (A1) #25",
+          "url": "/cards/a1/25/scyther/",
+          "id": "a1/25"
+        },
+        {
+          "type": "card",
+          "name": "Burmy Common",
+          "full_name": "Burmy Common - Triumphant Light (A2a) #2",
+          "url": "/cards/a2a/2/burmy/",
+          "id": "a2a/2"
+        },
+        {
+          "type": "card",
+          "name": "Combee Common",
+          "full_name": "Combee Common - Triumphant Light (A2a) #4",
+          "url": "/cards/a2a/4/combee/",
+          "id": "a2a/4"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Leafeon ex Double Rare",
+          "full_name": "Leafeon ex Double Rare - Triumphant Light (A2a) #10",
+          "url": "/cards/a2a/10/leafeon-ex/",
+          "id": "a2a/10"
+        },
+        {
+          "type": "card",
+          "name": "Carnivine Rare",
+          "full_name": "Carnivine Rare - Triumphant Light (A2a) #9",
+          "url": "/cards/a2a/9/carnivine/",
+          "id": "a2a/9"
+        },
+        {
+          "type": "card",
+          "name": "Serperior Rare",
+          "full_name": "Serperior Rare - Mythical Island (A1a) #6",
+          "url": "/cards/a1a/6/serperior/",
+          "id": "a1a/6"
+        },
+        {
+          "type": "card",
+          "name": "Heracross Uncommon",
+          "full_name": "Heracross Uncommon - Triumphant Light (A2a) #1",
+          "url": "/cards/a2a/1/heracross/",
+          "id": "a2a/1"
+        },
+        {
+          "type": "card",
+          "name": "Servine Uncommon",
+          "full_name": "Servine Uncommon - Mythical Island (A1a) #5",
+          "url": "/cards/a1a/5/servine/",
+          "id": "a1a/5"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 50,
+      "items": [
+        {
+          "type": "card",
+          "name": "Leafeon ex Double Rare",
+          "full_name": "Leafeon ex Double Rare - Triumphant Light (A2a) #10",
+          "url": "/cards/a2a/10/leafeon-ex/",
+          "id": "a2a/10"
+        },
+        {
+          "type": "card",
+          "name": "Carnivine Rare",
+          "full_name": "Carnivine Rare - Triumphant Light (A2a) #9",
+          "url": "/cards/a2a/9/carnivine/",
+          "id": "a2a/9"
+        },
+        {
+          "type": "card",
+          "name": "Serperior Rare",
+          "full_name": "Serperior Rare - Mythical Island (A1a) #6",
+          "url": "/cards/a1a/6/serperior/",
+          "id": "a1a/6"
+        },
+        {
+          "type": "card",
+          "name": "Mothim Uncommon",
+          "full_name": "Mothim Uncommon - Triumphant Light (A2a) #3",
+          "url": "/cards/a2a/3/mothim/",
+          "id": "a2a/3"
+        },
+        {
+          "type": "card",
+          "name": "Vespiquen Uncommon",
+          "full_name": "Vespiquen Uncommon - Triumphant Light (A2a) #5",
+          "url": "/cards/a2a/5/vespiquen/",
+          "id": "a2a/5"
+        }
+      ],
+      "cost": 3,
+      "cost_free": false
+    }
+  ],
+  "exclusive_flair": [
+    {
+      "name": "Petals Flair: White (Battle)",
+      "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Effect/ICON_BATTLE_KIRA_EFFECT_100041.webp",
+      "requirements": [
+        {
+          "item": "cPK_10_004340_00_LEAFIAex_RR",
+          "amount": "1"
+        },
+        {
+          "item": "SHINEDUST",
+          "amount": "720"
+        }
+      ],
+      "period": "Mar 24 - Mar 30, 2025"
+    }
+  ],
+  "missions": [
+    {
+      "name": "Grass Type Mass Outbreak Event",
+      "period": "Mar 24 - Mar 30, 2025",
+      "missions": [
+        {
+          "description": "Collect 1 Leafeon ex card",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "1x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "1",
+              "type": "main"
+            },
+            {
+              "name": "1x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "1",
+              "type": "sub"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Grass cards",
+          "rewards": [
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Grass cards",
+          "rewards": [
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "5x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "5",
+              "type": "sub"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 15 Grass cards",
+          "rewards": [
+            {
+              "name": "4x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "4",
+              "type": "main"
+            },
+            {
+              "name": "7x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "7",
+              "type": "sub"
+            }
+          ],
+          "target": "0/15"
+        }
+      ]
+    }
+  ]
+}

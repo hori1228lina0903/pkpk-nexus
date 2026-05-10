@@ -1,0 +1,55 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#95"
+  ],
+  "名前": "Chinchou",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "lightning",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+  "イラストレーター": "Aya Kusube",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Blissey ex Drop Event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Lightning_Energy_Flair_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Cosmetic.webp",
+    "Lightning_Surge_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Luring Glow",
+      "ダメージ": "N/A",
+      "効果": "Flip a coin. If heads, switch in 1 of your opponent’s Benched Pokémon to the Active Spot.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "lightning"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Lanturn ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

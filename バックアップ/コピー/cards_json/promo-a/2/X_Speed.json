@@ -1,0 +1,34 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "promo-a#2"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "N/A",
+  "名前": "X Speed",
+  "イラストレーター": "Toyste Beach",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "商品: Tickets - Launch"
+  ],
+  "分類": "Item",
+  "カードの効果": {
+    "発動効果": "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
+    "追加ルール": "You may play any number of Item cards during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Blue_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {}
+}

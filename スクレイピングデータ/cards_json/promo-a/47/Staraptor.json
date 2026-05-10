@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#47"
+  ],
+  "名前": "Staraptor",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "140",
+  "タイプ": "colorless",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+  "イラストレーター": "Hasuno",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Gible drop event"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Colorless_Energy_Flair_Cosmetic.webp",
+    "Feathers_Flair_White_Cosmetic.webp",
+    "Big_Rings_Flair_Blue_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Defensive Whirlwind",
+      "効果": "This Pokémon takes −30 damage from attacks fromPokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Wing Attack",
+      "ダメージ": "90",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Staravia"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#18",
+    "a4b#125"
+  ],
+  "名前": "Wiglett",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+  "イラストレーター": "miki kudo",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Shining Revelry"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Bursts_Flair_Blue_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Spring Out",
+      "ダメージ": "N/A",
+      "効果": "1 of your opponent’s Pokémon is chosen at random. Do 30 damage to it.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#101"
+    },
+    {
+      "カード番号": "a4b#126"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Wugtrio ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

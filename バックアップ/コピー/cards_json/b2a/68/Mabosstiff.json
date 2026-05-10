@@ -1,0 +1,58 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2a#68"
+  ],
+  "名前": "Mabosstiff",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 3,
+  "説明文": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family.",
+  "イラストレーター": "KIYOTAKA OSHIYAMA",
+  "収録セット": [
+    "Paldean Wonders"
+  ],
+  "入手方法": [
+    "パック: Paldean Wonders",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Gray_Battle.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Wild Tackle",
+      "ダメージ": "110",
+      "効果": "This Pokémon also does 20 damage to itself.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Maschiff"
+      ]
+    ]
+  }
+}

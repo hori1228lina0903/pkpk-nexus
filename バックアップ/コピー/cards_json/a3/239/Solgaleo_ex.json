@@ -1,0 +1,84 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3#239"
+  ],
+  "名前": "Solgaleo ex",
+  "レア度": {
+    "rarity_types": [
+      "crown"
+    ],
+    "count": 1
+  },
+  "HP": "180",
+  "タイプ": "metal",
+  "弱点": "fire +20",
+  "にげる": 2,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Celestial Guardians"
+  ],
+  "入手方法": [
+    "パック: Lunala Pack",
+    "パック: Solgaleo Pack",
+    "パック開封ポイント: 2500"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp",
+    "Bursts_Flair_Orange_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Rising Road",
+      "効果": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Sol Breaker",
+      "ダメージ": "120",
+      "効果": "This Pokémon also does 10 damage to itself.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "metal",
+        "metal"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#122"
+    },
+    {
+      "カード番号": "a3#189"
+    },
+    {
+      "カード番号": "a3#207"
+    },
+    {
+      "カード番号": "a4b#259"
+    },
+    {
+      "カード番号": "a4b#369"
+    },
+    {
+      "カード番号": "b1a#101"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Cosmoem"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#7",
+    "a4b#53"
+  ],
+  "名前": "Meowscarada",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "140",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+  "イラストレーター": "mashu",
+  "収録セット": [
+    "Shining Revelry",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Cosmetic.webp",
+    "Tiny_Twinkles_Flair_Yellow-green_Battle.webp",
+    "Petals_Flair_White_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Fighting Claws",
+      "ダメージ": "60+",
+      "効果": "If your opponent’s Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "grass",
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#73"
+    },
+    {
+      "カード番号": "a4b#54"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Floragato"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+/* release.css */
+.event-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 93%;
+  margin: 5px auto;
+  border: 1px solid #d0d0d0;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.label {
+  color: #333;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  padding: 0 0.8rem;
+  background: #F57C00;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  padding: 0 1.2rem;
+  color: #333;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.hero_image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: 50%;
+  margin-top: -15px;
+  margin-bottom: 15px;
+  transform: translateX(-50%);
+}
+
+.sub-title {
+  font-size: 0.6em;
+  font-weight: normal;
+  color: #666;
+  margin-left: 10px;
+}
+
+.update-list {
+  width: 93%;
+  margin: 10px auto;
+  padding-left: 20px;
+}
+
+.update-list li {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  color: #333;
+}
+
+/* アクセサリーグリッド（3列）*/
+.accessory-grid{
+  display:grid;
+  grid-template-columns:repeat(3, 1fr);
+  gap:20px;
+  width: 93%;
+  margin:auto;
+}
+
+.item{
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+}
+
+.item img {
+  width: 100%;
+  height: 120px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+/* チケット表示 - Premium-Ticket を参考に Shop-Ticket に変更 */
+.Shop-Ticket {
+  position: relative;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:6px;
+  font-weight:bold;
+  color:#333;
+  border:1px solid #d0d0d0;
+  padding:4px 8px;
+  border-radius:50px;
+}
+
+.Shop-Ticket img {
+  position: absolute;
+  left: 8px;
+  width: 20px;
+  height: 20px;
+}
+
+.Shop-Ticket span {
+  text-align: center;
+  width: 100%;
+}
+
+.mission-group {
+  margin: 10px auto;
+  width: 93%;
+}
+
+.mission-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.secret-header h4 {
+  width: 100%;
+  margin: 0.5rem auto;
+}
+
+.mission-card {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 12px;
+  border: 2px solid #e0e0e0;
+  color: #333;
+}
+
+.mission-card__inner {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  position: relative;
+}
+
+.mission-card__preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  min-width: 90px;
+  width: 90px;
+  padding-right: 15px;
+  position: relative;
+}
+
+.mission-card__preview::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: #ccc;
+  border-radius: 1px;
+}
+
+.mission-card__preview-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 100%;
+  justify-content: center;
+}
+
+.mission-card__preview img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+.mission-card__content {
+  flex: 1;
+}
+
+.mission-card__text {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.featured-packs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  width: 97%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.featured-pack {
+  width: 25vw;
+  height: auto;
+  border-radius: 5px;
+}

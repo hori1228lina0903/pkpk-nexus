@@ -1,0 +1,43 @@
+{
+  "url": "https://www.pokemon-zone.com/events/pawmot-drop-event/",
+  "title": "Pawmot Drop Event",
+  "period": {
+    "text": "Apr 7 - Apr 17",
+    "start_date": "2025-04-07",
+    "end_date": "2025-04-17"
+  },
+  "promo_pack": {
+    "name": "",
+    "cards": []
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 2 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Win 5 or more battles",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}

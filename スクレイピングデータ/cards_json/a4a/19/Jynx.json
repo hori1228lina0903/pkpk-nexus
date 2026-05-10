@@ -1,0 +1,51 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#19"
+  ],
+  "名前": "Jynx",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "70",
+  "タイプ": "water",
+  "弱点": "metal +20",
+  "にげる": 1,
+  "説明文": "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
+  "イラストレーター": "Yukiko Baba",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "イベント: Bonus Pick - Water-Type Pokémon Mass Outbreak Event",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Water_Energy_Flair_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Cosmetic.webp",
+    "Heart_Outlines_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Dazzle Dance",
+      "ダメージ": "40",
+      "効果": "Your opponent’s Active Pokémon is now Confused.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {}
+}

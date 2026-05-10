@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#100"
+  ],
+  "名前": "Paldean Wooper",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "darkness",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+  "イラストレーター": "MAHOU",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Small_Hearts_Flair_Blue_Battle.webp",
+    "Bubbles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Poison Jab",
+      "ダメージ": "10",
+      "効果": "Your opponent’s Active Pokémon is now Poisoned.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a2b#47"
+    },
+    {
+      "カード番号": "a4b#236"
+    },
+    {
+      "カード番号": "a4b#237"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Paldean Clodsire ex"
+      ]
+    ]
+  },
+  "進化前": {}
+}

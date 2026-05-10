@@ -1,0 +1,797 @@
+{
+  "url": "https://www.pokemon-zone.com/events/wisdom-of-sea-and-sky-release/",
+  "title": "Wisdom of Sea and Sky (A4) release: Card list, Events, Solo Battles",
+  "period": {
+    "text": "Jul 30",
+    "start_date": "2025-07-30"
+  },
+  "packs": [
+    {
+      "title": "Ho-oh pack",
+      "link": "/sets/a4/Ho-oh pack.html",
+      "key_visual": "/images/packs/Ho-oh pack.webp"
+    },
+    {
+      "title": "Lugia pack",
+      "link": "/sets/a4/Lugia pack.html",
+      "key_visual": "/images/packs/Lugia pack.webp"
+    }
+  ],
+  "game_updates": [
+    "New solo step-up Battles (see below)",
+    "Trade tokens are exchangeable for Pack Hourglasses and Shinedust. They will no longer be used to trade cards. Instead, for trades involving cards of rarity  and     \n\n\n, Shinedust will be used. More information on our trading guide here.",
+    "A wishlist feature is now available in \"My cards\".",
+    "Cards from Eevee Grove (A3b) become available for trading.",
+    "Multiple quality of life changes"
+  ],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Wisdom of Sea and Sky (A4) - Wisdom of Sea and Sky",
+      "period": "Jul 30 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Lugia (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A4",
+          "currency_image": "Emblem Ticket (Wisdom of Sea and Sky).webp"
+        },
+        {
+          "name": "Ho-Oh (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A4",
+          "currency_image": "Emblem Ticket (Wisdom of Sea and Sky).webp"
+        }
+      ]
+    },
+    {
+      "title": "Wisdom of Sea and Sky (A4) release - Accessories",
+      "period": "Jul 30 - Aug 28, 2025",
+      "items": [
+        {
+          "name": "Garden Frame (backdrop)",
+          "price": "50",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    },
+    {
+      "title": "Wisdom of Sea and Sky (A4) - Accessories",
+      "period": "Jul 30 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Wisdom of Sea and Sky: Lugia (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        },
+        {
+          "name": "Wisdom of Sea and Sky: Ho-Oh (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [
+    {
+      "name": "Poké Gold (paid) ×115 + Accessories (Espeon & Umbreon)",
+      "period": "Jul 30 - Aug 28, 2025",
+      "price": "$22.99",
+      "items": [
+        {
+          "amount": "115",
+          "is_bonus": false
+        },
+        {
+          "amount": "5",
+          "is_bonus": true
+        }
+      ]
+    }
+  ],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Jul 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Jul 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Metal-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Water-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Jul 30 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Metal-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Water-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Lightning-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fire-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Jul 30 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Metal type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Darkness type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Lightning type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Psychic type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Wisdom of Sea and Sky (A4)",
+      "period": "Jul 30 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "The Golden Sky, where Ho-Oh Soars",
+          "rewards": [
+            {
+              "name": "19x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "19"
+            }
+          ]
+        },
+        {
+          "description": "The Silvery Ocean, where Lugia Dwells",
+          "rewards": [
+            {
+              "name": "20x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "20"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon that can Use Attacks Immediately",
+          "rewards": [
+            {
+              "name": "12x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Shapes that Resemble Ancient Writing",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Staying Still...",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "The Man in the Mysterious Mask",
+          "rewards": [
+            {
+              "name": "2x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "2"
+            }
+          ]
+        },
+        {
+          "description": "The Steel-Clad-Defense Girl",
+          "rewards": [
+            {
+              "name": "8x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "8"
+            }
+          ]
+        },
+        {
+          "description": "Lake of Rage",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "A Mass Outbreak of Pokémon",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Shuckle ex & Meganium Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Pokémon you Meet at the National Park",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Shuckle ex & Meganium Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Collect the highlight card for Ho-Oh ex & Entei Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Journeying with a Partner and an Egg",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Ho-Oh ex & Entei Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "A Delivery of Presents for Everyone",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Kingdra ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Vibrant Petals",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "They have Two Faces?",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Kingdra ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Hard, Body-Protecting Shells",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Gyarados Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Gyarados Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 40 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Large Horns Brimming with Charm",
+          "rewards": [
+            {
+              "name": "3x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "3"
+            }
+          ]
+        },
+        {
+          "description": "Register 50 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Remoraid, Clinging to a Fin",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Lanturn ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 60 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Lanturn ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Hiking: Discovery and Exploration",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Espeon ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 70 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Fishing for a Big Catch",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Illustrated Pokémon Handscrolls",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 80 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Espeon ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Collect the highlight card for Donphan ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 90 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Wisdom of Sea and Sky Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 100 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Donphan ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Wisdom of Sea and Sky Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 110 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Umbreon ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Wisdom of Sea and Sky Museum 3",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 120 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Umbreon ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Wisdom of Sea and Sky Museum 4",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Skarmory ex & Scizor Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 130 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Smeargle’s Colorful Collection",
+          "rewards": [
+            {
+              "name": "1x Smeargle (emblem)",
+              "local_file": "Smeargle (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100230_DOBLE.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect 5 Meganium cards",
+          "rewards": [
+            {
+              "name": "1x Meganium (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100490_MEGANIUM.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register 140 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Skarmory ex & Scizor Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Collect 5 Typhlosion cards",
+          "rewards": [
+            {
+              "name": "1x Typhlosion (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100500_BAKPHOON.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Lugia ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Register 150 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Wisdom of Sea and Sky)",
+              "local_file": "Emblem Ticket (Wisdom of Sea and Sky).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Link your Nintendo Account or app store account",
+          "rewards": [
+            {
+              "name": "36x Pack Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/PackPowerCharger/PACK_CHARGER_100030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Lugia ex Deck (Wisdom of Sea and Sky)"
+        },
+        {
+          "description": "Collect 5 Feraligatr cards",
+          "rewards": [
+            {
+              "name": "1x Feraligatr (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100510_ORDILE.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Wisdom of Sea and Sky: Ho-Oh (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100470_HOUOU.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

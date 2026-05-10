@@ -1,0 +1,63 @@
+{
+  "url": "https://www.pokemon-zone.com/events/rayquaza-ex-drop-event/",
+  "title": "Rayquaza ex Drop event",
+  "period": {
+    "text": "Apr 30 - May 13",
+    "start_date": "2025-04-30",
+    "end_date": "2025-05-13"
+  },
+  "promo_pack": {
+    "name": "Promo Pack A Series Vol. 7",
+    "cards": [
+      {
+        "name": "Rayquaza",
+        "url": "/cards/promo-a/63/rayquaza/"
+      },
+      {
+        "name": "Exeggcute",
+        "url": "/cards/promo-a/60/exeggcute/"
+      },
+      {
+        "name": "Froakie",
+        "url": "/cards/promo-a/61/froakie/"
+      },
+      {
+        "name": "Farfetch’d",
+        "url": "/cards/promo-a/62/farfetchd/"
+      },
+      {
+        "name": "Rayquaza ex",
+        "url": "/cards/promo-a/64/rayquaza-ex/"
+      }
+    ]
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Lightning-type Pokémon",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}

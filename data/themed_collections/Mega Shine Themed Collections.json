@@ -1,0 +1,148 @@
+{
+  "collections": [
+    {
+      "name": "Signs Drawn in the Night Sky",
+      "required_cards": ["Volbeat (#003)", "Illumise (#004)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Mega Shine)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Diglett on the Cliff's Edge",
+      "required_cards": ["Diglett (#033)", "Dugtrio (#034)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Mega Shine)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Under the Moonlight",
+      "required_cards": ["Pineco (#002)", "Phantump (#005)", "Drowzee (#028)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Mega Shine)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Rivals Joining Forces",
+      "required_cards": ["Magmortar (#013)", "Electivire (#025)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Mega Shine)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Falling into a Deep Sleep",
+      "required_cards": ["Hypno (#029)", "Darkrai (#040)"],
+      "reward": [{"item": "Emblem Ticket (Mega Shine)", "quantity": 5}],
+      "secret": false
+    },
+    {
+      "name": "See You at the Beach!",
+      "required_cards": ["Jigglypuff (#058)", "Chatot (#061)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Mega Shine)", "quantity": 1}
+      ],
+      "secret": false
+    },
+    {
+      "name": "A Herd of Ponyta",
+      "required_cards": ["Ponyta (#010 or #093) ×5"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 2},
+        {"item": "Emblem Ticket (Mega Shine)", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Dratini's Evolution",
+      "required_cards": ["Dratini (#051)", "Dragonair (#052)", "Dragonite (#053)"],
+      "reward": [{"item": "Emblem Ticket (Mega Shine)", "quantity": 5}],
+      "secret": false
+    },
+    {
+      "name": "Toward a More Beautiful World",
+      "required_cards": ["Empoleon (#020)", "Phione (#021)", "Trubbish (#041)", "Empoleon (#071)"],
+      "reward": [{"item": "Emblem Ticket (Mega Shine)", "quantity": 13}],
+      "secret": false
+    },
+    {
+      "name": "Seeking Prey from the Shadows",
+      "required_cards": ["Mega Gengar ex (#039 or #079 or #114)", "4 in any combination of: Gastly (#037 or #100), Haunter (#038 or #101)"],
+      "reward": [{"item": "Emblem Ticket (Mega Shine)", "quantity": 13}],
+      "secret": false
+    },
+    {
+      "name": "Shiny Radiance",
+      "required_cards": "One of: Scyther (#087), Pineco (#088), Phantump (#089), Trevenant (#090), Charmander (#091), Charmeleon (#092), Ponyta (#093), Rapidash (#094), Slowpoke (#095), Pikachu (#096), Raichu (#097), Electrike (#098), Hawlucha (#099), Gastly (#100), Haunter (#101), Zorua (#102), Zoroark (#103), Forretress (#104), Dratini (#105), Dragonair (#106), Dragonite (#107), Axew (#108), Fraxure (#109), Haxorus (#110), Mega Charizard X ex (#111), Mega Slowbro ex (#112), Mega Manectric ex (#113), Mega Gengar ex (#114), Mega Scizor ex (#115)",
+      "reward": [{"item": "Emblem Ticket (Mega Shine)", "quantity": 7}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Morpeko",
+      "required_cards": ["Morpeko (#045) ×3"],
+      "reward": [{"item": "Morpeko (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Shiny Museum 1",
+      "required_cards": ["Scyther (#087)", "Pineco (#088)", "Phantump (#089)", "Trevenant (#090)", "Charmander (#091)", "Charmeleon (#092)", "Ponyta (#093)", "Rapidash (#094)", "Slowpoke (#095)", "Pikachu (#096)", "Raichu (#097)", "Electrike (#098)", "Hawlucha (#099)", "Gastly (#100)", "Haunter (#101)", "Zorua (#102)", "Zoroark (#103)", "Forretress (#104)", "Dratini (#105)", "Dragonair (#106)", "Dragonite (#107)", "Axew (#108)", "Fraxure (#109)", "Haxorus (#110)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Shiny Museum 2",
+      "required_cards": ["Mega Charizard X ex (#111)", "Mega Slowbro ex (#112)", "Mega Manectric ex (#113)", "Mega Gengar ex (#114)", "Mega Scizor ex (#115)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Shine Museum",
+      "required_cards": ["Lapras (#070)", "Empoleon (#071)", "Groudon (#072)", "Morpeko (#073)", "Revavroom (#074)", "Miltank (#075)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Shine: Immersive Experience",
+      "required_cards": ["Mew (#085)", "Mew (#086)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Shiny Collection Complete!",
+      "required_cards": ["Mew (#086)", "Scyther (#087)", "Pineco (#088)", "Phantump (#089)", "Trevenant (#090)", "Charmander (#091)", "Charmeleon (#092)", "Ponyta (#093)", "Rapidash (#094)", "Slowpoke (#095)", "Pikachu (#096)", "Raichu (#097)", "Electrike (#098)", "Hawlucha (#099)", "Gastly (#100)", "Haunter (#101)", "Zorua (#102)", "Zoroark (#103)", "Forretress (#104)", "Dratini (#105)", "Dragonair (#106)", "Dragonite (#107)", "Axew (#108)", "Fraxure (#109)", "Haxorus (#110)", "Mega Charizard X ex (#111)", "Mega Slowbro ex (#112)", "Mega Manectric ex (#113)", "Mega Gengar ex (#114)", "Mega Scizor ex (#115)"],
+      "reward": [{"item": "Shiny Mew (emblem)", "quantity": 1}],
+      "secret": true
+    }
+  ]
+}

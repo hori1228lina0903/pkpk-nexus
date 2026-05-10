@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#262"
+  ],
+  "名前": "Mega Absol ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "170",
+  "タイプ": "darkness",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "As the energy of Mega Evolution fills it, its fur bristles. What you see on its back are not true wings, and this Pokémon isn’t able to fly.",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Mega"
+  ],
+  "エフェクト一覧": [
+    "Mega_Evolution_Flair_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Battle.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Darkness Claw",
+      "ダメージ": "80",
+      "効果": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#151"
+    },
+    {
+      "カード番号": "b1#280"
+    },
+    {
+      "カード番号": "promo-b#9"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

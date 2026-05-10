@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1#57"
+  ],
+  "名前": "Wailord",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "200",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 4,
+  "説明文": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+  "イラストレーター": "KIYOTAKA OSHIYAMA",
+  "収録セット": [
+    "Mega Rising"
+  ],
+  "入手方法": [
+    "パック: Mega Gyarados Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Spinning_Rings_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp",
+    "Digital_Squares_Flair_Light_blue_Cosmetic.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Whale Pump",
+      "ダメージ": "60+",
+      "効果": "This attack does 10 more damage for each  Energy attached to this Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Wailmer"
+      ]
+    ]
+  }
+}

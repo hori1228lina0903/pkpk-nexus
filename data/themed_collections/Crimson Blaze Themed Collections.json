@@ -1,0 +1,114 @@
+{
+  "collections": [
+    {
+      "name": "Crimson Ascension",
+      "required_cards": ["Charmander (#011)", "Charmeleon (#012)", "Charizard (#013)", "Mega Charizard Y ex (#014 or #077 or #087)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 11}],
+      "secret": false
+    },
+    {
+      "name": "Mighty Water Blasts",
+      "required_cards": ["Wartortle (#018)", "Mega Blastoise ex (#020 or #078 or #084)", "Clauncher (#022)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 8}],
+      "secret": false
+    },
+    {
+      "name": "Overpowering Aromas",
+      "required_cards": ["Mega Venusaur ex (#004 or #076 or #083)", "Spinarak (#005)", "Mothim (#010)", "Spritzee (#035)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 8}],
+      "secret": false
+    },
+    {
+      "name": "Deposit Trash in Mouth",
+      "required_cards": ["Grimer (#045)", "Muk (#046)", "Trubbish (#049)", "Garbodor (#050)", "Trubbish (#074)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 6}],
+      "secret": false
+    },
+    {
+      "name": "Sunkern's Growth Diary",
+      "required_cards": ["Sunkern (#007)", "Sunflora (#008)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Artificial Pokémon",
+      "required_cards": ["Genesect (#054)", "Porygon (#056)", "Porygon2 (#057)", "Porygon-Z (#058)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 6}],
+      "secret": false
+    },
+    {
+      "name": "Magnetic Pokémon",
+      "required_cards": ["Magnemite (#024)", "Magneton (#025)", "Magnezone (#026)", "Nosepass (#041)", "Probopass"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 4}],
+      "secret": false
+    },
+    {
+      "name": "A Flock of Starly",
+      "required_cards": ["Starly (#059) ×5"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Clemont the Inventor",
+      "required_cards": ["Magneton (#025)", "Emolga (#027)", "Heliolisk (#029)", "Clemont (#068 or #081)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Pokémon with Horns",
+      "required_cards": ["Ariados (#006 or #070)", "Houndoom (#016)", "Xerneas (#037 or #073)", "Bouffalant (#064)"],
+      "reward": [{"item": "Emblem Ticket (Crimson Blaze)", "quantity": 4}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Serena cards",
+      "required_cards": ["Serena (#069 or #082) ×3"],
+      "reward": [{"item": "Serena (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Crimson Blaze Museum 1",
+      "required_cards": ["Ariados (#070)", "Sunflora (#071)", "Reuniclus (#072)", "Xerneas (#073)", "Trubbish (#074)", "Buneary (#075)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Crimson Blaze Museum 2",
+      "required_cards": ["Mega Venusaur ex (#083)", "Mega Blastoise ex (#084)", "Mega Lopunny ex (#085)", "Mega Steelix ex (#086)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Charizard Y ex Museum",
+      "required_cards": ["Mega Charizard Y ex (#014)", "Mega Charizard Y ex (#077)", "Mega Charizard Y ex (#087)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Venusaur's Evolution",
+      "required_cards": ["Bulbasaur (#001)", "Ivysaur (#002)", "Venusaur (#003)", "Mega Venusaur ex (#004)", "Mega Venusaur ex (#076)", "Mega Venusaur ex (#083)"],
+      "reward": [{"item": "Mega Venusaur (emblem)", "quantity": 1}],
+      "secret": true
+    },
+    {
+      "name": "A Multitude of Mega Evolution Pokémon!",
+      "required_cards": ["Mega Venusaur ex (#004 or #076 or #083)", "Mega Charizard Y ex (#014 or #077 or #087)", "Mega Blastoise ex (#020 or #078 or #084)", "Mega Lopunny ex (#042 or #079 or #085)", "Mega Steelix ex (#052 or #080 or #086)"],
+      "reward": [{"item": "Mega Blastoise (emblem)", "quantity": 1}],
+      "secret": true
+    }
+  ]
+}

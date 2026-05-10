@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#46"
+  ],
+  "名前": "Moltres",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "100",
+  "タイプ": "fire",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It’s one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.",
+  "イラストレーター": "Hitoshi Ariga",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "イベント: Rare Pick - Fire Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Feathers_Flair_Orange_Cosmetic.webp",
+    "Flames_Flair_Orange_Battle.webp",
+    "Feathers_Flair_Orange_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sky Attack",
+      "ダメージ": "130",
+      "効果": "Flip a coin. If tails, this attack does nothing.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fire",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#292"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

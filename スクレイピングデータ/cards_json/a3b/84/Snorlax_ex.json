@@ -1,0 +1,69 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#84"
+  ],
+  "名前": "Snorlax ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "160",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 4,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Eevee Grove"
+  ],
+  "入手方法": [
+    "パック: Eevee Grove",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp",
+    "Mini_Triangles_Flair_Gray_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Full-Mouth Manner",
+      "効果": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Flop-Down Punch",
+      "ダメージ": "130",
+      "効果": "This Pokémon is now Asleep.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3b#57"
+    },
+    {
+      "カード番号": "a3b#91"
+    },
+    {
+      "カード番号": "a4b#288"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

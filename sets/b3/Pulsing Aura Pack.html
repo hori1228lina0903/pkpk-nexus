@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pulsing Aura Pack - 波動ビートパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/b3/Pulsing Aura Pack.html">Pulsing Aura Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Pulsing Aura Pack</h1>
+      <h4>April 28, 2026</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Pulsing Aura Pack.webp" alt="Pulsing Aura Pack" class="top-pack-image">
+      <p class="description">
+        Pulsing Aura (B3) is an expansion set of Series B in Pokémon Trading Card Game Pocket, following Mega Shine (B2B).
+        This set significantly strengthens Fighting-type Pokémon through newly introduced Trainer cards, improving their consistency and overall performance. It also features many cards illustrated in dynamic battle scenes, including Mega Evolution Pokémon such as Mega Lucario and Mega Sceptile, emphasizing intense and action-driven gameplay.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item pack-select">
+        <a href="/sets/b3/Pulsing Aura Pack.html" >
+          <img src="/images/packs/Pulsing Aura Pack.webp" alt="Pulsing Aura Pack" class="pack-image">
+        </a>
+        <div class="set-name">Pulsing Aura Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/b3/81.webp" alt="Darkrai" class="card-image2">
+        <img src="/images/cards/b3/148.webp" alt="Mega Scizor ex" class="card-image2">
+        <img src="/images/cards/b3/149.webp" alt="Mega Scizor ex" class="card-image2">
+        <img src="/images/cards/b3/154.webp" alt="Mega Manectric ex" class="card-image2">
+        <img src="/images/cards/b3/155.webp" alt="Mega Manectric ex" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Pulsing Aura Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

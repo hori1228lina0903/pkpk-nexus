@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pikachu Pack - ピカチュウパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/a1/Pikachu Pack.html">Pikachu Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Pikachu Pack</h1>
+      <h4>October 30, 2024</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Pikachu Pack.webp" alt="Pikachu Pack" class="top-pack-image">
+      <p class="description">
+        Pikachu Pack is one of the three booster packs in Genetic Apex (A1).
+        Centered on Pikachu and Lightning-type Pokémon, this pack focuses on speed, low-cost attacks, and tempo-based strategies for fast-paced gameplay.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item">
+        <a href="/sets/a1/Charizard Pack.html" >
+          <img src="/images/packs/Charizard Pack.webp" alt="Charizard Pack" class="pack-image">
+        </a>
+        <div class="set-name">Charizard Pack</div>
+      </div>
+      <div class="pack-item">
+        <a href="/sets/a1/Mewtwo Pack.html" >
+          <img src="/images/packs/Mewtwo Pack.webp" alt="Mewtwo Pack" class="pack-image">
+        </a>
+        <div class="set-name">Mewtwo Pack</div>
+      </div>
+      <div class="pack-item pack-select">
+        <a href="/sets/a1/Pikachu Pack.html" >
+        <img src="/images/packs/Pikachu Pack.webp" alt="Pikachu Pack" class="pack-image">
+        </a>
+        <div class="set-name">Pikachu Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/a1/96.webp" alt="Pikachu_ex" class="card-image2">
+        <img src="/images/cards/a1/98.webp" alt="Magneton" class="card-image2">
+        <img src="/images/cards/a1/220.webp" alt="Misty" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Pikachu Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

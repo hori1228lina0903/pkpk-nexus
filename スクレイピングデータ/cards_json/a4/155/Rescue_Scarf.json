@@ -1,0 +1,36 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a4#155"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Rescue Scarf",
+  "イラストレーター": "Ryo Ueda",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Tool",
+  "カードの効果": {
+    "発動効果": "If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent’s Pokémon, put it into your hand instead of the discard pile.",
+    "追加ルール": "N/A"
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Cosmetic.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {}
+}

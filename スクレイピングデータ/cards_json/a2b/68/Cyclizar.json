@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a2b#68",
+    "a4b#306"
+  ],
+  "名前": "Cyclizar",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+  "イラストレーター": "HAGIYA Kaoru",
+  "収録セット": [
+    "Shining Revelry",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Shining Revelry",
+    "パック: Deluxe Pack: ex",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Blue_Cosmetic.webp",
+    "Petals_Flair_White_Battle.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Overacceleration",
+      "ダメージ": "20",
+      "効果": "During your next turn, this Pokémon’s Overacceleration attack does +20 damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#307"
+    },
+    {
+      "カード番号": "promo-a#51"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

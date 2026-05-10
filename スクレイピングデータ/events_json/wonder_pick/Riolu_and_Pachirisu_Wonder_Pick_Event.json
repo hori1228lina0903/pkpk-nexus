@@ -1,0 +1,584 @@
+{
+  "url": "https://www.pokemon-zone.com/events/riolu-pachirisu-wonderpick/",
+  "title": "Riolu and Pachirisu Wonder Pick Event",
+  "period": {
+    "text": "Apr 16 - May 3",
+    "start_date": "2025-04-16",
+    "end_date": "2025-05-03"
+  },
+  "promo_cards": [
+    {
+      "name": "Pachirisu Rare",
+      "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+      "url": "/cards/promo-a/58/pachirisu/",
+      "id": "promo-a/58",
+      "set": "promo-a"
+    },
+    {
+      "name": "Riolu Rare",
+      "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+      "url": "/cards/promo-a/59/riolu/",
+      "id": "promo-a/59",
+      "set": "promo-a"
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Lucario Accessories - Wonder Pick Event",
+      "period": "Apr 16 - May 3, 2025",
+      "items": [
+        {
+          "name": "Lucario & Riolu (backdrop)",
+          "description": "Lucario & Riolu (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Lucario)"
+        },
+        {
+          "name": "Cynthia (icon)",
+          "description": "Cynthia (icon) ",
+          "price": "2",
+          "currency": "Event Shop Ticket (Lucario)"
+        },
+        {
+          "name": "Shinedust            x50",
+          "description": "Shinedust ",
+          "price": "1",
+          "currency": "Event Shop Ticket (Lucario)"
+        },
+        {
+          "name": "Lucario & Riolu (playmat)",
+          "description": "Lucario & Riolu (playmat) ",
+          "price": "10",
+          "currency": "Event Shop Ticket (Lucario)"
+        },
+        {
+          "name": "Lucario (Pokémon coin)",
+          "description": "Lucario (Pokémon coin) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Lucario)"
+        },
+        {
+          "name": "Lucario (card sleeve)",
+          "description": "Lucario (card sleeve) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Lucario)"
+        },
+        {
+          "name": "Lucario & Riolu (cover)",
+          "description": "Lucario & Riolu (cover) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Lucario)"
+        },
+        {
+          "name": "Stage Frame (backdrop)",
+          "description": "Stage Frame (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Lucario)"
+        }
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Riolu and Pachirisu Wonder Pick Missions",
+      "period": "Apr 16 - Apr 26, 2025",
+      "missions": [
+        {
+          "description": "Collect 1 Pachirisu card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Collect 1 Riolu card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 1 time",
+          "rewards": [
+            {
+              "name": "200x Trade Tokens",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/TradeItem/TRADE_ITEM_130010.webp",
+              "amount": "200",
+              "type": "main"
+            },
+            {
+              "name": "2x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 2 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/2"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 4 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/4"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Wonder pick 6 times",
+          "rewards": [
+            {
+              "name": "5x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "5",
+              "type": "main"
+            }
+          ],
+          "target": "0/6"
+        },
+        {
+          "description": "Collect 5 Lightning cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Fighting cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Lightning cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 10 Fighting cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Lucario)",
+              "local_file": "Event Shop Ticket (Lucario).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        }
+      ]
+    }
+  ],
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Uncommon",
+          "full_name": "Pachirisu Uncommon - Shining Revelry (A2b) #25",
+          "url": "/cards/a2b/25/pachirisu/",
+          "id": "a2b/25"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Common",
+          "full_name": "Riolu Common - Deluxe Pack: ex (a2b) #42",
+          "url": "/cards/a2b/42/riolu/",
+          "id": "a2b/42"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Lucario)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Pachirisu Rare",
+          "full_name": "Pachirisu Rare - Promo A (PROMO-A) #58",
+          "url": "/cards/promo-a/58/pachirisu/",
+          "id": "promo-a/58"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Rare",
+          "full_name": "Riolu Rare - Promo A (PROMO-A) #59",
+          "url": "/cards/promo-a/59/riolu/",
+          "id": "promo-a/59"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    }
+  ]
+}

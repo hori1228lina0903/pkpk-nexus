@@ -1,0 +1,69 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#23",
+    "a4b#25"
+  ],
+  "名前": "Cherubi",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "50",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
+  "イラストレーター": "Saya Tsuruta",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Lugia Pack",
+    "パック: Ho-Oh Pack",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Big_Hearts_Flair_Pink_Cosmetic.webp",
+    "Music_Notes_Flair_Pink_Cosmetic.webp",
+    "Flowers_Flair_Pink_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "En-fruits-iastic",
+      "効果": "If this Pokémon has a Pokémon Tool attached, attacks used by this Pokémon cost 1 lessEnergy."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Sweets Relay",
+      "ダメージ": "10+",
+      "効果": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#26"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Cherrim"
+      ]
+    ]
+  },
+  "進化前": {}
+}

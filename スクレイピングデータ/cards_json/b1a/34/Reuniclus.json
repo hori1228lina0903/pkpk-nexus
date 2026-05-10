@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#34"
+  ],
+  "名前": "Reuniclus",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 3,
+  "説明文": "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
+  "イラストレーター": "Kagemaru Himeno",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Purple_Battle.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Spinning_Rings_Flair_Purple_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Infinite Increase",
+      "効果": "This Pokémon gets +30 HP for eachEnergy attached to it."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Psypunch",
+      "ダメージ": "90",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1a#72"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Duosion"
+      ]
+    ]
+  }
+}

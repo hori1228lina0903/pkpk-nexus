@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4#186"
+  ],
+  "名前": "Shuckle ex",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 2
+  },
+  "HP": "120",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA Mochizuki",
+  "収録セット": [
+    "Wisdom of Sea and Sky"
+  ],
+  "入手方法": [
+    "パック: Lugia Pack",
+    "パック開封ポイント: 1250"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Light_blue_Battle.webp",
+    "Sword_Flash_Flair_Light_blue_Battle.webp",
+    "Bright_Stars_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Solid Shell",
+      "効果": "This Pokémon takes −20 damage from attacks."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Triple Slap",
+      "ダメージ": "20x",
+      "効果": "Flip 3 coins. This attack does 20 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#21"
+    },
+    {
+      "カード番号": "a4#202"
+    },
+    {
+      "カード番号": "a4b#23"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

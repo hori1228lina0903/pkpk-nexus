@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1a#69"
+  ],
+  "名前": "Exeggutor",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "130",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "説明文": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.",
+  "イラストレーター": "Gapao",
+  "収録セット": [
+    "Mythical Island"
+  ],
+  "入手方法": [
+    "パック: Mew Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Foliage_Flair_Battle.webp",
+    "Lightning_Surge_Flair_Green_Battle.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Psychic",
+      "ダメージ": "80+",
+      "効果": "This attack does 20 more damage for each Energy attached to your opponent’s Active Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "grass",
+        "colorless",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1a#2"
+    },
+    {
+      "カード番号": "a3#214"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Exeggcute"
+      ]
+    ]
+  }
+}

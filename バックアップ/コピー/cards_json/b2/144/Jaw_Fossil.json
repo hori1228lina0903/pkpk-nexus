@@ -1,0 +1,35 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "b2#144"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "40",
+  "名前": "Jaw Fossil",
+  "イラストレーター": "Toyste Beach",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 35"
+  ],
+  "分類": "Fossil",
+  "カードの効果": {
+    "発動効果": "Play this card as if it were a 40-HP Basic [Colorless] Pokémon.At any time during your turn, you may discard this card from play.This card can’t retreat.",
+    "追加ルール": "You may play any number of Item cards during your turn."
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Mini_Triangles_Flair_Gray_Cosmetic.webp",
+    "Twinkles_Flair_Purple_Cosmetic.webp",
+    "Digital_Squares_Flair_Purple_Cosmetic.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {}
+}

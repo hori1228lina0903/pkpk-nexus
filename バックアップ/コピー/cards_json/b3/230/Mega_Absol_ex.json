@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#230"
+  ],
+  "名前": "Mega Absol ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "170",
+  "タイプ": "darkness",
+  "弱点": "Grass",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": [
+    "Mega",
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Ink_Splatters_Flair_Yellow_Battle.webp",
+    "Special_Shiny_Sparkles_Flair_Battle.webp",
+    "Mega_Evolution_Flair_Battle.webp",
+    "Glowing_Ring_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Darkness Claw",
+      "ダメージ": "80",
+      "効果": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "darkness",
+        "darkness"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b1#151"
+    },
+    {
+      "カード番号": "b1#262"
+    },
+    {
+      "カード番号": "b1#280"
+    },
+    {
+      "カード番号": "promo-b#9"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

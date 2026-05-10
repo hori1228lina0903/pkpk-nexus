@@ -1,0 +1,267 @@
+{
+  "collections": [
+    {
+      "name": "A Journey of Evolution That Fires Up Your Fighting Spirit",
+      "required_cards": ["Mega Blaziken ex (#036 or #254 or #284)", "May (#223 or #268)", "Torchic (#033)", "Combusken (#034)", "Blaziken (#035)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 22}],
+      "secret": false
+    },
+    {
+      "name": "An Immense Power That Rampages through the Ocean",
+      "required_cards": ["Mega Gyarados ex (#052 or #255 or #285)", "Murkrow (#148)", "Wailmer (#056)", "Frillish (#068)", "Chewtle (#076)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 11}],
+      "secret": false
+    },
+    {
+      "name": "Bodies of Tightly Packed Fluff",
+      "required_cards": ["Mega Altaria ex (#102 or #259 or #286)", "Mareep (#082)", "Cottonee (#015)", "Swirlix (#117)", "Wooloo (#211)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 11}],
+      "secret": false
+    },
+    {
+      "name": "Rhythmic Connections",
+      "required_cards": ["Ludicolo (#233)", "Palpitoad (#064)", "Maractus (#019)", "Chatot (#198)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 12}],
+      "secret": false
+    },
+    {
+      "name": "A Trio of Forest Friends",
+      "required_cards": ["Pansage (#013)", "Pansear (#037)", "Panpour (#061)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": false
+    },
+    {
+      "name": "The Gallant Swords of Justice",
+      "required_cards": ["Keldeo (#070 or #235)", "Cobalion (#169)", "Terrakion (#137)", "Virizion (#020)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 22}],
+      "secret": false
+    },
+    {
+      "name": "Pokémon That Evolve from Fossils",
+      "required_cards": ["Cover Fossil (#216)", "Tirtouga (#066)", "Carracosta (#067)", "Plume Fossil (#214)", "Archen (#133)", "Archeops (#134 or #242)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 14}],
+      "secret": false
+    },
+    {
+      "name": "Smallest Meets Largest",
+      "required_cards": ["Joltik (#092)", "Wailord (#057)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Category: Puppy Pokémon",
+      "required_cards": ["Growlithe (#028 or #230)", "Lillipup (#201)", "Yamper (#095)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 13},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Nice...Hat?",
+      "required_cards": ["Ludicolo (#055 or #233)", "Breloom (#012)", "Honchkrow (#149 or #244)", "Mismagius (#100)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 3}],
+      "secret": false
+    },
+    {
+      "name": "Taking Flight in Different Forms",
+      "required_cards": ["Wurmple (#003)", "Silcoon (#004)", "Beautifly (#005 or #227)", "Cascoon (#006)", "Dustox (#007)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 2}],
+      "secret": false
+    },
+    {
+      "name": "One-Eyed Stares",
+      "required_cards": ["Trevenant (#024)", "Dusknoir (#105)", "Meltan (#173)", "Rolycoly (#145)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 7}],
+      "secret": false
+    },
+    {
+      "name": "Sudowoodo Blending In",
+      "required_cards": ["Trevenant (#024) ×5", "Sudowoodo (#125)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Warning: May Be Prickly",
+      "required_cards": ["Wurmple (#003)", "Skorupi (#152)", "Ferroseed (#166)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Manes That Blaze and Shock",
+      "required_cards": ["Ponyta (#030)", "Blitzle (#090)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "A Couple of Arm-Crossers",
+      "required_cards": ["Krokorok (#131)", "Pancham (#138 or #243)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Distinctive Eyes",
+      "required_cards": ["Spinda (#195)", "Sableye (#101)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "The Kahuna Stands Strong",
+      "required_cards": ["Hala (#222 or #267)", "Hariyama (#127)", "Crabominable (#140)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 1},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "A Bigger Splash Than the Sea",
+      "required_cards": ["Marlon (#221 or #266)", "Carracosta (#067)", "Jellicent (#069 or #234)"],
+      "reward": [{"item": "Emblem Ticket (Mega Rising)", "quantity": 12}],
+      "secret": false
+    },
+    {
+      "name": "The Alluring, Soulful Dancer",
+      "required_cards": ["Fantina (#224 or #269)", "Drifblim (#108)", "Mismagius (#100)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 12},
+        {"item": "Emblem Ticket (Mega Rising)", "quantity": 2},
+        {"item": "Shop Ticket", "quantity": 2}
+      ],
+      "secret": false
+    },
+    {
+      "name": "Collect 1 Mega Evolution Pokémon ex Card",
+      "required_cards": "One of: Mega Pinsir ex (#002 or #251 or #272), Mega Blaziken ex (#036 or #254 or #284), Mega Gyarados ex (#052 or #255 or #285), Mega Ampharos ex (#085 or #258 or #277), Mega Altaria ex (#102 or #259 or #286), Mega Absol ex (#151 or #262 or #280)",
+      "reward": [{"item": "Mega Evolution Pokémon ex (backdrop)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Mega Evolution Pokémon ex Card",
+      "required_cards": "3 in any combination of: Mega Pinsir ex (#002 or #251 or #272), Mega Blaziken ex (#036 or #254 or #284), Mega Gyarados ex (#052 or #255 or #285), Mega Ampharos ex (#085 or #258 or #277), Mega Altaria ex (#102 or #259 or #286), Mega Absol ex (#151 or #262 or #280)",
+      "reward": [{"item": "Mega Evolution Pokémon ex (cover)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Froakie cards",
+      "required_cards": ["Froakie (#071) ×3"],
+      "reward": [{"item": "Froakie (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 3 Yamper cards",
+      "required_cards": ["Yamper (#095) ×3"],
+      "reward": [{"item": "Yamper (profile icon)", "quantity": 1}],
+      "secret": false
+    },
+    {
+      "name": "Collect 5 Darkrai cards",
+      "required_cards": ["Darkrai (#154) ×5"],
+      "reward": [{"item": "Darkrai (profile icon)", "quantity": 1}],
+      "secret": false
+    }
+  ],
+  "secret_missions": [
+    {
+      "name": "Mega Rising Museum 1",
+      "required_cards": ["Beautifly (#227)", "Growlithe (#230)", "Keldeo (#235)", "Luxray (#237)", "Makuhita (#240)", "Archeops (#242)", "Corviknight (#246)", "Rufflet (#250)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Rising Museum 2",
+      "required_cards": ["Magikarp (#232)", "Jellicent (#234)", "Cofagrigus (#238)", "Hippowdon (#241)", "Pancham (#243)", "Honchkrow (#244)", "Hydreigon (#245)", "Delcatty (#248)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Rising Museum 3",
+      "required_cards": ["Skiddo (#228)", "Rillaboom (#229)", "Chandelure (#231)", "Ludicolo (#233)", "Eiscue (#236)", "Gothita (#239)", "Goomy (#247)", "Stoutland (#249)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Rising Museum 4",
+      "required_cards": ["Mega Pinsir ex (#272)", "Rapidash ex (#274)", "Hitmonchan ex (#279)", "Dragalge ex (#281)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Rising Museum 5",
+      "required_cards": ["Greninja ex (#275)", "Jolteon ex (#276)", "Mega Absol ex (#280)", "Melmetal ex (#282)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "Mega Rising Museum 6",
+      "required_cards": ["Whimsicott ex (#273)", "Mega Ampharos ex (#277)", "Indeedee ex (#278)", "Tauros ex (#283)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "A Multitude of Mega Evolution Pokémon!",
+      "required_cards": ["Mega Pinsir ex (#002 or #251 or #272)", "Mega Blaziken ex (#036 or #254 or #284)", "Mega Gyarados ex (#052 or #255 or #285)", "Mega Ampharos ex (#085 or #258 or #277)", "Mega Altaria ex (#102 or #259 or #286)", "Mega Absol ex (#151 or #262 or #280)"],
+      "reward": [
+        {"item": "Wonder Hourglass", "quantity": 36},
+        {"item": "Pack Hourglass", "quantity": 12},
+        {"item": "Shop Ticket", "quantity": 10}
+      ],
+      "secret": true
+    },
+    {
+      "name": "A Swarm of Bug Pokémon!",
+      "required_cards": ["Pinsir (#001)", "Mega Pinsir ex (#002)", "Wurmple (#003)", "Silcoon (#004)", "Beautifly (#005)", "Cascoon (#006)", "Dustox (#007)", "Joltik (#092)", "Galvantula (#093)", "Skorupi (#152)", "Durant (#168)", "Beautifly (#227)", "Mega Pinsir ex (#251)", "Mega Pinsir ex (#272)"],
+      "reward": [{"item": "Mega Pinsir (emblem)", "quantity": 1}],
+      "secret": true
+    }
+  ]
+}

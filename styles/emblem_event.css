@@ -1,0 +1,171 @@
+.event-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 93%;
+  margin: 5px auto;
+  border: 1px solid #d0d0d0;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.label {
+  color: #333;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  padding: 0 0.8rem;
+  background: #F57C00;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  padding: 0 1.2rem;
+  color: #333;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.hero_image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: 50%;
+  margin-top: -15px;
+  margin-bottom: 15px;
+  transform: translateX(-50%);
+}
+
+/* エンブレムカード */
+.emblems-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.emblem-card {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 12px;
+  border: 2px solid #e0e0e0;
+}
+
+.emblem-card__inner {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  position: relative;
+}
+
+.emblem-card__preview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 80px;
+  width: 80px;
+  padding-right: 15px;
+  position: relative;
+}
+
+.emblem-card__preview::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: #ccc;
+  border-radius: 1px;
+}
+
+.emblem-img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+.emblem-card__content {
+  flex: 1;
+}
+
+.emblem-card__condition {
+  font-weight: 500;
+  color: #333;
+}
+
+/* ミッション */
+.mission-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.mission-card {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 12px;
+  border: 2px solid #e0e0e0;
+  color: #333;
+}
+
+.mission-card__inner {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  position: relative;
+}
+
+.mission-card__preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  min-width: 90px;
+  width: 90px;
+  padding-right: 15px;
+  position: relative;
+}
+
+.mission-card__preview::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: #ccc;
+  border-radius: 1px;
+}
+
+.mission-card__preview-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 100%;
+  justify-content: center;
+}
+
+.mission-card__preview img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.mission-card__content {
+  flex: 1;
+}
+
+.mission-card__text {
+  font-weight: 500;
+}
+
+.emblems-container,
+.missions-container {
+  width: 93%;
+  margin: 0 auto;
+}

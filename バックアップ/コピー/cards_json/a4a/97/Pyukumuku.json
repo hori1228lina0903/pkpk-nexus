@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a4a#97"
+  ],
+  "名前": "Pyukumuku",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+  "イラストレーター": "Nisota Niso",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Small_Stars_Flair_Yellow_Battle.webp",
+    "Poké_Ball_Flair_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Innards Out",
+      "効果": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent’s Pokémon, do 50 damage to the Attacking Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Sprinkle Water",
+      "ダメージ": "20",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a3#54"
+    },
+    {
+      "カード番号": "a3#163"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

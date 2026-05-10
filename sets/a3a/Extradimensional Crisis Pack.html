@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Extradimensional Crisis Pack - 異次元クライシスパック</title>
+  <link rel="stylesheet" href="/styles/set.css">
+  <link rel="stylesheet" href="/styles/header-footer.css">
+
+</head>
+
+<body class="sets-page">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Home</a>
+    <a href="/cards.html">cards</a>
+    <a href="/sets.html">Sets</a>
+    <a href="/sets/a3a/Extradimensional Crisis Pack.html">Extradimensional Crisis Pack</a>
+  </nav>
+
+  <main class="set-page-main">
+    <div class="title">
+      <h1>Extradimensional Crisis Pack</h1>
+      <h4>May 29, 2025</h4>
+    </div>
+
+    <div class="description-container">
+      <img src="/images/packs/Extradimensional Crisis Pack.webp" alt="Extradimensional Crisis Pack" class="top-pack-image">
+      <p class="description">
+        Ultra Beast Pack is the only booster pack in Extradimensional Crisis (A3a).
+        It mainly includes Ultra Beast Pokémon across multiple types, along with dedicated Tool cards and Supporters that enhance their performance, making it easier to build decks focused entirely around Ultra Beasts.
+      </p>
+    </div>
+
+    <hr class="set-border">
+
+    <div class="packs">
+      <div class="pack-item pack-select">
+        <a href="/sets/a3a/Extradimensional Crisis Pack.html" >
+          <img src="/images/packs/Extradimensional Crisis Pack.webp" alt="Extradimensional Crisis Pack" class="pack-image">
+        </a>
+        <div class="set-name">Extradimensional Crisis Pack</div>
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Must-Pull Cards from This Pack</h2>
+      </div>
+      <div class="must-pull-cards">
+        <img src="/images/cards/a3a/6.webp" alt="Buzzwole_ex" class="card-image2">
+        <img src="/images/cards/a3a/7.webp" alt="Pheromosa" class="card-image2">
+        <img src="/images/cards/a3a/8.webp" alt="Kartana" class="card-image2">
+        <img src="/images/cards/a3a/42.webp" alt="Nihilego" class="card-image2">
+        <img src="/images/cards/a3a/61.webp" alt="Silvally" class="card-image2">
+        <img src="/images/cards/a3a/62.webp" alt="Celesteela" class="card-image2">
+        <img src="/images/cards/a3a/67.webp" alt="Gladion" class="card-image2">
+        <img src="/images/cards/a3a/69.webp" alt="Lusamine" class="card-image2">
+      </div>
+    </div>
+
+    <div class="set-content">
+      <div class="set-subheading">
+        <h2>Card List</h2>
+      </div>
+      <!-- カード表示エリア -->
+      <div id="resultsContainer" class="card-container"></div>
+    </div>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- JavaScriptファイル -->
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/data-loader.js"></script>
+  <script src="/js/search.js"></script>
+
+  <!-- Genetic Apex専用の初期化スクリプト -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    showLoadingSkeleton();
+    
+    const dataLoader = new DataLoader();
+    dataLoader.loadCards().then(cardData => {
+        const cardSearch = new CardSearch(cardData);
+        
+        // リザードンパックを指定
+        cardSearch.currentFilters.pack = ['Extradimensional Crisis Pack'];
+        
+    }).catch(error => {
+        console.error('❌ エラー:', error);
+        showError();
+    });
+    
+    function showLoadingSkeleton() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (!resultsContainer) return;
+        
+        resultsContainer.innerHTML = Array(12).fill(`
+            <div class="card">
+                <div class="card-image card-skeleton"></div>
+            </div>
+        `).join('');
+    }
+    
+    function showError() {
+        const resultsContainer = document.getElementById('resultsContainer');
+        if (resultsContainer) {
+            resultsContainer.innerHTML = `
+                <div class="loading-indicator">
+                    <p>カードデータの読み込みに失敗しました</p>
+                </div>
+            `;
+        }
+    }
+});
+</script>
+</body>
+</html>

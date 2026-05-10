@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#185"
+  ],
+  "名前": "Dragonite",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "160",
+  "タイプ": "dragon",
+  "弱点": "N/A",
+  "にげる": 3,
+  "説明文": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+  "イラストレーター": "Hiroyuki Yamamoto",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Mewtwo Pack",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Dragon_Energy_Flair_Cosmetic.webp",
+    "Big_Rings_Flair_Yellow_Battle.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Draco Meteor",
+      "ダメージ": "N/A",
+      "効果": "1 of your opponent’s Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "water",
+        "lightning",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#244"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Dragonair"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "url": "https://www.pokemon-zone.com/events/gastly-wigglytuff-wonder-pick/",
+  "title": "Gastly and Wigglytuff Wonder Pick Event",
+  "period": {
+    "text": "Apr 17 - May 4",
+    "start_date": "2026-04-17",
+    "end_date": "2026-05-04"
+  },
+  "promo_cards": [
+    {
+      "name": "Gastly Rare",
+      "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+      "url": "/cards/promo-b/47/gastly/",
+      "id": "promo-b/47",
+      "set": "promo-b"
+    },
+    {
+      "name": "Wigglytuff Rare",
+      "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+      "url": "/cards/promo-b/48/wigglytuff/",
+      "id": "promo-b/48",
+      "set": "promo-b"
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Gastly and Wigglytuff Wonder Pick - Wonder Pick Event",
+      "period": "Apr 17 - May 4, 2026",
+      "items": [
+        {
+          "name": "Mega Kangaskhan (cover)",
+          "description": "Mega Kangaskhan (cover) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        },
+        {
+          "name": "Shinedust            x50",
+          "description": "Shinedust ",
+          "price": "1",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        },
+        {
+          "name": "Mega Kangaskhan (Pokémon coin)",
+          "description": "Mega Kangaskhan (Pokémon coin) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        },
+        {
+          "name": "Mega Kangaskhan (card sleeve)",
+          "description": "Mega Kangaskhan (card sleeve) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        },
+        {
+          "name": "Mega Kangaskhan (playmat)",
+          "description": "Mega Kangaskhan (playmat) ",
+          "price": "10",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        },
+        {
+          "name": "Gastly (icon)",
+          "description": "Gastly (icon) ",
+          "price": "2",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        },
+        {
+          "name": "Snowy View Frame (backdrop)",
+          "description": "Snowy View Frame (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        },
+        {
+          "name": "Mega Kangaskhan (backdrop)",
+          "description": "Mega Kangaskhan (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Mega Kangaskhan)"
+        }
+      ]
+    },
+    {
+      "title": "Gastly and Wigglytuff Wonder Pick - Cards",
+      "period": "Apr 17 - May 4, 2026",
+      "items": [
+        {
+          "name": "Wigglytuff",
+          "description": "",
+          "price": "1",
+          "currency": "Promo Card Exchange Ticket (Mega Kangaskhan Wonder Pick Event)"
+        },
+        {
+          "name": "Gastly",
+          "description": "",
+          "price": "1",
+          "currency": "Promo Card Exchange Ticket (Mega Kangaskhan Wonder Pick Event)"
+        }
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Gastly and Wigglytuff Wonder Pick store",
+      "period": "Apr 17 - Apr 27, 2026",
+      "missions": [
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "1x Promo Card Exchange Ticket (Mega Kangaskhan Wonder Pick Event)",
+              "local_file": "Promo Card Exchange Ticket (Mega Kangaskhan Wonder Pick Event).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_09.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 1 Gastly Promo Card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Collect 1 Wigglytuff Promo Card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 1 time",
+          "rewards": [
+            {
+              "name": "2000x Shinedust",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHINEDUST.webp",
+              "amount": "2000",
+              "type": "main"
+            },
+            {
+              "name": "2x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 2 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/2"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 4 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/4"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Wonder pick 6 times",
+          "rewards": [
+            {
+              "name": "5x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "5",
+              "type": "main"
+            }
+          ],
+          "target": "0/6"
+        },
+        {
+          "description": "Collect 5 Darkness cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Colorless cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Darkness cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 10 Colorless cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Mega Kangaskhan)",
+              "local_file": "Event Shop Ticket (Mega Kangaskhan).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        }
+      ]
+    }
+  ],
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Common",
+          "full_name": "Gastly Common - Mega Shine (B2b) #37",
+          "url": "/cards/b2b/37/gastly/",
+          "id": "b2b/37"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Mega Kangaskhan)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_03.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Common",
+          "full_name": "Wigglytuff Common - Mega Shine (B2b) #59",
+          "url": "/cards/b2b/59/wigglytuff/",
+          "id": "b2b/59"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Gastly Rare",
+          "full_name": "Gastly Rare - Promo B (PROMO-B) #47",
+          "url": "/cards/promo-b/47/gastly/",
+          "id": "promo-b/47"
+        },
+        {
+          "type": "card",
+          "name": "Wigglytuff Rare",
+          "full_name": "Wigglytuff Rare - Promo B (PROMO-B) #48",
+          "url": "/cards/promo-b/48/wigglytuff/",
+          "id": "promo-b/48"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    }
+  ]
+}

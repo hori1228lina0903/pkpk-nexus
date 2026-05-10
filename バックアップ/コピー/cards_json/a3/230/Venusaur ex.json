@@ -1,0 +1,67 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": "a3#230",
+  "名前": "Venusaur ex",
+  "レア度": {
+    "shiny": 2
+  },
+  "HP": "190",
+  "タイプ": "grass",
+  "弱点": "fire +20",
+  "にげる": 3,
+  "イラストレーター": "PLANETA CG Works",
+  "収録パック": "Celestial Guardians: Solgaleo",
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Digital Squares Flair: Yellow-green (Battle)",
+    "Mini Triangles Flair: Green (Battle)",
+    "Special Shiny Sparkles Flair (Battle)",
+    "Tiny Twinkles Flair: Yellow (Battle)"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Razor Leaf",
+      "ダメージ": "60",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "grass",
+        "colorless",
+        "colorless"
+      ]
+    },
+    {
+      "名前": "Giant Bloom",
+      "ダメージ": "100",
+      "効果": "Heal 30 damage from this Pokémon.",
+      "エネルギーコスト": 4,
+      "エネルギータイプ": [
+        "grass",
+        "grass",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#251"
+    },
+    {
+      "カード番号": "a1#4"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Ivysaur"
+      ]
+    ]
+  }
+}

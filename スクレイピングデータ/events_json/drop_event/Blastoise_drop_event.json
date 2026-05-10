@@ -1,0 +1,42 @@
+{
+  "url": "https://www.pokemon-zone.com/events/blastoise-drop-event/",
+  "title": "Blastoise drop event",
+  "period": {
+    "text": "Jan 1 - Jan 15",
+    "start_date": "2025-01-01",
+    "end_date": "2025-01-15"
+  },
+  "promo_pack": {
+    "name": "",
+    "cards": []
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Water",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Water",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Water",
+      "tasks": [
+        "Win 5 or more battles",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}

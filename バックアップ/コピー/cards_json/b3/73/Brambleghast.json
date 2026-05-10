@@ -1,0 +1,66 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#73"
+  ],
+  "名前": "Brambleghast",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 3
+  },
+  "HP": "90",
+  "タイプ": "psychic",
+  "弱点": "Darkness",
+  "にげる": 2,
+  "説明文": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town.",
+  "イラストレーター": "OKUBO",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 150"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Circles_Flair_Purple_Battle.webp",
+    "Sword_Flash_Flair_Purple_Battle.webp",
+    "Digital_Squares_Flair_Purple_Cosmetic.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Accept Pain",
+      "効果": "Once during your turn, if this Pokémon is on your Bench, you may move 30 damage that your Active Pokémon has on it to this Pokémon."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Spooky Shot",
+      "ダメージ": "60",
+      "効果": "N/A",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "psychic",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#167"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Bramblin"
+      ]
+    ]
+  }
+}

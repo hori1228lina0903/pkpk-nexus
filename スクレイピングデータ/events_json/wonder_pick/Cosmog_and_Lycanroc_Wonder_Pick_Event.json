@@ -1,0 +1,584 @@
+{
+  "url": "https://www.pokemon-zone.com/events/cosmog-lycanroc-wonder-pick/",
+  "title": "Cosmog and Lycanroc Wonder Pick Event",
+  "period": {
+    "text": "May 9 - May 26",
+    "start_date": "2025-05-09",
+    "end_date": "2025-05-26"
+  },
+  "promo_cards": [
+    {
+      "name": "Cosmog Rare",
+      "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+      "url": "/cards/promo-a/67/cosmog/",
+      "id": "promo-a/67",
+      "set": "promo-a"
+    },
+    {
+      "name": "Lycanroc Rare",
+      "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+      "url": "/cards/promo-a/68/lycanroc/",
+      "id": "promo-a/68",
+      "set": "promo-a"
+    }
+  ],
+  "shop_items": [
+    {
+      "title": "Solgaleo Accessories - Wonder Pick Event",
+      "period": "May 9 - May 26, 2025",
+      "items": [
+        {
+          "name": "Solgaleo (cover)",
+          "description": "Solgaleo (cover) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        },
+        {
+          "name": "Solgaleo (playmat)",
+          "description": "Solgaleo (playmat) ",
+          "price": "10",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        },
+        {
+          "name": "Solgaleo (card sleeve)",
+          "description": "Solgaleo (card sleeve) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        },
+        {
+          "name": "Sparkling Sky (backdrop)",
+          "description": "Sparkling Sky (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        },
+        {
+          "name": "Solgaleo (backdrop)",
+          "description": "Solgaleo (backdrop) ",
+          "price": "3",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        },
+        {
+          "name": "Solgaleo (Pokémon coin)",
+          "description": "Solgaleo (Pokémon coin) ",
+          "price": "5",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        },
+        {
+          "name": "Lillie (icon)",
+          "description": "Lillie (icon) ",
+          "price": "2",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        },
+        {
+          "name": "Shinedust            x50",
+          "description": "Shinedust ",
+          "price": "1",
+          "currency": "Event Shop Ticket (Solgaleo)"
+        }
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Wonder Pick: Cosmog/Lycanroc Wonder Pick Event",
+      "period": "May 9 - May 19, 2025",
+      "missions": [
+        {
+          "description": "Collect 1 Cosmog card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Collect 1 Lycanroc card",
+          "rewards": [
+            {
+              "name": "1x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "1",
+              "type": "main"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 1 time",
+          "rewards": [
+            {
+              "name": "200x Trade Tokens",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/TradeItem/TRADE_ITEM_130010.webp",
+              "amount": "200",
+              "type": "main"
+            },
+            {
+              "name": "2x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/1"
+        },
+        {
+          "description": "Wonder pick 2 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/2"
+        },
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "2",
+              "type": "main"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 4 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/4"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Wonder pick 6 times",
+          "rewards": [
+            {
+              "name": "5x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "5",
+              "type": "main"
+            }
+          ],
+          "target": "0/6"
+        },
+        {
+          "description": "Collect 5 Psychic cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 5 Fighting cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 Psychic cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 10 Fighting cards",
+          "rewards": [
+            {
+              "name": "3x Event Shop Ticket (Solgaleo)",
+              "local_file": "Event Shop Ticket (Solgaleo).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+              "amount": "3",
+              "type": "main"
+            }
+          ],
+          "target": "0/10"
+        }
+      ]
+    }
+  ],
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 15,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Common",
+          "full_name": "Cosmog Common - Celestial Guardians (A3) #85",
+          "url": "/cards/a3/85/cosmog/",
+          "id": "a3/85"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 35,
+      "items": [
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Event Shop Ticket (Solgaleo)",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/EVENT_SHOPTICKET_01.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "item",
+          "name": "Wonder Hourglass",
+          "image_url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+          "count": "1"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Celestial Guardians (A3) #100",
+          "url": "/cards/a3/100/lycanroc/",
+          "id": "a3/100"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "chansey",
+      "percent": 25,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Cosmog Rare",
+          "full_name": "Cosmog Rare - Promo A (PROMO-A) #67",
+          "url": "/cards/promo-a/67/cosmog/",
+          "id": "promo-a/67"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        },
+        {
+          "type": "card",
+          "name": "Lycanroc Rare",
+          "full_name": "Lycanroc Rare - Promo A (PROMO-A) #68",
+          "url": "/cards/promo-a/68/lycanroc/",
+          "id": "promo-a/68"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    }
+  ]
+}

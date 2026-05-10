@@ -1,0 +1,61 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#75"
+  ],
+  "名前": "Polteageist",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "70",
+  "タイプ": "psychic",
+  "弱点": "darkness +20",
+  "にげる": 1,
+  "説明文": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+  "イラストレーター": "Shin Nagasawa",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Digital_Squares_Flair_Purple_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Purple_Battle.webp",
+    "Sword_Flash_Flair_Purple_Battle.webp"
+  ],
+  "特性": [
+    {
+      "特性名": "Refreshing Tea",
+      "効果": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
+    }
+  ],
+  "ワザ": [
+    {
+      "名前": "Spooky Shot",
+      "ダメージ": "40",
+      "効果": "N/A",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "psychic"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Sinistea"
+      ]
+    ]
+  }
+}

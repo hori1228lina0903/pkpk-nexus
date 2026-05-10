@@ -1,0 +1,124 @@
+{
+  "url": "https://www.pokemon-zone.com/events/mega-shine-emblem-event/",
+  "title": "Mega Shine Emblem Event",
+  "period": {
+    "text": "Mar 29 - Apr 8",
+    "start_date": "2026-03-29",
+    "end_date": "2026-04-08"
+  },
+  "emblems": [
+    {
+      "name": "Mega Shine Emblem Event Participation Emblem",
+      "local_file": "Mega Shine Emblem Event Participation Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100910_EVENT9_NOR.webp",
+      "position": 0,
+      "condition": "White emblem Winning 1 versus battle"
+    },
+    {
+      "name": "Mega Shine Emblem Event Bronze Emblem",
+      "local_file": "Mega Shine Emblem Event Bronze Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100920_EVENT9_BRZ.webp",
+      "position": 1,
+      "condition": "Bronze emblem Winning 3 versus battle"
+    },
+    {
+      "name": "Mega Shine Emblem Event Silver Emblem",
+      "local_file": "Mega Shine Emblem Event Silver Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100930_EVENT9_SIL.webp",
+      "position": 2,
+      "condition": "Silver emblem Winning 5 versus battles"
+    },
+    {
+      "name": "Mega Shine Emblem Event Gold Emblem",
+      "local_file": "Mega Shine Emblem Event Gold Emblem.webp",
+      "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100940_EVENT9_GOL.webp",
+      "position": 3,
+      "condition": "Gold emblem Winning 9 versus battles"
+    }
+  ],
+  "missions": [
+    {
+      "name": "Mega Shine Emblem Event",
+      "period": "Mar 29 - Apr 8, 2026",
+      "missions": [
+        {
+          "description": "Win 1 versus battle",
+          "reward": {
+            "name": "100x Shinedust",
+            "amount": "100"
+          }
+        },
+        {
+          "description": "Win 3 versus battles",
+          "reward": {
+            "name": "300x Shinedust",
+            "amount": "300"
+          }
+        },
+        {
+          "description": "Win 5 versus battles",
+          "reward": {
+            "name": "500x Shinedust",
+            "amount": "500"
+          }
+        },
+        {
+          "description": "Win 10 versus battles",
+          "reward": {
+            "name": "1000x Shinedust",
+            "amount": "1000"
+          }
+        },
+        {
+          "description": "Win 15 versus battles",
+          "reward": {
+            "name": "1500x Shinedust",
+            "amount": "1500"
+          }
+        },
+        {
+          "description": "Win 20 versus battles",
+          "reward": {
+            "name": "2000x Shinedust",
+            "amount": "2000"
+          }
+        },
+        {
+          "description": "Win 25 versus battles",
+          "reward": {
+            "name": "2500x Shinedust",
+            "amount": "2500"
+          }
+        },
+        {
+          "description": "Participate in 1 versus battle",
+          "reward": {
+            "name": "3x Pack Hourglass",
+            "amount": "3"
+          }
+        },
+        {
+          "description": "Participate in 3 versus battles",
+          "reward": {
+            "name": "3x Pack Hourglass",
+            "amount": "3"
+          }
+        },
+        {
+          "description": "Participate in 5 versus battles",
+          "reward": {
+            "name": "6x Pack Hourglass",
+            "amount": "6"
+          }
+        },
+        {
+          "description": "Participate in 9 versus battles",
+          "reward": {
+            "name": "12x Pack Hourglass",
+            "amount": "12"
+          }
+        }
+      ]
+    }
+  ]
+}

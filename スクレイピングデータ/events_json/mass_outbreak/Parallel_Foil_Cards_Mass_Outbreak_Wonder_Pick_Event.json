@@ -1,0 +1,1800 @@
+{
+  "url": "https://www.pokemon-zone.com/events/parallel-foil-mass-outbreak-wonder-pick-event/",
+  "title": "Parallel Foil Cards Mass Outbreak Wonder Pick Event",
+  "period": {
+    "text": "Oct 24 - Oct 30",
+    "start_date": "2025-10-24",
+    "end_date": "2025-10-30"
+  },
+  "target_type": "",
+  "bonus_picks": [
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Riolu Common",
+          "full_name": "Riolu Common - Deluxe Pack: ex (A4b) #211",
+          "url": "/cards/a4b/211/riolu/",
+          "id": "a4b/211"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Common",
+          "full_name": "Riolu Common - Deluxe Pack: ex (A4b) #210",
+          "url": "/cards/a4b/210/riolu/",
+          "id": "a4b/210"
+        },
+        {
+          "type": "card",
+          "name": "Golbat Common",
+          "full_name": "Golbat Common - Triumphant Light (A2a) #49",
+          "url": "/cards/a2a/49/golbat/",
+          "id": "a2a/49"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        },
+        {
+          "type": "card",
+          "name": "Farfetch’d Common",
+          "full_name": "Farfetch’d Common - Genetic Apex (A1) #198",
+          "url": "/cards/a1/198/farfetchd/",
+          "id": "a1/198"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Golbat Common",
+          "full_name": "Golbat Common - Deluxe Pack: ex (A4b) #229",
+          "url": "/cards/a4b/229/golbat/",
+          "id": "a4b/229"
+        },
+        {
+          "type": "card",
+          "name": "Golbat Common",
+          "full_name": "Golbat Common - Triumphant Light (A2a) #49",
+          "url": "/cards/a2a/49/golbat/",
+          "id": "a2a/49"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        },
+        {
+          "type": "card",
+          "name": "Farfetch’d Common",
+          "full_name": "Farfetch’d Common - Genetic Apex (A1) #198",
+          "url": "/cards/a1/198/farfetchd/",
+          "id": "a1/198"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Eevee Grove (A3b) #55",
+          "url": "/cards/a3b/55/eevee/",
+          "id": "a3b/55"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Deluxe Pack: ex (A4b) #286",
+          "url": "/cards/a4b/286/eevee/",
+          "id": "a4b/286"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Eevee Grove (A3b) #55",
+          "url": "/cards/a3b/55/eevee/",
+          "id": "a3b/55"
+        },
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Kakuna Uncommon",
+          "full_name": "Kakuna Uncommon - Deluxe Pack: ex (A4b) #8",
+          "url": "/cards/a4b/8/kakuna/",
+          "id": "a4b/8"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Genetic Apex (A1) #34",
+          "url": "/cards/a1/34/charmeleon/",
+          "id": "a1/34"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #46",
+          "url": "/cards/a4b/46/pheromosa/",
+          "id": "a4b/46"
+        },
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Kakuna Uncommon",
+          "full_name": "Kakuna Uncommon - Deluxe Pack: ex (A4b) #8",
+          "url": "/cards/a4b/8/kakuna/",
+          "id": "a4b/8"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Genetic Apex (A1) #34",
+          "url": "/cards/a1/34/charmeleon/",
+          "id": "a1/34"
+        },
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #73",
+          "url": "/cards/a4b/73/monferno/",
+          "id": "a4b/73"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Torkoal Common",
+          "full_name": "Torkoal Common - Deluxe Pack: ex (A4b) #70",
+          "url": "/cards/a4b/70/torkoal/",
+          "id": "a4b/70"
+        },
+        {
+          "type": "card",
+          "name": "Torkoal Common",
+          "full_name": "Torkoal Common - Eevee Grove (A3b) #10",
+          "url": "/cards/a3b/10/torkoal/",
+          "id": "a3b/10"
+        },
+        {
+          "type": "card",
+          "name": "Magikarp Common",
+          "full_name": "Magikarp Common - Deluxe Pack: ex (A4b) #96",
+          "url": "/cards/a4b/96/magikarp/",
+          "id": "a4b/96"
+        },
+        {
+          "type": "card",
+          "name": "Brionne Common",
+          "full_name": "Brionne Common - Eevee Grove (A3b) #23",
+          "url": "/cards/a3b/23/brionne/",
+          "id": "a3b/23"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Deluxe Pack: ex (A4b) #128",
+          "url": "/cards/a4b/128/pikachu/",
+          "id": "a4b/128"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Deluxe Pack: ex (A4b) #141",
+          "url": "/cards/a4b/141/chinchou/",
+          "id": "a4b/141"
+        },
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Wisdom of Sea and Sky (A4) #64",
+          "url": "/cards/a4/64/chinchou/",
+          "id": "a4/64"
+        },
+        {
+          "type": "card",
+          "name": "Misdreavus Common",
+          "full_name": "Misdreavus Common - Space-Time Smackdown (A2) #66",
+          "url": "/cards/a2/66/misdreavus/",
+          "id": "a2/66"
+        },
+        {
+          "type": "card",
+          "name": "Cubone Common",
+          "full_name": "Cubone Common - Genetic Apex (A1) #151",
+          "url": "/cards/a1/151/cubone/",
+          "id": "a1/151"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Common",
+          "full_name": "Phanpy Common - Wisdom of Sea and Sky (A4) #99",
+          "url": "/cards/a4/99/phanpy/",
+          "id": "a4/99"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Rowlet Common",
+          "full_name": "Rowlet Common - Deluxe Pack: ex (A4b) #39",
+          "url": "/cards/a4b/39/rowlet/",
+          "id": "a4b/39"
+        },
+        {
+          "type": "card",
+          "name": "Rowlet Common",
+          "full_name": "Rowlet Common - Deluxe Pack: ex (A4b) #38",
+          "url": "/cards/a4b/38/rowlet/",
+          "id": "a4b/38"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Torkoal Common",
+          "full_name": "Torkoal Common - Eevee Grove (A3b) #10",
+          "url": "/cards/a3b/10/torkoal/",
+          "id": "a3b/10"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cosmoem Uncommon",
+          "full_name": "Cosmoem Uncommon - Deluxe Pack: ex (A4b) #183",
+          "url": "/cards/a4b/183/cosmoem/",
+          "id": "a4b/183"
+        },
+        {
+          "type": "card",
+          "name": "Cosmoem Uncommon",
+          "full_name": "Cosmoem Uncommon - Celestial Guardians (A3) #86",
+          "url": "/cards/a3/86/cosmoem/",
+          "id": "a3/86"
+        },
+        {
+          "type": "card",
+          "name": "Machoke Uncommon",
+          "full_name": "Machoke Uncommon - Genetic Apex (A1) #144",
+          "url": "/cards/a1/144/machoke/",
+          "id": "a1/144"
+        },
+        {
+          "type": "card",
+          "name": "Sudowoodo Uncommon",
+          "full_name": "Sudowoodo Uncommon - Deluxe Pack: ex (A4b) #198",
+          "url": "/cards/a4b/198/sudowoodo/",
+          "id": "a4b/198"
+        },
+        {
+          "type": "card",
+          "name": "Tinkatuff Uncommon",
+          "full_name": "Tinkatuff Uncommon - Deluxe Pack: ex (A4b) #264",
+          "url": "/cards/a4b/264/tinkatuff/",
+          "id": "a4b/264"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Rowlet Common",
+          "full_name": "Rowlet Common - Deluxe Pack: ex (A4b) #38",
+          "url": "/cards/a4b/38/rowlet/",
+          "id": "a4b/38"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Sabrina Uncommon",
+          "full_name": "Sabrina Uncommon - Deluxe Pack: ex (A4b) #339",
+          "url": "/cards/a4b/339/sabrina/",
+          "id": "a4b/339"
+        },
+        {
+          "type": "card",
+          "name": "Sabrina Uncommon",
+          "full_name": "Sabrina Uncommon - Deluxe Pack: ex (A4b) #338",
+          "url": "/cards/a4b/338/sabrina/",
+          "id": "a4b/338"
+        },
+        {
+          "type": "card",
+          "name": "Lillie Uncommon",
+          "full_name": "Lillie Uncommon - Deluxe Pack: ex (A4b) #348",
+          "url": "/cards/a4b/348/lillie/",
+          "id": "a4b/348"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Magikarp Common",
+          "full_name": "Magikarp Common - Deluxe Pack: ex (A4b) #97",
+          "url": "/cards/a4b/97/magikarp/",
+          "id": "a4b/97"
+        },
+        {
+          "type": "card",
+          "name": "Magikarp Common",
+          "full_name": "Magikarp Common - Deluxe Pack: ex (A4b) #96",
+          "url": "/cards/a4b/96/magikarp/",
+          "id": "a4b/96"
+        },
+        {
+          "type": "card",
+          "name": "Brionne Common",
+          "full_name": "Brionne Common - Eevee Grove (A3b) #23",
+          "url": "/cards/a3b/23/brionne/",
+          "id": "a3b/23"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Deluxe Pack: ex (A4b) #128",
+          "url": "/cards/a4b/128/pikachu/",
+          "id": "a4b/128"
+        },
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Wisdom of Sea and Sky (A4) #64",
+          "url": "/cards/a4/64/chinchou/",
+          "id": "a4/64"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pokémon Communication Uncommon",
+          "full_name": "Pokémon Communication Uncommon - Deluxe Pack: ex (A4b) #317",
+          "url": "/cards/a4b/317/pokemon-communication/",
+          "id": "a4b/317"
+        },
+        {
+          "type": "card",
+          "name": "Pokémon Communication Uncommon",
+          "full_name": "Pokémon Communication Uncommon - Deluxe Pack: ex (A4b) #316",
+          "url": "/cards/a4b/316/pokemon-communication/",
+          "id": "a4b/316"
+        },
+        {
+          "type": "card",
+          "name": "Cyrus Uncommon",
+          "full_name": "Cyrus Uncommon - Deluxe Pack: ex (A4b) #326",
+          "url": "/cards/a4b/326/cyrus/",
+          "id": "a4b/326"
+        },
+        {
+          "type": "card",
+          "name": "Sabrina Uncommon",
+          "full_name": "Sabrina Uncommon - Deluxe Pack: ex (A4b) #338",
+          "url": "/cards/a4b/338/sabrina/",
+          "id": "a4b/338"
+        },
+        {
+          "type": "card",
+          "name": "Lillie Uncommon",
+          "full_name": "Lillie Uncommon - Deluxe Pack: ex (A4b) #348",
+          "url": "/cards/a4b/348/lillie/",
+          "id": "a4b/348"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #74",
+          "url": "/cards/a4b/74/monferno/",
+          "id": "a4b/74"
+        },
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #73",
+          "url": "/cards/a4b/73/monferno/",
+          "id": "a4b/73"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Space-Time Smackdown (A2) #50",
+          "url": "/cards/a2/50/manaphy/",
+          "id": "a2/50"
+        },
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #153",
+          "url": "/cards/a4b/153/haunter/",
+          "id": "a4b/153"
+        },
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #178",
+          "url": "/cards/a4b/178/oricorio/",
+          "id": "a4b/178"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Rare Candy Uncommon",
+          "full_name": "Rare Candy Uncommon - Deluxe Pack: ex (A4b) #315",
+          "url": "/cards/a4b/315/rare-candy/",
+          "id": "a4b/315"
+        },
+        {
+          "type": "card",
+          "name": "Rare Candy Uncommon",
+          "full_name": "Rare Candy Uncommon - Deluxe Pack: ex (A4b) #314",
+          "url": "/cards/a4b/314/rare-candy/",
+          "id": "a4b/314"
+        },
+        {
+          "type": "card",
+          "name": "Pokémon Communication Uncommon",
+          "full_name": "Pokémon Communication Uncommon - Deluxe Pack: ex (A4b) #316",
+          "url": "/cards/a4b/316/pokemon-communication/",
+          "id": "a4b/316"
+        },
+        {
+          "type": "card",
+          "name": "Cyrus Uncommon",
+          "full_name": "Cyrus Uncommon - Deluxe Pack: ex (A4b) #326",
+          "url": "/cards/a4b/326/cyrus/",
+          "id": "a4b/326"
+        },
+        {
+          "type": "card",
+          "name": "Sabrina Uncommon",
+          "full_name": "Sabrina Uncommon - Deluxe Pack: ex (A4b) #338",
+          "url": "/cards/a4b/338/sabrina/",
+          "id": "a4b/338"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Rowlet Common",
+          "full_name": "Rowlet Common - Deluxe Pack: ex (A4b) #38",
+          "url": "/cards/a4b/38/rowlet/",
+          "id": "a4b/38"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Lillie Uncommon",
+          "full_name": "Lillie Uncommon - Deluxe Pack: ex (A4b) #349",
+          "url": "/cards/a4b/349/lillie/",
+          "id": "a4b/349"
+        },
+        {
+          "type": "card",
+          "name": "Lillie Uncommon",
+          "full_name": "Lillie Uncommon - Deluxe Pack: ex (A4b) #348",
+          "url": "/cards/a4b/348/lillie/",
+          "id": "a4b/348"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Tinkatuff Uncommon",
+          "full_name": "Tinkatuff Uncommon - Deluxe Pack: ex (A4b) #265",
+          "url": "/cards/a4b/265/tinkatuff/",
+          "id": "a4b/265"
+        },
+        {
+          "type": "card",
+          "name": "Tinkatuff Uncommon",
+          "full_name": "Tinkatuff Uncommon - Deluxe Pack: ex (A4b) #264",
+          "url": "/cards/a4b/264/tinkatuff/",
+          "id": "a4b/264"
+        },
+        {
+          "type": "card",
+          "name": "Rare Candy Uncommon",
+          "full_name": "Rare Candy Uncommon - Deluxe Pack: ex (A4b) #314",
+          "url": "/cards/a4b/314/rare-candy/",
+          "id": "a4b/314"
+        },
+        {
+          "type": "card",
+          "name": "Pokémon Communication Uncommon",
+          "full_name": "Pokémon Communication Uncommon - Deluxe Pack: ex (A4b) #316",
+          "url": "/cards/a4b/316/pokemon-communication/",
+          "id": "a4b/316"
+        },
+        {
+          "type": "card",
+          "name": "Cyrus Uncommon",
+          "full_name": "Cyrus Uncommon - Deluxe Pack: ex (A4b) #326",
+          "url": "/cards/a4b/326/cyrus/",
+          "id": "a4b/326"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Deluxe Pack: ex (A4b) #58",
+          "url": "/cards/a4b/58/charmeleon/",
+          "id": "a4b/58"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Genetic Apex (A1) #34",
+          "url": "/cards/a1/34/charmeleon/",
+          "id": "a1/34"
+        },
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #73",
+          "url": "/cards/a4b/73/monferno/",
+          "id": "a4b/73"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Space-Time Smackdown (A2) #50",
+          "url": "/cards/a2/50/manaphy/",
+          "id": "a2/50"
+        },
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #153",
+          "url": "/cards/a4b/153/haunter/",
+          "id": "a4b/153"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Deluxe Pack: ex (A4b) #62",
+          "url": "/cards/a4b/62/growlithe/",
+          "id": "a4b/62"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Torkoal Common",
+          "full_name": "Torkoal Common - Eevee Grove (A3b) #10",
+          "url": "/cards/a3b/10/torkoal/",
+          "id": "a3b/10"
+        },
+        {
+          "type": "card",
+          "name": "Magikarp Common",
+          "full_name": "Magikarp Common - Deluxe Pack: ex (A4b) #96",
+          "url": "/cards/a4b/96/magikarp/",
+          "id": "a4b/96"
+        },
+        {
+          "type": "card",
+          "name": "Brionne Common",
+          "full_name": "Brionne Common - Eevee Grove (A3b) #23",
+          "url": "/cards/a3b/23/brionne/",
+          "id": "a3b/23"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Brionne Common",
+          "full_name": "Brionne Common - Deluxe Pack: ex (A4b) #119",
+          "url": "/cards/a4b/119/brionne/",
+          "id": "a4b/119"
+        },
+        {
+          "type": "card",
+          "name": "Brionne Common",
+          "full_name": "Brionne Common - Eevee Grove (A3b) #23",
+          "url": "/cards/a3b/23/brionne/",
+          "id": "a3b/23"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Deluxe Pack: ex (A4b) #128",
+          "url": "/cards/a4b/128/pikachu/",
+          "id": "a4b/128"
+        },
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Wisdom of Sea and Sky (A4) #64",
+          "url": "/cards/a4/64/chinchou/",
+          "id": "a4/64"
+        },
+        {
+          "type": "card",
+          "name": "Misdreavus Common",
+          "full_name": "Misdreavus Common - Space-Time Smackdown (A2) #66",
+          "url": "/cards/a2/66/misdreavus/",
+          "id": "a2/66"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Deluxe Pack: ex (A4b) #109",
+          "url": "/cards/a4b/109/manaphy/",
+          "id": "a4b/109"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Space-Time Smackdown (A2) #50",
+          "url": "/cards/a2/50/manaphy/",
+          "id": "a2/50"
+        },
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #153",
+          "url": "/cards/a4b/153/haunter/",
+          "id": "a4b/153"
+        },
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #178",
+          "url": "/cards/a4b/178/oricorio/",
+          "id": "a4b/178"
+        },
+        {
+          "type": "card",
+          "name": "Cosmoem Uncommon",
+          "full_name": "Cosmoem Uncommon - Celestial Guardians (A3) #86",
+          "url": "/cards/a3/86/cosmoem/",
+          "id": "a3/86"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Phanpy Common",
+          "full_name": "Phanpy Common - Deluxe Pack: ex (A4b) #201",
+          "url": "/cards/a4b/201/phanpy/",
+          "id": "a4b/201"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Common",
+          "full_name": "Phanpy Common - Wisdom of Sea and Sky (A4) #99",
+          "url": "/cards/a4/99/phanpy/",
+          "id": "a4/99"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Common",
+          "full_name": "Riolu Common - Deluxe Pack: ex (A4b) #210",
+          "url": "/cards/a4b/210/riolu/",
+          "id": "a4b/210"
+        },
+        {
+          "type": "card",
+          "name": "Golbat Common",
+          "full_name": "Golbat Common - Triumphant Light (A2a) #49",
+          "url": "/cards/a2a/49/golbat/",
+          "id": "a2a/49"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Deluxe Pack: ex (A4b) #48",
+          "url": "/cards/a4b/48/kartana/",
+          "id": "a4b/48"
+        },
+        {
+          "type": "card",
+          "name": "Kartana Common",
+          "full_name": "Kartana Common - Extradimensional Crisis (A3a) #8",
+          "url": "/cards/a3a/8/kartana/",
+          "id": "a3a/8"
+        },
+        {
+          "type": "card",
+          "name": "Growlithe Common",
+          "full_name": "Growlithe Common - Genetic Apex (A1) #39",
+          "url": "/cards/a1/39/growlithe/",
+          "id": "a1/39"
+        },
+        {
+          "type": "card",
+          "name": "Torkoal Common",
+          "full_name": "Torkoal Common - Eevee Grove (A3b) #10",
+          "url": "/cards/a3b/10/torkoal/",
+          "id": "a3b/10"
+        },
+        {
+          "type": "card",
+          "name": "Magikarp Common",
+          "full_name": "Magikarp Common - Deluxe Pack: ex (A4b) #96",
+          "url": "/cards/a4b/96/magikarp/",
+          "id": "a4b/96"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #243",
+          "url": "/cards/a4b/243/sneasel/",
+          "id": "a4b/243"
+        },
+        {
+          "type": "card",
+          "name": "Sneasel Common",
+          "full_name": "Sneasel Common - Deluxe Pack: ex (A4b) #242",
+          "url": "/cards/a4b/242/sneasel/",
+          "id": "a4b/242"
+        },
+        {
+          "type": "card",
+          "name": "Farfetch’d Common",
+          "full_name": "Farfetch’d Common - Genetic Apex (A1) #198",
+          "url": "/cards/a1/198/farfetchd/",
+          "id": "a1/198"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Eevee Grove (A3b) #55",
+          "url": "/cards/a3b/55/eevee/",
+          "id": "a3b/55"
+        },
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Misdreavus Common",
+          "full_name": "Misdreavus Common - Deluxe Pack: ex (A4b) #162",
+          "url": "/cards/a4b/162/misdreavus/",
+          "id": "a4b/162"
+        },
+        {
+          "type": "card",
+          "name": "Misdreavus Common",
+          "full_name": "Misdreavus Common - Space-Time Smackdown (A2) #66",
+          "url": "/cards/a2/66/misdreavus/",
+          "id": "a2/66"
+        },
+        {
+          "type": "card",
+          "name": "Cubone Common",
+          "full_name": "Cubone Common - Genetic Apex (A1) #151",
+          "url": "/cards/a1/151/cubone/",
+          "id": "a1/151"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Common",
+          "full_name": "Phanpy Common - Wisdom of Sea and Sky (A4) #99",
+          "url": "/cards/a4/99/phanpy/",
+          "id": "a4/99"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Common",
+          "full_name": "Riolu Common - Deluxe Pack: ex (A4b) #210",
+          "url": "/cards/a4b/210/riolu/",
+          "id": "a4b/210"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Cubone Common",
+          "full_name": "Cubone Common - Deluxe Pack: ex (A4b) #195",
+          "url": "/cards/a4b/195/cubone/",
+          "id": "a4b/195"
+        },
+        {
+          "type": "card",
+          "name": "Cubone Common",
+          "full_name": "Cubone Common - Genetic Apex (A1) #151",
+          "url": "/cards/a1/151/cubone/",
+          "id": "a1/151"
+        },
+        {
+          "type": "card",
+          "name": "Phanpy Common",
+          "full_name": "Phanpy Common - Wisdom of Sea and Sky (A4) #99",
+          "url": "/cards/a4/99/phanpy/",
+          "id": "a4/99"
+        },
+        {
+          "type": "card",
+          "name": "Riolu Common",
+          "full_name": "Riolu Common - Deluxe Pack: ex (A4b) #210",
+          "url": "/cards/a4b/210/riolu/",
+          "id": "a4b/210"
+        },
+        {
+          "type": "card",
+          "name": "Golbat Common",
+          "full_name": "Golbat Common - Triumphant Light (A2a) #49",
+          "url": "/cards/a2a/49/golbat/",
+          "id": "a2a/49"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Rowlet Common",
+          "full_name": "Rowlet Common - Deluxe Pack: ex (A4b) #38",
+          "url": "/cards/a4b/38/rowlet/",
+          "id": "a4b/38"
+        },
+        {
+          "type": "card",
+          "name": "Cyrus Uncommon",
+          "full_name": "Cyrus Uncommon - Deluxe Pack: ex (A4b) #327",
+          "url": "/cards/a4b/327/cyrus/",
+          "id": "a4b/327"
+        },
+        {
+          "type": "card",
+          "name": "Cyrus Uncommon",
+          "full_name": "Cyrus Uncommon - Deluxe Pack: ex (A4b) #326",
+          "url": "/cards/a4b/326/cyrus/",
+          "id": "a4b/326"
+        },
+        {
+          "type": "card",
+          "name": "Sabrina Uncommon",
+          "full_name": "Sabrina Uncommon - Deluxe Pack: ex (A4b) #338",
+          "url": "/cards/a4b/338/sabrina/",
+          "id": "a4b/338"
+        },
+        {
+          "type": "card",
+          "name": "Lillie Uncommon",
+          "full_name": "Lillie Uncommon - Deluxe Pack: ex (A4b) #348",
+          "url": "/cards/a4b/348/lillie/",
+          "id": "a4b/348"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Sudowoodo Uncommon",
+          "full_name": "Sudowoodo Uncommon - Deluxe Pack: ex (A4b) #199",
+          "url": "/cards/a4b/199/sudowoodo/",
+          "id": "a4b/199"
+        },
+        {
+          "type": "card",
+          "name": "Sudowoodo Uncommon",
+          "full_name": "Sudowoodo Uncommon - Deluxe Pack: ex (A4b) #198",
+          "url": "/cards/a4b/198/sudowoodo/",
+          "id": "a4b/198"
+        },
+        {
+          "type": "card",
+          "name": "Tinkatuff Uncommon",
+          "full_name": "Tinkatuff Uncommon - Deluxe Pack: ex (A4b) #264",
+          "url": "/cards/a4b/264/tinkatuff/",
+          "id": "a4b/264"
+        },
+        {
+          "type": "card",
+          "name": "Rare Candy Uncommon",
+          "full_name": "Rare Candy Uncommon - Deluxe Pack: ex (A4b) #314",
+          "url": "/cards/a4b/314/rare-candy/",
+          "id": "a4b/314"
+        },
+        {
+          "type": "card",
+          "name": "Pokémon Communication Uncommon",
+          "full_name": "Pokémon Communication Uncommon - Deluxe Pack: ex (A4b) #316",
+          "url": "/cards/a4b/316/pokemon-communication/",
+          "id": "a4b/316"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Farfetch’d Common",
+          "full_name": "Farfetch’d Common - Deluxe Pack: ex (A4b) #281",
+          "url": "/cards/a4b/281/farfetchd/",
+          "id": "a4b/281"
+        },
+        {
+          "type": "card",
+          "name": "Farfetch’d Common",
+          "full_name": "Farfetch’d Common - Genetic Apex (A1) #198",
+          "url": "/cards/a1/198/farfetchd/",
+          "id": "a1/198"
+        },
+        {
+          "type": "card",
+          "name": "Eevee Common",
+          "full_name": "Eevee Common - Eevee Grove (A3b) #55",
+          "url": "/cards/a3b/55/eevee/",
+          "id": "a3b/55"
+        },
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #45",
+          "url": "/cards/a4b/45/pheromosa/",
+          "id": "a4b/45"
+        },
+        {
+          "type": "card",
+          "name": "Kakuna Uncommon",
+          "full_name": "Kakuna Uncommon - Deluxe Pack: ex (A4b) #8",
+          "url": "/cards/a4b/8/kakuna/",
+          "id": "a4b/8"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Kakuna Uncommon",
+          "full_name": "Kakuna Uncommon - Deluxe Pack: ex (A4b) #9",
+          "url": "/cards/a4b/9/kakuna/",
+          "id": "a4b/9"
+        },
+        {
+          "type": "card",
+          "name": "Kakuna Uncommon",
+          "full_name": "Kakuna Uncommon - Deluxe Pack: ex (A4b) #8",
+          "url": "/cards/a4b/8/kakuna/",
+          "id": "a4b/8"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Genetic Apex (A1) #34",
+          "url": "/cards/a1/34/charmeleon/",
+          "id": "a1/34"
+        },
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #73",
+          "url": "/cards/a4b/73/monferno/",
+          "id": "a4b/73"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Space-Time Smackdown (A2) #50",
+          "url": "/cards/a2/50/manaphy/",
+          "id": "a2/50"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #154",
+          "url": "/cards/a4b/154/haunter/",
+          "id": "a4b/154"
+        },
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #153",
+          "url": "/cards/a4b/153/haunter/",
+          "id": "a4b/153"
+        },
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #178",
+          "url": "/cards/a4b/178/oricorio/",
+          "id": "a4b/178"
+        },
+        {
+          "type": "card",
+          "name": "Cosmoem Uncommon",
+          "full_name": "Cosmoem Uncommon - Celestial Guardians (A3) #86",
+          "url": "/cards/a3/86/cosmoem/",
+          "id": "a3/86"
+        },
+        {
+          "type": "card",
+          "name": "Machoke Uncommon",
+          "full_name": "Machoke Uncommon - Genetic Apex (A1) #144",
+          "url": "/cards/a1/144/machoke/",
+          "id": "a1/144"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Deluxe Pack: ex (A4b) #129",
+          "url": "/cards/a4b/129/pikachu/",
+          "id": "a4b/129"
+        },
+        {
+          "type": "card",
+          "name": "Pikachu Common",
+          "full_name": "Pikachu Common - Deluxe Pack: ex (A4b) #128",
+          "url": "/cards/a4b/128/pikachu/",
+          "id": "a4b/128"
+        },
+        {
+          "type": "card",
+          "name": "Chinchou Common",
+          "full_name": "Chinchou Common - Wisdom of Sea and Sky (A4) #64",
+          "url": "/cards/a4/64/chinchou/",
+          "id": "a4/64"
+        },
+        {
+          "type": "card",
+          "name": "Misdreavus Common",
+          "full_name": "Misdreavus Common - Space-Time Smackdown (A2) #66",
+          "url": "/cards/a2/66/misdreavus/",
+          "id": "a2/66"
+        },
+        {
+          "type": "card",
+          "name": "Cubone Common",
+          "full_name": "Cubone Common - Genetic Apex (A1) #151",
+          "url": "/cards/a1/151/cubone/",
+          "id": "a1/151"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #179",
+          "url": "/cards/a4b/179/oricorio/",
+          "id": "a4b/179"
+        },
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #178",
+          "url": "/cards/a4b/178/oricorio/",
+          "id": "a4b/178"
+        },
+        {
+          "type": "card",
+          "name": "Cosmoem Uncommon",
+          "full_name": "Cosmoem Uncommon - Celestial Guardians (A3) #86",
+          "url": "/cards/a3/86/cosmoem/",
+          "id": "a3/86"
+        },
+        {
+          "type": "card",
+          "name": "Machoke Uncommon",
+          "full_name": "Machoke Uncommon - Genetic Apex (A1) #144",
+          "url": "/cards/a1/144/machoke/",
+          "id": "a1/144"
+        },
+        {
+          "type": "card",
+          "name": "Sudowoodo Uncommon",
+          "full_name": "Sudowoodo Uncommon - Deluxe Pack: ex (A4b) #198",
+          "url": "/cards/a4b/198/sudowoodo/",
+          "id": "a4b/198"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    },
+    {
+      "type": "bonus",
+      "percent": 12,
+      "items": [
+        {
+          "type": "card",
+          "name": "Machoke Uncommon",
+          "full_name": "Machoke Uncommon - Deluxe Pack: ex (A4b) #192",
+          "url": "/cards/a4b/192/machoke/",
+          "id": "a4b/192"
+        },
+        {
+          "type": "card",
+          "name": "Machoke Uncommon",
+          "full_name": "Machoke Uncommon - Genetic Apex (A1) #144",
+          "url": "/cards/a1/144/machoke/",
+          "id": "a1/144"
+        },
+        {
+          "type": "card",
+          "name": "Sudowoodo Uncommon",
+          "full_name": "Sudowoodo Uncommon - Deluxe Pack: ex (A4b) #198",
+          "url": "/cards/a4b/198/sudowoodo/",
+          "id": "a4b/198"
+        },
+        {
+          "type": "card",
+          "name": "Tinkatuff Uncommon",
+          "full_name": "Tinkatuff Uncommon - Deluxe Pack: ex (A4b) #264",
+          "url": "/cards/a4b/264/tinkatuff/",
+          "id": "a4b/264"
+        },
+        {
+          "type": "card",
+          "name": "Rare Candy Uncommon",
+          "full_name": "Rare Candy Uncommon - Deluxe Pack: ex (A4b) #314",
+          "url": "/cards/a4b/314/rare-candy/",
+          "id": "a4b/314"
+        }
+      ],
+      "cost": 0,
+      "cost_free": true
+    }
+  ],
+  "rare_picks": [
+    {
+      "type": "rare",
+      "percent": 29,
+      "items": [
+        {
+          "type": "card",
+          "name": "Nihilego Rare",
+          "full_name": "Nihilego Rare - Deluxe Pack: ex (A4b) #247",
+          "url": "/cards/a4b/247/nihilego/",
+          "id": "a4b/247"
+        },
+        {
+          "type": "card",
+          "name": "Magearna Rare",
+          "full_name": "Magearna Rare - Deluxe Pack: ex (A4b) #261",
+          "url": "/cards/a4b/261/magearna/",
+          "id": "a4b/261"
+        },
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #179",
+          "url": "/cards/a4b/179/oricorio/",
+          "id": "a4b/179"
+        },
+        {
+          "type": "card",
+          "name": "Cosmoem Uncommon",
+          "full_name": "Cosmoem Uncommon - Deluxe Pack: ex (A4b) #183",
+          "url": "/cards/a4b/183/cosmoem/",
+          "id": "a4b/183"
+        },
+        {
+          "type": "card",
+          "name": "Machoke Uncommon",
+          "full_name": "Machoke Uncommon - Deluxe Pack: ex (A4b) #192",
+          "url": "/cards/a4b/192/machoke/",
+          "id": "a4b/192"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 29,
+      "items": [
+        {
+          "type": "card",
+          "name": "Lucario Rare",
+          "full_name": "Lucario Rare - Deluxe Pack: ex (A4b) #213",
+          "url": "/cards/a4b/213/lucario/",
+          "id": "a4b/213"
+        },
+        {
+          "type": "card",
+          "name": "Nihilego Rare",
+          "full_name": "Nihilego Rare - Deluxe Pack: ex (A4b) #247",
+          "url": "/cards/a4b/247/nihilego/",
+          "id": "a4b/247"
+        },
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #154",
+          "url": "/cards/a4b/154/haunter/",
+          "id": "a4b/154"
+        },
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #179",
+          "url": "/cards/a4b/179/oricorio/",
+          "id": "a4b/179"
+        },
+        {
+          "type": "card",
+          "name": "Cosmoem Uncommon",
+          "full_name": "Cosmoem Uncommon - Deluxe Pack: ex (A4b) #183",
+          "url": "/cards/a4b/183/cosmoem/",
+          "id": "a4b/183"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 29,
+      "items": [
+        {
+          "type": "card",
+          "name": "Gardevoir Rare",
+          "full_name": "Gardevoir Rare - Deluxe Pack: ex (A4b) #169",
+          "url": "/cards/a4b/169/gardevoir/",
+          "id": "a4b/169"
+        },
+        {
+          "type": "card",
+          "name": "Lucario Rare",
+          "full_name": "Lucario Rare - Deluxe Pack: ex (A4b) #213",
+          "url": "/cards/a4b/213/lucario/",
+          "id": "a4b/213"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Deluxe Pack: ex (A4b) #109",
+          "url": "/cards/a4b/109/manaphy/",
+          "id": "a4b/109"
+        },
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #154",
+          "url": "/cards/a4b/154/haunter/",
+          "id": "a4b/154"
+        },
+        {
+          "type": "card",
+          "name": "Oricorio Uncommon",
+          "full_name": "Oricorio Uncommon - Deluxe Pack: ex (A4b) #179",
+          "url": "/cards/a4b/179/oricorio/",
+          "id": "a4b/179"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 29,
+      "items": [
+        {
+          "type": "card",
+          "name": "Zeraora Rare",
+          "full_name": "Zeraora Rare - Deluxe Pack: ex (A4b) #150",
+          "url": "/cards/a4b/150/zeraora/",
+          "id": "a4b/150"
+        },
+        {
+          "type": "card",
+          "name": "Gardevoir Rare",
+          "full_name": "Gardevoir Rare - Deluxe Pack: ex (A4b) #169",
+          "url": "/cards/a4b/169/gardevoir/",
+          "id": "a4b/169"
+        },
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #74",
+          "url": "/cards/a4b/74/monferno/",
+          "id": "a4b/74"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Deluxe Pack: ex (A4b) #109",
+          "url": "/cards/a4b/109/manaphy/",
+          "id": "a4b/109"
+        },
+        {
+          "type": "card",
+          "name": "Haunter Uncommon",
+          "full_name": "Haunter Uncommon - Deluxe Pack: ex (A4b) #154",
+          "url": "/cards/a4b/154/haunter/",
+          "id": "a4b/154"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 29,
+      "items": [
+        {
+          "type": "card",
+          "name": "Serperior Rare",
+          "full_name": "Serperior Rare - Deluxe Pack: ex (A4b) #37",
+          "url": "/cards/a4b/37/serperior/",
+          "id": "a4b/37"
+        },
+        {
+          "type": "card",
+          "name": "Flareon Rare",
+          "full_name": "Flareon Rare - Deluxe Pack: ex (A4b) #65",
+          "url": "/cards/a4b/65/flareon/",
+          "id": "a4b/65"
+        },
+        {
+          "type": "card",
+          "name": "Pheromosa Uncommon",
+          "full_name": "Pheromosa Uncommon - Deluxe Pack: ex (A4b) #46",
+          "url": "/cards/a4b/46/pheromosa/",
+          "id": "a4b/46"
+        },
+        {
+          "type": "card",
+          "name": "Kakuna Uncommon",
+          "full_name": "Kakuna Uncommon - Deluxe Pack: ex (A4b) #9",
+          "url": "/cards/a4b/9/kakuna/",
+          "id": "a4b/9"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Deluxe Pack: ex (A4b) #58",
+          "url": "/cards/a4b/58/charmeleon/",
+          "id": "a4b/58"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 29,
+      "items": [
+        {
+          "type": "card",
+          "name": "Greninja Rare",
+          "full_name": "Greninja Rare - Deluxe Pack: ex (A4b) #115",
+          "url": "/cards/a4b/115/greninja/",
+          "id": "a4b/115"
+        },
+        {
+          "type": "card",
+          "name": "Zeraora Rare",
+          "full_name": "Zeraora Rare - Deluxe Pack: ex (A4b) #150",
+          "url": "/cards/a4b/150/zeraora/",
+          "id": "a4b/150"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Deluxe Pack: ex (A4b) #58",
+          "url": "/cards/a4b/58/charmeleon/",
+          "id": "a4b/58"
+        },
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #74",
+          "url": "/cards/a4b/74/monferno/",
+          "id": "a4b/74"
+        },
+        {
+          "type": "card",
+          "name": "Manaphy Uncommon",
+          "full_name": "Manaphy Uncommon - Deluxe Pack: ex (A4b) #109",
+          "url": "/cards/a4b/109/manaphy/",
+          "id": "a4b/109"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    },
+    {
+      "type": "rare",
+      "percent": 29,
+      "items": [
+        {
+          "type": "card",
+          "name": "Flareon Rare",
+          "full_name": "Flareon Rare - Deluxe Pack: ex (A4b) #65",
+          "url": "/cards/a4b/65/flareon/",
+          "id": "a4b/65"
+        },
+        {
+          "type": "card",
+          "name": "Greninja Rare",
+          "full_name": "Greninja Rare - Deluxe Pack: ex (A4b) #115",
+          "url": "/cards/a4b/115/greninja/",
+          "id": "a4b/115"
+        },
+        {
+          "type": "card",
+          "name": "Kakuna Uncommon",
+          "full_name": "Kakuna Uncommon - Deluxe Pack: ex (A4b) #9",
+          "url": "/cards/a4b/9/kakuna/",
+          "id": "a4b/9"
+        },
+        {
+          "type": "card",
+          "name": "Charmeleon Uncommon",
+          "full_name": "Charmeleon Uncommon - Deluxe Pack: ex (A4b) #58",
+          "url": "/cards/a4b/58/charmeleon/",
+          "id": "a4b/58"
+        },
+        {
+          "type": "card",
+          "name": "Monferno Uncommon",
+          "full_name": "Monferno Uncommon - Deluxe Pack: ex (A4b) #74",
+          "url": "/cards/a4b/74/monferno/",
+          "id": "a4b/74"
+        }
+      ],
+      "cost": 2,
+      "cost_free": false
+    }
+  ],
+  "exclusive_flair": [],
+  "missions": [
+    {
+      "name": "Parallel Foil Mass Outbreak Event",
+      "period": "Oct 24 - Oct 30, 2025",
+      "missions": [
+        {
+          "description": "Wonder pick 3 times",
+          "rewards": [
+            {
+              "name": "2x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "2",
+              "type": "main"
+            },
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/3"
+        },
+        {
+          "description": "Wonder pick 5 times",
+          "rewards": [
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/5"
+        },
+        {
+          "description": "Collect 10 cards",
+          "rewards": [
+            {
+              "name": "3x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "3",
+              "type": "main"
+            },
+            {
+              "name": "2x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "2",
+              "type": "sub"
+            }
+          ],
+          "target": "0/10"
+        },
+        {
+          "description": "Collect 20 cards",
+          "rewards": [
+            {
+              "name": "5x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "5",
+              "type": "main"
+            },
+            {
+              "name": "3x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "3",
+              "type": "sub"
+            }
+          ],
+          "target": "0/20"
+        },
+        {
+          "description": "Collect 30 cards",
+          "rewards": [
+            {
+              "name": "7x Shop ticket",
+              "local_file": "Shop ticket.webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/Currency/SHOPTICKET.webp",
+              "amount": "7",
+              "type": "main"
+            },
+            {
+              "name": "4x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "4",
+              "type": "sub"
+            }
+          ],
+          "target": "0/30"
+        }
+      ]
+    }
+  ]
+}

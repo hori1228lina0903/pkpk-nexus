@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "promo-a#45"
+  ],
+  "名前": "Nosepass",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "60",
+  "タイプ": "fighting",
+  "弱点": "grass +20",
+  "にげる": 1,
+  "説明文": "It moves less than an inch a year, but when it’s in a jam, it will spin and drill down into the ground in a split second.",
+  "イラストレーター": "Tomokazu Komiya",
+  "収録セット": [
+    "Promo A"
+  ],
+  "入手方法": [
+    "イベント: Gible drop event"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fighting_Energy_Flair_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Rounded_Squares_Flair_Brown_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Iron Defense",
+      "ダメージ": "N/A",
+      "効果": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage done to this Pokémon by attacks.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Probopass ex,                                         Probopass"
+      ]
+    ]
+  },
+  "進化前": {}
+}

@@ -1,0 +1,63 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#34"
+  ],
+  "名前": "Poliwhirl",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "water",
+  "弱点": "Lightning",
+  "にげる": 1,
+  "説明文": "Its skin is moist all over its body. The skin on its belly spiral also feels smooth.",
+  "イラストレーター": "Atsuko Nishida",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Sunshine_Sparkles_Flair_Light_blue_Battle.webp",
+    "Bubbles_Flair_Light_blue_Cosmetic.webp",
+    "Circles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hit Twice",
+      "ダメージ": "30x",
+      "効果": "Flip 2 coins. This attack does 30 damage for each heads.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Politoed,                                         Poliwrath ex,                                         Poliwrath"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Poliwag"
+      ]
+    ]
+  }
+}

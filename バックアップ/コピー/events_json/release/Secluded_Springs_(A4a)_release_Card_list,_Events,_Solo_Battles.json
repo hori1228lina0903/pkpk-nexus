@@ -1,0 +1,508 @@
+{
+  "url": "https://www.pokemon-zone.com/events/secluded-springs-release/",
+  "title": "Secluded Springs (A4a) release: Card list, Events, Solo Battles",
+  "period": {
+    "text": "Aug 28",
+    "start_date": "2025-08-28"
+  },
+  "packs": [
+    {
+      "title": "Secluded Springs pack",
+      "link": "/sets/a4a/Secluded Springs pack.html",
+      "key_visual": "/images/packs/Secluded Springs pack.webp"
+    }
+  ],
+  "game_updates": [
+    "New solo step-up Battles (see below)",
+    "Cards from Wisdom of Sea and Sky (A4) become available for trading.",
+    "Minor revision to some features; text and design adjustments."
+  ],
+  "upcoming_events": [],
+  "shop_items": [
+    {
+      "title": "Secluded Springs (A4a) release - Secluded Springs",
+      "period": "Aug 28 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Suicune (emblem)",
+          "price": "100",
+          "currency": "TICKET_EMBLEM_A4a",
+          "currency_image": "Emblem Ticket (Secluded Springs).webp"
+        }
+      ]
+    },
+    {
+      "title": "Secluded Springs (A4a) release - Accessories",
+      "period": "Aug 28 - Dec 31, 3000",
+      "items": [
+        {
+          "name": "Secluded Springs: Suicune (cover)",
+          "price": "15",
+          "currency": "SHOPTICKET",
+          "currency_image": "Shop ticket.webp"
+        }
+      ]
+    }
+  ],
+  "gold_sets": [],
+  "solo_battles": [
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Beginner",
+      "period": "Aug 28 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Intermediate",
+      "period": "Aug 28 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fire-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Grass-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Lightning-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14",
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Darkness-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "title": "Step-Up Battle",
+      "difficulty": "Advanced",
+      "period": "Aug 28 - Dec 31, 3000",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Water-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Grass-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Darkness-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Lightning-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points",
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Lightning-type Pokémon",
+        "Do 0 or more damage in total to your opponent’s Pokémon with one attack",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    },
+    {
+      "title": "Expert Solo Battle",
+      "difficulty": "",
+      "period": "Aug 28 - Dec 31, 3000",
+      "tasks": [
+        "Win this battle with a deck whose Pokémon are only Fire type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Colorless type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Water type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage",
+        "Win this battle with a deck whose Pokémon are only Grass type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle without any Trainer cards included in your deck",
+        "Win this battle without your opponent getting any points",
+        "Get 12 or more points",
+        "Win this battle with a deck whose Pokémon are only Fighting type",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 12",
+        "Win this battle without your opponent getting any points",
+        "Deal 1,500 or more damage"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "name": "Secluded Springs (A4a) release",
+      "period": "Aug 28 - Dec 31, 3000",
+      "missions": [
+        {
+          "description": "Suicune and Pokémon of the Lakes",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Entei and Hot Spring Pokémon",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Raikou and Waterside Lightning-type Pokémon",
+          "rewards": [
+            {
+              "name": "10x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "10"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon and Waterfalls",
+          "rewards": [
+            {
+              "name": "6x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "6"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon and Underwater Ruins",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Jumpluff ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Archrivals",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Register 5 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "The Mystic Seer of the Future",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Jumpluff ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "The Incredibly Pretty Girl",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Entei ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Register 10 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Entei ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Register 15 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Telepathically Connected Pokémon",
+          "rewards": [
+            {
+              "name": "4x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "4"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Suicune ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Register 20 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Durant Working Together",
+          "rewards": [
+            {
+              "name": "12x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "12"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Suicune ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Register 25 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon that can Use Attacks Immediately",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Register 30 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Raikou ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Soaring Jumpluff",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Legends Racing Across the Land",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 35 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Raikou ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Secluded Springs Museum 1",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Latios & Latias Deck (Secluded Springs)"
+        },
+        {
+          "description": "Register 45 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Secluded Springs Museum 2",
+          "rewards": [
+            {
+              "name": "36x Wonder Hourglass",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ChallengePowerCharger/CHALLENGE_CHARGER_110030.webp",
+              "amount": "36"
+            }
+          ]
+        },
+        {
+          "description": "Register 55 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Latios & Latias Deck (Secluded Springs)"
+        },
+        {
+          "description": "Register 65 cards in the Card Dex",
+          "rewards": [
+            {
+              "name": "5x Emblem Ticket (Secluded Springs)",
+              "local_file": "Emblem Ticket (Secluded Springs).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/RewardTicket/TICKET_EMBLEM_A4a.webp",
+              "amount": "5"
+            }
+          ]
+        },
+        {
+          "description": "Pokémon that can Use Attacks Immediately 2",
+          "rewards": [
+            {
+              "name": "1x Mantyke (emblem)",
+              "local_file": "Mantyke (emblem).webp",
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Emblem/EMBLEM_100250_TAMANTA.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect the highlight card for Poliwrath ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Register all  −  cards in the card dex",
+          "rewards": [
+            {
+              "name": "1x Secluded Springs: Suicune (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100530_SUICUNE.webp",
+              "amount": "1"
+            }
+          ]
+        },
+        {
+          "description": "Collect cards for Poliwrath ex Deck (Secluded Springs)"
+        },
+        {
+          "description": "Collect 3 Igglybuff cards",
+          "rewards": [
+            {
+              "name": "1x Igglybuff (icon)",
+              "local_file": null,
+              "url": "https://assets.pokemon-zone.com/game-assets/UI/Textures/System/ItemIcons/ProfileDecoration/Icon/PROFILE_ICON_100540_PUPURIN.webp",
+              "amount": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

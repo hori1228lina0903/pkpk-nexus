@@ -1,0 +1,53 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b1a#55"
+  ],
+  "名前": "Ditto",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "60",
+  "タイプ": "colorless",
+  "弱点": "fighting +20",
+  "にげる": 1,
+  "説明文": "It can freely recombine its own cellular structure to transform into other life-forms.",
+  "イラストレーター": "Yuka Morii",
+  "収録セット": [
+    "Crimson Blaze"
+  ],
+  "入手方法": [
+    "パック: Crimson Blaze",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Shining_Star_Dust_Flair_Purple_Battle.webp",
+    "Poké_Ball_Flair_Cosmetic.webp",
+    "Heart_Outlines_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Copy a Friend",
+      "ダメージ": "N/A",
+      "効果": "Choose 1 of your Benched Pokémon’s attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn’t have the necessary Energy to use that attack, this attack does nothing.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "promo-b#12"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

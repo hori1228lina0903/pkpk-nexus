@@ -1,0 +1,59 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a3b#10",
+    "a4b#69"
+  ],
+  "名前": "Torkoal",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 2,
+  "説明文": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+  "イラストレーター": "sui",
+  "収録セット": [
+    "Eevee Grove",
+    "Deluxe Pack: ex"
+  ],
+  "入手方法": [
+    "パック: Deluxe Pack: ex",
+    "パック: Eevee Grove",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "ミッション: Reach player level 3 - Elite Deck Gift Missions",
+    "パック開封ポイント: 35"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Fire_Energy_Flair_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp",
+    "Puffs_Flair_White_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Flamethrower",
+      "ダメージ": "70",
+      "効果": "Discard a  Energy from this Pokémon.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "fire",
+        "fire"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#70"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,35 @@
+{
+  "カードの種類": "Trainer",
+  "カード番号": [
+    "a4a#68"
+  ],
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "N/A",
+  "名前": "Memory Light",
+  "イラストレーター": "Studio Bora Inc.",
+  "収録セット": [
+    "Secluded Springs"
+  ],
+  "入手方法": [
+    "パック: Secluded Springs",
+    "パック開封ポイント: 70"
+  ],
+  "分類": "Tool",
+  "カードの効果": {
+    "発動効果": "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+    "追加ルール": "N/A"
+  },
+  "エフェクト効果": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Small_Stars_Flair_Yellow_Cosmetic.webp",
+    "Diamonds_Flair_Orange_Cosmetic.webp"
+  ],
+  "Alternate Arts": [],
+  "進化先": {}
+}

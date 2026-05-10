@@ -1,0 +1,72 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2#227"
+  ],
+  "名前": "Kingdra ex",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 2
+  },
+  "HP": "170",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 1,
+  "説明文": "",
+  "イラストレーター": "PLANETA CG Works",
+  "収録セット": [
+    "Fantastical Parade"
+  ],
+  "入手方法": [
+    "パック: Fantastical Parade",
+    "パック開封ポイント: 1350"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": [
+    "ex"
+  ],
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Sunshine_Sparkles_Flair_Purple_Battle.webp",
+    "Star_Outlines_Flair_Purple_Battle.webp",
+    "Special_Shiny_Sparkles_Flair_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Stormy Prison",
+      "ダメージ": "90",
+      "効果": "During your opponent’s next turn, the Defending Pokémon can’t retreat.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "water",
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4#43"
+    },
+    {
+      "カード番号": "a4#188"
+    },
+    {
+      "カード番号": "a4#203"
+    },
+    {
+      "カード番号": "a4b#92"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "Stage 1",
+        "Seadra"
+      ]
+    ]
+  }
+}

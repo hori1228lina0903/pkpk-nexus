@@ -1,0 +1,60 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#160"
+  ],
+  "名前": "Flapple",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "90",
+  "タイプ": "grass",
+  "弱点": "Fire",
+  "にげる": 1,
+  "説明文": "It uses its own body fluid to repair its apple. Strong Flapple that have won many battles have apples that are clay colored all over.",
+  "イラストレーター": "Makura Tami",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Circles_Flair_Yellow_Battle.webp",
+    "Ink_Splatters_Flair_Red_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Big_Rings_Flair_Yellow-green_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Sour Spit",
+      "ダメージ": "40",
+      "効果": "During your opponent’s next turn, attacks used by the Defending Pokémon cost 1  more.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "grass"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b3#20"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Applin"
+      ]
+    ]
+  }
+}

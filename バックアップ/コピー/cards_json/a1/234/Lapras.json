@@ -1,0 +1,56 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#234"
+  ],
+  "名前": "Lapras",
+  "レア度": {
+    "rarity_types": [
+      "star"
+    ],
+    "count": 1
+  },
+  "HP": "100",
+  "タイプ": "water",
+  "弱点": "lightning +20",
+  "にげる": 2,
+  "説明文": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+  "イラストレーター": "Haru Akasaka",
+  "収録セット": [
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "パック開封ポイント: 400"
+  ],
+  "進化ステージ": "Basic",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp",
+    "Circles_Flair_Light_blue_Battle.webp",
+    "Snowflakes_Flair_Battle.webp",
+    "Bubbles_Flair_Light_blue_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Hydro Pump",
+      "ダメージ": "20+",
+      "効果": "If this Pokémon has at least 3 extra  Energy attached, this attack does 70 more damage.",
+      "エネルギーコスト": 1,
+      "エネルギータイプ": [
+        "water"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a1#79"
+    },
+    {
+      "カード番号": "a3b#94"
+    }
+  ],
+  "進化先": {},
+  "進化前": {}
+}

@@ -1,0 +1,75 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "a1#34",
+    "a4b#57"
+  ],
+  "名前": "Charmeleon",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "90",
+  "タイプ": "fire",
+  "弱点": "water +20",
+  "にげる": 2,
+  "説明文": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+  "イラストレーター": "kantaro",
+  "収録セット": [
+    "Deluxe Pack: ex",
+    "Genetic Apex"
+  ],
+  "入手方法": [
+    "パック: Charizard Pack",
+    "パック: Deluxe Pack: ex",
+    "イベント: Bonus Pick - Fire Type Pokemon Mass Outbreak",
+    "イベント: Bonus Pick - Parallel Foil Mass Outbreak Event",
+    "イベント: Rare Pick - Fire Type Pokemon Mass Outbreak",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Twinkles_Flair_Gold_Cosmetic.webp",
+    "Flame_Trail_Flair_Orange_Cosmetic.webp",
+    "Star_Outlines_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Fire Claws",
+      "ダメージ": "60",
+      "効果": "N/A",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "fire",
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "a4b#58"
+    }
+  ],
+  "進化先": {
+    "0": [
+      [
+        "Stage 2",
+        "Charizard,                                         Mega Charizard Y ex,                                         Charizard ex"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "Basic",
+        "Charmander"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b2b#107"
+  ],
+  "名前": "Dragonite",
+  "レア度": {
+    "rarity_types": [
+      "shiny"
+    ],
+    "count": 1
+  },
+  "HP": "150",
+  "タイプ": "dragon",
+  "弱点": "none",
+  "にげる": 3,
+  "説明文": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+  "イラストレーター": "Souichirou Gunjima",
+  "収録セット": [
+    "Mega Shine"
+  ],
+  "入手方法": [
+    "パック: Mega Shine",
+    "パック開封ポイント: 1000"
+  ],
+  "進化ステージ": "Stage 2",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Shiny_Sparkles_Flair_Battle.webp",
+    "Sunshine_Sparkles_Flair_Yellow_Battle.webp",
+    "Spinning_Rings_Flair_Yellow_Battle.webp",
+    "Tiny_Twinkles_Flair_Yellow_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Dragon Wave",
+      "ダメージ": "150",
+      "効果": "Discard a  and a  Energy from this Pokémon.",
+      "エネルギーコスト": 3,
+      "エネルギータイプ": [
+        "water",
+        "lightning",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [
+    {
+      "カード番号": "b2b#53"
+    }
+  ],
+  "進化先": {},
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Dragonair"
+      ]
+    ]
+  }
+}

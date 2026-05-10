@@ -1,0 +1,64 @@
+{
+  "カードの種類": "Pokémon",
+  "カード番号": [
+    "b3#64"
+  ],
+  "名前": "Kirlia",
+  "レア度": {
+    "rarity_types": [
+      "diamond"
+    ],
+    "count": 2
+  },
+  "HP": "80",
+  "タイプ": "psychic",
+  "弱点": "Darkness",
+  "にげる": 1,
+  "説明文": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+  "イラストレーター": "Naoyo Kimura",
+  "収録セット": [
+    "Pulsing Aura"
+  ],
+  "入手方法": [
+    "パック: Pulsing Aura",
+    "パック開封ポイント: 70"
+  ],
+  "進化ステージ": "Stage 1",
+  "特別ルール": null,
+  "エフェクト一覧": [
+    "Sparkles_Flair_Gold_Cosmetic.webp",
+    "Spinning_Rings_Flair_Purple_Battle.webp",
+    "Digital_Squares_Flair_Purple_Cosmetic.webp",
+    "Bright_Stars_Flair_Pink_Battle.webp"
+  ],
+  "特性": [],
+  "ワザ": [
+    {
+      "名前": "Double Spin",
+      "ダメージ": "30x",
+      "効果": "Flip 2 coins. This attack does 30 damage for each heads.",
+      "エネルギーコスト": 2,
+      "エネルギータイプ": [
+        "colorless",
+        "colorless"
+      ]
+    }
+  ],
+  "Alternate Arts": [],
+  "進化先": {
+    "0": [
+      [
+        "Stage 1",
+        "Gallade ex,                                         Mega Gardevoir ex,                                         Gallade,                                         Gardevoir"
+      ]
+    ]
+  },
+  "進化前": {
+    "0": [
+      [
+        "進化",
+        "Ralts"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.pokemon-zone.com/events/raichu-ex-drop-event/",
+  "title": "Raichu ex Drop event",
+  "period": {
+    "text": "Oct 6 - Oct 16",
+    "start_date": "2025-10-06",
+    "end_date": "2025-10-16"
+  },
+  "promo_pack": {
+    "name": "Promo Pack A Series Vol. 13",
+    "cards": [
+      {
+        "name": "Raichu ex",
+        "url": "/cards/promo-a/112/raichu-ex/"
+      },
+      {
+        "name": "Regigigas",
+        "url": "/cards/promo-a/115/regigigas/"
+      },
+      {
+        "name": "Machamp",
+        "url": "/cards/promo-a/114/machamp/"
+      },
+      {
+        "name": "Pikachu",
+        "url": "/cards/promo-a/111/pikachu/"
+      },
+      {
+        "name": "Mimikyu",
+        "url": "/cards/promo-a/113/mimikyu/"
+      }
+    ]
+  },
+  "battles": [
+    {
+      "difficulty": "Beginner",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 1 time with an attack from a Fighting-type Pokémon",
+        "Put 3 Basic Pokémon into play"
+      ]
+    },
+    {
+      "difficulty": "Intermediate",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Put a Stage 1 Pokémon into play",
+        "Win this battle by turn 14"
+      ]
+    },
+    {
+      "difficulty": "Advanced",
+      "deck_type": "Unknown",
+      "tasks": [
+        "Knock Out your opponent’s Active Pokémon 2 times with an attack from a Fighting-type Pokémon",
+        "Win this battle using a deck where all the Pokémon cards are of , , and/or  rarity",
+        "Win this battle by turn 14",
+        "Win this battle without your opponent getting any points"
+      ]
+    }
+  ]
+}
