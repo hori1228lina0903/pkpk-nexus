@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Triumphant Light (A2a) release</title>
+  <link rel="stylesheet" href="/styles/header-footer.css">
+  <link rel="stylesheet" href="/styles/base.css">
+  <link rel="stylesheet" href="/styles/tooltip.css">
+  <link rel="stylesheet" href="/styles/release.css">
+</head>
+<body class="page-body">
+  <div id="header"></div>
+  <nav class="breadcrumbs">
+    <a href="/">Top</a>
+    <a href="/Events.html">Events</a>
+    <a href="/events/release/Triumphant Light (A2a) release.html">Triumphant Light (A2a) release</a>
+  </nav>
+  <main class="page-main">
+    <div class="section">
+      <h1 class="main-title">Triumphant Light (A2a) release</h1>
+    </div>
+    <img src="/images/events/release/Triumphant Light (A2a) release.webp" alt="Triumphant Light (A2a) release" class="hero_image">
+    <div class="event-row">
+      <div class="label">Release date</div>
+      <div class="date">Feb 28, 2025 - Ongoing</div>
+    </div>
+    <div class="intro">
+      <p><strong>Triumphant Light (A2a) release</strong> is now available! This expansion introduces new ex cards and exclusive rewards.</p>
+<p>New cards from this set can be obtained by opening Triumphant Light (A2a) booster packs. Complete missions to earn Emblem Tickets and special items!</p>
+    </div>
+    
+    <!-- 目玉カード -->
+    <div class="featured-packs">
+
+      <a href="/sets/a2a/Arceus Pack.html">
+        <img src="/images/packs/Arceus Pack.webp" alt="Triumphant Light pack" class="featured-pack">
+      </a>
+    </div>
+
+
+    <!-- New shop items -->
+    <div class="section">
+      <div class="content">
+        <div class="subheading">
+          <h2>New shop items</h2>
+        </div>
+        <div class="event-row">
+          <div class="label">Release date</div>
+          <div class="date">Feb 28, 2025 - Ongoing</div>
+        </div>
+        <div class="intro">
+          <p>New emblems that can be purchased with Emblem Tickets have been added. Emblem Tickets are obtained as mission rewards.</p>
+          <p>Additionally, a cover binder themed after this series has been added to the Shop menu. This binder can be purchased with Shop Tickets.</p>
+        </div>
+
+        <div class="accessory-grid">
+
+          <div class="item">
+            <div class="tooltip">
+              <img src="/images/emblem/Arceus (emblem).webp" alt="Arceus (emblem)" onerror="this.src='/images/placeholder.webp'">
+              <span class="tooltiptext">Arceus (emblem)</span>
+            </div>
+            <div class="Shop-Ticket">
+              <img src="/images/tickets/Emblem Ticket (Triumphant Light).webp" alt="Ticket">
+              <span>100</span>
+            </div>
+          </div>
+          <div class="item">
+            <div class="tooltip">
+              <img src="/images/accessories/covers/Triumphant_Light_Arceus_cover.webp" alt="Triumphant Light: Arceus (cover)" onerror="this.src='/images/placeholder.webp'">
+              <span class="tooltiptext">Triumphant Light: Arceus (cover)</span>
+            </div>
+            <div class="Shop-Ticket">
+              <img src="/images/tickets/Shop ticket.webp" alt="Ticket">
+              <span>15</span>
+            </div>
+          </div>
+          <div class="item">
+            <div class="tooltip">
+              <img src="/images/accessories/backdrops/Full-Bloom_Sakura_backdrop.webp" alt="Full-Bloom Sakura (backdrop)" onerror="this.src='/images/placeholder.webp'">
+              <span class="tooltiptext">Full-Bloom Sakura (backdrop)</span>
+            </div>
+            <div class="Shop-Ticket">
+              <img src="/images/tickets/Shop ticket.webp" alt="Ticket">
+              <span>50</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Dex Missions (動的読み込み) -->
+    <div class="section">
+      <div class="content">
+        <div class="subheading">
+          <h2>Dex Missions</h2>
+        </div>
+        
+        <!-- キービジュアル -->
+        <img src="/images/missions/dex_missions/Triumphant Light (A2a).webp" alt="Triumphant Light Dex mission" class="hero_image" onerror="this.style.display='none'">
+        
+        <div class="event-row">
+          <div class="label">Release date</div>
+          <div class="date">Feb 28, 2025 - Ongoing</div>
+        </div>
+        <div class="intro">
+          <p>Clear these missions to earn Emblem Tickets and exclusive Emblem!</p>
+        </div>
+        <div id="mission-container" 
+             class="mission-group" 
+             data-dex-path="/data/dex_missions/Triumphant Light Dex Missions.json">
+          <div class="loading">Loading missions...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Themed Collections (動的読み込み) -->
+    <div class="section">
+      <div class="content">
+        <div class="subheading">
+          <h2>Themed Collections</h2>
+        </div>
+        
+        <!-- キービジュアル -->
+        <img src="/images/missions/themed_collections/Triumphant Light (A2a).webp" alt="Triumphant Light Themed Collection" class="hero_image" onerror="this.style.display='none'">
+        
+        <div class="event-row">
+          <div class="label">Release date</div>
+          <div class="date">Feb 28, 2025 - Ongoing</div>
+        </div>
+        <div class="intro">
+          <p>Complete these missions to earn Emblem Tickets, Wonder Hourglasses, and exclusive Emblem!</p>
+        </div>
+        <div id="themed-collections-container" 
+             class="mission-group" 
+             data-collections-path="/data/themed_collections/Triumphant Light Themed Collections.json">
+          <div class="loading">Loading themed collections...</div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <div id="footer"></div>
+  <script id="missions-config" type="application/json">
+{
+  "rewardImages": {
+    "Arceus (emblem)": "/images/emblem/Arceus (emblem).webp",
+    "Triumphant Light: Arceus (cover)": "/images/accessories/covers/Triumphant_Light_Arceus_cover.webp",
+    "Full-Bloom Sakura (backdrop)": "/images/accessories/backdrops/Full-Bloom_Sakura_backdrop.webp",
+    "Emblem Ticket": "/images/tickets/Emblem Ticket (Triumphant Light).webp",
+    "Wonder Hourglass": "/images/items/Wonder Hourglass.webp",
+    "Pack Hourglass": "/images/items/Pack Hourglass.webp",
+    "Shop Ticket": "/images/tickets/Shop ticket.webp"
+  }
+}
+  </script>
+  <script src="/js/header-footer-load.js"></script>
+  <script src="/js/tooltip.js"></script>
+  <script src="/js/release-missions.js"></script>
+</body>
+</html>
