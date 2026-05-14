@@ -232,3 +232,21 @@ body {
   right: 20px;
   z-index: 1100;
 }
+
+/* フッターロゴ */
+.footer-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 1em;
+}
+
+.footer-logo img {
+  height: 50px;
+  width: auto;
+}
+
+.footer-logo strong {
+  font-size: 1.1em;
+}

@@ -166,3 +166,36 @@ body {
   color: #666;
   font-size: 0.9rem;
 }
+
+.event-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 93%;
+  margin: 5px auto;
+  border: 1px solid #d0d0d0;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.label {
+  color: #333;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  padding: 0 0.8rem;
+  background: #F57C00;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  padding: 0 1.2rem;
+  color: #333;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
