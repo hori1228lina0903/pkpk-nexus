@@ -237,17 +237,6 @@
   padding-bottom: 0px; 
 }
 
-/* 説明文（カードのすぐ下） */
-.substitution-desc {
-  width: 100%;
-  text-align: left;
-  font-size: 0.95em;
-  color: #333;
-  line-height: 1.4;
-  /* 点線を削除 */
-  border-top: none; 
-}
-
 /* 矢印のサイズ */
 .substitution-arrow {
   font-size: 32px;
