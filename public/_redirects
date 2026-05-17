@@ -1,0 +1,2 @@
+# /common/ 以下の .html ファイルへのアクセスは、何もせずにそのファイルを表示する
+/common/*.html /common/:splat.html 200
