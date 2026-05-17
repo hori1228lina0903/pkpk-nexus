@@ -1,0 +1,29 @@
+<footer style="padding: 2em 1em; text-align: center; font-size: 0.9em; color: #555;">
+  
+  <div class="footer-nav" style="margin-bottom: 1em;">
+    <a href="/privacy_policy.html" style="margin: 0 10px;">Privacy Policy</a>
+    |
+    <a href="/about.html" style="margin: 0 10px;">About</a>
+  </div>
+
+  <div class="footer-logo">
+    <img src="/images/icon/pkpk-nexus-logo.webp" alt="PKPK Nexus Icon">
+    <strong>PKPK Nexus</strong>
+  </div>
+
+  <div class="footer-disclaimer" style="max-width: 600px; margin: 0 auto 1em;">
+    <p>
+      This website is an unofficial fan site for Poképoké.<br>
+      All trademarks, game content, and images belong to their respective owners.
+    </p>
+    <p>
+      This site is available in English only.
+    </p>
+  </div>
+
+  <div class="footer-copy">
+    <p>
+      © 2026 PKPK Nexus. All rights reserved.
+    </p>
+  </div>
+</footer>
