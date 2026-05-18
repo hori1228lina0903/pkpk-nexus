@@ -82,6 +82,11 @@
   ],
   "B": [
     {
+      "name": "Mega Blaziken ex",
+      "image": "/images/deck_images/Mega Blaziken ex.webp",
+      "link": "/decks/Mega_Blaziken_ex_deck.html"
+    },
+    {
       "name": "Mega Absol ex",
       "image": "/images/deck_images/Mega Absol ex.webp",
       "link": "/decks/Mega_Absol_ex_deck.html"
@@ -147,11 +152,6 @@
       "name": "Mega Venusaur ex",
       "image": "/images/deck_images/Mega Venusaur ex.webp",
       "link": "/decks/Mega_Venusaur_ex_deck.html"
-    },
-    {
-      "name": "Mega Blaziken ex",
-      "image": "/images/deck_images/Mega Blaziken ex.webp",
-      "link": "/decks/Mega_Blaziken_ex_deck.html"
     },
     {
       "name": "Gholdengo ex",

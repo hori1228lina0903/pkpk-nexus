@@ -516,3 +516,25 @@ a {
   word-break: break-word;
   color: #333;
 }
+
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 7px;
+  margin: 10px auto;
+  width: 97%;
+}
+
+.guide-card {
+  display: block;
+  background: #fff;
+  padding: 14px 0;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+}
