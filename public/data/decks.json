@@ -82,6 +82,11 @@
   ],
   "B": [
     {
+      "name": "Flygon ex",
+      "image": "/images/deck_images/Flygon ex.webp",
+      "link": "/decks/Flygon_ex_deck.html"
+    },
+    {
       "name": "Mega Blaziken ex",
       "image": "/images/deck_images/Mega Blaziken ex.webp",
       "link": "/decks/Mega_Blaziken_ex_deck.html"
@@ -95,16 +100,6 @@
       "name": "Greninja",
       "image": "/images/deck_images/Greninja.webp",
       "link": "/decks/Greninja_deck.html"
-    },
-    {
-      "name": "Mega Steelix ex",
-      "image": "/images/deck_images/Mega Steelix ex.webp",
-      "link": "/decks/Mega_Steelix_ex_deck.html"
-    },
-    {
-      "name": "Mega Charizard Y ex",
-      "image": "/images/deck_images/Mega Charizard Y ex.webp",
-      "link": "/decks/Mega_Charizard_Y_ex_deck.html"
     },
     {
       "name": "Meowscarada ex",
@@ -133,6 +128,16 @@
     }
   ],
   "C": [
+        {
+      "name": "Mega Steelix ex",
+      "image": "/images/deck_images/Mega Steelix ex.webp",
+      "link": "/decks/Mega_Steelix_ex_deck.html"
+    },
+    {
+      "name": "Mega Charizard Y ex",
+      "image": "/images/deck_images/Mega Charizard Y ex.webp",
+      "link": "/decks/Mega_Charizard_Y_ex_deck.html"
+    },
     {
       "name": "Mega Scizor ex",
       "image": "/images/deck_images/Mega Scizor ex.webp",
